@@ -46,6 +46,10 @@
 - [ ] Performance test (target <3s load time)
 - [ ] Set up Google Analytics / Search Console
 - [ ] Final content review
+- [ ] Create a logo for the website
+- [ ] Update favicon for the website
+- [ ] Write and publish Accessibility Statement page (הצהרת נגישות)
+- [ ] Accessibility validation — run audit and fix WCAG 2.1 AA issues
 - [ ] Launch
 
 ## Phase 6 — Monetization (future)
