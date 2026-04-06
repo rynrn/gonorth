@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "wordpress-mcp": {
+      "command": "npx",
+      "args": ["-y", "@automattic/mcp-wordpress-remote@latest"],
+      "env": {
+        "WP_API_URL": "https://gonorth.co.il/wp-json/mcp/mcp-adapter-default-server",
+        "WP_API_USERNAME": "rynrn",
+        "WP_API_PASSWORD": "fALc 6wqz QTvw xVKA D4ng 3mGU"
+      }
+    }
+  }
+}

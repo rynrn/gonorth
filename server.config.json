@@ -1,0 +1,17 @@
+{
+  "ssh": {
+    "host": "204.168.145.116",
+    "user": "claude",
+    "password": "rtPPLureEeQ998WW6UYEr",
+    "key": "/Users/navisror/.ssh/gonorth_rsa",
+    "alias": "gonorth",
+    "command": "ssh -i /Users/navisror/.ssh/gonorth_rsa -o StrictHostKeyChecking=no claude@204.168.145.116"
+  },
+  "wordpress": {
+    "path": "/var/www/gonorth",
+    "config": "/var/www/gonorth/wp-config.php",
+    "themes": "/var/www/gonorth/wp-content/themes",
+    "plugins": "/var/www/gonorth/wp-content/plugins",
+    "uploads": "/var/www/gonorth/wp-content/uploads"
+  }
+}

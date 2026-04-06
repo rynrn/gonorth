@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "gonorth-mockups",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["mockups/server.js"],
+      "port": 3456
+    }
+  ]
+}

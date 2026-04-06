@@ -1,0 +1,1247 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>gonorth.co.il — Mockups</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --green:   #2D6A4F;
+      --green-light: #3a8463;
+      --blue:    #48CAE4;
+      --sand:    #F4A261;
+      --brown:   #6B4226;
+      --bg:      #F8F5F0;
+      --text:    #1A1A1A;
+      --yellow:  #E9C46A;
+      --white:   #ffffff;
+      --gray:    #f0ede8;
+      --gray2:   #e0dbd3;
+      --muted:   #7a7067;
+    }
+
+    body {
+      font-family: 'Heebo', sans-serif;
+      background: #2a2a2a;
+      color: var(--text);
+      direction: rtl;
+    }
+
+    /* ─── NAV ─── */
+    .mockup-nav {
+      position: fixed; top: 0; right: 0; left: 0; z-index: 1000;
+      background: #1a1a1a;
+      display: flex; align-items: center; gap: 8px;
+      padding: 10px 20px;
+      font-family: 'Heebo', sans-serif;
+    }
+    .mockup-nav span { color: #888; font-size: 13px; }
+    .mockup-nav button {
+      background: #333; border: 1px solid #555; color: #ccc;
+      padding: 6px 14px; border-radius: 6px; cursor: pointer;
+      font-family: 'Heebo', sans-serif; font-size: 13px;
+      transition: all .2s;
+    }
+    .mockup-nav button:hover, .mockup-nav button.active {
+      background: var(--green); border-color: var(--green); color: white;
+    }
+    .mockup-nav .device-btns { margin-right: auto; display: flex; gap: 6px; }
+    .mockup-nav .device-btns button { padding: 5px 10px; font-size: 12px; }
+
+    /* ─── FRAME ─── */
+    .mockup-stage {
+      margin-top: 52px;
+      display: flex; justify-content: center; align-items: flex-start;
+      padding: 24px;
+      min-height: calc(100vh - 52px);
+    }
+    .mockup-frame {
+      background: white;
+      width: 100%;
+      max-width: 1280px;
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 8px 48px rgba(0,0,0,0.4);
+      transition: max-width .3s;
+    }
+    .mockup-frame.tablet  { max-width: 768px; }
+    .mockup-frame.mobile  { max-width: 390px; }
+
+    /* ─── PAGES ─── */
+    .page { display: none; }
+    .page.active { display: block; }
+
+    /* ════════════════════════════════
+       SITE HEADER / NAV BAR
+    ════════════════════════════════ */
+    .site-header {
+      background: white;
+      border-bottom: 1px solid var(--gray2);
+      position: sticky; top: 0; z-index: 100;
+    }
+    .site-header .inner {
+      max-width: 1200px; margin: 0 auto;
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 14px 24px;
+    }
+    .site-logo {
+      display: flex; align-items: center; gap: 10px; text-decoration: none;
+    }
+    .logo-icon {
+      width: 40px; height: 40px; background: var(--green);
+      border-radius: 10px; display: flex; align-items: center; justify-content: center;
+    }
+    .logo-icon svg { width: 22px; height: 22px; fill: white; }
+    .logo-text { display: flex; flex-direction: column; line-height: 1.1; }
+    .logo-text strong { font-size: 1.2rem; font-weight: 800; color: var(--green); }
+    .logo-text span { font-size: 0.7rem; color: var(--muted); font-weight: 400; }
+    .site-nav { display: flex; gap: 6px; align-items: center; }
+    .site-nav a {
+      text-decoration: none; color: var(--text); font-size: 0.9rem; font-weight: 500;
+      padding: 8px 14px; border-radius: 8px; transition: all .2s;
+    }
+    .site-nav a:hover { background: var(--bg); color: var(--green); }
+    .site-nav .btn-add {
+      background: var(--green); color: white; border-radius: 8px;
+      padding: 8px 18px; font-weight: 600; font-size: 0.85rem;
+    }
+    .site-nav .btn-add:hover { background: var(--green-light); color: white; }
+
+    /* ════════════════════════════════
+       HOMEPAGE
+    ════════════════════════════════ */
+
+    /* Hero */
+    .hero {
+      position: relative; min-height: 560px;
+      display: flex; align-items: center;
+      overflow: hidden;
+      background: linear-gradient(135deg, #1a3a2a 0%, #2D6A4F 50%, #1a4a6a 100%);
+    }
+    .hero-bg {
+      position: absolute; inset: 0;
+      background:
+        radial-gradient(ellipse at 20% 50%, rgba(72,202,228,0.15) 0%, transparent 60%),
+        radial-gradient(ellipse at 80% 20%, rgba(233,196,106,0.1) 0%, transparent 50%);
+    }
+    /* Nature illustration elements */
+    .hero-mountains {
+      position: absolute; bottom: 0; right: 0; left: 0; height: 200px;
+      background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1440 200'%3E%3Cpath d='M0,200 L0,120 L180,60 L360,100 L540,20 L720,80 L900,30 L1080,90 L1260,50 L1440,110 L1440,200 Z' fill='rgba(255,255,255,0.06)'/%3E%3Cpath d='M0,200 L0,150 L120,100 L280,130 L440,80 L600,120 L760,70 L920,110 L1100,75 L1280,115 L1440,90 L1440,200 Z' fill='rgba(255,255,255,0.04)'/%3E%3C/svg%3E") no-repeat bottom center;
+      background-size: cover;
+    }
+    .hero-content {
+      position: relative; max-width: 1200px; margin: 0 auto;
+      padding: 60px 24px; width: 100%;
+    }
+    .hero-badge {
+      display: inline-flex; align-items: center; gap: 6px;
+      background: rgba(255,255,255,0.12); backdrop-filter: blur(8px);
+      border: 1px solid rgba(255,255,255,0.2);
+      color: rgba(255,255,255,0.9); border-radius: 50px;
+      padding: 6px 16px; font-size: 0.8rem; margin-bottom: 20px;
+    }
+    .hero-badge::before { content: "🌿"; }
+    .hero h1 {
+      font-size: clamp(2.2rem, 5vw, 3.8rem);
+      font-weight: 900; color: white;
+      line-height: 1.15; margin-bottom: 18px;
+      text-shadow: 0 2px 20px rgba(0,0,0,0.3);
+    }
+    .hero h1 span { color: var(--yellow); }
+    .hero p {
+      font-size: 1.1rem; color: rgba(255,255,255,0.8);
+      max-width: 520px; line-height: 1.7; margin-bottom: 32px;
+    }
+
+    /* Search bar */
+    .hero-search {
+      background: white; border-radius: 14px;
+      padding: 8px; display: flex; gap: 8px;
+      max-width: 620px; box-shadow: 0 8px 32px rgba(0,0,0,0.25);
+    }
+    .hero-search select, .hero-search input {
+      border: none; outline: none; background: var(--bg);
+      border-radius: 8px; padding: 12px 16px;
+      font-family: 'Heebo', sans-serif; font-size: 0.9rem; color: var(--text);
+      direction: rtl;
+    }
+    .hero-search select { min-width: 140px; cursor: pointer; }
+    .hero-search input { flex: 1; }
+    .hero-search button {
+      background: var(--green); color: white; border: none;
+      border-radius: 8px; padding: 12px 24px; font-weight: 700;
+      font-family: 'Heebo', sans-serif; font-size: 0.9rem; cursor: pointer;
+      white-space: nowrap; transition: background .2s;
+    }
+    .hero-search button:hover { background: var(--green-light); }
+    .hero-stats {
+      display: flex; gap: 28px; margin-top: 28px;
+    }
+    .hero-stat { color: rgba(255,255,255,0.8); font-size: 0.85rem; }
+    .hero-stat strong { color: white; font-size: 1.2rem; font-weight: 800; display: block; }
+
+    /* Categories */
+    .categories-section {
+      background: white; padding: 48px 24px;
+      border-bottom: 1px solid var(--gray2);
+    }
+    .section-header {
+      max-width: 1200px; margin: 0 auto 32px;
+      display: flex; align-items: center; justify-content: space-between;
+    }
+    .section-title { font-size: 1.5rem; font-weight: 800; color: var(--text); }
+    .section-title span { color: var(--green); }
+    .section-link { color: var(--green); text-decoration: none; font-size: 0.9rem; font-weight: 600; }
+    .cats-grid {
+      max-width: 1200px; margin: 0 auto;
+      display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px;
+    }
+    .cat-card {
+      border-radius: 16px; overflow: hidden; cursor: pointer;
+      position: relative; aspect-ratio: 3/2;
+      transition: transform .2s, box-shadow .2s;
+    }
+    .cat-card:hover { transform: translateY(-4px); box-shadow: 0 12px 32px rgba(0,0,0,0.15); }
+    .cat-card .cat-bg {
+      position: absolute; inset: 0;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 3.5rem;
+    }
+    .cat-card.c1 .cat-bg { background: linear-gradient(135deg, #2D6A4F, #40916c); }
+    .cat-card.c2 .cat-bg { background: linear-gradient(135deg, #264653, #2a9d8f); }
+    .cat-card.c3 .cat-bg { background: linear-gradient(135deg, #c1440e, #e76f51); }
+    .cat-card.c4 .cat-bg { background: linear-gradient(135deg, #6B4226, #a0522d); }
+    .cat-overlay {
+      position: absolute; inset: 0;
+      background: linear-gradient(to top, rgba(0,0,0,0.65), transparent 60%);
+      display: flex; flex-direction: column; justify-content: flex-end;
+      padding: 16px;
+    }
+    .cat-overlay h3 { color: white; font-size: 1rem; font-weight: 700; }
+    .cat-overlay span { color: rgba(255,255,255,0.7); font-size: 0.78rem; }
+
+    /* Featured listings */
+    .listings-section { background: var(--bg); padding: 48px 24px; }
+    .cards-grid {
+      max-width: 1200px; margin: 0 auto;
+      display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;
+    }
+    .listing-card {
+      background: white; border-radius: 14px; overflow: hidden;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.07);
+      transition: transform .2s, box-shadow .2s; cursor: pointer;
+    }
+    .listing-card:hover { transform: translateY(-4px); box-shadow: 0 10px 28px rgba(0,0,0,0.12); }
+    .card-img {
+      aspect-ratio: 16/10; position: relative;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 4rem;
+    }
+    .card-img.ci1 { background: linear-gradient(135deg, #b7e4c7, #74c69d); }
+    .card-img.ci2 { background: linear-gradient(135deg, #ade8f4, #48cae4); }
+    .card-img.ci3 { background: linear-gradient(135deg, #ffb347, #f4a261); }
+    .card-img.ci4 { background: linear-gradient(135deg, #d4a373, #ccd5ae); }
+    .card-img.ci5 { background: linear-gradient(135deg, #a8dadc, #457b9d); }
+    .card-img.ci6 { background: linear-gradient(135deg, #e9c46a, #f4a261); }
+    .card-badge {
+      position: absolute; top: 12px; right: 12px;
+      background: var(--green); color: white;
+      padding: 4px 12px; border-radius: 20px; font-size: 0.75rem; font-weight: 600;
+    }
+    .card-badge.featured {
+      background: var(--yellow); color: var(--text);
+      right: auto; left: 12px;
+    }
+    .card-body { padding: 16px; }
+    .card-body h3 { font-size: 1rem; font-weight: 700; margin-bottom: 4px; color: var(--text); }
+    .card-location { font-size: 0.8rem; color: var(--muted); margin-bottom: 10px; }
+    .card-location::before { content: "📍 "; }
+    .card-desc { font-size: 0.85rem; color: #555; line-height: 1.6; margin-bottom: 12px; }
+    .card-footer {
+      display: flex; justify-content: space-between; align-items: center;
+      border-top: 1px solid var(--gray); padding-top: 12px;
+    }
+    .card-rating { font-size: 0.82rem; color: var(--muted); }
+    .card-rating span { color: #f4c542; }
+    .card-link {
+      color: var(--green); font-size: 0.82rem; font-weight: 700;
+      text-decoration: none;
+    }
+
+    /* Map CTA */
+    .map-cta {
+      background: var(--green); padding: 56px 24px;
+      display: flex; align-items: center; justify-content: center;
+    }
+    .map-cta-inner {
+      max-width: 1200px; width: 100%;
+      display: grid; grid-template-columns: 1fr 1fr; gap: 48px; align-items: center;
+    }
+    .map-cta-text h2 { color: white; font-size: 2rem; font-weight: 800; margin-bottom: 12px; }
+    .map-cta-text p { color: rgba(255,255,255,0.8); line-height: 1.7; margin-bottom: 24px; }
+    .btn-white {
+      background: white; color: var(--green);
+      padding: 12px 28px; border-radius: 10px; font-weight: 700;
+      text-decoration: none; display: inline-block; font-size: 0.95rem;
+    }
+    .map-preview {
+      background: rgba(255,255,255,0.1); border-radius: 16px;
+      aspect-ratio: 4/3; display: flex; align-items: center; justify-content: center;
+      border: 2px dashed rgba(255,255,255,0.3); position: relative; overflow: hidden;
+    }
+    .map-preview-inner { text-align: center; color: rgba(255,255,255,0.7); }
+    .map-preview-inner p { font-size: 0.85rem; margin-top: 8px; }
+    /* Map pins decoration */
+    .map-pin {
+      position: absolute; width: 12px; height: 12px;
+      background: var(--yellow); border-radius: 50% 50% 50% 0;
+      transform: rotate(-45deg); border: 2px solid white;
+    }
+    .map-pin::after {
+      content: ''; position: absolute; width: 6px; height: 6px;
+      background: white; border-radius: 50%;
+      top: 50%; left: 50%; transform: translate(-50%, -50%);
+    }
+
+    /* Blog section */
+    .blog-section { background: white; padding: 48px 24px; }
+    .blog-grid {
+      max-width: 1200px; margin: 0 auto;
+      display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 20px;
+    }
+    .blog-card { cursor: pointer; }
+    .blog-card .blog-img {
+      border-radius: 12px; aspect-ratio: 16/9;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 3rem; margin-bottom: 14px;
+    }
+    .blog-card.featured .blog-img { aspect-ratio: 16/10; font-size: 5rem; }
+    .blog-img.bi1 { background: linear-gradient(135deg, #74c69d, #40916c); }
+    .blog-img.bi2 { background: linear-gradient(135deg, #ade8f4, #0096c7); }
+    .blog-img.bi3 { background: linear-gradient(135deg, #ffd166, #f4a261); }
+    .blog-img.bi4 { background: linear-gradient(135deg, #b7b7a4, #6b705c); }
+    .blog-cat {
+      font-size: 0.75rem; font-weight: 700; color: var(--green);
+      text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 6px;
+    }
+    .blog-card h3 {
+      font-size: 1rem; font-weight: 700; line-height: 1.4;
+      color: var(--text); margin-bottom: 6px;
+    }
+    .blog-card.featured h3 { font-size: 1.25rem; }
+    .blog-meta { font-size: 0.78rem; color: var(--muted); }
+
+    /* ════════════════════════════════
+       LISTINGS PAGE
+    ════════════════════════════════ */
+    .listings-page { background: var(--bg); }
+    .listings-hero {
+      background: linear-gradient(135deg, #1a3a2a, #2D6A4F);
+      padding: 40px 24px;
+    }
+    .listings-hero .inner { max-width: 1200px; margin: 0 auto; }
+    .listings-hero h1 { color: white; font-size: 1.8rem; font-weight: 800; margin-bottom: 6px; }
+    .listings-hero p { color: rgba(255,255,255,0.7); font-size: 0.9rem; margin-bottom: 20px; }
+    .filter-bar {
+      background: white; border-radius: 12px; padding: 8px;
+      display: flex; gap: 8px; flex-wrap: wrap;
+    }
+    .filter-bar select, .filter-bar input {
+      border: 1px solid var(--gray2); background: var(--bg);
+      border-radius: 8px; padding: 9px 14px;
+      font-family: 'Heebo', sans-serif; font-size: 0.85rem;
+      direction: rtl; outline: none; color: var(--text);
+    }
+    .filter-bar select { min-width: 130px; }
+    .filter-bar input { flex: 1; min-width: 150px; }
+    .filter-bar button {
+      background: var(--green); color: white; border: none;
+      border-radius: 8px; padding: 9px 22px; font-weight: 700;
+      font-family: 'Heebo', sans-serif; font-size: 0.85rem; cursor: pointer;
+    }
+
+    .listings-body {
+      max-width: 1200px; margin: 0 auto;
+      padding: 32px 24px;
+      display: grid; grid-template-columns: 280px 1fr; gap: 28px;
+    }
+
+    /* Sidebar */
+    .sidebar { display: flex; flex-direction: column; gap: 16px; }
+    .sidebar-card {
+      background: white; border-radius: 12px; padding: 20px;
+      box-shadow: 0 1px 8px rgba(0,0,0,0.06);
+    }
+    .sidebar-card h4 { font-size: 0.9rem; font-weight: 700; margin-bottom: 14px; color: var(--text); }
+    .filter-group { display: flex; flex-direction: column; gap: 8px; }
+    .filter-item {
+      display: flex; align-items: center; gap: 10px;
+      font-size: 0.85rem; color: #555; cursor: pointer; padding: 4px 0;
+    }
+    .filter-item input[type=checkbox] { accent-color: var(--green); width: 16px; height: 16px; }
+    .filter-item span.count { margin-right: auto; color: var(--muted); font-size: 0.75rem; }
+    .map-mini {
+      background: linear-gradient(135deg, #b7e4c7, #52b788);
+      border-radius: 10px; height: 160px;
+      display: flex; align-items: center; justify-content: center;
+      color: rgba(255,255,255,0.8); font-size: 0.85rem; text-align: center;
+      cursor: pointer; transition: opacity .2s;
+    }
+    .map-mini:hover { opacity: 0.9; }
+
+    /* Listings grid */
+    .results-header {
+      display: flex; align-items: center; justify-content: space-between;
+      margin-bottom: 20px;
+    }
+    .results-header span { font-size: 0.85rem; color: var(--muted); }
+    .results-header .sort {
+      display: flex; align-items: center; gap: 8px; font-size: 0.85rem;
+    }
+    .results-header select {
+      border: 1px solid var(--gray2); border-radius: 6px; padding: 5px 10px;
+      font-family: 'Heebo', sans-serif; font-size: 0.85rem; direction: rtl;
+      background: white; outline: none;
+    }
+    .results-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+
+    /* Single listing card (larger) */
+    .listing-card-h {
+      background: white; border-radius: 12px; overflow: hidden;
+      display: flex; box-shadow: 0 1px 8px rgba(0,0,0,0.06);
+      transition: transform .2s, box-shadow .2s; cursor: pointer;
+    }
+    .listing-card-h:hover { transform: translateY(-2px); box-shadow: 0 6px 20px rgba(0,0,0,0.1); }
+    .listing-card-h .card-img-h {
+      width: 120px; min-height: 140px; flex-shrink: 0;
+      display: flex; align-items: center; justify-content: center; font-size: 2.5rem;
+    }
+    .listing-card-h .card-body-h { padding: 14px; flex: 1; }
+    .listing-card-h h3 { font-size: 0.9rem; font-weight: 700; margin-bottom: 4px; }
+    .listing-card-h .card-location { font-size: 0.75rem; color: var(--muted); margin-bottom: 6px; }
+    .listing-card-h .card-desc { font-size: 0.8rem; color: #666; line-height: 1.5; margin-bottom: 8px; }
+
+    /* Pagination */
+    .pagination {
+      display: flex; gap: 6px; margin-top: 28px; justify-content: center;
+    }
+    .pagination button {
+      width: 36px; height: 36px; border-radius: 8px;
+      border: 1px solid var(--gray2); background: white;
+      font-family: 'Heebo', sans-serif; cursor: pointer; font-size: 0.85rem;
+    }
+    .pagination button.active { background: var(--green); color: white; border-color: var(--green); }
+
+    /* ════════════════════════════════
+       SINGLE LISTING PAGE
+    ════════════════════════════════ */
+    .single-page { background: var(--bg); }
+    .single-header { background: white; padding: 24px; border-bottom: 1px solid var(--gray2); }
+    .breadcrumb { font-size: 0.8rem; color: var(--muted); margin-bottom: 16px; }
+    .breadcrumb a { color: var(--green); text-decoration: none; }
+    .single-title-row {
+      max-width: 1200px; margin: 0 auto;
+      display: flex; align-items: flex-start; gap: 16px; flex-wrap: wrap;
+    }
+    .single-title-row .title-block { flex: 1; }
+    .single-title-row h1 { font-size: 1.8rem; font-weight: 800; margin-bottom: 8px; }
+    .single-title-row .meta-row {
+      display: flex; gap: 16px; align-items: center; flex-wrap: wrap;
+    }
+    .meta-tag {
+      background: var(--bg); border: 1px solid var(--gray2);
+      border-radius: 20px; padding: 4px 12px; font-size: 0.8rem; color: #555;
+    }
+    .meta-tag.green { background: #d8f3dc; border-color: #74c69d; color: var(--green); font-weight: 600; }
+    .rating-stars { color: #f4c542; font-size: 0.9rem; }
+    .single-actions { display: flex; gap: 10px; }
+    .btn-primary {
+      background: var(--green); color: white; border: none;
+      padding: 10px 24px; border-radius: 10px; font-weight: 700;
+      font-family: 'Heebo', sans-serif; font-size: 0.9rem; cursor: pointer;
+    }
+    .btn-outline {
+      background: white; color: var(--text); border: 1.5px solid var(--gray2);
+      padding: 10px 18px; border-radius: 10px; font-weight: 600;
+      font-family: 'Heebo', sans-serif; font-size: 0.9rem; cursor: pointer;
+    }
+
+    /* Gallery */
+    .gallery {
+      max-width: 1200px; margin: 24px auto;
+      padding: 0 24px;
+      display: grid; grid-template-columns: 2fr 1fr 1fr; grid-template-rows: 200px 200px; gap: 8px;
+    }
+    .gallery-item {
+      border-radius: 10px; display: flex; align-items: center;
+      justify-content: center; font-size: 3rem; overflow: hidden;
+    }
+    .gallery-item:first-child { grid-row: 1 / 3; border-radius: 12px; font-size: 5rem; }
+    .gallery-item.g1 { background: linear-gradient(135deg, #74c69d, #2D6A4F); }
+    .gallery-item.g2 { background: linear-gradient(135deg, #ade8f4, #48cae4); }
+    .gallery-item.g3 { background: linear-gradient(135deg, #b7e4c7, #52b788); }
+    .gallery-item.g4 { background: linear-gradient(135deg, #ffd166, #f4a261); }
+    .gallery-item.g5 { background: linear-gradient(135deg, #a8dadc, #457b9d); position: relative; }
+    .gallery-more {
+      position: absolute; inset: 0; background: rgba(0,0,0,0.45);
+      display: flex; align-items: center; justify-content: center;
+      color: white; font-size: 1rem; font-weight: 700; border-radius: 10px;
+    }
+
+    /* Single body */
+    .single-body {
+      max-width: 1200px; margin: 0 auto;
+      padding: 0 24px 48px;
+      display: grid; grid-template-columns: 1fr 340px; gap: 28px;
+    }
+    .single-content { }
+    .content-card {
+      background: white; border-radius: 12px; padding: 24px;
+      margin-bottom: 16px; box-shadow: 0 1px 8px rgba(0,0,0,0.06);
+    }
+    .content-card h3 {
+      font-size: 1rem; font-weight: 800; margin-bottom: 14px;
+      padding-bottom: 10px; border-bottom: 2px solid var(--bg);
+      color: var(--text);
+    }
+    .content-card p { font-size: 0.9rem; line-height: 1.8; color: #444; }
+    .features-list { display: flex; flex-direction: column; gap: 8px; }
+    .feature-item {
+      display: flex; align-items: center; gap: 10px;
+      font-size: 0.85rem; color: #444;
+    }
+    .feature-item::before {
+      content: "✓"; width: 20px; height: 20px; border-radius: 50%;
+      background: #d8f3dc; color: var(--green); font-weight: 700;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 0.75rem; flex-shrink: 0;
+    }
+    .info-grid {
+      display: grid; grid-template-columns: 1fr 1fr; gap: 12px;
+    }
+    .info-item { display: flex; flex-direction: column; gap: 2px; }
+    .info-item label { font-size: 0.75rem; color: var(--muted); }
+    .info-item span { font-size: 0.85rem; font-weight: 600; color: var(--text); }
+    .map-embed {
+      background: linear-gradient(135deg, #b7e4c7, #52b788);
+      border-radius: 10px; height: 200px;
+      display: flex; align-items: center; justify-content: center;
+      color: white; font-size: 0.9rem; margin-top: 12px;
+    }
+
+    /* Booking sidebar */
+    .booking-card {
+      background: white; border-radius: 14px;
+      box-shadow: 0 4px 24px rgba(0,0,0,0.1);
+      padding: 24px; position: sticky; top: 80px;
+    }
+    .booking-card h3 { font-size: 1rem; font-weight: 800; margin-bottom: 4px; }
+    .booking-price {
+      font-size: 1.6rem; font-weight: 900; color: var(--green);
+      margin-bottom: 16px;
+    }
+    .booking-price small { font-size: 0.85rem; color: var(--muted); font-weight: 400; }
+    .booking-form { display: flex; flex-direction: column; gap: 10px; }
+    .form-group { display: flex; flex-direction: column; gap: 4px; }
+    .form-group label { font-size: 0.8rem; color: var(--muted); font-weight: 600; }
+    .form-group input, .form-group select {
+      border: 1.5px solid var(--gray2); border-radius: 8px;
+      padding: 10px 12px; font-family: 'Heebo', sans-serif;
+      font-size: 0.85rem; direction: rtl; outline: none; color: var(--text);
+    }
+    .form-group input:focus, .form-group select:focus { border-color: var(--green); }
+    .btn-book {
+      background: var(--green); color: white; border: none;
+      padding: 13px; border-radius: 10px; font-weight: 800;
+      font-family: 'Heebo', sans-serif; font-size: 1rem; cursor: pointer;
+      margin-top: 6px; transition: background .2s;
+    }
+    .btn-book:hover { background: var(--green-light); }
+    .booking-trust {
+      display: flex; gap: 8px; flex-wrap: wrap; margin-top: 12px;
+    }
+    .trust-item { font-size: 0.75rem; color: var(--muted); display: flex; align-items: center; gap: 4px; }
+
+    /* ════════════════════════════════
+       FOOTER
+    ════════════════════════════════ */
+    .site-footer {
+      background: #1a2e1e; color: rgba(255,255,255,0.7);
+      padding: 48px 24px 24px;
+    }
+    .footer-inner {
+      max-width: 1200px; margin: 0 auto;
+      display: grid; grid-template-columns: 2fr 1fr 1fr 1fr; gap: 32px;
+      padding-bottom: 32px; border-bottom: 1px solid rgba(255,255,255,0.1);
+    }
+    .footer-brand strong {
+      color: white; font-size: 1.2rem; font-weight: 800; display: block; margin-bottom: 10px;
+    }
+    .footer-brand p { font-size: 0.85rem; line-height: 1.7; margin-bottom: 16px; }
+    .footer-social { display: flex; gap: 8px; }
+    .social-btn {
+      width: 36px; height: 36px; border-radius: 8px;
+      background: rgba(255,255,255,0.1); color: white;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 0.9rem; cursor: pointer; text-decoration: none;
+      transition: background .2s;
+    }
+    .social-btn:hover { background: var(--green); }
+    .footer-col h4 { color: white; font-size: 0.9rem; font-weight: 700; margin-bottom: 14px; }
+    .footer-col a {
+      display: block; color: rgba(255,255,255,0.6); text-decoration: none;
+      font-size: 0.85rem; margin-bottom: 8px; transition: color .2s;
+    }
+    .footer-col a:hover { color: white; }
+    .footer-bottom {
+      max-width: 1200px; margin: 20px auto 0;
+      display: flex; justify-content: space-between; align-items: center;
+      font-size: 0.78rem; color: rgba(255,255,255,0.4);
+    }
+
+    /* ─── Responsive ─── */
+    @media (max-width: 900px) {
+      .cats-grid { grid-template-columns: repeat(2, 1fr); }
+      .cards-grid { grid-template-columns: repeat(2, 1fr); }
+      .blog-grid { grid-template-columns: 1fr; }
+      .map-cta-inner { grid-template-columns: 1fr; }
+      .map-preview { display: none; }
+      .listings-body { grid-template-columns: 1fr; }
+      .sidebar { display: none; }
+      .results-grid { grid-template-columns: 1fr; }
+      .gallery { grid-template-columns: 1fr 1fr; grid-template-rows: auto; }
+      .gallery-item:first-child { grid-column: 1 / 3; grid-row: auto; }
+      .single-body { grid-template-columns: 1fr; }
+      .footer-inner { grid-template-columns: 1fr 1fr; }
+    }
+    @media (max-width: 600px) {
+      .cats-grid { grid-template-columns: repeat(2, 1fr); }
+      .cards-grid { grid-template-columns: 1fr; }
+      .hero-stats { gap: 16px; }
+      .hero-search { flex-wrap: wrap; }
+      .footer-inner { grid-template-columns: 1fr; }
+      .gallery { grid-template-columns: 1fr; }
+      .gallery-item:first-child { grid-column: auto; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ─── MOCKUP NAVIGATION ─── -->
+<nav class="mockup-nav">
+  <span>📐 Mockups —</span>
+  <button class="active" onclick="showPage('home', this)">🏠 דף הבית</button>
+  <button onclick="showPage('listings', this)">📋 רשימת מקומות</button>
+  <button onclick="showPage('single', this)">📍 דף מקום</button>
+  <div class="device-btns">
+    <button onclick="setDevice('desktop', this)" class="active">🖥 שולחן</button>
+    <button onclick="setDevice('tablet', this)">📱 טאבלט</button>
+    <button onclick="setDevice('mobile', this)">📲 מובייל</button>
+  </div>
+</nav>
+
+<div class="mockup-stage">
+<div class="mockup-frame" id="frame">
+
+  <!-- ════ PAGE: HOME ════ -->
+  <div class="page active" id="page-home">
+
+    <!-- Site Header -->
+    <header class="site-header">
+      <div class="inner">
+        <a href="#" class="site-logo">
+          <div class="logo-icon">
+            <svg viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
+          </div>
+          <div class="logo-text">
+            <strong>GoNorth</strong>
+            <span>גלה את הצפון</span>
+          </div>
+        </a>
+        <nav class="site-nav">
+          <a href="#">אטרקציות</a>
+          <a href="#">לינה</a>
+          <a href="#">אוכל</a>
+          <a href="#">סיורים</a>
+          <a href="#">בלוג</a>
+          <a href="#" class="btn-add">+ הוסף מקום</a>
+        </nav>
+      </div>
+    </header>
+
+    <!-- Hero -->
+    <section class="hero">
+      <div class="hero-bg"></div>
+      <div class="hero-mountains"></div>
+      <div class="hero-content">
+        <div class="hero-badge">המדריך המוביל לצפון ישראל</div>
+        <h1>גלה את <span>הצפון</span><br/>כמו מקומי</h1>
+        <p>מאות אטרקציות, מסעדות, לינה וסיורים בגליל, גולן וחרמון — הכל במקום אחד.</p>
+        <div class="hero-search">
+          <select>
+            <option>כל הקטגוריות</option>
+            <option>אטרקציות</option>
+            <option>לינה</option>
+            <option>אוכל</option>
+            <option>סיורים</option>
+          </select>
+          <input type="text" placeholder="חפש מקום, עיר, פעילות..." />
+          <button>🔍 חפש</button>
+        </div>
+        <div class="hero-stats">
+          <div class="hero-stat"><strong>200+</strong>מקומות רשומים</div>
+          <div class="hero-stat"><strong>4</strong>אזורים</div>
+          <div class="hero-stat"><strong>חינם</strong>לחלוטין</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Categories -->
+    <section class="categories-section">
+      <div class="section-header">
+        <h2 class="section-title">גלה לפי <span>קטגוריה</span></h2>
+        <a href="#" class="section-link">כל הקטגוריות ←</a>
+      </div>
+      <div class="cats-grid">
+        <div class="cat-card c1">
+          <div class="cat-bg">🏛️</div>
+          <div class="cat-overlay">
+            <h3>אטרקציות וטבע</h3>
+            <span>84 מקומות</span>
+          </div>
+        </div>
+        <div class="cat-card c2">
+          <div class="cat-bg">🏨</div>
+          <div class="cat-overlay">
+            <h3>לינה</h3>
+            <span>52 מקומות</span>
+          </div>
+        </div>
+        <div class="cat-card c3">
+          <div class="cat-bg">🍽️</div>
+          <div class="cat-overlay">
+            <h3>אוכל ושתייה</h3>
+            <span>67 מקומות</span>
+          </div>
+        </div>
+        <div class="cat-card c4">
+          <div class="cat-bg">🗺️</div>
+          <div class="cat-overlay">
+            <h3>סיורים ופעילויות</h3>
+            <span>38 מקומות</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Featured Listings -->
+    <section class="listings-section">
+      <div class="section-header">
+        <h2 class="section-title">מקומות <span>מומלצים</span></h2>
+        <a href="#" class="section-link">כל המקומות ←</a>
+      </div>
+      <div class="cards-grid">
+        <div class="listing-card">
+          <div class="card-img ci1">
+            🌊
+            <span class="card-badge">אטרקציה</span>
+            <span class="card-badge featured">⭐ מומלץ</span>
+          </div>
+          <div class="card-body">
+            <h3>בניאס — מפל הכסף</h3>
+            <div class="card-location">קיסריה פיליפי, גולן</div>
+            <div class="card-desc">אחד המפלים היפים בישראל — מים צוננים, טבע עוצר נשימה ושבילי הליכה לכל הגילאים.</div>
+            <div class="card-footer">
+              <div class="card-rating"><span>★★★★★</span> 4.8 (120)</div>
+              <a href="#" class="card-link">פרטים נוספים ←</a>
+            </div>
+          </div>
+        </div>
+        <div class="listing-card">
+          <div class="card-img ci2">🏰
+            <span class="card-badge">אטרקציה</span>
+          </div>
+          <div class="card-body">
+            <h3>מצודת נמרוד</h3>
+            <div class="card-location">חרמון, גולן</div>
+            <div class="card-desc">מצודה צלבנית מהמאה ה-12 עם נוף פנורמי מרהיב. אתר טבע ולאום בעל עושר היסטורי ייחודי.</div>
+            <div class="card-footer">
+              <div class="card-rating"><span>★★★★☆</span> 4.5 (85)</div>
+              <a href="#" class="card-link">פרטים נוספים ←</a>
+            </div>
+          </div>
+        </div>
+        <div class="listing-card">
+          <div class="card-img ci3">🍷
+            <span class="card-badge">אוכל</span>
+            <span class="card-badge featured">⭐ מומלץ</span>
+          </div>
+          <div class="card-body">
+            <h3>יקב גולן — טעימות</h3>
+            <div class="card-location">כצרין, גולן</div>
+            <div class="card-desc">טעימות יין מוכוונות מומחה, לאמפות גבינה ונוף לכרמי גפן. חוויה קולינרית ישראלית אותנטית.</div>
+            <div class="card-footer">
+              <div class="card-rating"><span>★★★★★</span> 4.9 (210)</div>
+              <a href="#" class="card-link">פרטים נוספים ←</a>
+            </div>
+          </div>
+        </div>
+        <div class="listing-card">
+          <div class="card-img ci4">🌿
+            <span class="card-badge">לינה</span>
+          </div>
+          <div class="card-body">
+            <h3>צימר הגליל הסוד</h3>
+            <div class="card-location">ראש פינה, גליל עליון</div>
+            <div class="card-desc">צימר בוטיק שקט בין עצי זית, עם בריכה פרטית ונוף לגליל. מושלם לזוגות.</div>
+            <div class="card-footer">
+              <div class="card-rating"><span>★★★★★</span> 5.0 (44)</div>
+              <a href="#" class="card-link">פרטים נוספים ←</a>
+            </div>
+          </div>
+        </div>
+        <div class="listing-card">
+          <div class="card-img ci5">🚣
+            <span class="card-badge">סיור</span>
+          </div>
+          <div class="card-body">
+            <h3>קיאקים בנהר הירדן</h3>
+            <div class="card-location">כפר בלום, עמק החולה</div>
+            <div class="card-desc">סיור קיאק של שעתיים בנהר הירדן עם מדריך מוסמך. מתאים למשפחות ולחובבי אתגר.</div>
+            <div class="card-footer">
+              <div class="card-rating"><span>★★★★☆</span> 4.6 (98)</div>
+              <a href="#" class="card-link">פרטים נוספים ←</a>
+            </div>
+          </div>
+        </div>
+        <div class="listing-card">
+          <div class="card-img ci6">☕
+            <span class="card-badge">אוכל</span>
+          </div>
+          <div class="card-body">
+            <h3>בית קפה נוף כינרת</h3>
+            <div class="card-location">טבריה</div>
+            <div class="card-desc">קפה בוקר מפנק עם נוף ישיר לכינרת. ארוחות בוקר ישראליות, אפייה ביתית ואווירה רגועה.</div>
+            <div class="card-footer">
+              <div class="card-rating"><span>★★★★☆</span> 4.4 (73)</div>
+              <a href="#" class="card-link">פרטים נוספים ←</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Map CTA -->
+    <section class="map-cta">
+      <div class="map-cta-inner">
+        <div class="map-cta-text">
+          <h2>גלה על המפה</h2>
+          <p>כל המקומות על מפה אינטראקטיבית — חפש לפי אזור, קטגוריה ומרחק. הצפון כולו בקצה האצבע.</p>
+          <a href="#" class="btn-white">פתח מפה ←</a>
+        </div>
+        <div class="map-preview">
+          <div class="map-pin" style="top:30%;right:40%"></div>
+          <div class="map-pin" style="top:50%;right:25%;background:#48CAE4"></div>
+          <div class="map-pin" style="top:20%;right:60%;background:#F4A261"></div>
+          <div class="map-pin" style="top:65%;right:55%"></div>
+          <div class="map-pin" style="top:45%;right:70%;background:#E9C46A"></div>
+          <div class="map-preview-inner">
+            <div style="font-size:3rem">🗺️</div>
+            <p>מפה אינטראקטיבית<br/>של הצפון</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Blog -->
+    <section class="blog-section">
+      <div class="section-header">
+        <h2 class="section-title">מדריכים ו<span>כתבות</span></h2>
+        <a href="#" class="section-link">כל הכתבות ←</a>
+      </div>
+      <div class="blog-grid">
+        <div class="blog-card featured">
+          <div class="blog-img bi1">🏔️</div>
+          <div class="blog-cat">מדריך טיולים</div>
+          <h3>10 הטיולים הכי שווים בגליל העליון — מדריך מלא לקיץ 2025</h3>
+          <div class="blog-meta">12 באפריל 2025 · 8 דקות קריאה</div>
+        </div>
+        <div class="blog-card">
+          <div class="blog-img bi2">🌊</div>
+          <div class="blog-cat">אוכל ויין</div>
+          <h3>יקבי הגולן — מסלול טעימות מומלץ</h3>
+          <div class="blog-meta">5 באפריל 2025</div>
+        </div>
+        <div class="blog-card">
+          <div class="blog-img bi3">🏨</div>
+          <div class="blog-cat">לינה</div>
+          <h3>5 צימרים רומנטיים בגליל שאתם חייבים להכיר</h3>
+          <div class="blog-meta">2 באפריל 2025</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="site-footer">
+      <div class="footer-inner">
+        <div class="footer-brand">
+          <strong>GoNorth 🌿</strong>
+          <p>המדריך המלא לטיול בצפון ישראל — אטרקציות, לינה, אוכל וסיורים בגליל, גולן וחרמון.</p>
+          <div class="footer-social">
+            <a class="social-btn" href="#">f</a>
+            <a class="social-btn" href="#">📸</a>
+            <a class="social-btn" href="#">🎵</a>
+          </div>
+        </div>
+        <div class="footer-col">
+          <h4>קטגוריות</h4>
+          <a href="#">אטרקציות וטבע</a>
+          <a href="#">לינה וצימרים</a>
+          <a href="#">אוכל ויקבים</a>
+          <a href="#">סיורים ופעילויות</a>
+        </div>
+        <div class="footer-col">
+          <h4>אזורים</h4>
+          <a href="#">גליל עליון</a>
+          <a href="#">גליל תחתון</a>
+          <a href="#">רמת הגולן</a>
+          <a href="#">עמק יזרעאל</a>
+          <a href="#">חוף הכרמל</a>
+        </div>
+        <div class="footer-col">
+          <h4>gonorth</h4>
+          <a href="#">אודות</a>
+          <a href="#">צור קשר</a>
+          <a href="#">הוסף מקום</a>
+          <a href="#">לבעלי עסקים</a>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>© 2026 gonorth.co.il — כל הזכויות שמורות</span>
+        <span>פותח עם ❤️ לאוהבי הצפון</span>
+      </div>
+    </footer>
+  </div>
+  <!-- /home -->
+
+  <!-- ════ PAGE: LISTINGS ════ -->
+  <div class="page" id="page-listings">
+    <header class="site-header">
+      <div class="inner">
+        <a href="#" class="site-logo">
+          <div class="logo-icon"><svg viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg></div>
+          <div class="logo-text"><strong>GoNorth</strong><span>גלה את הצפון</span></div>
+        </a>
+        <nav class="site-nav">
+          <a href="#" style="color:var(--green);font-weight:700">אטרקציות</a>
+          <a href="#">לינה</a><a href="#">אוכל</a><a href="#">סיורים</a><a href="#">בלוג</a>
+          <a href="#" class="btn-add">+ הוסף מקום</a>
+        </nav>
+      </div>
+    </header>
+
+    <div class="listings-page">
+      <div class="listings-hero">
+        <div class="inner">
+          <h1>אטרקציות וטבע בצפון</h1>
+          <p>84 מקומות מרהיבים — מפלים, שמורות טבע, אתרים היסטוריים ועוד</p>
+          <div class="filter-bar">
+            <select><option>כל האזורים</option><option>גליל עליון</option><option>גולן</option><option>כינרת</option></select>
+            <select><option>כל הסוגים</option><option>מפלים</option><option>מצודות</option><option>שמורות</option></select>
+            <select><option>כל המחירים</option><option>חינם</option><option>עד ₪50</option><option>₪50+</option></select>
+            <input type="text" placeholder="חפש מקום ספציפי..." />
+            <button>🔍 חפש</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="listings-body">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+          <div class="sidebar-card">
+            <div class="map-mini">🗺️<br/>הצג על מפה</div>
+          </div>
+          <div class="sidebar-card">
+            <h4>🏷️ סינון לפי סוג</h4>
+            <div class="filter-group">
+              <label class="filter-item"><input type="checkbox" checked />מפלים ומים<span class="count">24</span></label>
+              <label class="filter-item"><input type="checkbox" />אתרים היסטוריים<span class="count">18</span></label>
+              <label class="filter-item"><input type="checkbox" />שמורות טבע<span class="count">15</span></label>
+              <label class="filter-item"><input type="checkbox" />פארקים<span class="count">12</span></label>
+              <label class="filter-item"><input type="checkbox" />נקודות תצפית<span class="count">9</span></label>
+              <label class="filter-item"><input type="checkbox" />מוזיאונים<span class="count">6</span></label>
+            </div>
+          </div>
+          <div class="sidebar-card">
+            <h4>🎯 מתאים ל</h4>
+            <div class="filter-group">
+              <label class="filter-item"><input type="checkbox" />משפחות עם ילדים</label>
+              <label class="filter-item"><input type="checkbox" />זוגות</label>
+              <label class="filter-item"><input type="checkbox" />קבוצות</label>
+              <label class="filter-item"><input type="checkbox" />נגיש לנכים</label>
+            </div>
+          </div>
+          <div class="sidebar-card">
+            <h4>📅 עונה מומלצת</h4>
+            <div class="filter-group">
+              <label class="filter-item"><input type="checkbox" checked />כל השנה</label>
+              <label class="filter-item"><input type="checkbox" />אביב</label>
+              <label class="filter-item"><input type="checkbox" />קיץ</label>
+              <label class="filter-item"><input type="checkbox" />חורף</label>
+            </div>
+          </div>
+        </aside>
+
+        <!-- Results -->
+        <div>
+          <div class="results-header">
+            <span>מציג 1–12 מתוך 84 מקומות</span>
+            <div class="sort">
+              <span>מיון:</span>
+              <select><option>מומלץ</option><option>דירוג גבוה</option><option>הכי חדש</option><option>א-ב</option></select>
+            </div>
+          </div>
+          <div class="results-grid">
+            <!-- card 1 -->
+            <div class="listing-card">
+              <div class="card-img ci1">🌊
+                <span class="card-badge featured">⭐ מומלץ</span>
+                <span class="card-badge">אטרקציה</span>
+              </div>
+              <div class="card-body">
+                <h3>בניאס — מפל הכסף</h3>
+                <div class="card-location">גולן הצפוני</div>
+                <div class="card-desc">מפל מרהיב בגובה 10 מטר בלב גן לאומי עשיר.</div>
+                <div class="card-footer">
+                  <div class="card-rating"><span>★★★★★</span> 4.8</div>
+                  <a href="#" class="card-link">פרטים ←</a>
+                </div>
+              </div>
+            </div>
+            <!-- card 2 -->
+            <div class="listing-card">
+              <div class="card-img ci2">🏰<span class="card-badge">היסטורי</span></div>
+              <div class="card-body">
+                <h3>מצודת נמרוד</h3>
+                <div class="card-location">חרמון, גולן</div>
+                <div class="card-desc">אחת המצודות הצלבניות המרשימות בישראל.</div>
+                <div class="card-footer">
+                  <div class="card-rating"><span>★★★★☆</span> 4.5</div>
+                  <a href="#" class="card-link">פרטים ←</a>
+                </div>
+              </div>
+            </div>
+            <!-- card 3 -->
+            <div class="listing-card">
+              <div class="card-img ci5">🦅<span class="card-badge">שמורה</span></div>
+              <div class="card-body">
+                <h3>שמורת עמק החולה</h3>
+                <div class="card-location">עמק החולה</div>
+                <div class="card-desc">עצירת ציפורים עולמית — עשרות אלפי עגורים כל חורף.</div>
+                <div class="card-footer">
+                  <div class="card-rating"><span>★★★★★</span> 4.9</div>
+                  <a href="#" class="card-link">פרטים ←</a>
+                </div>
+              </div>
+            </div>
+            <!-- card 4 -->
+            <div class="listing-card">
+              <div class="card-img ci4">🏛️<span class="card-badge">היסטורי</span></div>
+              <div class="card-body">
+                <h3>תל חצור</h3>
+                <div class="card-location">גליל עליון</div>
+                <div class="card-desc">עיר כנענית עתיקה, אתר מורשת עולמי של יונסק"ו.</div>
+                <div class="card-footer">
+                  <div class="card-rating"><span>★★★★☆</span> 4.3</div>
+                  <a href="#" class="card-link">פרטים ←</a>
+                </div>
+              </div>
+            </div>
+            <!-- card 5 -->
+            <div class="listing-card">
+              <div class="card-img ci3">💧<span class="card-badge">מפל</span></div>
+              <div class="card-body">
+                <h3>נחל עיון — מפל תנור</h3>
+                <div class="card-location">גליל עליון</div>
+                <div class="card-desc">טיול קל לאורך נחל עם כמה מפלים יפהפיים.</div>
+                <div class="card-footer">
+                  <div class="card-rating"><span>★★★★☆</span> 4.4</div>
+                  <a href="#" class="card-link">פרטים ←</a>
+                </div>
+              </div>
+            </div>
+            <!-- card 6 -->
+            <div class="listing-card">
+              <div class="card-img ci6">🌄<span class="card-badge">תצפית</span></div>
+              <div class="card-body">
+                <h3>נקודת תצפית הר בנטל</h3>
+                <div class="card-location">רמת הגולן</div>
+                <div class="card-desc">הנקודה הגבוהה ביותר בגולן עם נוף 360 מעלות.</div>
+                <div class="card-footer">
+                  <div class="card-rating"><span>★★★★★</span> 4.7</div>
+                  <a href="#" class="card-link">פרטים ←</a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="pagination">
+            <button class="active">1</button>
+            <button>2</button><button>3</button><button>4</button><button>...</button><button>7</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <footer class="site-footer" style="padding:24px">
+      <div class="footer-bottom" style="margin:0">
+        <span>© 2026 gonorth.co.il</span><span>פותח עם ❤️</span>
+      </div>
+    </footer>
+  </div>
+  <!-- /listings -->
+
+  <!-- ════ PAGE: SINGLE ════ -->
+  <div class="page" id="page-single">
+    <header class="site-header">
+      <div class="inner">
+        <a href="#" class="site-logo">
+          <div class="logo-icon"><svg viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg></div>
+          <div class="logo-text"><strong>GoNorth</strong><span>גלה את הצפון</span></div>
+        </a>
+        <nav class="site-nav"><a href="#">אטרקציות</a><a href="#">לינה</a><a href="#">אוכל</a><a href="#">סיורים</a><a href="#">בלוג</a><a href="#" class="btn-add">+ הוסף מקום</a></nav>
+      </div>
+    </header>
+
+    <div class="single-page">
+      <div class="single-header">
+        <div style="max-width:1200px;margin:0 auto;padding:0 24px">
+          <div class="breadcrumb">
+            <a href="#">דף הבית</a> / <a href="#">אטרקציות</a> / <a href="#">גולן</a> / בניאס — מפל הכסף
+          </div>
+        </div>
+        <div class="single-title-row" style="max-width:1200px;margin:0 auto;padding:0 24px">
+          <div class="title-block">
+            <h1>בניאס — מפל הכסף</h1>
+            <div class="meta-row">
+              <span class="meta-tag green">✅ פתוח עכשיו</span>
+              <span class="meta-tag">🏛️ אטרקציה</span>
+              <span class="meta-tag">📍 גולן הצפוני</span>
+              <div class="rating-stars">★★★★★ <span style="color:#555;font-size:0.85rem">4.8 (120 ביקורות)</span></div>
+            </div>
+          </div>
+          <div class="single-actions">
+            <button class="btn-primary">📅 הזמן כרטיסים</button>
+            <button class="btn-outline">🔖 שמור</button>
+            <button class="btn-outline">↗️ שתף</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Gallery -->
+      <div class="gallery">
+        <div class="gallery-item g1" style="font-size:5rem">🌊</div>
+        <div class="gallery-item g2">🏞️</div>
+        <div class="gallery-item g3">🌿</div>
+        <div class="gallery-item g4">🦋</div>
+        <div class="gallery-item g5">
+          🌄
+          <div class="gallery-more">+12 תמונות</div>
+        </div>
+      </div>
+
+      <!-- Body -->
+      <div class="single-body">
+        <div class="single-content">
+          <!-- Description -->
+          <div class="content-card">
+            <h3>📖 על המקום</h3>
+            <p>בניאס, הידוע גם כ"מפל הכסף", הוא אחד המפלים היפים והמרשימים בישראל. הממוקם בגן לאומי בניאס שבגולן הצפוני, המפל נוצר מזרמי נהר החרמון הזורמים מעל מצוק בזלת מרשים בגובה של כ-10 מטרים.</p>
+            <br/>
+            <p>הגן הלאומי עשיר בהיסטוריה — כאן שכנה בעת העתיקה פאנאיאס, עיר הקדושה לאל פאן, ולאחר מכן קיסריה פיליפי הרומית. שרידי המקדש העתיק עדיין ניצבים לידד מקורות הנהר.</p>
+          </div>
+          <!-- Features -->
+          <div class="content-card">
+            <h3>✨ מה מחכה לכם</h3>
+            <div class="features-list">
+              <div class="feature-item">מפל מים בגובה 10 מטר — הגדול בישראל</div>
+              <div class="feature-item">שבילי הליכה מסומנים לכל רמות הכושר</div>
+              <div class="feature-item">שרידי מקדש פאן הרומי</div>
+              <div class="feature-item">עשיר בצמחייה ירוקה וחי וצומח</div>
+              <div class="feature-item">מתאים למשפחות עם ילדים</div>
+              <div class="feature-item">חניה בתשלום באתר (₪30)</div>
+            </div>
+          </div>
+          <!-- Info -->
+          <div class="content-card">
+            <h3>📋 מידע מעשי</h3>
+            <div class="info-grid">
+              <div class="info-item"><label>📍 כתובת</label><span>גן לאומי בניאס, גולן</span></div>
+              <div class="info-item"><label>🕐 שעות פתיחה</label><span>א-ה 8:00–17:00, ו 8:00–16:00</span></div>
+              <div class="info-item"><label>💰 כניסה</label><span>מבוגר ₪29, ילד ₪15</span></div>
+              <div class="info-item"><label>🚗 חניה</label><span>חניון ממוקם באתר, ₪30</span></div>
+              <div class="info-item"><label>👨‍👩‍👧 מתאים ל</label><span>משפחות, זוגות, קבוצות</span></div>
+              <div class="info-item"><label>📅 עונה מומלצת</label><span>כל השנה (חורף מומלץ)</span></div>
+            </div>
+            <div class="map-embed">🗺️ מפה — בניאס, גולן</div>
+          </div>
+        </div>
+
+        <!-- Booking sidebar -->
+        <div>
+          <div class="booking-card">
+            <h3>כרטיסים ופרטים</h3>
+            <div class="booking-price">₪29 <small>למבוגר</small></div>
+            <div class="booking-form">
+              <div class="form-group">
+                <label>תאריך ביקור</label>
+                <input type="date" />
+              </div>
+              <div class="form-group">
+                <label>מספר מבוגרים</label>
+                <select><option>1</option><option>2</option><option>3</option><option>4+</option></select>
+              </div>
+              <div class="form-group">
+                <label>מספר ילדים</label>
+                <select><option>0</option><option>1</option><option>2</option><option>3+</option></select>
+              </div>
+              <button class="btn-book">📅 הזמן כרטיסים</button>
+              <button class="btn-outline" style="text-align:center;padding:10px;border-radius:10px;width:100%">📞 050-123-4567</button>
+            </div>
+            <div class="booking-trust">
+              <div class="trust-item">✅ ביטול חינם</div>
+              <div class="trust-item">🔒 תשלום מאובטח</div>
+              <div class="trust-item">📱 כרטיס דיגיטלי</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <footer class="site-footer" style="padding:24px">
+      <div class="footer-bottom" style="margin:0"><span>© 2026 gonorth.co.il</span><span>פותח עם ❤️</span></div>
+    </footer>
+  </div>
+  <!-- /single -->
+
+</div><!-- /frame -->
+</div><!-- /stage -->
+
+<script>
+  function showPage(name, btn) {
+    document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
+    document.getElementById('page-' + name).classList.add('active');
+    document.querySelectorAll('.mockup-nav button:not(.device-btns button)').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+  }
+  function setDevice(size, btn) {
+    const frame = document.getElementById('frame');
+    frame.className = 'mockup-frame ' + (size === 'desktop' ? '' : size);
+    document.querySelectorAll('.device-btns button').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+  }
+</script>
+</body>
+</html>
