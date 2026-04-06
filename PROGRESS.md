@@ -32,6 +32,13 @@
 - [ ] Install MotoPress Hotel Booking for accommodation
 - [ ] Test full booking flow end-to-end
 
+## Phase 2.5 — Design Polish (added 2026-04-06)
+- [x] GeoDirectory category page design — hero + branded cards + filter — 2026-04-06
+- [x] GeoDirectory single listing page — hero, breadcrumb, action bar — 2026-04-06
+- [x] Hebrew translations (פרופיל, ביקורות, etc.) — 2026-04-06
+- [x] Fix category permalink structure (/places/category/slug/) — 2026-04-06
+- [x] Update nav menu + header.php + front-page.php category URLs — 2026-04-06
+
 ## Phase 4 — Content & Blog
 - [x] Create blog post categories (טיולים, אוכל, לינה, אטרקציות, מדריכים) — 2026-04-06
 - [ ] Design homepage layout in Elementor
