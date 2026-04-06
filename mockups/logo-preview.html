@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<title>GoNorth Logo Preview</title>
+<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;700;800;900&display=swap" rel="stylesheet">
+<style>
+  body { background: #F8F5F0; font-family: 'Heebo', sans-serif; padding: 40px; color: #1a2e1e; }
+  h1 { color: #2D6A4F; font-size: 22px; margin-bottom: 8px; }
+  h2 { color: #2D6A4F; margin-top: 40px; margin-bottom: 12px; font-size: 13px; text-transform: uppercase; letter-spacing: 1px; opacity: 0.7; }
+  .preview-box {
+    background: white;
+    border-radius: 12px;
+    padding: 32px;
+    margin: 0;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 2px 16px rgba(0,0,0,.08);
+  }
+  .preview-box.dark { background: #1a3a2a; }
+  .preview-box.gray { background: #e2e8e4; }
+  .row { display: flex; gap: 16px; flex-wrap: wrap; align-items: flex-start; }
+</style>
+</head>
+<body>
+
+<h1>GoNorth — Logo Preview</h1>
+
+<h2>לוגו מלא — רקע לבן</h2>
+<div class="preview-box">
+  <img src="gonorth-logo.svg" width="300" height="80" alt="GoNorth Logo">
+</div>
+
+<h2>לוגו מלא — רקע כהה</h2>
+<div class="preview-box dark">
+  <img src="gonorth-logo.svg" width="300" height="80" alt="GoNorth Logo">
+</div>
+
+<h2>לוגו מלא — רקע אפור</h2>
+<div class="preview-box gray">
+  <img src="gonorth-logo.svg" width="300" height="80" alt="GoNorth Logo">
+</div>
+
+<h2>לוגו בגדלים שונים</h2>
+<div class="preview-box">
+  <div style="display:flex; flex-direction:column; gap:20px; align-items:flex-start;">
+    <div><img src="gonorth-logo.svg" width="300" height="80"> <small style="margin-right:8px;opacity:.5">300px</small></div>
+    <div><img src="gonorth-logo.svg" width="200" height="53"> <small style="margin-right:8px;opacity:.5">200px</small></div>
+    <div><img src="gonorth-logo.svg" width="150" height="40"> <small style="margin-right:8px;opacity:.5">150px</small></div>
+  </div>
+</div>
+
+<h2>אייקון ריבועי — גדלים שונים</h2>
+<div class="preview-box">
+  <div style="display:flex; gap:24px; align-items:flex-end;">
+    <div style="text-align:center"><img src="gonorth-icon.svg" width="64" height="64"><br><small>64px</small></div>
+    <div style="text-align:center"><img src="gonorth-icon.svg" width="48" height="48"><br><small>48px</small></div>
+    <div style="text-align:center"><img src="gonorth-icon.svg" width="32" height="32"><br><small>32px</small></div>
+    <div style="text-align:center"><img src="gonorth-icon.svg" width="16" height="16"><br><small>16px</small></div>
+  </div>
+</div>
+
+</body>
+</html>

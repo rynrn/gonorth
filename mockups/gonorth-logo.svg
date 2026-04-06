@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" role="img" aria-label="GoNorth — גלה את הצפון">
+  <defs>
+    <linearGradient id="skyGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#d4f0e8"/>
+      <stop offset="100%" stop-color="#a8dcc8"/>
+    </linearGradient>
+    <linearGradient id="mtnBack" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#52b788"/>
+      <stop offset="100%" stop-color="#2D6A4F"/>
+    </linearGradient>
+    <linearGradient id="mtnFront" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#2D6A4F"/>
+      <stop offset="100%" stop-color="#1a3a2a"/>
+    </linearGradient>
+    <linearGradient id="waterGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#48CAE4" stop-opacity="0.5"/>
+      <stop offset="50%" stop-color="#90e0ef" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#48CAE4" stop-opacity="0.5"/>
+    </linearGradient>
+    <clipPath id="iconClip">
+      <rect x="0" y="0" width="72" height="72" rx="16"/>
+    </clipPath>
+  </defs>
+
+  <!-- ── ICON BADGE ── -->
+  <rect x="0" y="0" width="72" height="72" rx="16" fill="url(#skyGrad)"/>
+
+  <!-- Back ridge — soft organic curves -->
+  <path d="M0,54 C8,38 14,30 22,24 C30,18 36,26 44,20 C52,14 60,28 72,22 L72,72 L0,72 Z"
+        fill="url(#mtnBack)" opacity="0.5" clip-path="url(#iconClip)"/>
+
+  <!-- Front ridge — flowing organic shape -->
+  <path d="M0,72 L0,58 C6,52 10,44 18,38 C24,33 28,42 34,36 C40,30 46,40 52,34 C58,28 64,38 72,42 L72,72 Z"
+        fill="url(#mtnFront)" clip-path="url(#iconClip)"/>
+
+  <!-- Water wave at base -->
+  <path d="M0,66 C12,62 24,68 36,64 C48,60 60,66 72,62 L72,72 L0,72 Z"
+        fill="url(#waterGrad)" clip-path="url(#iconClip)"/>
+
+  <!-- Sun — warm organic -->
+  <circle cx="52" cy="18" r="9" fill="#E9C46A" opacity="0.95"/>
+  <circle cx="52" cy="18" r="13" fill="#E9C46A" opacity="0.18"/>
+  <circle cx="52" cy="5"  r="1.5" fill="#E9C46A" opacity="0.55"/>
+  <circle cx="63" cy="10" r="1.5" fill="#E9C46A" opacity="0.55"/>
+  <circle cx="65" cy="22" r="1.5" fill="#E9C46A" opacity="0.45"/>
+  <circle cx="40" cy="7"  r="1.5" fill="#E9C46A" opacity="0.45"/>
+
+  <!-- Tree silhouette — organic -->
+  <path d="M15,52 C15,52 11,45 15,41 C17,39 18,43 18,43 C18,43 20,37 22,39 C24,41 21,48 21,48 L21,52 Z"
+        fill="#1a3a2a" opacity="0.65" clip-path="url(#iconClip)"/>
+
+  <!-- ── TEXT ── -->
+  <!-- GoNorth — combined text with tspan so spacing is automatic -->
+  <text x="86" y="46"
+    font-family="'Heebo', 'Assistant', sans-serif"
+    font-size="36">
+    <tspan font-weight="300" fill="#40916c">Go</tspan><tspan font-weight="800" fill="#2D6A4F">North</tspan>
+  </text>
+
+  <!-- Divider -->
+  <line x1="86" y1="52" x2="300" y2="52" stroke="#48CAE4" stroke-width="1.2" stroke-opacity="0.5"/>
+
+  <!-- Tagline Hebrew -->
+  <text x="88" y="66"
+    font-family="'Heebo', 'Assistant', sans-serif"
+    font-weight="300"
+    font-size="13"
+    fill="#2D6A4F"
+    letter-spacing="2">גלה את הצפון</text>
+</svg>

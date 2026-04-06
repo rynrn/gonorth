@@ -53,10 +53,12 @@
 - [ ] Performance test (target <3s load time)
 - [ ] Set up Google Analytics / Search Console
 - [ ] Final content review
-- [ ] Create a logo for the website
-- [ ] Update favicon for the website
+- [x] Create a logo for the website — 2026-04-06
+- [x] Update favicon for the website — 2026-04-06
 - [ ] Write and publish Accessibility Statement page (הצהרת נגישות)
 - [ ] Accessibility validation — run audit and fix WCAG 2.1 AA issues
+- [ ] הסרת אימוג'ים מכל האתר — כפתורים, כותרות, תיאורים, כרטיסי מקומות (מראה מלאכותי/AI)
+- [ ] תרגום מלא לעברית של ממשק האתר — כפתורי ניווט (הבא/הקודם), טפסי תגובה, שדות חיפוש, הודעות שגיאה ואישור, פגינציה, ותוויות GeoDirectory/WooCommerce
 - [ ] Launch
 
 ## Phase 6 — Monetization (future)
