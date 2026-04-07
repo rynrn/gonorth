@@ -13,7 +13,7 @@
 - [x] Install Wordfence (security) — 2026-04-06
 - [x] Install UpdraftPlus (backups) — 2026-04-06
 - [x] Set site name, tagline, permalink structure — 2026-04-06
-- [ ] Set up gonorth.co.il domain pointing (DNS)
+- [x] Set up gonorth.co.il domain pointing (DNS) — 2026-04-07
 - [x] Apply GoNorth brand CSS — colors, fonts, RTL — 2026-04-06
 
 ## Phase 2 — Directory & Map
@@ -41,10 +41,10 @@
 
 ## Phase 4 — Content & Blog
 - [x] Create blog post categories (טיולים, אוכל, לינה, אטרקציות, מדריכים) — 2026-04-06
-- [ ] Design homepage layout in Elementor
-- [ ] Create article page template in Elementor
-- [ ] Add at least 5 seed listings to the directory
-- [ ] Publish at least 3 blog articles before launch
+- [x] Design homepage layout — custom PHP template (front-page.php) — 2026-04-06
+- [x] Create article page template — custom PHP template (single.php) — 2026-04-06
+- [x] Add at least 5 seed listings to the directory — 2026-04-07
+- [x] Publish at least 3 blog articles before launch — 2026-04-07
 
 ## Phase 5 — Pre-launch
 - [ ] Mobile responsiveness review
@@ -55,7 +55,9 @@
 - [ ] Final content review
 - [x] Create a logo for the website — 2026-04-06
 - [x] Update favicon for the website — 2026-04-06
-- [ ] Write and publish Accessibility Statement page (הצהרת נגישות)
+- [x] Write and publish Accessibility Statement page (הצהרת נגישות) — 2026-04-06
+- [x] Install accessibility widget (UserWay) — 2026-04-06
+- [x] Add cookie consent banner + Privacy Policy page — 2026-04-06
 - [ ] Accessibility validation — run audit and fix WCAG 2.1 AA issues
 - [ ] הסרת אימוג'ים מכל האתר — כפתורים, כותרות, תיאורים, כרטיסי מקומות (מראה מלאכותי/AI)
 - [ ] תרגום מלא לעברית של ממשק האתר — כפתורי ניווט (הבא/הקודם), טפסי תגובה, שדות חיפוש, הודעות שגיאה ואישור, פגינציה, ותוויות GeoDirectory/WooCommerce
