@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="he">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>כיוון צפון — אופציה 4</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@200;900&display=swap" rel="stylesheet">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #F8F5F0;
+    font-family: 'Heebo', sans-serif;
+    padding: 50px 24px;
+    direction: rtl;
+  }
+  h1 {
+    text-align: center;
+    font-size: 0.7rem;
+    color: #6e8070;
+    margin-bottom: 40px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+  }
+  .cards {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    max-width: 700px;
+    margin: 0 auto;
+  }
+  .card {
+    background: white;
+    border-radius: 14px;
+    padding: 20px 20px 16px;
+    box-shadow: 0 2px 12px rgba(0,0,0,.06);
+    border: 1px solid #e2e8e4;
+  }
+  .card__label {
+    font-size: 0.62rem;
+    color: #aaa;
+    letter-spacing: 2px;
+    margin-bottom: 14px;
+    text-transform: uppercase;
+  }
+  .mockup {
+    background: #F8F5F0;
+    border: 1px solid #e2e8e4;
+    border-radius: 10px;
+    padding: 13px 18px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    direction: rtl;
+  }
+  .mock-icon {
+    width: 42px; height: 42px;
+    border-radius: 9px;
+    background: #2D6A4F;
+    display: flex; align-items: center; justify-content: center;
+    flex-shrink: 0;
+    font-size: 18px;
+  }
+  .mock-nav {
+    margin-right: auto;
+    display: flex;
+    gap: 14px;
+    font-size: 0.75rem;
+    color: #6e8070;
+  }
+
+  /* Tagline base */
+  .tagline { display: inline-flex; align-items: baseline; white-space: nowrap; }
+  .t-light {
+    font-family: 'Heebo', sans-serif;
+    font-weight: 200;
+    font-size: 1.25rem;
+    color: #6e8070;
+  }
+  .t-bold {
+    font-family: 'Heebo', sans-serif;
+    font-weight: 900;
+    font-size: 1.25rem;
+    color: #2D6A4F;
+  }
+
+  /* Three spacing variants */
+  .gap-a { gap: 6px; }   /* קצת */
+  .gap-b { gap: 3px; }   /* פחות */
+  .gap-c { gap: 1px; }   /* צמוד מאוד */
+</style>
+</head>
+<body>
+
+<h1>רווח בין המילים — 3 אפשרויות</h1>
+
+<div class="cards">
+
+  <div class="card">
+    <div class="card__label">A — רווח 6px (כמו שהיה)</div>
+    <div class="mockup">
+      <div class="mock-icon">🧭</div>
+      <div class="tagline gap-a">
+        <span class="t-light">כיוון</span>
+        <span class="t-bold">צפון</span>
+      </div>
+      <div class="mock-nav"><span>אטרקציות</span><span>לינה</span><span>אוכל</span></div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card__label">B — רווח 3px</div>
+    <div class="mockup">
+      <div class="mock-icon">🧭</div>
+      <div class="tagline gap-b">
+        <span class="t-light">כיוון</span>
+        <span class="t-bold">צפון</span>
+      </div>
+      <div class="mock-nav"><span>אטרקציות</span><span>לינה</span><span>אוכל</span></div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card__label">C — רווח 1px (צמוד)</div>
+    <div class="mockup">
+      <div class="mock-icon">🧭</div>
+      <div class="tagline gap-c">
+        <span class="t-light">כיוון</span>
+        <span class="t-bold">צפון</span>
+      </div>
+      <div class="mock-nav"><span>אטרקציות</span><span>לינה</span><span>אוכל</span></div>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>

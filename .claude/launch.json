@@ -3,7 +3,7 @@
   "configurations": [
     {
       "name": "gonorth-mockups",
-      "runtimeExecutable": "node",
+      "runtimeExecutable": "/Users/navisror/.nvm/versions/node/v18.16.0/bin/node",
       "runtimeArgs": ["mockups/server.js"],
       "port": 3456
     }

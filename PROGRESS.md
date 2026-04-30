@@ -19,11 +19,11 @@
 ## Phase 2 — Directory & Map
 - [x] Install GeoDirectory plugin — 2026-04-06
 - [x] Create listing categories: אטרקציות, לינה, אוכל, סיורים — 2026-04-06
-- [ ] Configure Google Maps API key
-- [ ] Set up map display on directory pages
-- [ ] Configure front-end business submission form
-- [ ] Set up admin approval workflow for new listings
-- [ ] Enable ratings & reviews
+- [x] Configure Google Maps API key — 2026-04-10
+- [x] Set up map display on directory pages — 2026-04-10
+- [x] Configure front-end business submission form — 2026-04-10
+- [x] Set up admin approval workflow for new listings — 2026-04-10 (default_status=pending מוגדר)
+- [x] Ratings — דירוגים מגוגל בלבד (GeoDirectory reviews מושבתים) — 2026-04-11
 
 ## Phase 3 — Bookings
 - [x] Install WooCommerce — 2026-04-06
@@ -46,9 +46,31 @@
 - [x] Add at least 5 seed listings to the directory — 2026-04-07
 - [x] Publish at least 3 blog articles before launch — 2026-04-07
 
+## Phase 4.5 — Performance Optimization (added 2026-04-19)
+
+> **מצב נוכחי:** LCP 9.8s / FCP 9.3s / Speed Index 9.3s — אדום קריטי. TBT=0, CLS=0 — תקין.
+> **מטרה:** LCP < 2.5s, FCP < 1.8s
+
+### שלב א׳ — תיקוני שרת ומטמון (השפעה הכי גדולה)
+- [ ] בדוק ש-WP Super Cache מחזיר קבצים סטטיים (לא PHP דינמי) — בדוק header: `X-Cache: HIT`
+- [ ] הפעל Autoptimize: Defer JS, Inline Critical CSS, Remove Google Fonts (נטען מקומי)
+- [ ] הוסף `preconnect` ל-Google Fonts + Google Maps ב-`<head>`
+- [ ] בדוק TTFB בכלי נפרד (GTmetrix) — אם >2s, בעיה בשרת/PHP
+
+### שלב ב׳ — תמונות (LCP הגדול ביותר)
+- [ ] זהה את ה-LCP element (בד"כ תמונת hero) ואמת שיש לו `loading="eager"` + `fetchpriority="high"`
+- [ ] כל תמונות Hero — המר ל-WebP, דחוס מתחת ל-150KB
+- [ ] הפעל Lazy Loading על שאר התמונות (Smush)
+- [ ] הוסף `width` + `height` לכל תגי `<img>` (מונע CLS)
+
+### שלב ג׳ — עומק (אם השלבים הקודמים לא מספיקים)
+- [ ] התקן Redis Object Cache (חוסך שאילתות DB)
+- [ ] בחן עבור Cloudflare CDN (מקצר מרחק גיאוגרפי)
+- [ ] פרופיל שאילתות SQL איטיות (`EXPLAIN` על שאילתות GeoDirectory)
+
 ## Phase 5 — Pre-launch
-- [ ] Mobile responsiveness review
-- [ ] RTL layout QA across all pages
+- [x] Mobile responsiveness review — 2026-04-12
+- [x] RTL layout QA across all pages — 2026-04-12
 - [ ] SEO: meta titles + descriptions for main pages
 - [ ] Performance test (target <3s load time)
 - [ ] Set up Google Analytics / Search Console
@@ -62,6 +84,11 @@
 - [ ] הסרת אימוג'ים מכל האתר — כפתורים, כותרות, תיאורים, כרטיסי מקומות (מראה מלאכותי/AI)
 - [ ] תרגום מלא לעברית של ממשק האתר — כפתורי ניווט (הבא/הקודם), טפסי תגובה, שדות חיפוש, הודעות שגיאה ואישור, פגינציה, ותוויות GeoDirectory/WooCommerce
 - [ ] Launch
+
+## באגים לתיקון (Bugs Backlog)
+
+- [x] **שינוי שם האתר מ-"gonorth" לשם עברי**: לחשוב על שם עברי מתאים, לעדכן ב-header, ולתקן את ה-footer שבו השם מופיע פעמיים — 2026-04-12
+
 
 ## Phase 6 — Monetization (future)
 - [ ] Enable GeoDirectory paid listing packages
