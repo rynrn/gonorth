@@ -441,7 +441,37 @@ These rules must never be broken. Any AI agent working on this project must foll
 
 ---
 
-## 9. TECHNICAL REFERENCE
+## 9. SEO KEYWORD STRATEGY
+
+### Keyword Research File
+
+All SEO keyword research is maintained in **`SEO-KEYWORDS.md`** (repo root).
+
+**When to read it:**
+- Before writing any blog post — pick a target keyword from the relevant category table
+- Before creating a listing — match the listing to existing keywords
+- Before running an SEO audit — check which `TODO` items need attention
+
+**seo-agent responsibilities:**
+1. After each work session, update `סטטוס` and `דירוג נוכחי` columns for touched keywords
+2. Add new keyword discoveries to the relevant category table
+3. Fill in `עמוד/פוסט` column once a page exists for a keyword
+4. Update `עדכון אחרון` column when modifying a row
+5. Add entries to the **לוג שינויים** section at the bottom of the file
+
+**Keyword categories map to directory categories:**
+
+| Category (CLAUDE.md) | Keyword section (SEO-KEYWORDS.md) |
+|---|---|
+| `atraktziot` | §2 אטרקציות וטבע |
+| `lina` | §3 לינה וצימרים |
+| `ochel` | §4 אוכל ושתייה |
+| `siurim` | §5 סיורים ופעילויות |
+| Blog posts | §1 כלליים + §6 עונתיים + §7 Long-tail |
+
+---
+
+## 10. TECHNICAL REFERENCE
 
 ### URLs
 
