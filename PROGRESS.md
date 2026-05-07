@@ -71,19 +71,36 @@
 ## Phase 5 — Pre-launch
 - [x] Mobile responsiveness review — 2026-04-12
 - [x] RTL layout QA across all pages — 2026-04-12
-- [ ] SEO: meta titles + descriptions for main pages
-- [ ] Performance test (target <3s load time)
-- [ ] Set up Google Analytics / Search Console
-- [ ] Final content review
+- [x] SEO: meta titles + descriptions for main pages — 2026-05-07 (כל 5 דפים ראשיים, sitemap פעיל)
+- [x] Performance test (target <3s load time) — 2026-05-07 (935ms ✅, תמונות דחוסו 11MB→440KB + 9.4MB→996KB, preconnect נוסף)
+- [ ] Set up Google Analytics / Search Console — ממתין ל-Measurement ID מהמשתמש
+- [x] Final content review — 2026-05-07 (12 listings נבדקו, 10 PASS, 2 תוקנו)
 - [x] Create a logo for the website — 2026-04-06
 - [x] Update favicon for the website — 2026-04-06
 - [x] Write and publish Accessibility Statement page (הצהרת נגישות) — 2026-04-06
 - [x] Install accessibility widget (UserWay) — 2026-04-06
 - [x] Add cookie consent banner + Privacy Policy page — 2026-04-06
-- [ ] Accessibility validation — run audit and fix WCAG 2.1 AA issues
-- [ ] הסרת אימוג'ים מכל האתר — כפתורים, כותרות, תיאורים, כרטיסי מקומות (מראה מלאכותי/AI)
-- [ ] תרגום מלא לעברית של ממשק האתר — כפתורי ניווט (הבא/הקודם), טפסי תגובה, שדות חיפוש, הודעות שגיאה ואישור, פגינציה, ותוויות GeoDirectory/WooCommerce
+- [x] Accessibility validation — 2026-05-07 (Skip to Content נוסף, aria-labels תוקנו, dir כפול הוסר, CSS v1.5.0)
+- [x] הסרת אימוג'ים מכל האתר — 2026-05-07 (נקי בDB, אימוג'י אחד הוסר מ-single.php)
+- [x] תרגום מלא לעברית של ממשק האתר — 2026-05-07 (35 מחרוזות הוספו ל-functions.php)
+- [ ] תיקון Nginx Cache-Control TTL — דורש גישת root לשרת (ראה הוראות למטה)
 - [ ] Launch
+
+### הוראות ידניות שנותרו
+**Nginx Cache-Control** — הוסף לקובץ `/etc/nginx/sites-available/gonorth` לפני שורת `listen 443`:
+```nginx
+location ~* \.(jpg|jpeg|png|gif|ico|webp|svg|woff|woff2|ttf|eot)$ {
+    expires 30d;
+    add_header Cache-Control "public, max-age=2592000, immutable";
+    access_log off;
+}
+location ~* \.(css|js)$ {
+    expires 7d;
+    add_header Cache-Control "public, max-age=604800";
+    access_log off;
+}
+```
+לאחר מכן: `sudo nginx -t && sudo systemctl reload nginx`
 
 ## באגים לתיקון (Bugs Backlog)
 

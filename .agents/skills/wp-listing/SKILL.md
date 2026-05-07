@@ -189,6 +189,35 @@ Common northern Israel locations:
 כינרת (אגם): 32.8000, 35.5800
 ```
 
+## Featured Image (MANDATORY)
+
+Every listing MUST have a featured image. Do not submit a listing without one.
+
+**Preferred source:** Wikimedia Commons (commons.wikimedia.org) — CC-licensed, free to use commercially.
+
+```bash
+# 1. Download image to server temp folder
+ssh gonorth "cd /tmp && wget -O place-name.jpg 'WIKIMEDIA_OR_FREE_IMAGE_URL'"
+
+# 2. Import to WordPress and attach to listing
+ATTACHMENT_ID=$(ssh gonorth "wp media import /tmp/place-name.jpg \
+  --post_id={post_id} \
+  --title='תיאור התמונה בעברית' \
+  --path=/var/www/gonorth --allow-root --porcelain 2>/dev/null")
+
+# 3. Set as featured image (_thumbnail_id)
+ssh gonorth "wp post meta update {post_id} _thumbnail_id $ATTACHMENT_ID \
+  --path=/var/www/gonorth --allow-root"
+
+# 4. Clean up temp file
+ssh gonorth "rm /tmp/place-name.jpg"
+```
+
+**Image source priority:**
+1. Wikimedia Commons — search: `commons.wikimedia.org/w/index.php?search=PLACE_NAME&title=Special:MediaSearch&type=image`
+2. Unsplash / Pixabay — free for commercial use
+3. Always verify license before using
+
 ## Constraints
 
 ### MUST DO
@@ -197,9 +226,11 @@ Common northern Israel locations:
 - Use Hebrew for all visible content
 - Include a short SEO description (160 chars) for every listing
 - Add relevant tags for filtering (משפחות, טבע, ספורט, רומנטי, etc.)
+- **Add a featured image to every listing — this is non-negotiable**
 
 ### MUST NOT DO
 - Invent phone numbers, prices, or opening hours
 - Publish directly without admin approval unless explicitly authorized
 - Create duplicate listings for the same place
 - Leave latitude/longitude empty — map pins are essential
+- **Submit a listing without a featured image**

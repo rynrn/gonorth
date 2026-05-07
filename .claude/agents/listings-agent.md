@@ -62,12 +62,40 @@ ssh gonorth "wp post update {id} --post_status=publish \
 1. **Gather** — collect all listing fields from user or context
 2. **Format** — build Hebrew description using templates from `/wp-listing`
 3. **Validate** — confirm GPS coordinates and category are correct
-4. **Publish** — create as `pending` via WP-CLI
-5. **Set meta** — add address, coordinates, phone, website via post meta
-6. **Report** — return post ID + pending status for admin review
+4. **Find image** — search Wikimedia Commons for a CC-licensed image of the place
+5. **Publish** — create as `pending` via WP-CLI
+6. **Set meta** — add address, coordinates, phone, website via post meta
+7. **Upload image** — download image to /tmp, import via `wp media import`, set as `_thumbnail_id`
+8. **Report** — return post ID + attachment ID + pending status for admin review
+
+## Image Requirement (MANDATORY)
+Every listing MUST have a featured image before being submitted. Never publish a listing without one.
+
+```bash
+# Download image from Wikimedia Commons to server:
+ssh gonorth "cd /tmp && wget -O place-name.jpg 'WIKIMEDIA_URL'"
+
+# Import to WordPress media library and attach to listing:
+ATTACHMENT_ID=$(ssh gonorth "wp media import /tmp/place-name.jpg \
+  --post_id=POST_ID --title='תיאור התמונה בעברית' \
+  --path=/var/www/gonorth --allow-root --porcelain 2>/dev/null")
+
+# Set as featured image:
+ssh gonorth "wp post meta update POST_ID _thumbnail_id $ATTACHMENT_ID \
+  --path=/var/www/gonorth --allow-root"
+
+# Clean up temp file:
+ssh gonorth "rm /tmp/place-name.jpg"
+```
+
+**Image sources (in order of preference):**
+1. Wikimedia Commons (commons.wikimedia.org) — CC-licensed, free to use
+2. Unsplash / Pixabay — free for commercial use
+3. Only use images with a confirmed free/open license
 
 ## Constraints
 - Always create listings as `pending` — never auto-publish
 - Never invent GPS coordinates, phone numbers, or prices
 - Confirm location details with user before finalizing
 - Every listing must have lat/lng — map pins are essential
+- **Every listing must have a featured image — do not skip this step**
