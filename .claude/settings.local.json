@@ -1,0 +1,29 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ssh gonorth *)",
+      "WebSearch",
+      "WebFetch(domain:www.tiuli.com)",
+      "WebFetch(domain:www.parks.org.il)",
+      "WebFetch(domain:nirtours.co.il)",
+      "WebFetch(domain:www.d.co.il)",
+      "WebFetch(domain:he.wikipedia.org)",
+      "WebFetch(domain:www.parksofisrael.com)",
+      "WebFetch(domain:wanderlog.com)",
+      "WebFetch(domain:gangaroo.co.il)",
+      "WebFetch(domain:www.kibbutzvisit.com)",
+      "WebFetch(domain:www.israel-in-photos.com)",
+      "WebFetch(domain:inature.info)",
+      "WebFetch(domain:cochav-hanofesh.com)",
+      "WebFetch(domain:israelinsideout.com)",
+      "WebFetch(domain:www.dagaldan.co.il)",
+      "WebFetch(domain:www.rest.co.il)",
+      "WebFetch(domain:info.goisrael.com)",
+      "WebFetch(domain:easy.co.il)",
+      "WebFetch(domain:www.lonelyplanet.com)",
+      "WebFetch(domain:igoogledisrael.com)",
+      "WebFetch(domain:www.tripadvisor.com)",
+      "Bash(ssh -i ~/.ssh/gonorth_rsa -o StrictHostKeyChecking=no claude@204.168.145.116 \"wp post meta get 89 _thumbnail_id --path=/var/www/gonorth --allow-root 2>&1; wp post get 89 --fields=post_thumbnail --path=/var/www/gonorth --allow-root 2>&1\")"
+    ]
+  }
+}

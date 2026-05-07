@@ -115,3 +115,13 @@
 - [x] All blog categories created — 2026-04-06
 - [x] Core pages created: דף הבית, מקומות, בלוג, אודות, צור קשר, הוסף מקום — 2026-04-06
 - [x] Main navigation menu created — 2026-04-06
+
+## 2026-05-07 — Blog Content Drop (5 SEO Articles Published)
+
+- [x] Article 94: 10 אטרקציות מומלצות בגליל לחופשת משפחה (636 words)
+- [x] Article 95: מסלול טיול ברמת הגולן - מהבניאס ועד תל פארס (662 words)
+- [x] Article 96: 5 מסלולי הליכה בגליל העליון שחייבים לנסות (624 words)
+- [x] Article 97: לינה בצפון ישראל - המדריך המלא לצימרים ואחוזות (642 words)
+- [x] Article 98: חוויות קולינריות בצפון - מסעדות, שווקים ויקבים שכדאי להכיר (673 words)
+- [x] All 5 published with status=publish, Hebrew RTL, H2/H3 structure, SEO excerpts under 160 chars
+- [x] Keywords covered: אטרקציות בצפון, טיולים בגליל, מסלולי טיול, לינה בצפון, מסעדות בצפון, יקבי גליל
