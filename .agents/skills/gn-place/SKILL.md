@@ -10,6 +10,7 @@ metadata:
   role: expert
   scope: research + content + media + publishing
   output-format: approval card → wp-cli
+  version: "1.1.0"
 ---
 
 # GN Place — יצירת / עריכת מקום ב-gonorth.co.il
@@ -131,14 +132,37 @@ ssh gonorth "wp media import /tmp/place_photo.jpg \
 
 ## שלב 3 — בניית תוכן בעברית
 
-### קטגוריות
+### קטגוריות — טבלת עזר מלאה
 
-| עברית | Slug | מתי |
-|-------|------|-----|
-| אטרקציות וטבע | `attractions` | גנים, שמורות, יקבים, אתרי טבע, מוזיאונים |
-| לינה | `accommodation` | מלונות, צימרים, גלמפינג, קמפינג |
-| אוכל ושתייה | `restaurants` | מסעדות, בתי קפה, שווקים |
-| סיורים ופעילויות | `tours` | טיולים מודרכים, ספורט, סדנאות |
+> **חובה:** כל מקום חייב לקבל לפחות קטגוריה אחת ואזור לפני פרסום.
+> **מרובה קטגוריות:** מקום יכול לשייך ל-2 קטגוריות ויותר — למשל חווה שיש בה גם מסעדה, או יקב שמשמש גם כאטרקציה. זהה זאת בשלב המחקר והוסף את כל הקטגוריות הרלוונטיות.
+
+#### קטגוריות ראשיות
+
+| עברית | Slug | term_id | מתי להשתמש |
+|-------|------|---------|------------|
+| אטרקציות | `atraktziot-main` | 17 | פארקים, מוזיאונים, חוות, גני חיות, אתרי בידור |
+| טבע ומסלולים | `teva` | 35 | שמורות טבע, נחלים, הרים, מסלולי הליכה |
+| לינה | `accommodation` | 18 | מלונות, צימרים, גלמפינג, קמפינג, אכסניות |
+| אוכל ושתייה | `restaurants` | 19 | (קטגוריה ראשית — עדיף תת-קטגוריה) |
+| סיורים ופעילויות | `tours` | 20 | טיולים מודרכים, ספורט אתגרי, סדנאות |
+
+#### תתי-קטגוריות של אוכל ושתייה (parent=19)
+
+| עברית | Slug | term_id | מתי להשתמש |
+|-------|------|---------|------------|
+| מסעדות | `restaurants-sub` | 33 | מסעדות מכל הסוגים |
+| יקבים | `yakavim` | 36 | יקבי יין, מסלולי יין |
+| בתי קפה | `batei-kafe` | 37 | בתי קפה, קפה ועוגה |
+| עגלות קפה | `agalot-kafe` | 38 | עגלות קפה, דוכני קפה ניידים |
+
+#### אזורים — gn_region (חובה לכל מקום)
+
+| עברית | Slug | term_id | כולל |
+|-------|------|---------|------|
+| גליל | `galil` | 28 | גליל עליון, גליל תחתון, עמק החולה, עמק יזרעאל |
+| גולן | `golan` | 29 | רמת הגולן, הרמון |
+| כרמל ועמק יזרעאל | `carmel` | 30 | הכרמל, עמק יזרעאל, חוף הכרמל |
 
 ### תבנית תוכן — Approval Card
 
@@ -149,7 +173,8 @@ ssh gonorth "wp media import /tmp/place_photo.jpg \
 📍 [שם המקום]
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-קטגוריה:   [קטגוריה]
+קטגוריה:   [קטגוריה ראשית] + [קטגוריה נוספת אם רלוונטי]
+אזור:       [גליל / גולן / כרמל ועמק יזרעאל]
 עיר:        [עיר]
 כתובת:      [כתובת]
 GPS:        [lat], [lng]
@@ -199,12 +224,24 @@ ID=$(ssh gonorth "wp post create \
   --post_status=publish \
   --path=/var/www/gonorth --allow-root --porcelain 2>/dev/null")
 
-# 2. קטגוריה
+# 2. קטגוריה ראשית (חובה — ראה טבלת קטגוריות בשלב 3)
+# השתמש ב-set לקטגוריה הראשית (מוחק קטגוריות קודמות ומגדיר חדשה):
 ssh gonorth "wp post term set $ID gd_placecategory CATEGORY_SLUG \
   --by=slug --path=/var/www/gonorth --allow-root 2>/dev/null"
 
-# 3. מטא-דאטה
+# קטגוריות נוספות (אם רלוונטי — למשל חווה שהיא גם מסעדה):
+# השתמש ב-add (לא set) כדי להוסיף קטגוריה נוספת בלי למחוק את הקודמת:
+ssh gonorth "wp post term add $ID gd_placecategory SECOND_CATEGORY_SLUG \
+  --by=slug --path=/var/www/gonorth --allow-root 2>/dev/null"
+# חזור על שורה זו לכל קטגוריה נוספת.
+
+# 3. אזור (חובה — ראה טבלת אזורים בשלב 3)
+ssh gonorth "wp post term add $ID gn_region REGION_SLUG \
+  --by=slug --path=/var/www/gonorth --allow-root 2>/dev/null"
+
+# 4. מטא-דאטה
 ssh gonorth "wp post meta add $ID geodir_post_city 'CITY' --path=/var/www/gonorth --allow-root 2>/dev/null"
+
 ssh gonorth "wp post meta add $ID geodir_post_address 'ADDRESS' --path=/var/www/gonorth --allow-root 2>/dev/null"
 ssh gonorth "wp post meta add $ID geodir_post_latitude 'LAT' --path=/var/www/gonorth --allow-root 2>/dev/null"
 ssh gonorth "wp post meta add $ID geodir_post_longitude 'LNG' --path=/var/www/gonorth --allow-root 2>/dev/null"
@@ -318,8 +355,31 @@ https://waze.com/ul?ll=33.191991,35.751795&navigate=yes
 | חובה | אסור |
 |------|------|
 | לחכות לאישור משתמש לפני פרסום | להמציא כתובת, טלפון, שעות |
-| לשלוף תמונה מגוגל עסקים | להשתמש ב-TripAdvisor כמקור דירוג |
+| **לשייך קטגוריה (gd_placecategory) — חובה** | לפרסם בלי קטגוריה |
+| **לשייך אזור (gn_region) — חובה** | לפרסם בלי אזור |
+| לשלוף תמונה מגוגל עסקים או מאתר רשמי | להשתמש ב-TripAdvisor כמקור דירוג |
 | לכלול לינק ויז בכל מקום | לשכוח לרוץ מהשרת על ה-Places API |
 | לכתוב תוכן בעברית RTL בלבד | לפרסם בלי GPS |
 | לסמן `geodir_featured=1` | ליצור כפילות לאותו מקום |
 | **אסור להשתמש באימוג'י** — לא בתוכן, לא בתיאורים, לא בכרטיס האישור | שימוש באימוג'י בכל שדה |
+
+### הערה על העלאת תמונות
+
+מפתח ה-Google Places API מוגבל לדפדפן (HTTP Referer restriction) — קריאות מהשרת נכשלות.
+**חלופה:** הורד תמונה מאתר רשמי של המקום דרך curl, ואז העלה דרך REST API:
+
+```bash
+# הורדת תמונה מאתר רשמי:
+ssh gonorth "curl -s -L 'IMAGE_URL' -o /tmp/place_photo.jpg"
+
+# העלאה דרך REST API (עוקף בעיית הרשאות uploads):
+ssh gonorth "curl -s -X POST \
+  -H 'Authorization: Basic $(echo -n rynrn:fALc6wqzQTvwxVKAD4ng3mGU | base64)' \
+  -H 'Content-Disposition: attachment; filename=place_photo.jpg' \
+  -H 'Content-Type: image/jpeg' \
+  --data-binary @/tmp/place_photo.jpg \
+  'https://gonorth.co.il/wp-json/wp/v2/media' | python3 -c \"import sys,json; d=json.load(sys.stdin); print(d['id'])\""
+
+# לאחר קבלת MEDIA_ID — הגדרה כ-featured image:
+ssh gonorth "wp post meta update POST_ID _thumbnail_id MEDIA_ID --path=/var/www/gonorth --allow-root"
+```

@@ -320,6 +320,7 @@ Skills are reusable knowledge modules in `.agents/skills/{skill}/SKILL.md`. Alwa
 | `wp-monetize` | Revenue streams, pricing, timing | `.agents/skills/wp-monetize/SKILL.md` |
 | `elementor` | Elementor page builder operations | `.agents/skills/elementor/SKILL.md` |
 | `woocommerce` | WooCommerce, orders, payment gateways | `.agents/skills/woocommerce/SKILL.md` |
+| `gn-scout` | גילוי מקומות חדשים בצפון, סינון כפילויות וסגורים, הוספה לרשימת המתנה | `.agents/skills/gn-scout/SKILL.md` |
 
 ---
 
