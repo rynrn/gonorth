@@ -1,0 +1,212 @@
+[
+    {
+        "id": 48,
+        "title": "יקב הר אודם",
+        "business_hours": null,
+        "open_saturday": null,
+        "practical_checked_at": null
+    },
+    {
+        "id": 52,
+        "title": "החווה ביער אודם",
+        "business_hours": null,
+        "open_saturday": null,
+        "practical_checked_at": null
+    },
+    {
+        "id": 58,
+        "title": "שמורת טבע נחל עמוד",
+        "business_hours": null,
+        "open_saturday": null,
+        "practical_checked_at": null
+    },
+    {
+        "id": 86,
+        "title": "פארק המעיינות",
+        "business_hours": null,
+        "open_saturday": "yes",
+        "practical_checked_at": null
+    },
+    {
+        "id": 87,
+        "title": "גן גורו — הפארק האוסטרלי",
+        "business_hours": "[\"Mo 09:00-20:00\",\"Tu 09:00-20:00\",\"We 09:00-20:00\",\"Th 09:00-20:00\",\"Fr 09:00-15:00\",\"Sa 09:00-20:00\",\"Su 09:00-20:00\"],[\"UTC\":\"+0\",\"Timezone\":\"UTC\"]",
+        "open_saturday": null,
+        "practical_checked_at": "2026-09-02T04:44:35+00:00"
+    },
+    {
+        "id": 89,
+        "title": "שמורת טבע נחל שניר (חצבאני)",
+        "business_hours": null,
+        "open_saturday": null,
+        "practical_checked_at": null
+    },
+    {
+        "id": 149,
+        "title": "דג על הדן",
+        "business_hours": null,
+        "open_saturday": "yes",
+        "practical_checked_at": null
+    },
+    {
+        "id": 157,
+        "title": "כפר החיות בכפר גלעדי",
+        "business_hours": null,
+        "open_saturday": null,
+        "practical_checked_at": null
+    },
+    {
+        "id": 159,
+        "title": "לול ארט",
+        "business_hours": null,
+        "open_saturday": null,
+        "practical_checked_at": null
+    },
+    {
+        "id": 165,
+        "title": "פיינטבול הגושרים",
+        "business_hours": null,
+        "open_saturday": null,
+        "practical_checked_at": null
+    },
+    {
+        "id": 175,
+        "title": "גן לאומי תל חצור",
+        "business_hours": null,
+        "open_saturday": null,
+        "practical_checked_at": null
+    },
+    {
+        "id": 183,
+        "title": "רוג'ום — קיר טיפוס בקריית שמונה",
+        "business_hours": null,
+        "open_saturday": null,
+        "practical_checked_at": null
+    },
+    {
+        "id": 187,
+        "title": "שמורת טבע נחל המשושים",
+        "business_hours": null,
+        "open_saturday": null,
+        "practical_checked_at": null
+    },
+    {
+        "id": 193,
+        "title": "יקב רמת הגולן",
+        "business_hours": null,
+        "open_saturday": null,
+        "practical_checked_at": null
+    },
+    {
+        "id": 198,
+        "title": "יקב דלתון",
+        "business_hours": null,
+        "open_saturday": null,
+        "practical_checked_at": null
+    },
+    {
+        "id": 204,
+        "title": "קפה מוייז",
+        "business_hours": null,
+        "open_saturday": null,
+        "practical_checked_at": null
+    },
+    {
+        "id": 213,
+        "title": "דורא עגלת קפה",
+        "business_hours": null,
+        "open_saturday": null,
+        "practical_checked_at": null
+    },
+    {
+        "id": 215,
+        "title": "קפה קירשנר",
+        "business_hours": null,
+        "open_saturday": null,
+        "practical_checked_at": null
+    },
+    {
+        "id": 225,
+        "title": "עגלת קפה החלוצים",
+        "business_hours": null,
+        "open_saturday": null,
+        "practical_checked_at": null
+    },
+    {
+        "id": 229,
+        "title": "שישו קפה",
+        "business_hours": null,
+        "open_saturday": null,
+        "practical_checked_at": null
+    },
+    {
+        "id": 231,
+        "title": "עספורה",
+        "business_hours": null,
+        "open_saturday": null,
+        "practical_checked_at": null
+    },
+    {
+        "id": 235,
+        "title": "יקב תל שיפון",
+        "business_hours": null,
+        "open_saturday": null,
+        "practical_checked_at": null
+    },
+    {
+        "id": 237,
+        "title": "יקב שאטו גולן",
+        "business_hours": null,
+        "open_saturday": null,
+        "practical_checked_at": null
+    },
+    {
+        "id": 240,
+        "title": "יקב הרי גליל",
+        "business_hours": null,
+        "open_saturday": null,
+        "practical_checked_at": null
+    },
+    {
+        "id": 242,
+        "title": "יקב אדיר",
+        "business_hours": null,
+        "open_saturday": null,
+        "practical_checked_at": null
+    },
+    {
+        "id": 246,
+        "title": "אינדי פארק",
+        "business_hours": null,
+        "open_saturday": null,
+        "practical_checked_at": null
+    },
+    {
+        "id": 248,
+        "title": "מטאור — תצפיות כוכבים",
+        "business_hours": null,
+        "open_saturday": null,
+        "practical_checked_at": null
+    },
+    {
+        "id": 325,
+        "title": "רפטינג נהר הירדן",
+        "business_hours": null,
+        "open_saturday": null,
+        "practical_checked_at": null
+    },
+    {
+        "id": 333,
+        "title": "חוות הבוקרים — מרום גולן",
+        "business_hours": null,
+        "open_saturday": null,
+        "practical_checked_at": null
+    },
+    {
+        "id": 363,
+        "title": "יקב פלטר",
+        "business_hours": null,
+        "open_saturday": null,
+        "practical_checked_at": null
+    }
+]
