@@ -1,0 +1,6 @@
+{
+  "places": [
+    {"name":"פאן ריידר בצפון","country":"ישראל","region":"צפון","latitude":33.0539083,"longitude":35.6117251,"google_place_id":"ChIJs8iEj3KhHhURvORrh6SY09E","official_source_url":"https://funraiderbzafon.co.il/אודות/","address":"השמורה","city":"חולתה","phone":"052-383-3515","website":"https://www.funraiderbzafon.co.il/","category":"tours","google_rating":4.9,"google_review_count":43},
+    {"name":"Nice to Meat","country":"ישראל","region":"צפון","latitude":33.0450249,"longitude":35.5734238,"google_place_id":"ChIJT1nuvL8fHBURJh8BTXoSWQQ","official_source_url":"https://www.nicetomeatrest.co.il/","address":"צומת יסוד המעלה","city":"יסוד המעלה","phone":"054-211-6643","website":"https://www.nicetomeatrest.co.il/","category":"restaurants-sub","google_rating":4.3,"google_review_count":275}
+  ]
+}

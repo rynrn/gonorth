@@ -1,0 +1,38 @@
+{
+  "places": [
+    {
+      "name": "המקום של ארנון",
+      "country": "ישראל",
+      "region": "צפון",
+      "city": "יסוד המעלה",
+      "category": "ochel",
+      "address": "רחוב השזיף, יסוד המעלה",
+      "latitude": 33.0596945,
+      "longitude": 35.6125568,
+      "google_place_id": "ChIJd1H9FQChHhURr33cM2c8b38",
+      "source_url": "https://arnons-place.co.il/",
+      "phone": "050-277-0613",
+      "website": "https://arnons-place.co.il/",
+      "rating": 4.9,
+      "user_rating_count": 41,
+      "hours_status": "conflict_requires_review"
+    },
+    {
+      "name": "רנטו בר יין ומעדנייה",
+      "country": "ישראל",
+      "region": "צפון",
+      "city": "יסוד המעלה",
+      "category": "ochel",
+      "address": "כיכר המושבה, המייסדים 130, יסוד המעלה",
+      "latitude": 33.0573462,
+      "longitude": 35.6090588,
+      "google_place_id": "ChIJ0853nvohHBURd5AEOnjKy_A",
+      "source_url": "https://renatodeli.co.il/terms/",
+      "phone": "054-670-0937",
+      "website": "https://renatodeli.co.il/",
+      "rating": 4.7,
+      "user_rating_count": 72,
+      "hours_status": "google_only_requires_review"
+    }
+  ]
+}

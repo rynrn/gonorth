@@ -1,0 +1,35 @@
+[
+  {
+    "id": 242,
+    "status": 200,
+    "rtl": true,
+    "guide_link": null,
+    "friday_corrected": true
+  },
+  {
+    "id": 235,
+    "status": 200,
+    "rtl": true,
+    "guide_link": true,
+    "friday_corrected": null
+  },
+  {
+    "id": 237,
+    "status": 200,
+    "rtl": true,
+    "guide_link": true,
+    "friday_corrected": null
+  },
+  {
+    "id": 268,
+    "target_id": 235,
+    "status": 200,
+    "place_link": true
+  },
+  {
+    "id": 268,
+    "target_id": 237,
+    "status": 200,
+    "place_link": true
+  }
+]

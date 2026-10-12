@@ -1,0 +1,728 @@
+{
+  "method": "Three serial curl GETs, compression enabled; DOM source inventory; one fetch per unique first-party static asset. Asset bytes decoded not browser transfer; excludes srcset alternatives CSS subresources and dynamic loading.",
+  "pages": [
+    {
+      "name": "archive",
+      "url": "https://gonorth.co.il/places/",
+      "at": "2026-09-26T19:39:53.084Z",
+      "http": 200,
+      "ttfb_seconds": 0.875607,
+      "total_seconds": 1.088032,
+      "transferred_bytes": 133890,
+      "html_utf8_bytes": 491603,
+      "css": [
+        "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_0e595cf9c0607c92f351bb5d75b172ce.php?ver=4.13.0",
+        "https://fonts.googleapis.com/css?family=Heebo:800%2C&display=swap&ver=4.13.0",
+        "https://gonorth.co.il/wp-includes/css/dist/block-library/style-rtl.min.css?ver=7.1.2",
+        "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/css/accessibility-onetap-front-end.min.css?ver=2.10.0",
+        "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/css/onetap-fonts-readable.min.css?ver=2.10.0",
+        "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_1fbf35126001b27c9d77720a9e941437.php?ver=4.13.0",
+        "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_cd360d29346139a01939fcc0f29f85f8.php?ver=4.13.0",
+        "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_bee817902507e0ea9b2a85da3d85d2e3.php?ver=4.13.0",
+        "https://gonorth.co.il/wp-content/themes/astra/style.css?ver=7.1.2",
+        "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_b14cfdfad6ea2ef7ac9f28cd254d327d.php?ver=1.0.0",
+        "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_6e965c6e3bcfcbf9911dc55e7cbcf40f.php?ver=2.9.0",
+        "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_f744e4881044ddcf68ff999850aa6f7f.php?ver=0.2.47",
+        "https://use.fontawesome.com/releases/v6.7.2/css/all.css?wpfas=true",
+        "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_c812c49d797de159697f02bafc3d9c51.php?ver=wc-10.7.0"
+      ],
+      "js": [
+        "https://gonorth.co.il/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+        "https://gonorth.co.il/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+        "https://gonorth.co.il/wp-content/plugins/geodirectory/vendor/ayecode/wp-ayecode-ui/assets-v5/js/bootstrap.bundle.min.js?ver=0.2.47",
+        "https://gonorth.co.il/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.10.7.0",
+        "https://gonorth.co.il/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=10.7.0",
+        "https://gonorth.co.il/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.10.7.0",
+        "https://gonorth.co.il/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=10.7.0",
+        "https://gonorth.co.il/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.13.0",
+        "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_f73d7a556433289d1fb679df33c4961a.php?ver=2.10.0",
+        "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/js/script.min.js?ver=2.10.0",
+        "https://gonorth.co.il/wp-content/plugins/geodirectory/assets/aui/js/geodirectory.min.js?ver=2.8.160",
+        "https://gonorth.co.il/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=10.7.0",
+        "https://gonorth.co.il/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=10.7.0",
+        "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_497638acb699a69ac9a22bc7c2efb64b.php?ver=1.17.3"
+      ],
+      "images": [
+        {
+          "src": "https://gonorth.co.il/wp-content/themes/gonorth-child/assets/gonorth-organic-mark.svg?v=2",
+          "loading": null,
+          "fetchpriority": null,
+          "width": "120",
+          "height": "52",
+          "srcset": false
+        },
+        {
+          "src": "https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-49-768x511.jpg",
+          "loading": "lazy",
+          "fetchpriority": null,
+          "width": "768",
+          "height": "511",
+          "srcset": true
+        },
+        {
+          "src": "https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-48-768x512.jpg",
+          "loading": "lazy",
+          "fetchpriority": null,
+          "width": "768",
+          "height": "512",
+          "srcset": true
+        },
+        {
+          "src": "https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-47-768x336.jpg",
+          "loading": "lazy",
+          "fetchpriority": null,
+          "width": "768",
+          "height": "336",
+          "srcset": true
+        },
+        {
+          "src": "https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-46-768x346.jpg",
+          "loading": "lazy",
+          "fetchpriority": null,
+          "width": "768",
+          "height": "346",
+          "srcset": true
+        },
+        {
+          "src": "https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-45-768x320.jpg",
+          "loading": "lazy",
+          "fetchpriority": null,
+          "width": "768",
+          "height": "320",
+          "srcset": true
+        },
+        {
+          "src": "https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-44-768x346.jpg",
+          "loading": "lazy",
+          "fetchpriority": null,
+          "width": "768",
+          "height": "346",
+          "srcset": true
+        },
+        {
+          "src": "https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-43.jpg",
+          "loading": "lazy",
+          "fetchpriority": null,
+          "width": "500",
+          "height": "333",
+          "srcset": true
+        },
+        {
+          "src": "https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-42-768x576.jpg",
+          "loading": "lazy",
+          "fetchpriority": null,
+          "width": "768",
+          "height": "576",
+          "srcset": true
+        },
+        {
+          "src": "https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-41-768x576.jpg",
+          "loading": "lazy",
+          "fetchpriority": null,
+          "width": "768",
+          "height": "576",
+          "srcset": true
+        },
+        {
+          "src": "https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-40-768x432.jpg",
+          "loading": "lazy",
+          "fetchpriority": null,
+          "width": "768",
+          "height": "432",
+          "srcset": true
+        },
+        {
+          "src": "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/images/admin/Original_Logo_Icon.svg",
+          "loading": null,
+          "fetchpriority": null,
+          "width": null,
+          "height": null,
+          "srcset": false
+        },
+        {
+          "src": "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/images/israel.png",
+          "loading": null,
+          "fetchpriority": null,
+          "width": null,
+          "height": null,
+          "srcset": false
+        },
+        {
+          "src": "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/images/icon-drop-down-menu.png",
+          "loading": null,
+          "fetchpriority": null,
+          "width": "10",
+          "height": "10",
+          "srcset": false
+        },
+        {
+          "src": "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/images/israel.png",
+          "loading": null,
+          "fetchpriority": null,
+          "width": null,
+          "height": null,
+          "srcset": false
+        }
+      ]
+    },
+    {
+      "name": "place",
+      "url": "https://gonorth.co.il/places/%d7%a7%d7%99%d7%90%d7%a7-%d7%9b%d7%a0%d7%a8%d7%aa/",
+      "at": "2026-09-26T19:39:54.884Z",
+      "http": 200,
+      "ttfb_seconds": 0.871842,
+      "total_seconds": 1.094436,
+      "transferred_bytes": 139309,
+      "html_utf8_bytes": 497855,
+      "css": [
+        "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_0e595cf9c0607c92f351bb5d75b172ce.php?ver=4.13.0",
+        "https://fonts.googleapis.com/css?family=Heebo:800%2C&display=swap&ver=4.13.0",
+        "https://gonorth.co.il/wp-includes/css/dist/block-library/style-rtl.min.css?ver=7.1.2",
+        "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/css/accessibility-onetap-front-end.min.css?ver=2.10.0",
+        "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/css/onetap-fonts-readable.min.css?ver=2.10.0",
+        "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_1fbf35126001b27c9d77720a9e941437.php?ver=4.13.0",
+        "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_cd360d29346139a01939fcc0f29f85f8.php?ver=4.13.0",
+        "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_bee817902507e0ea9b2a85da3d85d2e3.php?ver=4.13.0",
+        "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_732caf67dc4cce9db3ee631c1f1fba79.php?ver=1.17.3",
+        "https://gonorth.co.il/wp-content/themes/astra/style.css?ver=7.1.2",
+        "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_b14cfdfad6ea2ef7ac9f28cd254d327d.php?ver=1.0.0",
+        "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_6e965c6e3bcfcbf9911dc55e7cbcf40f.php?ver=2.9.0",
+        "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_f744e4881044ddcf68ff999850aa6f7f.php?ver=0.2.47",
+        "https://use.fontawesome.com/releases/v6.7.2/css/all.css?wpfas=true",
+        "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_c812c49d797de159697f02bafc3d9c51.php?ver=wc-10.7.0"
+      ],
+      "js": [
+        "https://gonorth.co.il/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+        "https://gonorth.co.il/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+        "https://gonorth.co.il/wp-content/plugins/geodirectory/vendor/ayecode/wp-ayecode-ui/assets-v5/js/bootstrap.bundle.min.js?ver=0.2.47",
+        "https://gonorth.co.il/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.10.7.0",
+        "https://gonorth.co.il/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=10.7.0",
+        "https://gonorth.co.il/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.10.7.0",
+        "https://gonorth.co.il/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=10.7.0",
+        "https://gonorth.co.il/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.13.0",
+        "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_f73d7a556433289d1fb679df33c4961a.php?ver=2.10.0",
+        "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/js/script.min.js?ver=2.10.0",
+        "https://gonorth.co.il/wp-content/plugins/geodirectory/assets/aui/js/geodirectory.min.js?ver=2.8.160",
+        "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_014d72db1ef0b22c148dcc8ccbe0b359.php?ver=1.17.3",
+        "https://gonorth.co.il/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=10.7.0",
+        "https://gonorth.co.il/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=10.7.0",
+        "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_497638acb699a69ac9a22bc7c2efb64b.php?ver=1.17.3",
+        "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_93ba3c2c5854856a86658724a55ce6ca.php?ver=1.17.3",
+        "https://gonorth.co.il/wp-includes/js/comment-reply.min.js?ver=7.1.2"
+      ],
+      "images": [
+        {
+          "src": "https://gonorth.co.il/wp-content/themes/gonorth-child/assets/gonorth-organic-mark.svg?v=2",
+          "loading": null,
+          "fetchpriority": null,
+          "width": "120",
+          "height": "52",
+          "srcset": false
+        },
+        {
+          "src": "https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-48.jpg",
+          "loading": "eager",
+          "fetchpriority": "high",
+          "width": "1200",
+          "height": "800",
+          "srcset": true
+        },
+        {
+          "src": "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/images/admin/Original_Logo_Icon.svg",
+          "loading": null,
+          "fetchpriority": null,
+          "width": null,
+          "height": null,
+          "srcset": false
+        },
+        {
+          "src": "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/images/israel.png",
+          "loading": null,
+          "fetchpriority": null,
+          "width": null,
+          "height": null,
+          "srcset": false
+        },
+        {
+          "src": "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/images/icon-drop-down-menu.png",
+          "loading": null,
+          "fetchpriority": null,
+          "width": "10",
+          "height": "10",
+          "srcset": false
+        },
+        {
+          "src": "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/images/israel.png",
+          "loading": null,
+          "fetchpriority": null,
+          "width": null,
+          "height": null,
+          "srcset": false
+        }
+      ]
+    },
+    {
+      "name": "article",
+      "url": "https://gonorth.co.il/tours-kayaks-north-israel/",
+      "at": "2026-09-26T19:39:56.536Z",
+      "http": 200,
+      "ttfb_seconds": 0.848908,
+      "total_seconds": 1.072806,
+      "transferred_bytes": 134427,
+      "html_utf8_bytes": 477198,
+      "css": [
+        "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_0e595cf9c0607c92f351bb5d75b172ce.php?ver=4.13.0",
+        "https://fonts.googleapis.com/css?family=Heebo:800%2C&display=swap&ver=4.13.0",
+        "https://gonorth.co.il/wp-includes/css/dist/block-library/style-rtl.min.css?ver=7.1.2",
+        "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/css/accessibility-onetap-front-end.min.css?ver=2.10.0",
+        "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/css/onetap-fonts-readable.min.css?ver=2.10.0",
+        "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_1fbf35126001b27c9d77720a9e941437.php?ver=4.13.0",
+        "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_cd360d29346139a01939fcc0f29f85f8.php?ver=4.13.0",
+        "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_bee817902507e0ea9b2a85da3d85d2e3.php?ver=4.13.0",
+        "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_732caf67dc4cce9db3ee631c1f1fba79.php?ver=1.17.3",
+        "https://gonorth.co.il/wp-content/themes/astra/style.css?ver=7.1.2",
+        "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_b14cfdfad6ea2ef7ac9f28cd254d327d.php?ver=1.0.0",
+        "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_6e965c6e3bcfcbf9911dc55e7cbcf40f.php?ver=2.9.0",
+        "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_f744e4881044ddcf68ff999850aa6f7f.php?ver=0.2.47",
+        "https://use.fontawesome.com/releases/v6.7.2/css/all.css?wpfas=true",
+        "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_c812c49d797de159697f02bafc3d9c51.php?ver=wc-10.7.0"
+      ],
+      "js": [
+        "https://gonorth.co.il/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+        "https://gonorth.co.il/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+        "https://gonorth.co.il/wp-content/plugins/geodirectory/vendor/ayecode/wp-ayecode-ui/assets-v5/js/bootstrap.bundle.min.js?ver=0.2.47",
+        "https://gonorth.co.il/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.10.7.0",
+        "https://gonorth.co.il/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=10.7.0",
+        "https://gonorth.co.il/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.10.7.0",
+        "https://gonorth.co.il/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=10.7.0",
+        "https://gonorth.co.il/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.13.0",
+        "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_f73d7a556433289d1fb679df33c4961a.php?ver=2.10.0",
+        "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/js/script.min.js?ver=2.10.0",
+        "https://gonorth.co.il/wp-content/plugins/geodirectory/assets/aui/js/geodirectory.min.js?ver=2.8.160",
+        "https://gonorth.co.il/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=10.7.0",
+        "https://gonorth.co.il/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=10.7.0",
+        "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_497638acb699a69ac9a22bc7c2efb64b.php?ver=1.17.3"
+      ],
+      "images": [
+        {
+          "src": "https://gonorth.co.il/wp-content/themes/gonorth-child/assets/gonorth-organic-mark.svg?v=2",
+          "loading": null,
+          "fetchpriority": null,
+          "width": "120",
+          "height": "52",
+          "srcset": false
+        },
+        {
+          "src": "https://gonorth.co.il/wp-content/uploads/2026/09/gonorth-tours-kayaks-hero.webp",
+          "loading": null,
+          "fetchpriority": "high",
+          "width": "1672",
+          "height": "941",
+          "srcset": true
+        },
+        {
+          "src": "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/images/admin/Original_Logo_Icon.svg",
+          "loading": null,
+          "fetchpriority": null,
+          "width": null,
+          "height": null,
+          "srcset": false
+        },
+        {
+          "src": "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/images/israel.png",
+          "loading": null,
+          "fetchpriority": null,
+          "width": null,
+          "height": null,
+          "srcset": false
+        },
+        {
+          "src": "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/images/icon-drop-down-menu.png",
+          "loading": null,
+          "fetchpriority": null,
+          "width": "10",
+          "height": "10",
+          "srcset": false
+        },
+        {
+          "src": "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/images/israel.png",
+          "loading": null,
+          "fetchpriority": null,
+          "width": null,
+          "height": null,
+          "srcset": false
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_0e595cf9c0607c92f351bb5d75b172ce.php?ver=4.13.0",
+      "status": 200,
+      "decoded_bytes": 44825,
+      "content_type": "text/css; charset=utf-8",
+      "encoding": "gzip",
+      "cache_control": "max-age=30672000, public, immutable"
+    },
+    {
+      "url": "https://gonorth.co.il/wp-includes/css/dist/block-library/style-rtl.min.css?ver=7.1.2",
+      "status": 200,
+      "decoded_bytes": 140886,
+      "content_type": "text/css",
+      "encoding": null,
+      "cache_control": null
+    },
+    {
+      "url": "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/css/accessibility-onetap-front-end.min.css?ver=2.10.0",
+      "status": 200,
+      "decoded_bytes": 85538,
+      "content_type": "text/css",
+      "encoding": null,
+      "cache_control": null
+    },
+    {
+      "url": "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/css/onetap-fonts-readable.min.css?ver=2.10.0",
+      "status": 200,
+      "decoded_bytes": 2008,
+      "content_type": "text/css",
+      "encoding": null,
+      "cache_control": null
+    },
+    {
+      "url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_1fbf35126001b27c9d77720a9e941437.php?ver=4.13.0",
+      "status": 200,
+      "decoded_bytes": 16644,
+      "content_type": "text/css; charset=utf-8",
+      "encoding": "gzip",
+      "cache_control": "max-age=30672000, public, immutable"
+    },
+    {
+      "url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_cd360d29346139a01939fcc0f29f85f8.php?ver=4.13.0",
+      "status": 200,
+      "decoded_bytes": 6189,
+      "content_type": "text/css; charset=utf-8",
+      "encoding": "gzip",
+      "cache_control": "max-age=30672000, public, immutable"
+    },
+    {
+      "url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_bee817902507e0ea9b2a85da3d85d2e3.php?ver=4.13.0",
+      "status": 200,
+      "decoded_bytes": 119884,
+      "content_type": "text/css; charset=utf-8",
+      "encoding": "gzip",
+      "cache_control": "max-age=30672000, public, immutable"
+    },
+    {
+      "url": "https://gonorth.co.il/wp-content/themes/astra/style.css?ver=7.1.2",
+      "status": 200,
+      "decoded_bytes": 4575,
+      "content_type": "text/css",
+      "encoding": null,
+      "cache_control": null
+    },
+    {
+      "url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_b14cfdfad6ea2ef7ac9f28cd254d327d.php?ver=1.0.0",
+      "status": 200,
+      "decoded_bytes": 1276,
+      "content_type": "text/css; charset=utf-8",
+      "encoding": "gzip",
+      "cache_control": "max-age=30672000, public, immutable"
+    },
+    {
+      "url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_6e965c6e3bcfcbf9911dc55e7cbcf40f.php?ver=2.9.0",
+      "status": 200,
+      "decoded_bytes": 73899,
+      "content_type": "text/css; charset=utf-8",
+      "encoding": "gzip",
+      "cache_control": "max-age=30672000, public, immutable"
+    },
+    {
+      "url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_f744e4881044ddcf68ff999850aa6f7f.php?ver=0.2.47",
+      "status": 200,
+      "decoded_bytes": 515736,
+      "content_type": "text/css; charset=utf-8",
+      "encoding": "gzip",
+      "cache_control": "max-age=30672000, public, immutable"
+    },
+    {
+      "url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_c812c49d797de159697f02bafc3d9c51.php?ver=wc-10.7.0",
+      "status": 200,
+      "decoded_bytes": 14007,
+      "content_type": "text/css; charset=utf-8",
+      "encoding": "gzip",
+      "cache_control": "max-age=30672000, public, immutable"
+    },
+    {
+      "url": "https://gonorth.co.il/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "status": 200,
+      "decoded_bytes": 87553,
+      "content_type": "application/javascript",
+      "encoding": null,
+      "cache_control": null
+    },
+    {
+      "url": "https://gonorth.co.il/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+      "status": 200,
+      "decoded_bytes": 13577,
+      "content_type": "application/javascript",
+      "encoding": null,
+      "cache_control": null
+    },
+    {
+      "url": "https://gonorth.co.il/wp-content/plugins/geodirectory/vendor/ayecode/wp-ayecode-ui/assets-v5/js/bootstrap.bundle.min.js?ver=0.2.47",
+      "status": 200,
+      "decoded_bytes": 136517,
+      "content_type": "application/javascript",
+      "encoding": null,
+      "cache_control": null
+    },
+    {
+      "url": "https://gonorth.co.il/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.10.7.0",
+      "status": 200,
+      "decoded_bytes": 9636,
+      "content_type": "application/javascript",
+      "encoding": null,
+      "cache_control": null
+    },
+    {
+      "url": "https://gonorth.co.il/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=10.7.0",
+      "status": 200,
+      "decoded_bytes": 4350,
+      "content_type": "application/javascript",
+      "encoding": null,
+      "cache_control": null
+    },
+    {
+      "url": "https://gonorth.co.il/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.10.7.0",
+      "status": 200,
+      "decoded_bytes": 1720,
+      "content_type": "application/javascript",
+      "encoding": null,
+      "cache_control": null
+    },
+    {
+      "url": "https://gonorth.co.il/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=10.7.0",
+      "status": 200,
+      "decoded_bytes": 4131,
+      "content_type": "application/javascript",
+      "encoding": null,
+      "cache_control": null
+    },
+    {
+      "url": "https://gonorth.co.il/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.13.0",
+      "status": 200,
+      "decoded_bytes": 25664,
+      "content_type": "application/javascript",
+      "encoding": null,
+      "cache_control": null
+    },
+    {
+      "url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_f73d7a556433289d1fb679df33c4961a.php?ver=2.10.0",
+      "status": 200,
+      "decoded_bytes": 9069,
+      "content_type": "text/javascript; charset=utf-8",
+      "encoding": "gzip",
+      "cache_control": "max-age=30672000, public, immutable"
+    },
+    {
+      "url": "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/js/script.min.js?ver=2.10.0",
+      "status": 200,
+      "decoded_bytes": 63697,
+      "content_type": "application/javascript",
+      "encoding": null,
+      "cache_control": null
+    },
+    {
+      "url": "https://gonorth.co.il/wp-content/plugins/geodirectory/assets/aui/js/geodirectory.min.js?ver=2.8.160",
+      "status": 200,
+      "decoded_bytes": 65102,
+      "content_type": "application/javascript",
+      "encoding": null,
+      "cache_control": null
+    },
+    {
+      "url": "https://gonorth.co.il/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=10.7.0",
+      "status": 200,
+      "decoded_bytes": 15315,
+      "content_type": "application/javascript",
+      "encoding": null,
+      "cache_control": null
+    },
+    {
+      "url": "https://gonorth.co.il/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=10.7.0",
+      "status": 200,
+      "decoded_bytes": 2439,
+      "content_type": "application/javascript",
+      "encoding": null,
+      "cache_control": null
+    },
+    {
+      "url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_497638acb699a69ac9a22bc7c2efb64b.php?ver=1.17.3",
+      "status": 200,
+      "decoded_bytes": 6023,
+      "content_type": "text/javascript; charset=utf-8",
+      "encoding": "gzip",
+      "cache_control": "max-age=30672000, public, immutable"
+    },
+    {
+      "url": "https://gonorth.co.il/wp-content/themes/gonorth-child/assets/gonorth-organic-mark.svg?v=2",
+      "status": 200,
+      "decoded_bytes": 1450,
+      "content_type": "image/svg+xml",
+      "encoding": null,
+      "cache_control": null
+    },
+    {
+      "url": "https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-49-768x511.jpg",
+      "status": 200,
+      "decoded_bytes": 121200,
+      "content_type": "image/jpeg",
+      "encoding": null,
+      "cache_control": null
+    },
+    {
+      "url": "https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-48-768x512.jpg",
+      "status": 200,
+      "decoded_bytes": 111659,
+      "content_type": "image/jpeg",
+      "encoding": null,
+      "cache_control": null
+    },
+    {
+      "url": "https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-47-768x336.jpg",
+      "status": 200,
+      "decoded_bytes": 34316,
+      "content_type": "image/jpeg",
+      "encoding": null,
+      "cache_control": null
+    },
+    {
+      "url": "https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-46-768x346.jpg",
+      "status": 200,
+      "decoded_bytes": 53274,
+      "content_type": "image/jpeg",
+      "encoding": null,
+      "cache_control": null
+    },
+    {
+      "url": "https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-45-768x320.jpg",
+      "status": 200,
+      "decoded_bytes": 20313,
+      "content_type": "image/jpeg",
+      "encoding": null,
+      "cache_control": null
+    },
+    {
+      "url": "https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-44-768x346.jpg",
+      "status": 200,
+      "decoded_bytes": 51354,
+      "content_type": "image/jpeg",
+      "encoding": null,
+      "cache_control": null
+    },
+    {
+      "url": "https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-43.jpg",
+      "status": 200,
+      "decoded_bytes": 21180,
+      "content_type": "image/jpeg",
+      "encoding": null,
+      "cache_control": null
+    },
+    {
+      "url": "https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-42-768x576.jpg",
+      "status": 200,
+      "decoded_bytes": 64116,
+      "content_type": "image/jpeg",
+      "encoding": null,
+      "cache_control": null
+    },
+    {
+      "url": "https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-41-768x576.jpg",
+      "status": 200,
+      "decoded_bytes": 77801,
+      "content_type": "image/jpeg",
+      "encoding": null,
+      "cache_control": null
+    },
+    {
+      "url": "https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-40-768x432.jpg",
+      "status": 200,
+      "decoded_bytes": 28955,
+      "content_type": "image/jpeg",
+      "encoding": null,
+      "cache_control": null
+    },
+    {
+      "url": "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/images/admin/Original_Logo_Icon.svg",
+      "status": 200,
+      "decoded_bytes": 1261,
+      "content_type": "image/svg+xml",
+      "encoding": null,
+      "cache_control": null
+    },
+    {
+      "url": "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/images/israel.png",
+      "status": 200,
+      "decoded_bytes": 3993,
+      "content_type": "image/png",
+      "encoding": null,
+      "cache_control": null
+    },
+    {
+      "url": "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/images/icon-drop-down-menu.png",
+      "status": 200,
+      "decoded_bytes": 4062,
+      "content_type": "image/png",
+      "encoding": null,
+      "cache_control": null
+    },
+    {
+      "url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_732caf67dc4cce9db3ee631c1f1fba79.php?ver=1.17.3",
+      "status": 200,
+      "decoded_bytes": 15249,
+      "content_type": "text/css; charset=utf-8",
+      "encoding": "gzip",
+      "cache_control": "max-age=30672000, public, immutable"
+    },
+    {
+      "url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_014d72db1ef0b22c148dcc8ccbe0b359.php?ver=1.17.3",
+      "status": 200,
+      "decoded_bytes": 917,
+      "content_type": "text/javascript; charset=utf-8",
+      "encoding": "gzip",
+      "cache_control": "max-age=30672000, public, immutable"
+    },
+    {
+      "url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_93ba3c2c5854856a86658724a55ce6ca.php?ver=1.17.3",
+      "status": 200,
+      "decoded_bytes": 1684,
+      "content_type": "text/javascript; charset=utf-8",
+      "encoding": "gzip",
+      "cache_control": "max-age=30672000, public, immutable"
+    },
+    {
+      "url": "https://gonorth.co.il/wp-includes/js/comment-reply.min.js?ver=7.1.2",
+      "status": 200,
+      "decoded_bytes": 2950,
+      "content_type": "application/javascript",
+      "encoding": null,
+      "cache_control": null
+    },
+    {
+      "url": "https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-48.jpg",
+      "status": 200,
+      "decoded_bytes": 302733,
+      "content_type": "image/jpeg",
+      "encoding": null,
+      "cache_control": null
+    },
+    {
+      "url": "https://gonorth.co.il/wp-content/uploads/2026/09/gonorth-tours-kayaks-hero.webp",
+      "status": 200,
+      "decoded_bytes": 415390,
+      "content_type": "image/webp",
+      "encoding": null,
+      "cache_control": null
+    }
+  ]
+}

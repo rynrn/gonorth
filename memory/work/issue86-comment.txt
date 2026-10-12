@@ -1,0 +1,3 @@
+#86 — ניסוי מוגבל ללא שינוי ROOT: בדף הכתבה `/tours-kayaks-north-israel/` הוסרו נכסי WooCommerce שאינם משמשים רכיב מסחר בדף (4 CSS, ‏6 JS). לפני הפריסה נשמר עותק `functions.php`, המועמד עבר `php -l` ונבדקה התאמה של הקובץ החי לעותק. במדידת Chrome העברת CSS/JS בכתבה ירדה ב־62,206B; בארכיון ובדף מקום ספירות ומשקלי הנכסים נשארו זהים. בדיקות חיות ב־390/1280: HTTP 200, אין pageerror או גלישה, וקישור למקום מתוך הכתבה עובד. סקריפט rollback עם checksum guard עבר `-CheckOnly`. דוח ונתוני לפני/אחרי: `memory/reports/2026-10-06-issue-86-editorial-woo-canary.md`.
+
+הכרטיס נשאר פתוח: זהו canary לעמוד אחד; דחיסה/Cache-Control של Nginx עדיין חסרים במדגם והמשתמש דחה שינויי ROOT. GeoDirectory/Bootstrap לא הוסרו בלי הוכחת אי־תלות; נתוני שדה LCP/INP/CLS אינם זמינים כעת.

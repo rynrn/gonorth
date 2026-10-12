@@ -1,0 +1,24 @@
+[
+  {
+    "url": "https://gonorth.co.il/atrakziot-leyeladim-batzafon/",
+    "status": 200,
+    "canonical": "https://gonorth.co.il/atrakziot-leyeladim-batzafon/",
+    "h1": 1,
+    "table": 1,
+    "rtl": true,
+    "sourceDate": true,
+    "tourgolanLinks": 0,
+    "oldDiscount": false
+  },
+  {
+    "url": "https://gonorth.co.il/villas-israel-north-guide/",
+    "status": 200,
+    "canonical": "https://gonorth.co.il/villas-israel-north-guide/",
+    "h1": 1,
+    "table": 1,
+    "rtl": true,
+    "sourceDate": true,
+    "tourgolanLinks": 0,
+    "oldDiscount": false
+  }
+]

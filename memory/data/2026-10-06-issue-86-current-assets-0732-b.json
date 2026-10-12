@@ -1,0 +1,695 @@
+[
+  {
+    "kind": "archive",
+    "url": "https://gonorth.co.il/places/",
+    "status": 200,
+    "checked_at": "2026-10-06T04:22:54.309Z",
+    "viewport": "390x844",
+    "resources": [
+      {
+        "path": "/wp-content/cache/autoptimize/autoptimize_single_0e595cf9c0607c92f351bb5d75b172ce.php",
+        "type": "link",
+        "transfer": 8949,
+        "decoded": 44825
+      },
+      {
+        "path": "/wp-content/plugins/accessibility-onetap/assets/css/onetap-fonts-readable.min.css",
+        "type": "link",
+        "transfer": 2308,
+        "decoded": 2008
+      },
+      {
+        "path": "/wp-content/cache/autoptimize/autoptimize_single_1fbf35126001b27c9d77720a9e941437.php",
+        "type": "link",
+        "transfer": 2298,
+        "decoded": 16644
+      },
+      {
+        "path": "/wp-content/plugins/accessibility-onetap/assets/css/accessibility-onetap-front-end.min.css",
+        "type": "link",
+        "transfer": 85838,
+        "decoded": 85538
+      },
+      {
+        "path": "/wp-includes/css/dist/block-library/style-rtl.min.css",
+        "type": "link",
+        "transfer": 141186,
+        "decoded": 140886
+      },
+      {
+        "path": "/wp-content/cache/autoptimize/autoptimize_single_cd360d29346139a01939fcc0f29f85f8.php",
+        "type": "link",
+        "transfer": 1192,
+        "decoded": 6189
+      },
+      {
+        "path": "/wp-content/cache/autoptimize/autoptimize_single_bee817902507e0ea9b2a85da3d85d2e3.php",
+        "type": "link",
+        "transfer": 16427,
+        "decoded": 119884
+      },
+      {
+        "path": "/wp-content/themes/astra/style.css",
+        "type": "link",
+        "transfer": 4875,
+        "decoded": 4575
+      },
+      {
+        "path": "/wp-content/cache/autoptimize/autoptimize_single_b14cfdfad6ea2ef7ac9f28cd254d327d.php",
+        "type": "link",
+        "transfer": 638,
+        "decoded": 1276
+      },
+      {
+        "path": "/wp-content/cache/autoptimize/autoptimize_single_10686f8c9e3e7f82141edc2e5ab13860.php",
+        "type": "link",
+        "transfer": 13693,
+        "decoded": 78567
+      },
+      {
+        "path": "/wp-content/cache/autoptimize/autoptimize_single_f744e4881044ddcf68ff999850aa6f7f.php",
+        "type": "link",
+        "transfer": 67583,
+        "decoded": 515736
+      },
+      {
+        "path": "/wp-includes/js/jquery/jquery.min.js",
+        "type": "script",
+        "transfer": 87853,
+        "decoded": 87553
+      },
+      {
+        "path": "/wp-includes/js/jquery/jquery-migrate.min.js",
+        "type": "script",
+        "transfer": 13877,
+        "decoded": 13577
+      },
+      {
+        "path": "/wp-content/plugins/geodirectory/vendor/ayecode/wp-ayecode-ui/assets-v5/js/bootstrap.bundle.min.js",
+        "type": "script",
+        "transfer": 136817,
+        "decoded": 136517
+      },
+      {
+        "path": "/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js",
+        "type": "script",
+        "transfer": 9936,
+        "decoded": 9636
+      },
+      {
+        "path": "/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js",
+        "type": "script",
+        "transfer": 4650,
+        "decoded": 4350
+      },
+      {
+        "path": "/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js",
+        "type": "script",
+        "transfer": 2020,
+        "decoded": 1720
+      },
+      {
+        "path": "/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js",
+        "type": "script",
+        "transfer": 4431,
+        "decoded": 4131
+      },
+      {
+        "path": "/wp-content/themes/gonorth-child/assets/gonorth-organic-mark.svg",
+        "type": "img",
+        "transfer": 1750,
+        "decoded": 1450
+      },
+      {
+        "path": "/wp-content/plugins/accessibility-onetap/assets/images/admin/Original_Logo_Icon.svg",
+        "type": "img",
+        "transfer": 1561,
+        "decoded": 1261
+      },
+      {
+        "path": "/wp-content/plugins/accessibility-onetap/assets/images/israel.png",
+        "type": "img",
+        "transfer": 4293,
+        "decoded": 3993
+      },
+      {
+        "path": "/wp-content/plugins/accessibility-onetap/assets/images/icon-drop-down-menu.png",
+        "type": "img",
+        "transfer": 4362,
+        "decoded": 4062
+      },
+      {
+        "path": "/wp-content/cache/autoptimize/autoptimize_single_c812c49d797de159697f02bafc3d9c51.php",
+        "type": "link",
+        "transfer": 2898,
+        "decoded": 14007
+      },
+      {
+        "path": "/wp-content/themes/astra/assets/js/minified/frontend.min.js",
+        "type": "script",
+        "transfer": 25964,
+        "decoded": 25664
+      },
+      {
+        "path": "/wp-content/cache/autoptimize/autoptimize_single_f73d7a556433289d1fb679df33c4961a.php",
+        "type": "script",
+        "transfer": 3509,
+        "decoded": 9069
+      },
+      {
+        "path": "/wp-content/plugins/accessibility-onetap/assets/js/script.min.js",
+        "type": "script",
+        "transfer": 63997,
+        "decoded": 63697
+      },
+      {
+        "path": "/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js",
+        "type": "script",
+        "transfer": 15615,
+        "decoded": 15315
+      },
+      {
+        "path": "/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js",
+        "type": "script",
+        "transfer": 2739,
+        "decoded": 2439
+      },
+      {
+        "path": "/wp-content/cache/autoptimize/autoptimize_single_9b69023c27b14c1c0eaa632a83b031b7.php",
+        "type": "script",
+        "transfer": 3505,
+        "decoded": 10227
+      },
+      {
+        "path": "/wp-content/plugins/geodirectory/assets/aui/js/geodirectory.min.js",
+        "type": "script",
+        "transfer": 65402,
+        "decoded": 65102
+      },
+      {
+        "path": "/wp-content/themes/gonorth-child/assets/fonts/heebo-hebrew.woff2",
+        "type": "css",
+        "transfer": 12336,
+        "decoded": 12036
+      },
+      {
+        "path": "/wp-content/themes/gonorth-child/assets/fonts/secular-one-hebrew.woff2",
+        "type": "css",
+        "transfer": 8284,
+        "decoded": 7984
+      },
+      {
+        "path": "/wp-content/themes/gonorth-child/assets/fonts/heebo-latin.woff2",
+        "type": "css",
+        "transfer": 30416,
+        "decoded": 30116
+      },
+      {
+        "path": "/wp-content/uploads/issue91-licensed/tank-503-cc-by-sa-4-400x300.webp",
+        "type": "img",
+        "transfer": 46296,
+        "decoded": 45996
+      },
+      {
+        "path": "/wp-content/uploads/gonorth-listing-illustrations/issue100-klompus-google-600x338.jpg.webp",
+        "type": "img",
+        "transfer": 44782,
+        "decoded": 44482
+      },
+      {
+        "path": "/wp-content/uploads/gonorth-listing-illustrations/issue100-eretz-dafna-hotel-google-600x399.jpg.webp",
+        "type": "img",
+        "transfer": 68130,
+        "decoded": 67830
+      },
+      {
+        "path": "/wp-content/uploads/gonorth-listing-illustrations/issue100-dafna-camping-google-600x456.jpg.webp",
+        "type": "img",
+        "transfer": 116892,
+        "decoded": 116592
+      },
+      {
+        "path": "/wp-content/themes/gonorth-child/assets/gonorth-icon.svg",
+        "type": "other",
+        "transfer": 2194,
+        "decoded": 1894
+      },
+      {
+        "path": "/wp-includes/js/wp-emoji-release.min.js",
+        "type": "script",
+        "transfer": 23052,
+        "decoded": 22752
+      },
+      {
+        "path": "/wp-content/uploads/gonorth-listing-illustrations/issue100-shiri-pasta-google-600x800.jpg.webp",
+        "type": "img",
+        "transfer": 123766,
+        "decoded": 123466
+      },
+      {
+        "path": "/wp-content/uploads/gonorth-listing-illustrations/issue100-trio-google-400x300.jpg.webp",
+        "type": "img",
+        "transfer": 35984,
+        "decoded": 35684
+      },
+      {
+        "path": "/wp-content/uploads/gonorth-listing-illustrations/issue100-dafna-park-google-600x400.jpg.webp",
+        "type": "img",
+        "transfer": 71382,
+        "decoded": 71082
+      },
+      {
+        "path": "/wp-content/uploads/issue91-licensed/museum-494-exterior-cc-by-2.5-400x300.webp",
+        "type": "img",
+        "transfer": 30814,
+        "decoded": 30514
+      },
+      {
+        "path": "/wp-content/uploads/gonorth-listing-illustrations/issue100-ein-teo-google-400x300.jpg.webp",
+        "type": "img",
+        "transfer": 43036,
+        "decoded": 42736
+      },
+      {
+        "path": "/wp-content/uploads/issue91-licensed/galilion-490-building-cc-by-2.5-600x426.webp",
+        "type": "img",
+        "transfer": 67548,
+        "decoded": 67248
+      }
+    ]
+  },
+  {
+    "kind": "place",
+    "url": "https://gonorth.co.il/places/%d7%a7%d7%99%d7%90%d7%a7-%d7%9b%d7%a0%d7%a8%d7%aa/",
+    "status": 200,
+    "checked_at": "2026-10-06T04:23:03.677Z",
+    "viewport": "390x844",
+    "resources": [
+      {
+        "path": "/wp-content/cache/autoptimize/autoptimize_single_0e595cf9c0607c92f351bb5d75b172ce.php",
+        "type": "link",
+        "transfer": 8949,
+        "decoded": 44825
+      },
+      {
+        "path": "/wp-content/plugins/accessibility-onetap/assets/css/onetap-fonts-readable.min.css",
+        "type": "link",
+        "transfer": 2308,
+        "decoded": 2008
+      },
+      {
+        "path": "/wp-content/plugins/accessibility-onetap/assets/css/accessibility-onetap-front-end.min.css",
+        "type": "link",
+        "transfer": 85838,
+        "decoded": 85538
+      },
+      {
+        "path": "/wp-includes/css/dist/block-library/style-rtl.min.css",
+        "type": "link",
+        "transfer": 141186,
+        "decoded": 140886
+      },
+      {
+        "path": "/wp-content/cache/autoptimize/autoptimize_single_1fbf35126001b27c9d77720a9e941437.php",
+        "type": "link",
+        "transfer": 2298,
+        "decoded": 16644
+      },
+      {
+        "path": "/wp-content/cache/autoptimize/autoptimize_single_cd360d29346139a01939fcc0f29f85f8.php",
+        "type": "link",
+        "transfer": 1192,
+        "decoded": 6189
+      },
+      {
+        "path": "/wp-content/cache/autoptimize/autoptimize_single_bee817902507e0ea9b2a85da3d85d2e3.php",
+        "type": "link",
+        "transfer": 16427,
+        "decoded": 119884
+      },
+      {
+        "path": "/wp-content/cache/autoptimize/autoptimize_single_732caf67dc4cce9db3ee631c1f1fba79.php",
+        "type": "link",
+        "transfer": 3458,
+        "decoded": 15249
+      },
+      {
+        "path": "/wp-content/cache/autoptimize/autoptimize_single_7ce735e52dbb2cfdb590b6e780921d89.php",
+        "type": "link",
+        "transfer": 794,
+        "decoded": 1316
+      },
+      {
+        "path": "/wp-content/themes/astra/style.css",
+        "type": "link",
+        "transfer": 4875,
+        "decoded": 4575
+      },
+      {
+        "path": "/wp-content/cache/autoptimize/autoptimize_single_b14cfdfad6ea2ef7ac9f28cd254d327d.php",
+        "type": "link",
+        "transfer": 638,
+        "decoded": 1276
+      },
+      {
+        "path": "/wp-content/cache/autoptimize/autoptimize_single_10686f8c9e3e7f82141edc2e5ab13860.php",
+        "type": "link",
+        "transfer": 13693,
+        "decoded": 78567
+      },
+      {
+        "path": "/wp-content/cache/autoptimize/autoptimize_single_f744e4881044ddcf68ff999850aa6f7f.php",
+        "type": "link",
+        "transfer": 67583,
+        "decoded": 515736
+      },
+      {
+        "path": "/wp-includes/js/jquery/jquery-migrate.min.js",
+        "type": "script",
+        "transfer": 13877,
+        "decoded": 13577
+      },
+      {
+        "path": "/wp-includes/js/jquery/jquery.min.js",
+        "type": "script",
+        "transfer": 87853,
+        "decoded": 87553
+      },
+      {
+        "path": "/wp-content/plugins/geodirectory/vendor/ayecode/wp-ayecode-ui/assets-v5/js/bootstrap.bundle.min.js",
+        "type": "script",
+        "transfer": 136817,
+        "decoded": 136517
+      },
+      {
+        "path": "/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js",
+        "type": "script",
+        "transfer": 9936,
+        "decoded": 9636
+      },
+      {
+        "path": "/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js",
+        "type": "script",
+        "transfer": 4650,
+        "decoded": 4350
+      },
+      {
+        "path": "/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js",
+        "type": "script",
+        "transfer": 2020,
+        "decoded": 1720
+      },
+      {
+        "path": "/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js",
+        "type": "script",
+        "transfer": 4431,
+        "decoded": 4131
+      },
+      {
+        "path": "/wp-content/themes/gonorth-child/assets/gonorth-organic-mark.svg",
+        "type": "img",
+        "transfer": 1750,
+        "decoded": 1450
+      },
+      {
+        "path": "/wp-content/uploads/2026/07/place_photo-48-600x400.jpg.webp",
+        "type": "img",
+        "transfer": 75170,
+        "decoded": 74870
+      },
+      {
+        "path": "/wp-content/plugins/accessibility-onetap/assets/images/admin/Original_Logo_Icon.svg",
+        "type": "img",
+        "transfer": 1561,
+        "decoded": 1261
+      },
+      {
+        "path": "/wp-content/plugins/accessibility-onetap/assets/images/israel.png",
+        "type": "img",
+        "transfer": 4293,
+        "decoded": 3993
+      },
+      {
+        "path": "/wp-content/plugins/accessibility-onetap/assets/images/icon-drop-down-menu.png",
+        "type": "img",
+        "transfer": 4362,
+        "decoded": 4062
+      },
+      {
+        "path": "/wp-content/cache/autoptimize/autoptimize_single_c812c49d797de159697f02bafc3d9c51.php",
+        "type": "link",
+        "transfer": 2898,
+        "decoded": 14007
+      },
+      {
+        "path": "/wp-content/themes/astra/assets/js/minified/frontend.min.js",
+        "type": "script",
+        "transfer": 25964,
+        "decoded": 25664
+      },
+      {
+        "path": "/wp-content/cache/autoptimize/autoptimize_single_f73d7a556433289d1fb679df33c4961a.php",
+        "type": "script",
+        "transfer": 3509,
+        "decoded": 9069
+      },
+      {
+        "path": "/wp-content/cache/autoptimize/autoptimize_single_014d72db1ef0b22c148dcc8ccbe0b359.php",
+        "type": "script",
+        "transfer": 817,
+        "decoded": 917
+      },
+      {
+        "path": "/wp-content/plugins/geodirectory/assets/aui/js/geodirectory.min.js",
+        "type": "script",
+        "transfer": 65402,
+        "decoded": 65102
+      },
+      {
+        "path": "/wp-content/plugins/accessibility-onetap/assets/js/script.min.js",
+        "type": "script",
+        "transfer": 63997,
+        "decoded": 63697
+      },
+      {
+        "path": "/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js",
+        "type": "script",
+        "transfer": 2739,
+        "decoded": 2439
+      },
+      {
+        "path": "/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js",
+        "type": "script",
+        "transfer": 15615,
+        "decoded": 15315
+      },
+      {
+        "path": "/wp-content/cache/autoptimize/autoptimize_single_9b69023c27b14c1c0eaa632a83b031b7.php",
+        "type": "script",
+        "transfer": 3505,
+        "decoded": 10227
+      },
+      {
+        "path": "/wp-content/cache/autoptimize/autoptimize_single_3debcbda2081ff9212ce451e5a5e740d.php",
+        "type": "script",
+        "transfer": 1033,
+        "decoded": 1695
+      },
+      {
+        "path": "/wp-includes/js/comment-reply.min.js",
+        "type": "script",
+        "transfer": 3250,
+        "decoded": 2950
+      },
+      {
+        "path": "/wp-content/themes/gonorth-child/assets/fonts/secular-one-hebrew.woff2",
+        "type": "css",
+        "transfer": 8284,
+        "decoded": 7984
+      },
+      {
+        "path": "/wp-content/themes/gonorth-child/assets/fonts/heebo-hebrew.woff2",
+        "type": "css",
+        "transfer": 12336,
+        "decoded": 12036
+      },
+      {
+        "path": "/wp-content/themes/gonorth-child/assets/fonts/heebo-latin.woff2",
+        "type": "css",
+        "transfer": 30416,
+        "decoded": 30116
+      },
+      {
+        "path": "/wp-includes/js/wp-emoji-release.min.js",
+        "type": "script",
+        "transfer": 23052,
+        "decoded": 22752
+      },
+      {
+        "path": "/wp-content/themes/gonorth-child/assets/gonorth-icon.svg",
+        "type": "other",
+        "transfer": 2194,
+        "decoded": 1894
+      }
+    ]
+  },
+  {
+    "kind": "article",
+    "url": "https://gonorth.co.il/tours-kayaks-north-israel/",
+    "status": 200,
+    "checked_at": "2026-10-06T04:23:12.639Z",
+    "viewport": "390x844",
+    "resources": [
+      {
+        "path": "/wp-content/cache/autoptimize/autoptimize_single_0e595cf9c0607c92f351bb5d75b172ce.php",
+        "type": "link",
+        "transfer": 8949,
+        "decoded": 44825
+      },
+      {
+        "path": "/wp-content/plugins/accessibility-onetap/assets/css/onetap-fonts-readable.min.css",
+        "type": "link",
+        "transfer": 2308,
+        "decoded": 2008
+      },
+      {
+        "path": "/wp-content/plugins/accessibility-onetap/assets/css/accessibility-onetap-front-end.min.css",
+        "type": "link",
+        "transfer": 85838,
+        "decoded": 85538
+      },
+      {
+        "path": "/wp-includes/css/dist/block-library/style-rtl.min.css",
+        "type": "link",
+        "transfer": 141186,
+        "decoded": 140886
+      },
+      {
+        "path": "/wp-content/cache/autoptimize/autoptimize_single_7ce735e52dbb2cfdb590b6e780921d89.php",
+        "type": "link",
+        "transfer": 794,
+        "decoded": 1316
+      },
+      {
+        "path": "/wp-content/cache/autoptimize/autoptimize_single_732caf67dc4cce9db3ee631c1f1fba79.php",
+        "type": "link",
+        "transfer": 3458,
+        "decoded": 15249
+      },
+      {
+        "path": "/wp-content/themes/astra/style.css",
+        "type": "link",
+        "transfer": 4875,
+        "decoded": 4575
+      },
+      {
+        "path": "/wp-content/cache/autoptimize/autoptimize_single_b14cfdfad6ea2ef7ac9f28cd254d327d.php",
+        "type": "link",
+        "transfer": 638,
+        "decoded": 1276
+      },
+      {
+        "path": "/wp-content/cache/autoptimize/autoptimize_single_10686f8c9e3e7f82141edc2e5ab13860.php",
+        "type": "link",
+        "transfer": 13693,
+        "decoded": 78567
+      },
+      {
+        "path": "/wp-includes/js/jquery/jquery-migrate.min.js",
+        "type": "script",
+        "transfer": 13877,
+        "decoded": 13577
+      },
+      {
+        "path": "/wp-includes/js/jquery/jquery.min.js",
+        "type": "script",
+        "transfer": 87853,
+        "decoded": 87553
+      },
+      {
+        "path": "/wp-content/plugins/accessibility-onetap/assets/images/admin/Original_Logo_Icon.svg",
+        "type": "img",
+        "transfer": 1561,
+        "decoded": 1261
+      },
+      {
+        "path": "/wp-content/themes/gonorth-child/assets/gonorth-organic-mark.svg",
+        "type": "img",
+        "transfer": 1750,
+        "decoded": 1450
+      },
+      {
+        "path": "/wp-content/uploads/2026/09/gonorth-tours-kayaks-hero-600x338.webp",
+        "type": "img",
+        "transfer": 70094,
+        "decoded": 69794
+      },
+      {
+        "path": "/wp-content/plugins/accessibility-onetap/assets/images/israel.png",
+        "type": "img",
+        "transfer": 4293,
+        "decoded": 3993
+      },
+      {
+        "path": "/wp-content/plugins/accessibility-onetap/assets/images/icon-drop-down-menu.png",
+        "type": "img",
+        "transfer": 4362,
+        "decoded": 4062
+      },
+      {
+        "path": "/wp-content/themes/astra/assets/js/minified/frontend.min.js",
+        "type": "script",
+        "transfer": 25964,
+        "decoded": 25664
+      },
+      {
+        "path": "/wp-content/cache/autoptimize/autoptimize_single_f73d7a556433289d1fb679df33c4961a.php",
+        "type": "script",
+        "transfer": 3509,
+        "decoded": 9069
+      },
+      {
+        "path": "/wp-content/plugins/accessibility-onetap/assets/js/script.min.js",
+        "type": "script",
+        "transfer": 63997,
+        "decoded": 63697
+      },
+      {
+        "path": "/wp-content/cache/autoptimize/autoptimize_single_9b69023c27b14c1c0eaa632a83b031b7.php",
+        "type": "script",
+        "transfer": 3505,
+        "decoded": 10227
+      },
+      {
+        "path": "/wp-content/themes/gonorth-child/assets/fonts/heebo-hebrew.woff2",
+        "type": "css",
+        "transfer": 12336,
+        "decoded": 12036
+      },
+      {
+        "path": "/wp-content/themes/gonorth-child/assets/fonts/secular-one-hebrew.woff2",
+        "type": "css",
+        "transfer": 8284,
+        "decoded": 7984
+      },
+      {
+        "path": "/wp-content/themes/gonorth-child/assets/fonts/heebo-latin.woff2",
+        "type": "css",
+        "transfer": 30416,
+        "decoded": 30116
+      },
+      {
+        "path": "/wp-includes/js/wp-emoji-release.min.js",
+        "type": "script",
+        "transfer": 23052,
+        "decoded": 22752
+      },
+      {
+        "path": "/wp-content/themes/gonorth-child/assets/gonorth-icon.svg",
+        "type": "other",
+        "transfer": 2194,
+        "decoded": 1894
+      }
+    ]
+  }
+]

@@ -1,0 +1,127 @@
+--- a/wordpress/plugins/gonorth-place-data/assets/place-analytics.js
++++ b/wordpress/plugins/gonorth-place-data/assets/place-analytics.js
+@@ -73,6 +73,61 @@
+ 		} );
+ 	}
+ 
++	const searchEventKey = 'gn_search_event_v1';
++	const allowedCategories = new Set( [ 'atraktziot-main', 'teva', 'accommodation', 'restaurants-sub', 'yakavim', 'agalot-kafe', 'tours' ] );
++
++	function approved() {
++		try { return '1' === window.localStorage.getItem( 'gn_analytics_consent_v2' ); } catch ( error ) { return false; }
++	}
++
++	function categorySlug( value ) {
++		return allowedCategories.has( value ) ? value : '';
++	}
++
++	function onSearchSubmit( event ) {
++		const form = event.target;
++		if ( ! form.matches || ! form.matches( '.gn-hero__search, #gn-archive-search' ) || ! approved() ) return;
++		const input = form.querySelector( 'input[name="s"]' );
++		const select = form.querySelector( 'select[name="category"]' );
++		const hasQuery = !! ( input && input.value.trim() );
++		const category = categorySlug( select ? select.value : '' );
++		if ( ! hasQuery && ! category ) return;
++		const source = form.matches( '.gn-hero__search' ) ? 'home' : 'archive';
++		try {
++			window.sessionStorage.setItem( searchEventKey, JSON.stringify( { hasQuery: hasQuery, category: category, source: source } ) );
++		} catch ( error ) {
++			// The visitor's search must work even when session storage is unavailable.
++		}
++	}
++
++	function flushSearchSubmit() {
++		let pending;
++		try {
++			pending = window.sessionStorage.getItem( searchEventKey );
++			window.sessionStorage.removeItem( searchEventKey );
++		} catch ( error ) { return; }
++		if ( ! pending || ! approved() || ! /^\/places(?:\/|$)/.test( window.location.pathname ) ) return;
++		try { pending = JSON.parse( pending ); } catch ( error ) { return; }
++		const category = categorySlug( pending.category );
++		const source = pending.source === 'home' ? 'home' : 'archive';
++		if ( pending.hasQuery === true ) {
++			sendOnce( 'search_submit', 'search_submit', { search_scope: source, has_query: true, category_slug: category } );
++		}
++		if ( category ) {
++			sendOnce( 'filter_apply', 'filter_apply', { search_scope: source, filter_name: 'category', category_slug: category } );
++		}
++	}
++
++	function trackZeroResults() {
++		if ( ! document.querySelector( 'main#gn-search-results.gn-search-empty' ) ) return;
++		const params = new URL( window.location.href ).searchParams;
++		const hasQuery = !! ( params.get( 's' ) || '' ).trim();
++		const categoryPath = window.location.pathname.match( /^\/places\/category\/([^/]+)\/?$/ );
++		const category = categorySlug( params.get( 'category' ) || ( categoryPath ? categoryPath[ 1 ] : '' ) );
++		if ( ! hasQuery && ! category ) return;
++		sendOnce( 'zero_results', 'zero_results', { search_scope: 'archive', has_query: hasQuery, category_slug: category, results_count: 0 } );
++	}
++
+ 	function cardSelector() {
+ 		return '[data-gn-place-card], .gn-card-col[data-post-id]';
+ 	}
+@@ -118,6 +173,21 @@
+ 					page_type: preferredSource.dataset.pageType || 'other',
+ 					place_id: preferredSource.dataset.placeId || ( config.currentPlace ? config.currentPlace.place_id : '' ),
+ 				} ) );
++			}
++		}
++
++		if ( config.currentGuide ) {
++			try {
++				const destination = new URL( link.href, window.location.href );
++				const parts = destination.pathname.split( '/' ).filter( Boolean );
++				if ( destination.origin === window.location.origin && parts[ 0 ] === 'places' && parts.length === 2 && parts[ 1 ] !== 'category' ) {
++					send( 'guide_to_place_click', {
++						guide_id: config.currentGuide.guide_id,
++						target_type: 'place',
++					} );
++				}
++			} catch ( error ) {
++				// Navigation remains unchanged if a link cannot be parsed.
+ 			}
+ 		}
+ 
+@@ -187,6 +257,10 @@
+ 				} );
+ 			} ).observe( document.body, { childList: true, subtree: true } );
+ 		}
++		flushSearchSubmit();
++		trackZeroResults();
++		window.addEventListener( 'gn-consent-granted', trackZeroResults, { once: true } );
++		document.addEventListener( 'submit', onSearchSubmit, true );
+ 		document.addEventListener( 'click', onClick, true );
+ 		document.addEventListener( 'toggle', onToggle, true );
+ 	}
+--- a/wordpress/plugins/gonorth-place-data/includes/class-gonorth-place-analytics.php
++++ b/wordpress/plugins/gonorth-place-data/includes/class-gonorth-place-analytics.php
+@@ -40,6 +40,7 @@
+ 			'GoNorthAnalyticsConfig',
+ 			array(
+ 				'currentPlace'     => $place,
++				'currentGuide'     => is_singular( 'post' ) ? array( 'guide_id' => (string) get_queried_object_id() ) : null,
+ 				'discoverySurface' => self::get_discovery_surface(),
+ 				'debug'            => (bool) apply_filters( 'gonorth_place_analytics_debug', $debug ),
+ 			)
+--- a/wordpress/plugins/gonorth-place-data/gonorth-place-data.php
++++ b/wordpress/plugins/gonorth-place-data/gonorth-place-data.php
+@@ -2,7 +2,7 @@
+ /**
+  * Plugin Name: GoNorth Place Data
+  * Description: Canonical structured data layer for GoNorth place listings.
+- * Version: 1.18.8
++ * Version: 1.18.9
+  * Author: GoNorth
+  * Text Domain: gonorth-place-data
+  */
+@@ -11,7 +11,7 @@
+ 	exit;
+ }
+ 
+-define( 'GONORTH_PLACE_DATA_VERSION', '1.18.8' );
++define( 'GONORTH_PLACE_DATA_VERSION', '1.18.9' );
+ define( 'GONORTH_PLACE_DATA_FILE', __FILE__ );
+ 
+ require_once __DIR__ . '/includes/class-gonorth-place-data.php';

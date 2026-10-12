@@ -1,0 +1,17 @@
+{
+  "checked_at": "2026-09-26T22:44:27.3817641+03:00",
+  "local_credentials": {
+    "credential_validity_tested": false,
+    "tracked_in_local_git": true,
+    "public_exposure_confirmed": false,
+    "paths": [
+      "AGENTS.md",
+      "server.config.json"
+    ],
+    "nonplaceholder_values_present": true
+  },
+  "home_cookie_controls": " הבנתי, סגור ",
+  "privacy_named_anchors": "<a href=\"https://gonorth.co.il/mediniyut-pratiyut/\">מדיניות פרטיות</a>",
+  "home_script_urls": null,
+  "contact_form_count": 1
+}

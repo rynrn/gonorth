@@ -1,0 +1,96 @@
+{
+  "passed": 18,
+  "total": 18,
+  "tests": [
+    {
+      "name": "01 base archive 200 and controls",
+      "pass": true,
+      "detail": "נמצאו 128 מקומות"
+    },
+    {
+      "name": "02 base count and keyboard labels",
+      "pass": true,
+      "detail": "נמצאו 128 מקומות"
+    },
+    {
+      "name": "03 Galil verified yes 10",
+      "pass": true,
+      "detail": "נמצאו 10 מקומות — אזור גליל · פתוח בשבת — מאומת"
+    },
+    {
+      "name": "04 filtered SEO",
+      "pass": true,
+      "detail": "noindex, follow https://gonorth.co.il/places/"
+    },
+    {
+      "name": "05 mobile width",
+      "pass": true,
+      "detail": "390/390"
+    },
+    {
+      "name": "06 Golan verified no 16",
+      "pass": true,
+      "detail": "נמצאו 16 מקומות — אזור גולן · לא פתוח בשבת — מאומת"
+    },
+    {
+      "name": "07 Carmel unknown 2",
+      "pass": true,
+      "detail": "נמצאו 2 מקומות — אזור כרמל ועמק יזרעאל · שבת: אין מידע מאומת"
+    },
+    {
+      "name": "08 all unknown 76",
+      "pass": true,
+      "detail": "נמצאו 76 מקומות — שבת: אין מידע מאומת"
+    },
+    {
+      "name": "09 empty filtered state 200",
+      "pass": true,
+      "detail": "לא נמצאו מקומות (0) — חיפוש “zzzxxyyq” · אזור כרמל ועמק יזרעאל · פתוח בשבת — מאומת"
+    },
+    {
+      "name": "10 empty state noindex",
+      "pass": true,
+      "detail": "noindex, follow"
+    },
+    {
+      "name": "11 category redirect keeps filters",
+      "pass": true,
+      "detail": "https://gonorth.co.il/places/category/yakavim/?region=golan&saturday=yes"
+    },
+    {
+      "name": "12 Back restores controls",
+      "pass": true,
+      "detail": "https://gonorth.co.il/places/?gn_verify=issue90b"
+    },
+    {
+      "name": "13 keyboard focus",
+      "pass": true,
+      "detail": "gn-region-select"
+    },
+    {
+      "name": "14 tri-state help visible",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "15 reset clears filters",
+      "pass": true,
+      "detail": "https://gonorth.co.il/places/"
+    },
+    {
+      "name": "16 desktop width",
+      "pass": true,
+      "detail": "1280/1280"
+    },
+    {
+      "name": "17 approved measurement region and Saturday",
+      "pass": true,
+      "detail": "[{\"search_scope\":\"archive\",\"filter_name\":\"region\",\"region_slug\":\"golan\",\"page_location\":\"https://gonorth.co.il/places/\"},{\"search_scope\":\"archive\",\"filter_name\":\"open_saturday\",\"saturday_state\":\"yes\",\"page_location\":\"https://gonorth.co.il/places/\"}]"
+    },
+    {
+      "name": "18 rejected consent no filter events",
+      "pass": true,
+      "detail": "0"
+    }
+  ]
+}

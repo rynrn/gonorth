@@ -1,0 +1,22 @@
+[
+  {
+    "kind": "pending_page",
+    "url": "https://gonorth.co.il/?post_type=gd_place&p=554",
+    "status": 404,
+    "contentType": null
+  },
+  {
+    "kind": "anonymous_api",
+    "url": "https://gonorth.co.il/wp-json/geodir/v2/places/554",
+    "status": 401,
+    "contentType": null
+  },
+  {
+    "kind": "photo",
+    "url": "https://gonorth.co.il/wp-content/uploads/issue93-licensed/nahal-mearot-visitor-center-avi1111-2016-scaled.jpg",
+    "status": 200,
+    "contentType": [
+      "image/jpeg"
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": 167,
+    "action": "published",
+    "url": "https://gonorth.co.il/places/%d7%a7%d7%99%d7%93%d7%a1-%d7%9c%d7%a0%d7%93-%d7%90%d7%aa%d7%92%d7%a8-%d7%94%d7%a0%d7%99%d7%a0%d7%92%d7%94-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d/",
+    "http": 200,
+    "before": 468,
+    "after": 1106,
+    "exact": true,
+    "guide": true
+  },
+  {
+    "id": 217,
+    "action": "published",
+    "url": "https://gonorth.co.il/places/%d7%a7%d7%a4%d7%94-%d7%94%d7%aa%d7%9f/",
+    "http": 200,
+    "before": 479,
+    "after": 943,
+    "exact": true,
+    "guide": true
+  },
+  {
+    "id": 157,
+    "action": "published",
+    "url": "https://gonorth.co.il/places/%d7%9b%d7%a4%d7%a8-%d7%94%d7%97%d7%99%d7%95%d7%aa-%d7%91%d7%9b%d7%a4%d7%a8-%d7%92%d7%9c%d7%a2%d7%93%d7%99/",
+    "http": 200,
+    "before": 497,
+    "after": 1068,
+    "exact": true,
+    "guide": true
+  },
+  {
+    "id": 219,
+    "action": "unpublished",
+    "before_status": "publish",
+    "after_status": "draft",
+    "exact": true
+  },
+  {
+    "id": 221,
+    "action": "unpublished",
+    "before_status": "publish",
+    "after_status": "draft",
+    "exact": true
+  }
+]

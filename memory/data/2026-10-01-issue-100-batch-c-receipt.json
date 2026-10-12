@@ -1,0 +1,88 @@
+[
+    {
+        "ID": 480,
+        "title": "שוורצע (משק שוורץ)",
+        "status": "publish",
+        "permalink": "https://gonorth.co.il/places/%d7%a9%d7%95%d7%95%d7%a8%d7%a6%d7%a2-%d7%9e%d7%a9%d7%a7-%d7%a9%d7%95%d7%95%d7%a8%d7%a5/",
+        "thumbnail_id": 482,
+        "thumbnail_url": "https://gonorth.co.il/wp-content/uploads/gonorth-listing-illustrations/issue100-shwartz-google-scaled.jpg",
+        "alt": "הכניסה לחנות משק שוורץ בשדה אליעזר",
+        "attribution_name": "Haya Live Pilates",
+        "attribution_uri": "https://maps.google.com/maps/contrib/115637712204428161278",
+        "google_photo_name": "places/ChIJM5EjMbQhHBURl3TFbMs_-PE/photos/Aa-ngMYvHg1m4J3KeHki90ciG5fkkLQcD0IKtgj8h6C8CqczuYyFINwkvoH7cS7UIVzaxbg5mwOYU-3AnxT-x8x-auP282_BVY8KZF_Ye6wXwCDY3445GJlZaufcmzFYpDvKDFe6t3CYhGmz_kO0Z-UPXfHk2sTRNwBd2A6ImC52mVQUd69AmmRB8axbaZAmUUcZZ79IYStnYpEg6tl4k8gZpvEpkkH4ZhOHLQdQ2WzFWFEGXHYZBqfXAoVO7-AYY2fFNzDQU4lQw7cDSFV-_IqaQnRl3hdHO7wkFY0G_pXRqoiyK0XmUXYbpyg1DdZlNOlSBaN6RwQmno_e7UN-ho7RsZ0Jw-4ErTlM83m6NeBPgT1hahjoaMxudx4b4ZWP1li5Y5aVBRQMF161DcUqwnJcUVFnJWQ",
+        "categories": [
+            "ochel"
+        ],
+        "regions": [
+            "galil"
+        ],
+        "coordinates": [
+            "33.047803",
+            "35.5612092"
+        ],
+        "source": "https://easy.co.il/page/26550011",
+        "source_type": "alternative_regional_plus_google",
+        "data": {
+            "address": "הזית 47",
+            "city": "שדה אליעזר",
+            "latitude": "33.047803",
+            "longitude": "35.5612092",
+            "phone": "054-800-7606",
+            "website": null,
+            "business_hours": null,
+            "price_type": null,
+            "open_saturday": null,
+            "practical_checked_at": "2026-10-01T17:07:56+00:00",
+            "google": {
+                "place_id": "ChIJM5EjMbQhHBURl3TFbMs_-PE",
+                "rating": "4.9",
+                "review_count": "87",
+                "checked_at": "2026-10-01T17:07:56+00:00",
+                "complete": true
+            }
+        }
+    },
+    {
+        "ID": 481,
+        "title": "Peti Peti — פטי פטי",
+        "status": "publish",
+        "permalink": "https://gonorth.co.il/places/peti-peti-%d7%a4%d7%98%d7%99-%d7%a4%d7%98%d7%99/",
+        "thumbnail_id": 483,
+        "thumbnail_url": "https://gonorth.co.il/wp-content/uploads/gonorth-listing-illustrations/issue100-petipeti-google.jpg",
+        "alt": "חלל מסעדת Peti Peti בשדה אליעזר",
+        "attribution_name": "Peti Peti",
+        "attribution_uri": "https://maps.google.com/maps/contrib/107031342619915571008",
+        "google_photo_name": "places/ChIJmeF0nmUfHBURwC8gAyBgeJg/photos/Aa-ngMagqKAkfu01QkbqsRA9aq3iaKx0-28ZkZcERWDgmcVt0meGTJSBOt6SSIpetM0SXy-gFIalF-pOWgov0d1WM-Rvn2ofKolzK0laqiCmeEosJAI62IOLFOYgdPoxIfh4WB4djNWvJu9m-QClQnVHEYE5Vxfvd8Gn2DQbfwRQe2ZQ6lzekX75GRQ5Ad4g7rOP-AOnPDhQqVYggf4aNVdKlI4wfK-bK27TMRxoYECSHeHe_QOFPSDloqaDzOWkm9By1dtzm1q8Cx_FKeK4aChjWjHglqUCnUY-1PMu9hYLs1DQ_PQBC9VEZ38k7dzE3e_t0d5vPanJgIr_4gWlo6dUgaJtfT72iPPeGFFdh8PvnT0EkAE6ixyhRunpyeO_HNaAzD6bfLQksBaTrlbM2n1RVOjDeyIPi5Q0PnZfqBmC_8qiE0C0eYbsxbEA9t7sYERq",
+        "categories": [
+            "restaurants-sub"
+        ],
+        "regions": [
+            "galil"
+        ],
+        "coordinates": [
+            "33.0463051",
+            "35.5706815"
+        ],
+        "source": "https://www.bordo100.co.il/מסעדה/Peti+Peti+|+פטי+פטי.html",
+        "source_type": "official_ordering_plus_regional",
+        "data": {
+            "address": "תחנת דלק סונול",
+            "city": "שדה אליעזר",
+            "latitude": "33.0463051",
+            "longitude": "35.5706815",
+            "phone": "04-681-7855",
+            "website": "https://tabitisrael.co.il/tabit-order?siteName=petipeti&step=enter",
+            "business_hours": null,
+            "price_type": null,
+            "open_saturday": null,
+            "practical_checked_at": "2026-10-01T17:07:56+00:00",
+            "google": {
+                "place_id": "ChIJmeF0nmUfHBURwC8gAyBgeJg",
+                "rating": "4.3",
+                "review_count": "190",
+                "checked_at": "2026-10-01T17:07:56+00:00",
+                "complete": true
+            }
+        }
+    }
+]

@@ -1,0 +1,1555 @@
+[
+  {
+    "id": 32,
+    "name": "ochel",
+    "slug": "ochel",
+    "taxonomy": "gd_placecategory",
+    "count": 0,
+    "description": "",
+    "parent": 0,
+    "link": "https://gonorth.co.il/places/category/ochel/",
+    "image": [],
+    "icon": [],
+    "fa_icon": "",
+    "fa_icon_color": "",
+    "schema": "",
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v27.5 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>ochel Archives - כיוון צפון</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://gonorth.co.il/places/category/ochel/\" />\n<meta property=\"og:locale\" content=\"he_IL\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"ochel Archives - כיוון צפון\" />\n<meta property=\"og:url\" content=\"https://gonorth.co.il/places/category/ochel/\" />\n<meta property=\"og:site_name\" content=\"כיוון צפון\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/category\\/ochel\\/\",\"url\":\"https:\\/\\/gonorth.co.il\\/places\\/category\\/ochel\\/\",\"name\":\"ochel Archives - כיוון צפון\",\"isPartOf\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/category\\/ochel\\/#breadcrumb\"},\"inLanguage\":\"he-IL\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/category\\/ochel\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/gonorth.co.il\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"ochel\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"name\":\"כיוון צפון\",\"description\":\"גלה את הצפון כמו מקומי\",\"alternateName\":\"GoNorth\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/gonorth.co.il\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"he-IL\",\"publisher\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\",\"name\":\"כיוון צפון\",\"alternateName\":\"GoNorth\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization-logo\",\"url\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/themes\\/gonorth-child\\/assets\\/gonorth-organic-mark.svg\",\"width\":300,\"height\":130},\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"שירות לקוחות\",\"url\":\"https:\\/\\/gonorth.co.il\\/contact\\/\",\"availableLanguage\":[\"עברית\"]},\"sameAs\":[\"https:\\/\\/gonorth.co.il\\/about\\/\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "ochel Archives - כיוון צפון",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://gonorth.co.il/places/category/ochel/",
+      "og_locale": "he_IL",
+      "og_type": "article",
+      "og_title": "ochel Archives - כיוון צפון",
+      "og_url": "https://gonorth.co.il/places/category/ochel/",
+      "og_site_name": "כיוון צפון",
+      "twitter_card": "summary_large_image",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://gonorth.co.il/places/category/ochel/",
+            "url": "https://gonorth.co.il/places/category/ochel/",
+            "name": "ochel Archives - כיוון צפון",
+            "isPartOf": {
+              "@id": "https://gonorth.co.il/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://gonorth.co.il/places/category/ochel/#breadcrumb"
+            },
+            "inLanguage": "he-IL"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://gonorth.co.il/places/category/ochel/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://gonorth.co.il/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "ochel"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://gonorth.co.il/#website",
+            "url": "https://gonorth.co.il/",
+            "name": "כיוון צפון",
+            "description": "גלה את הצפון כמו מקומי",
+            "alternateName": "GoNorth",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://gonorth.co.il/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://gonorth.co.il/#organization"
+            }
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://gonorth.co.il/#organization",
+            "name": "כיוון צפון",
+            "alternateName": "GoNorth",
+            "url": "https://gonorth.co.il/",
+            "logo": {
+              "@type": "ImageObject",
+              "@id": "https://gonorth.co.il/#organization-logo",
+              "url": "https://gonorth.co.il/wp-content/themes/gonorth-child/assets/gonorth-organic-mark.svg",
+              "width": 300,
+              "height": 130
+            },
+            "contactPoint": {
+              "@type": "ContactPoint",
+              "contactType": "שירות לקוחות",
+              "url": "https://gonorth.co.il/contact/",
+              "availableLanguage": [
+                "עברית"
+              ]
+            },
+            "sameAs": [
+              "https://gonorth.co.il/about/"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/categories/32",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/taxonomies/gd_placecategory"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places?gd_placecategory=32"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 16,
+    "name": "Uncategorized",
+    "slug": "uncategorized",
+    "taxonomy": "gd_placecategory",
+    "count": 0,
+    "description": "",
+    "parent": 0,
+    "link": "https://gonorth.co.il/places/category/uncategorized/",
+    "image": [],
+    "icon": {
+      "id": 22,
+      "date_created": "2026-04-05T21:27:55",
+      "date_created_gmt": "2026-04-05T21:27:55",
+      "date_modified": "2026-04-05T21:27:55",
+      "date_modified_gmt": "2026-04-05T21:27:55",
+      "src": "https://gonorth.co.il/wp-content/uploads/2026/04/pin.png",
+      "title": "pin",
+      "alt": ""
+    },
+    "fa_icon": "",
+    "fa_icon_color": "",
+    "schema": "",
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v27.5 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Uncategorized Archives - כיוון צפון</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://gonorth.co.il/places/category/uncategorized/\" />\n<meta property=\"og:locale\" content=\"he_IL\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Uncategorized Archives - כיוון צפון\" />\n<meta property=\"og:url\" content=\"https://gonorth.co.il/places/category/uncategorized/\" />\n<meta property=\"og:site_name\" content=\"כיוון צפון\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/category\\/uncategorized\\/\",\"url\":\"https:\\/\\/gonorth.co.il\\/places\\/category\\/uncategorized\\/\",\"name\":\"Uncategorized Archives - כיוון צפון\",\"isPartOf\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/category\\/uncategorized\\/#breadcrumb\"},\"inLanguage\":\"he-IL\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/category\\/uncategorized\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/gonorth.co.il\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Uncategorized\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"name\":\"כיוון צפון\",\"description\":\"גלה את הצפון כמו מקומי\",\"alternateName\":\"GoNorth\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/gonorth.co.il\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"he-IL\",\"publisher\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\",\"name\":\"כיוון צפון\",\"alternateName\":\"GoNorth\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization-logo\",\"url\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/themes\\/gonorth-child\\/assets\\/gonorth-organic-mark.svg\",\"width\":300,\"height\":130},\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"שירות לקוחות\",\"url\":\"https:\\/\\/gonorth.co.il\\/contact\\/\",\"availableLanguage\":[\"עברית\"]},\"sameAs\":[\"https:\\/\\/gonorth.co.il\\/about\\/\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "Uncategorized Archives - כיוון צפון",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://gonorth.co.il/places/category/uncategorized/",
+      "og_locale": "he_IL",
+      "og_type": "article",
+      "og_title": "Uncategorized Archives - כיוון צפון",
+      "og_url": "https://gonorth.co.il/places/category/uncategorized/",
+      "og_site_name": "כיוון צפון",
+      "twitter_card": "summary_large_image",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://gonorth.co.il/places/category/uncategorized/",
+            "url": "https://gonorth.co.il/places/category/uncategorized/",
+            "name": "Uncategorized Archives - כיוון צפון",
+            "isPartOf": {
+              "@id": "https://gonorth.co.il/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://gonorth.co.il/places/category/uncategorized/#breadcrumb"
+            },
+            "inLanguage": "he-IL"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://gonorth.co.il/places/category/uncategorized/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://gonorth.co.il/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Uncategorized"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://gonorth.co.il/#website",
+            "url": "https://gonorth.co.il/",
+            "name": "כיוון צפון",
+            "description": "גלה את הצפון כמו מקומי",
+            "alternateName": "GoNorth",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://gonorth.co.il/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://gonorth.co.il/#organization"
+            }
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://gonorth.co.il/#organization",
+            "name": "כיוון צפון",
+            "alternateName": "GoNorth",
+            "url": "https://gonorth.co.il/",
+            "logo": {
+              "@type": "ImageObject",
+              "@id": "https://gonorth.co.il/#organization-logo",
+              "url": "https://gonorth.co.il/wp-content/themes/gonorth-child/assets/gonorth-organic-mark.svg",
+              "width": 300,
+              "height": 130
+            },
+            "contactPoint": {
+              "@type": "ContactPoint",
+              "contactType": "שירות לקוחות",
+              "url": "https://gonorth.co.il/contact/",
+              "availableLanguage": [
+                "עברית"
+              ]
+            },
+            "sameAs": [
+              "https://gonorth.co.il/about/"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/categories/16",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/taxonomies/gd_placecategory"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places?gd_placecategory=16"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 17,
+    "name": "אטרקציות",
+    "slug": "atraktziot-main",
+    "taxonomy": "gd_placecategory",
+    "count": 32,
+    "description": "פארקים, מפלים, אתרים היסטוריים ושמורות טבע",
+    "parent": 0,
+    "link": "https://gonorth.co.il/places/category/atraktziot-main/",
+    "image": [],
+    "icon": [],
+    "fa_icon": "",
+    "fa_icon_color": "",
+    "schema": "",
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v27.5 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>אטרקציות Archives - כיוון צפון</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://gonorth.co.il/places/category/atraktziot-main/\" />\n<meta property=\"og:locale\" content=\"he_IL\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"אטרקציות Archives - כיוון צפון\" />\n<meta property=\"og:description\" content=\"פארקים, מפלים, אתרים היסטוריים ושמורות טבע\" />\n<meta property=\"og:url\" content=\"https://gonorth.co.il/places/category/atraktziot-main/\" />\n<meta property=\"og:site_name\" content=\"כיוון צפון\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/category\\/atraktziot-main\\/\",\"url\":\"https:\\/\\/gonorth.co.il\\/places\\/category\\/atraktziot-main\\/\",\"name\":\"אטרקציות Archives - כיוון צפון\",\"isPartOf\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/category\\/atraktziot-main\\/#breadcrumb\"},\"inLanguage\":\"he-IL\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/category\\/atraktziot-main\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/gonorth.co.il\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"אטרקציות\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"name\":\"כיוון צפון\",\"description\":\"גלה את הצפון כמו מקומי\",\"alternateName\":\"GoNorth\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/gonorth.co.il\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"he-IL\",\"publisher\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\",\"name\":\"כיוון צפון\",\"alternateName\":\"GoNorth\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization-logo\",\"url\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/themes\\/gonorth-child\\/assets\\/gonorth-organic-mark.svg\",\"width\":300,\"height\":130},\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"שירות לקוחות\",\"url\":\"https:\\/\\/gonorth.co.il\\/contact\\/\",\"availableLanguage\":[\"עברית\"]},\"sameAs\":[\"https:\\/\\/gonorth.co.il\\/about\\/\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "אטרקציות Archives - כיוון צפון",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://gonorth.co.il/places/category/atraktziot-main/",
+      "og_locale": "he_IL",
+      "og_type": "article",
+      "og_title": "אטרקציות Archives - כיוון צפון",
+      "og_description": "פארקים, מפלים, אתרים היסטוריים ושמורות טבע",
+      "og_url": "https://gonorth.co.il/places/category/atraktziot-main/",
+      "og_site_name": "כיוון צפון",
+      "twitter_card": "summary_large_image",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://gonorth.co.il/places/category/atraktziot-main/",
+            "url": "https://gonorth.co.il/places/category/atraktziot-main/",
+            "name": "אטרקציות Archives - כיוון צפון",
+            "isPartOf": {
+              "@id": "https://gonorth.co.il/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://gonorth.co.il/places/category/atraktziot-main/#breadcrumb"
+            },
+            "inLanguage": "he-IL"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://gonorth.co.il/places/category/atraktziot-main/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://gonorth.co.il/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "אטרקציות"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://gonorth.co.il/#website",
+            "url": "https://gonorth.co.il/",
+            "name": "כיוון צפון",
+            "description": "גלה את הצפון כמו מקומי",
+            "alternateName": "GoNorth",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://gonorth.co.il/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://gonorth.co.il/#organization"
+            }
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://gonorth.co.il/#organization",
+            "name": "כיוון צפון",
+            "alternateName": "GoNorth",
+            "url": "https://gonorth.co.il/",
+            "logo": {
+              "@type": "ImageObject",
+              "@id": "https://gonorth.co.il/#organization-logo",
+              "url": "https://gonorth.co.il/wp-content/themes/gonorth-child/assets/gonorth-organic-mark.svg",
+              "width": 300,
+              "height": 130
+            },
+            "contactPoint": {
+              "@type": "ContactPoint",
+              "contactType": "שירות לקוחות",
+              "url": "https://gonorth.co.il/contact/",
+              "availableLanguage": [
+                "עברית"
+              ]
+            },
+            "sameAs": [
+              "https://gonorth.co.il/about/"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/categories/17",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/taxonomies/gd_placecategory"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places?gd_placecategory=17"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 37,
+    "name": "בתי קפה",
+    "slug": "batei-kafe",
+    "taxonomy": "gd_placecategory",
+    "count": 0,
+    "description": "",
+    "parent": 0,
+    "link": "https://gonorth.co.il/places/category/batei-kafe/",
+    "image": [],
+    "icon": [],
+    "fa_icon": "",
+    "fa_icon_color": "",
+    "schema": "",
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v27.5 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>בתי קפה Archives - כיוון צפון</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://gonorth.co.il/places/category/batei-kafe/\" />\n<meta property=\"og:locale\" content=\"he_IL\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"בתי קפה Archives - כיוון צפון\" />\n<meta property=\"og:url\" content=\"https://gonorth.co.il/places/category/batei-kafe/\" />\n<meta property=\"og:site_name\" content=\"כיוון צפון\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/category\\/batei-kafe\\/\",\"url\":\"https:\\/\\/gonorth.co.il\\/places\\/category\\/batei-kafe\\/\",\"name\":\"בתי קפה Archives - כיוון צפון\",\"isPartOf\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/category\\/batei-kafe\\/#breadcrumb\"},\"inLanguage\":\"he-IL\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/category\\/batei-kafe\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/gonorth.co.il\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"בתי קפה\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"name\":\"כיוון צפון\",\"description\":\"גלה את הצפון כמו מקומי\",\"alternateName\":\"GoNorth\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/gonorth.co.il\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"he-IL\",\"publisher\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\",\"name\":\"כיוון צפון\",\"alternateName\":\"GoNorth\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization-logo\",\"url\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/themes\\/gonorth-child\\/assets\\/gonorth-organic-mark.svg\",\"width\":300,\"height\":130},\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"שירות לקוחות\",\"url\":\"https:\\/\\/gonorth.co.il\\/contact\\/\",\"availableLanguage\":[\"עברית\"]},\"sameAs\":[\"https:\\/\\/gonorth.co.il\\/about\\/\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "בתי קפה Archives - כיוון צפון",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://gonorth.co.il/places/category/batei-kafe/",
+      "og_locale": "he_IL",
+      "og_type": "article",
+      "og_title": "בתי קפה Archives - כיוון צפון",
+      "og_url": "https://gonorth.co.il/places/category/batei-kafe/",
+      "og_site_name": "כיוון צפון",
+      "twitter_card": "summary_large_image",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://gonorth.co.il/places/category/batei-kafe/",
+            "url": "https://gonorth.co.il/places/category/batei-kafe/",
+            "name": "בתי קפה Archives - כיוון צפון",
+            "isPartOf": {
+              "@id": "https://gonorth.co.il/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://gonorth.co.il/places/category/batei-kafe/#breadcrumb"
+            },
+            "inLanguage": "he-IL"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://gonorth.co.il/places/category/batei-kafe/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://gonorth.co.il/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "בתי קפה"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://gonorth.co.il/#website",
+            "url": "https://gonorth.co.il/",
+            "name": "כיוון צפון",
+            "description": "גלה את הצפון כמו מקומי",
+            "alternateName": "GoNorth",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://gonorth.co.il/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://gonorth.co.il/#organization"
+            }
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://gonorth.co.il/#organization",
+            "name": "כיוון צפון",
+            "alternateName": "GoNorth",
+            "url": "https://gonorth.co.il/",
+            "logo": {
+              "@type": "ImageObject",
+              "@id": "https://gonorth.co.il/#organization-logo",
+              "url": "https://gonorth.co.il/wp-content/themes/gonorth-child/assets/gonorth-organic-mark.svg",
+              "width": 300,
+              "height": 130
+            },
+            "contactPoint": {
+              "@type": "ContactPoint",
+              "contactType": "שירות לקוחות",
+              "url": "https://gonorth.co.il/contact/",
+              "availableLanguage": [
+                "עברית"
+              ]
+            },
+            "sameAs": [
+              "https://gonorth.co.il/about/"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/categories/37",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/taxonomies/gd_placecategory"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places?gd_placecategory=37"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 35,
+    "name": "טבע ומסלולים",
+    "slug": "teva",
+    "taxonomy": "gd_placecategory",
+    "count": 14,
+    "description": "",
+    "parent": 0,
+    "link": "https://gonorth.co.il/places/category/teva/",
+    "image": [],
+    "icon": [],
+    "fa_icon": "",
+    "fa_icon_color": "",
+    "schema": "",
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v27.5 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>טבע ומסלולים Archives - כיוון צפון</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://gonorth.co.il/places/category/teva/\" />\n<meta property=\"og:locale\" content=\"he_IL\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"טבע ומסלולים Archives - כיוון צפון\" />\n<meta property=\"og:url\" content=\"https://gonorth.co.il/places/category/teva/\" />\n<meta property=\"og:site_name\" content=\"כיוון צפון\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/category\\/teva\\/\",\"url\":\"https:\\/\\/gonorth.co.il\\/places\\/category\\/teva\\/\",\"name\":\"טבע ומסלולים Archives - כיוון צפון\",\"isPartOf\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/category\\/teva\\/#breadcrumb\"},\"inLanguage\":\"he-IL\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/category\\/teva\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/gonorth.co.il\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"טבע ומסלולים\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"name\":\"כיוון צפון\",\"description\":\"גלה את הצפון כמו מקומי\",\"alternateName\":\"GoNorth\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/gonorth.co.il\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"he-IL\",\"publisher\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\",\"name\":\"כיוון צפון\",\"alternateName\":\"GoNorth\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization-logo\",\"url\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/themes\\/gonorth-child\\/assets\\/gonorth-organic-mark.svg\",\"width\":300,\"height\":130},\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"שירות לקוחות\",\"url\":\"https:\\/\\/gonorth.co.il\\/contact\\/\",\"availableLanguage\":[\"עברית\"]},\"sameAs\":[\"https:\\/\\/gonorth.co.il\\/about\\/\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "טבע ומסלולים Archives - כיוון צפון",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://gonorth.co.il/places/category/teva/",
+      "og_locale": "he_IL",
+      "og_type": "article",
+      "og_title": "טבע ומסלולים Archives - כיוון צפון",
+      "og_url": "https://gonorth.co.il/places/category/teva/",
+      "og_site_name": "כיוון צפון",
+      "twitter_card": "summary_large_image",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://gonorth.co.il/places/category/teva/",
+            "url": "https://gonorth.co.il/places/category/teva/",
+            "name": "טבע ומסלולים Archives - כיוון צפון",
+            "isPartOf": {
+              "@id": "https://gonorth.co.il/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://gonorth.co.il/places/category/teva/#breadcrumb"
+            },
+            "inLanguage": "he-IL"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://gonorth.co.il/places/category/teva/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://gonorth.co.il/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "טבע ומסלולים"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://gonorth.co.il/#website",
+            "url": "https://gonorth.co.il/",
+            "name": "כיוון צפון",
+            "description": "גלה את הצפון כמו מקומי",
+            "alternateName": "GoNorth",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://gonorth.co.il/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://gonorth.co.il/#organization"
+            }
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://gonorth.co.il/#organization",
+            "name": "כיוון צפון",
+            "alternateName": "GoNorth",
+            "url": "https://gonorth.co.il/",
+            "logo": {
+              "@type": "ImageObject",
+              "@id": "https://gonorth.co.il/#organization-logo",
+              "url": "https://gonorth.co.il/wp-content/themes/gonorth-child/assets/gonorth-organic-mark.svg",
+              "width": 300,
+              "height": 130
+            },
+            "contactPoint": {
+              "@type": "ContactPoint",
+              "contactType": "שירות לקוחות",
+              "url": "https://gonorth.co.il/contact/",
+              "availableLanguage": [
+                "עברית"
+              ]
+            },
+            "sameAs": [
+              "https://gonorth.co.il/about/"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/categories/35",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/taxonomies/gd_placecategory"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places?gd_placecategory=35"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 36,
+    "name": "יקבים",
+    "slug": "yakavim",
+    "taxonomy": "gd_placecategory",
+    "count": 12,
+    "description": "",
+    "parent": 0,
+    "link": "https://gonorth.co.il/places/category/yakavim/",
+    "image": [],
+    "icon": [],
+    "fa_icon": "",
+    "fa_icon_color": "",
+    "schema": "",
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v27.5 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>יקבים Archives - כיוון צפון</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://gonorth.co.il/places/category/yakavim/\" />\n<meta property=\"og:locale\" content=\"he_IL\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"יקבים Archives - כיוון צפון\" />\n<meta property=\"og:url\" content=\"https://gonorth.co.il/places/category/yakavim/\" />\n<meta property=\"og:site_name\" content=\"כיוון צפון\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/category\\/yakavim\\/\",\"url\":\"https:\\/\\/gonorth.co.il\\/places\\/category\\/yakavim\\/\",\"name\":\"יקבים Archives - כיוון צפון\",\"isPartOf\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/category\\/yakavim\\/#breadcrumb\"},\"inLanguage\":\"he-IL\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/category\\/yakavim\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/gonorth.co.il\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"יקבים\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"name\":\"כיוון צפון\",\"description\":\"גלה את הצפון כמו מקומי\",\"alternateName\":\"GoNorth\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/gonorth.co.il\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"he-IL\",\"publisher\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\",\"name\":\"כיוון צפון\",\"alternateName\":\"GoNorth\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization-logo\",\"url\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/themes\\/gonorth-child\\/assets\\/gonorth-organic-mark.svg\",\"width\":300,\"height\":130},\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"שירות לקוחות\",\"url\":\"https:\\/\\/gonorth.co.il\\/contact\\/\",\"availableLanguage\":[\"עברית\"]},\"sameAs\":[\"https:\\/\\/gonorth.co.il\\/about\\/\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "יקבים Archives - כיוון צפון",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://gonorth.co.il/places/category/yakavim/",
+      "og_locale": "he_IL",
+      "og_type": "article",
+      "og_title": "יקבים Archives - כיוון צפון",
+      "og_url": "https://gonorth.co.il/places/category/yakavim/",
+      "og_site_name": "כיוון צפון",
+      "twitter_card": "summary_large_image",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://gonorth.co.il/places/category/yakavim/",
+            "url": "https://gonorth.co.il/places/category/yakavim/",
+            "name": "יקבים Archives - כיוון צפון",
+            "isPartOf": {
+              "@id": "https://gonorth.co.il/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://gonorth.co.il/places/category/yakavim/#breadcrumb"
+            },
+            "inLanguage": "he-IL"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://gonorth.co.il/places/category/yakavim/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://gonorth.co.il/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "יקבים"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://gonorth.co.il/#website",
+            "url": "https://gonorth.co.il/",
+            "name": "כיוון צפון",
+            "description": "גלה את הצפון כמו מקומי",
+            "alternateName": "GoNorth",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://gonorth.co.il/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://gonorth.co.il/#organization"
+            }
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://gonorth.co.il/#organization",
+            "name": "כיוון צפון",
+            "alternateName": "GoNorth",
+            "url": "https://gonorth.co.il/",
+            "logo": {
+              "@type": "ImageObject",
+              "@id": "https://gonorth.co.il/#organization-logo",
+              "url": "https://gonorth.co.il/wp-content/themes/gonorth-child/assets/gonorth-organic-mark.svg",
+              "width": 300,
+              "height": 130
+            },
+            "contactPoint": {
+              "@type": "ContactPoint",
+              "contactType": "שירות לקוחות",
+              "url": "https://gonorth.co.il/contact/",
+              "availableLanguage": [
+                "עברית"
+              ]
+            },
+            "sameAs": [
+              "https://gonorth.co.il/about/"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/categories/36",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/taxonomies/gd_placecategory"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places?gd_placecategory=36"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 18,
+    "name": "לינה",
+    "slug": "accommodation",
+    "taxonomy": "gd_placecategory",
+    "count": 9,
+    "description": "צימרים, מלונות, בתי הארחה וקמפינג",
+    "parent": 0,
+    "link": "https://gonorth.co.il/places/category/accommodation/",
+    "image": [],
+    "icon": [],
+    "fa_icon": "",
+    "fa_icon_color": "",
+    "schema": "",
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v27.5 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>לינה Archives - כיוון צפון</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://gonorth.co.il/places/category/accommodation/\" />\n<meta property=\"og:locale\" content=\"he_IL\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"לינה Archives - כיוון צפון\" />\n<meta property=\"og:description\" content=\"צימרים, מלונות, בתי הארחה וקמפינג\" />\n<meta property=\"og:url\" content=\"https://gonorth.co.il/places/category/accommodation/\" />\n<meta property=\"og:site_name\" content=\"כיוון צפון\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/category\\/accommodation\\/\",\"url\":\"https:\\/\\/gonorth.co.il\\/places\\/category\\/accommodation\\/\",\"name\":\"לינה Archives - כיוון צפון\",\"isPartOf\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/category\\/accommodation\\/#breadcrumb\"},\"inLanguage\":\"he-IL\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/category\\/accommodation\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/gonorth.co.il\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"לינה\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"name\":\"כיוון צפון\",\"description\":\"גלה את הצפון כמו מקומי\",\"alternateName\":\"GoNorth\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/gonorth.co.il\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"he-IL\",\"publisher\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\",\"name\":\"כיוון צפון\",\"alternateName\":\"GoNorth\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization-logo\",\"url\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/themes\\/gonorth-child\\/assets\\/gonorth-organic-mark.svg\",\"width\":300,\"height\":130},\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"שירות לקוחות\",\"url\":\"https:\\/\\/gonorth.co.il\\/contact\\/\",\"availableLanguage\":[\"עברית\"]},\"sameAs\":[\"https:\\/\\/gonorth.co.il\\/about\\/\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "לינה Archives - כיוון צפון",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://gonorth.co.il/places/category/accommodation/",
+      "og_locale": "he_IL",
+      "og_type": "article",
+      "og_title": "לינה Archives - כיוון צפון",
+      "og_description": "צימרים, מלונות, בתי הארחה וקמפינג",
+      "og_url": "https://gonorth.co.il/places/category/accommodation/",
+      "og_site_name": "כיוון צפון",
+      "twitter_card": "summary_large_image",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://gonorth.co.il/places/category/accommodation/",
+            "url": "https://gonorth.co.il/places/category/accommodation/",
+            "name": "לינה Archives - כיוון צפון",
+            "isPartOf": {
+              "@id": "https://gonorth.co.il/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://gonorth.co.il/places/category/accommodation/#breadcrumb"
+            },
+            "inLanguage": "he-IL"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://gonorth.co.il/places/category/accommodation/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://gonorth.co.il/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "לינה"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://gonorth.co.il/#website",
+            "url": "https://gonorth.co.il/",
+            "name": "כיוון צפון",
+            "description": "גלה את הצפון כמו מקומי",
+            "alternateName": "GoNorth",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://gonorth.co.il/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://gonorth.co.il/#organization"
+            }
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://gonorth.co.il/#organization",
+            "name": "כיוון צפון",
+            "alternateName": "GoNorth",
+            "url": "https://gonorth.co.il/",
+            "logo": {
+              "@type": "ImageObject",
+              "@id": "https://gonorth.co.il/#organization-logo",
+              "url": "https://gonorth.co.il/wp-content/themes/gonorth-child/assets/gonorth-organic-mark.svg",
+              "width": 300,
+              "height": 130
+            },
+            "contactPoint": {
+              "@type": "ContactPoint",
+              "contactType": "שירות לקוחות",
+              "url": "https://gonorth.co.il/contact/",
+              "availableLanguage": [
+                "עברית"
+              ]
+            },
+            "sameAs": [
+              "https://gonorth.co.il/about/"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/categories/18",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/taxonomies/gd_placecategory"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places?gd_placecategory=18"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 33,
+    "name": "מסעדות",
+    "slug": "restaurants-sub",
+    "taxonomy": "gd_placecategory",
+    "count": 13,
+    "description": "מסעדות בצפון",
+    "parent": 0,
+    "link": "https://gonorth.co.il/places/category/restaurants-sub/",
+    "image": [],
+    "icon": [],
+    "fa_icon": "",
+    "fa_icon_color": "",
+    "schema": "",
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v27.5 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>מסעדות Archives - כיוון צפון</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://gonorth.co.il/places/category/restaurants-sub/\" />\n<meta property=\"og:locale\" content=\"he_IL\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"מסעדות Archives - כיוון צפון\" />\n<meta property=\"og:description\" content=\"מסעדות בצפון\" />\n<meta property=\"og:url\" content=\"https://gonorth.co.il/places/category/restaurants-sub/\" />\n<meta property=\"og:site_name\" content=\"כיוון צפון\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/category\\/restaurants-sub\\/\",\"url\":\"https:\\/\\/gonorth.co.il\\/places\\/category\\/restaurants-sub\\/\",\"name\":\"מסעדות Archives - כיוון צפון\",\"isPartOf\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/category\\/restaurants-sub\\/#breadcrumb\"},\"inLanguage\":\"he-IL\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/category\\/restaurants-sub\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/gonorth.co.il\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"מסעדות\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"name\":\"כיוון צפון\",\"description\":\"גלה את הצפון כמו מקומי\",\"alternateName\":\"GoNorth\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/gonorth.co.il\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"he-IL\",\"publisher\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\",\"name\":\"כיוון צפון\",\"alternateName\":\"GoNorth\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization-logo\",\"url\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/themes\\/gonorth-child\\/assets\\/gonorth-organic-mark.svg\",\"width\":300,\"height\":130},\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"שירות לקוחות\",\"url\":\"https:\\/\\/gonorth.co.il\\/contact\\/\",\"availableLanguage\":[\"עברית\"]},\"sameAs\":[\"https:\\/\\/gonorth.co.il\\/about\\/\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "מסעדות Archives - כיוון צפון",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://gonorth.co.il/places/category/restaurants-sub/",
+      "og_locale": "he_IL",
+      "og_type": "article",
+      "og_title": "מסעדות Archives - כיוון צפון",
+      "og_description": "מסעדות בצפון",
+      "og_url": "https://gonorth.co.il/places/category/restaurants-sub/",
+      "og_site_name": "כיוון צפון",
+      "twitter_card": "summary_large_image",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://gonorth.co.il/places/category/restaurants-sub/",
+            "url": "https://gonorth.co.il/places/category/restaurants-sub/",
+            "name": "מסעדות Archives - כיוון צפון",
+            "isPartOf": {
+              "@id": "https://gonorth.co.il/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://gonorth.co.il/places/category/restaurants-sub/#breadcrumb"
+            },
+            "inLanguage": "he-IL"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://gonorth.co.il/places/category/restaurants-sub/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://gonorth.co.il/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "מסעדות"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://gonorth.co.il/#website",
+            "url": "https://gonorth.co.il/",
+            "name": "כיוון צפון",
+            "description": "גלה את הצפון כמו מקומי",
+            "alternateName": "GoNorth",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://gonorth.co.il/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://gonorth.co.il/#organization"
+            }
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://gonorth.co.il/#organization",
+            "name": "כיוון צפון",
+            "alternateName": "GoNorth",
+            "url": "https://gonorth.co.il/",
+            "logo": {
+              "@type": "ImageObject",
+              "@id": "https://gonorth.co.il/#organization-logo",
+              "url": "https://gonorth.co.il/wp-content/themes/gonorth-child/assets/gonorth-organic-mark.svg",
+              "width": 300,
+              "height": 130
+            },
+            "contactPoint": {
+              "@type": "ContactPoint",
+              "contactType": "שירות לקוחות",
+              "url": "https://gonorth.co.il/contact/",
+              "availableLanguage": [
+                "עברית"
+              ]
+            },
+            "sameAs": [
+              "https://gonorth.co.il/about/"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/categories/33",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/taxonomies/gd_placecategory"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places?gd_placecategory=33"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "name": "סיורים ופעילויות",
+    "slug": "tours",
+    "taxonomy": "gd_placecategory",
+    "count": 27,
+    "description": "סיורים מודרכים, קיאקים, טיולי ג׳יפים ופעילויות הרפתקה",
+    "parent": 0,
+    "link": "https://gonorth.co.il/places/category/tours/",
+    "image": [],
+    "icon": [],
+    "fa_icon": "",
+    "fa_icon_color": "",
+    "schema": "",
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v27.5 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>סיורים ופעילויות Archives - כיוון צפון</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://gonorth.co.il/places/category/tours/\" />\n<meta property=\"og:locale\" content=\"he_IL\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"סיורים ופעילויות Archives - כיוון צפון\" />\n<meta property=\"og:description\" content=\"סיורים מודרכים, קיאקים, טיולי ג׳יפים ופעילויות הרפתקה\" />\n<meta property=\"og:url\" content=\"https://gonorth.co.il/places/category/tours/\" />\n<meta property=\"og:site_name\" content=\"כיוון צפון\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/category\\/tours\\/\",\"url\":\"https:\\/\\/gonorth.co.il\\/places\\/category\\/tours\\/\",\"name\":\"סיורים ופעילויות Archives - כיוון צפון\",\"isPartOf\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/category\\/tours\\/#breadcrumb\"},\"inLanguage\":\"he-IL\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/category\\/tours\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/gonorth.co.il\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"סיורים ופעילויות\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"name\":\"כיוון צפון\",\"description\":\"גלה את הצפון כמו מקומי\",\"alternateName\":\"GoNorth\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/gonorth.co.il\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"he-IL\",\"publisher\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\",\"name\":\"כיוון צפון\",\"alternateName\":\"GoNorth\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization-logo\",\"url\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/themes\\/gonorth-child\\/assets\\/gonorth-organic-mark.svg\",\"width\":300,\"height\":130},\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"שירות לקוחות\",\"url\":\"https:\\/\\/gonorth.co.il\\/contact\\/\",\"availableLanguage\":[\"עברית\"]},\"sameAs\":[\"https:\\/\\/gonorth.co.il\\/about\\/\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "סיורים ופעילויות Archives - כיוון צפון",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://gonorth.co.il/places/category/tours/",
+      "og_locale": "he_IL",
+      "og_type": "article",
+      "og_title": "סיורים ופעילויות Archives - כיוון צפון",
+      "og_description": "סיורים מודרכים, קיאקים, טיולי ג׳יפים ופעילויות הרפתקה",
+      "og_url": "https://gonorth.co.il/places/category/tours/",
+      "og_site_name": "כיוון צפון",
+      "twitter_card": "summary_large_image",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://gonorth.co.il/places/category/tours/",
+            "url": "https://gonorth.co.il/places/category/tours/",
+            "name": "סיורים ופעילויות Archives - כיוון צפון",
+            "isPartOf": {
+              "@id": "https://gonorth.co.il/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://gonorth.co.il/places/category/tours/#breadcrumb"
+            },
+            "inLanguage": "he-IL"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://gonorth.co.il/places/category/tours/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://gonorth.co.il/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "סיורים ופעילויות"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://gonorth.co.il/#website",
+            "url": "https://gonorth.co.il/",
+            "name": "כיוון צפון",
+            "description": "גלה את הצפון כמו מקומי",
+            "alternateName": "GoNorth",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://gonorth.co.il/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://gonorth.co.il/#organization"
+            }
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://gonorth.co.il/#organization",
+            "name": "כיוון צפון",
+            "alternateName": "GoNorth",
+            "url": "https://gonorth.co.il/",
+            "logo": {
+              "@type": "ImageObject",
+              "@id": "https://gonorth.co.il/#organization-logo",
+              "url": "https://gonorth.co.il/wp-content/themes/gonorth-child/assets/gonorth-organic-mark.svg",
+              "width": 300,
+              "height": 130
+            },
+            "contactPoint": {
+              "@type": "ContactPoint",
+              "contactType": "שירות לקוחות",
+              "url": "https://gonorth.co.il/contact/",
+              "availableLanguage": [
+                "עברית"
+              ]
+            },
+            "sameAs": [
+              "https://gonorth.co.il/about/"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/categories/20",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/taxonomies/gd_placecategory"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places?gd_placecategory=20"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 38,
+    "name": "עגלות קפה",
+    "slug": "agalot-kafe",
+    "taxonomy": "gd_placecategory",
+    "count": 16,
+    "description": "",
+    "parent": 0,
+    "link": "https://gonorth.co.il/places/category/agalot-kafe/",
+    "image": [],
+    "icon": [],
+    "fa_icon": "",
+    "fa_icon_color": "",
+    "schema": "",
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v27.5 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>עגלות קפה Archives - כיוון צפון</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://gonorth.co.il/places/category/agalot-kafe/\" />\n<meta property=\"og:locale\" content=\"he_IL\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"עגלות קפה Archives - כיוון צפון\" />\n<meta property=\"og:url\" content=\"https://gonorth.co.il/places/category/agalot-kafe/\" />\n<meta property=\"og:site_name\" content=\"כיוון צפון\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/category\\/agalot-kafe\\/\",\"url\":\"https:\\/\\/gonorth.co.il\\/places\\/category\\/agalot-kafe\\/\",\"name\":\"עגלות קפה Archives - כיוון צפון\",\"isPartOf\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/category\\/agalot-kafe\\/#breadcrumb\"},\"inLanguage\":\"he-IL\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/category\\/agalot-kafe\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/gonorth.co.il\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"עגלות קפה\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"name\":\"כיוון צפון\",\"description\":\"גלה את הצפון כמו מקומי\",\"alternateName\":\"GoNorth\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/gonorth.co.il\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"he-IL\",\"publisher\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\",\"name\":\"כיוון צפון\",\"alternateName\":\"GoNorth\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization-logo\",\"url\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/themes\\/gonorth-child\\/assets\\/gonorth-organic-mark.svg\",\"width\":300,\"height\":130},\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"שירות לקוחות\",\"url\":\"https:\\/\\/gonorth.co.il\\/contact\\/\",\"availableLanguage\":[\"עברית\"]},\"sameAs\":[\"https:\\/\\/gonorth.co.il\\/about\\/\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "עגלות קפה Archives - כיוון צפון",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://gonorth.co.il/places/category/agalot-kafe/",
+      "og_locale": "he_IL",
+      "og_type": "article",
+      "og_title": "עגלות קפה Archives - כיוון צפון",
+      "og_url": "https://gonorth.co.il/places/category/agalot-kafe/",
+      "og_site_name": "כיוון צפון",
+      "twitter_card": "summary_large_image",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://gonorth.co.il/places/category/agalot-kafe/",
+            "url": "https://gonorth.co.il/places/category/agalot-kafe/",
+            "name": "עגלות קפה Archives - כיוון צפון",
+            "isPartOf": {
+              "@id": "https://gonorth.co.il/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://gonorth.co.il/places/category/agalot-kafe/#breadcrumb"
+            },
+            "inLanguage": "he-IL"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://gonorth.co.il/places/category/agalot-kafe/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://gonorth.co.il/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "עגלות קפה"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://gonorth.co.il/#website",
+            "url": "https://gonorth.co.il/",
+            "name": "כיוון צפון",
+            "description": "גלה את הצפון כמו מקומי",
+            "alternateName": "GoNorth",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://gonorth.co.il/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://gonorth.co.il/#organization"
+            }
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://gonorth.co.il/#organization",
+            "name": "כיוון צפון",
+            "alternateName": "GoNorth",
+            "url": "https://gonorth.co.il/",
+            "logo": {
+              "@type": "ImageObject",
+              "@id": "https://gonorth.co.il/#organization-logo",
+              "url": "https://gonorth.co.il/wp-content/themes/gonorth-child/assets/gonorth-organic-mark.svg",
+              "width": 300,
+              "height": 130
+            },
+            "contactPoint": {
+              "@type": "ContactPoint",
+              "contactType": "שירות לקוחות",
+              "url": "https://gonorth.co.il/contact/",
+              "availableLanguage": [
+                "עברית"
+              ]
+            },
+            "sameAs": [
+              "https://gonorth.co.il/about/"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/categories/38",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/taxonomies/gd_placecategory"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places?gd_placecategory=38"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

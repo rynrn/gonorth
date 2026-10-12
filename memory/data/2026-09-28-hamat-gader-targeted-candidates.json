@@ -1,0 +1,191 @@
+No syntax errors detected in /home/claude/search-hamat-gader-google.php
+[
+    {
+        "query": "חמת גדר אתר מרחצאות",
+        "http_status": 200,
+        "candidates": [
+            {
+                "id": "ChIJD70KuwptHBURvXbFQ4QFTMA",
+                "name": "חמת גדר המרחצאות המודרניים",
+                "address": "חמת גדר",
+                "latitude": 32.6830412,
+                "longitude": 35.6630762,
+                "rating": 4.1,
+                "review_count": 408,
+                "business_status": "OPERATIONAL",
+                "moved_place_id": null,
+                "website": "https://hamat-gader.com/",
+                "phone": "04-665-9999",
+                "types": [
+                    "tourist_attraction",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            }
+        ]
+    },
+    {
+        "query": "חמת גדר מעיינות חמים",
+        "http_status": 200,
+        "candidates": [
+            {
+                "id": "ChIJD70KuwptHBURvXbFQ4QFTMA",
+                "name": "חמת גדר המרחצאות המודרניים",
+                "address": "חמת גדר",
+                "latitude": 32.6830412,
+                "longitude": 35.6630762,
+                "rating": 4.1,
+                "review_count": 408,
+                "business_status": "OPERATIONAL",
+                "moved_place_id": null,
+                "website": "https://hamat-gader.com/",
+                "phone": "04-665-9999",
+                "types": [
+                    "tourist_attraction",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJfYhnTvVtHBURm-vOCDaaoZ8",
+                "name": "עין ג'ונס",
+                "address": "חמת גדר",
+                "latitude": 32.6820921,
+                "longitude": 35.6664943,
+                "rating": 4.2,
+                "review_count": 1653,
+                "business_status": "OPERATIONAL",
+                "moved_place_id": null,
+                "website": "https://www.ynet.co.il/vacation/israeltrips/article/B1kL11E2zv?utm_source=Taboola_internal&utm_medium=organic",
+                "phone": null,
+                "types": [
+                    "tourist_attraction",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJsQnKIFcXHBURA2DnQfH5690",
+                "name": "ספא וילג' מלון בוטיק בצפון ~Spa Village boutique hotel",
+                "address": "חמת גדר",
+                "latitude": 32.683358999999996,
+                "longitude": 35.664733000000005,
+                "rating": 4,
+                "review_count": 1581,
+                "business_status": "OPERATIONAL",
+                "moved_place_id": null,
+                "website": "https://hamat-gader.com/spa-village-hotel/",
+                "phone": "04-665-9999",
+                "types": [
+                    "hotel",
+                    "lodging",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            }
+        ]
+    },
+    {
+        "query": "Hamat Gader Hot Springs",
+        "http_status": 200,
+        "candidates": [
+            {
+                "id": "ChIJpW_MwKJsHBUR13O0U86aTl4",
+                "name": "Hamat Gader",
+                "address": "כביש 98",
+                "latitude": 32.683055599999996,
+                "longitude": 35.6630556,
+                "rating": 4.2,
+                "review_count": 7995,
+                "business_status": "OPERATIONAL",
+                "moved_place_id": null,
+                "website": "http://www.hamat-gader.com/",
+                "phone": "04-665-9999",
+                "types": [
+                    "resort_hotel",
+                    "hotel",
+                    "lodging",
+                    "massage_spa",
+                    "spa",
+                    "massage",
+                    "point_of_interest",
+                    "service",
+                    "establishment"
+                ]
+            }
+        ]
+    },
+    {
+        "query": "פארק חמת גדר",
+        "http_status": 200,
+        "candidates": [
+            {
+                "id": "ChIJD70KuwptHBURvXbFQ4QFTMA",
+                "name": "חמת גדר המרחצאות המודרניים",
+                "address": "חמת גדר",
+                "latitude": 32.6830412,
+                "longitude": 35.6630762,
+                "rating": 4.1,
+                "review_count": 408,
+                "business_status": "OPERATIONAL",
+                "moved_place_id": null,
+                "website": "https://hamat-gader.com/",
+                "phone": "04-665-9999",
+                "types": [
+                    "tourist_attraction",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            }
+        ]
+    },
+    {
+        "query": "Hamat Gader resort",
+        "http_status": 200,
+        "candidates": [
+            {
+                "id": "ChIJpW_MwKJsHBUR13O0U86aTl4",
+                "name": "Hamat Gader",
+                "address": "כביש 98",
+                "latitude": 32.683055599999996,
+                "longitude": 35.6630556,
+                "rating": 4.2,
+                "review_count": 7995,
+                "business_status": "OPERATIONAL",
+                "moved_place_id": null,
+                "website": "http://www.hamat-gader.com/",
+                "phone": "04-665-9999",
+                "types": [
+                    "resort_hotel",
+                    "hotel",
+                    "lodging",
+                    "massage_spa",
+                    "spa",
+                    "massage",
+                    "point_of_interest",
+                    "service",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJsQnKIFcXHBURA2DnQfH5690",
+                "name": "ספא וילג' מלון בוטיק בצפון ~Spa Village boutique hotel",
+                "address": "חמת גדר",
+                "latitude": 32.683358999999996,
+                "longitude": 35.664733000000005,
+                "rating": 4,
+                "review_count": 1581,
+                "business_status": "OPERATIONAL",
+                "moved_place_id": null,
+                "website": "https://hamat-gader.com/spa-village-hotel/",
+                "phone": "04-665-9999",
+                "types": [
+                    "hotel",
+                    "lodging",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            }
+        ]
+    }
+]

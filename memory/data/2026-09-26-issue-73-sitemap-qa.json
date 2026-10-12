@@ -1,0 +1,12 @@
+{
+  "sitemaps": [
+    "https://gonorth.co.il/post-sitemap.xml",
+    "https://gonorth.co.il/page-sitemap.xml",
+    "https://gonorth.co.il/gd_place-sitemap.xml",
+    "https://gonorth.co.il/category-sitemap.xml",
+    "https://gonorth.co.il/gd_placecategory-sitemap.xml",
+    "https://gonorth.co.il/gn_region-sitemap.xml"
+  ],
+  "old_present": [],
+  "new_missing": []
+}

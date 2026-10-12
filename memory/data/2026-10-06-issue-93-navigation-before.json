@@ -1,0 +1,24 @@
+{
+  "checked_at": "2026-10-06",
+  "risk": "L2",
+  "theme": "gonorth-child",
+  "files": [
+    {
+      "sha256": "aeb1a129ab3b004275aaa257e8f141dfdeb594e92bfdb7965329797e9bb6fd3f",
+      "name": "functions.php",
+      "backup": "memory/work/issue93-navigation/functions.before.php"
+    },
+    {
+      "sha256": "6127219391534dba5cd43a98328010d08fb7374d8e97b84e4c944d93cf0009bf",
+      "name": "single-gd_place.php",
+      "backup": "memory/work/issue93-navigation/single-gd_place.before.php"
+    }
+  ],
+  "test_listing": {
+    "waze_links": 2,
+    "id": 503,
+    "public_status": 200,
+    "flag": "absent",
+    "google_maps_links": 1
+  }
+}

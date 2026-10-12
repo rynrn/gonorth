@@ -1,0 +1,31 @@
+{
+  "passed": 5,
+  "total": 5,
+  "tests": [
+    {
+      "name": "invalid filter values noindex and clean canonical",
+      "pass": true,
+      "detail": "{\"robots\":\"noindex, follow\",\"canonical\":\"https://gonorth.co.il/places/\",\"summary\":\"נמצאו 128 מקומות\"}"
+    },
+    {
+      "name": "category filter SEO and selection",
+      "pass": true,
+      "detail": "{\"robots\":\"noindex, follow\",\"canonical\":\"https://gonorth.co.il/places/category/yakavim/\",\"region\":\"golan\",\"saturday\":\"yes\"}"
+    },
+    {
+      "name": "zero-result event with consent",
+      "pass": true,
+      "detail": "{\"empty\":true,\"events\":[{\"0\":\"event\",\"1\":\"zero_results\",\"2\":{\"search_scope\":\"archive\",\"has_query\":true,\"region_slug\":\"carmel\",\"saturday_state\":\"yes\",\"results_count\":0,\"page_location\":\"https://gonorth.co.il/places/\"}}]}"
+    },
+    {
+      "name": "keyboard tab moves to Saturday",
+      "pass": true,
+      "detail": "{\"active\":\"gn-saturday-select\",\"region\":\"\"}"
+    },
+    {
+      "name": "keyboard Enter submits filter",
+      "pass": true,
+      "detail": "{\"region\":\"galil\",\"summary\":\"נמצאו 53 מקומות — אזור גליל\"}"
+    }
+  ]
+}

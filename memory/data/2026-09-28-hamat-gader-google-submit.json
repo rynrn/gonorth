@@ -1,0 +1,17 @@
+[
+  {
+    "id": 405,
+    "source": "google_places",
+    "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJpW_MwKJsHBUR13O0U86aTl4",
+    "checked_at": "2026-09-28T12:25:00Z",
+    "confidence": 1.0,
+    "facts": {
+      "business_status": "operational",
+      "google_place_id": "ChIJpW_MwKJsHBUR13O0U86aTl4",
+      "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJpW_MwKJsHBUR13O0U86aTl4",
+      "google_rating": 4.2,
+      "google_review_count": 7995,
+      "google_checked_at": "2026-09-28T12:25:00Z"
+    }
+  }
+]

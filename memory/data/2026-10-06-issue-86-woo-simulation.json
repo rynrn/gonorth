@@ -1,0 +1,70 @@
+[
+  {
+    "width": 390,
+    "mode": "baseline",
+    "status": 200,
+    "blocked": 0,
+    "errors": [],
+    "state": {
+      "title": "סיורים בצפון וקיאקים בנחל הירדן | כיוון צפון",
+      "h1": "סיורים בצפון וקיאקים בנחל הירדן",
+      "docWidth": 390,
+      "bodyWidth": 390,
+      "toc": 0,
+      "placeLinks": 30,
+      "images": 5
+    },
+    "shot": "C:/dev/gonorth/memory/work/issue86-390-baseline.png"
+  },
+  {
+    "width": 390,
+    "mode": "without_woo",
+    "status": 200,
+    "blocked": 10,
+    "errors": [],
+    "state": {
+      "title": "סיורים בצפון וקיאקים בנחל הירדן | כיוון צפון",
+      "h1": "סיורים בצפון וקיאקים בנחל הירדן",
+      "docWidth": 390,
+      "bodyWidth": 390,
+      "toc": 0,
+      "placeLinks": 30,
+      "images": 5
+    },
+    "shot": "C:/dev/gonorth/memory/work/issue86-390-without_woo.png"
+  },
+  {
+    "width": 1280,
+    "mode": "baseline",
+    "status": 200,
+    "blocked": 0,
+    "errors": [],
+    "state": {
+      "title": "סיורים בצפון וקיאקים בנחל הירדן | כיוון צפון",
+      "h1": "סיורים בצפון וקיאקים בנחל הירדן",
+      "docWidth": 1280,
+      "bodyWidth": 1280,
+      "toc": 0,
+      "placeLinks": 30,
+      "images": 5
+    },
+    "shot": "C:/dev/gonorth/memory/work/issue86-1280-baseline.png"
+  },
+  {
+    "width": 1280,
+    "mode": "without_woo",
+    "status": 200,
+    "blocked": 10,
+    "errors": [],
+    "state": {
+      "title": "סיורים בצפון וקיאקים בנחל הירדן | כיוון צפון",
+      "h1": "סיורים בצפון וקיאקים בנחל הירדן",
+      "docWidth": 1280,
+      "bodyWidth": 1280,
+      "toc": 0,
+      "placeLinks": 30,
+      "images": 5
+    },
+    "shot": "C:/dev/gonorth/memory/work/issue86-1280-without_woo.png"
+  }
+]

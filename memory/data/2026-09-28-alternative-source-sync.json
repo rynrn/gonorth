@@ -1,0 +1,2159 @@
+{
+  "format": "gonorth-place-facts-wordpress-sync/v1",
+  "generated_at": "2026-09-28T18:17:12Z",
+  "changes": [
+    {
+      "place_id": 202,
+      "wordpress_id": 202,
+      "name": "חלהוולאוו",
+      "url": "https://gonorth.co.il/places/%d7%97%d7%9c%d7%94%d7%95%d7%95%d7%9c%d7%90%d7%95%d7%95/",
+      "change_ids": [
+        639
+      ],
+      "expected": {
+        "business_hours": null
+      },
+      "updates": {
+        "business_hours": "[\"Su 09:00-13:00\",\"Mo 09:00-13:00\",\"Tu 10:00-15:00\",\"We 09:00-13:00\",\"Th 10:00-15:00\",\"Fr 09:00-13:00\"]"
+      },
+      "verification": {
+        "source": "coffeetrail",
+        "source_url": null,
+        "checked_at": "2026-09-28T09:00:00Z",
+        "practical_verified": true,
+        "google_verified": false
+      }
+    },
+    {
+      "place_id": 228,
+      "wordpress_id": 228,
+      "name": "קופיש Coffish",
+      "url": "https://gonorth.co.il/places/%d7%a7%d7%95%d7%a4%d7%99%d7%a9-coffish/",
+      "change_ids": [
+        640
+      ],
+      "expected": {
+        "business_hours": null
+      },
+      "updates": {
+        "business_hours": "[\"Tu 09:00-18:00\",\"We 09:00-18:00\",\"Th 09:00-18:00\",\"Fr 09:00-18:00\",\"Sa 09:00-18:00\"]"
+      },
+      "verification": {
+        "source": "coffeetrail",
+        "source_url": null,
+        "checked_at": "2026-09-28T09:00:00Z",
+        "practical_verified": true,
+        "google_verified": false
+      }
+    },
+    {
+      "place_id": 357,
+      "wordpress_id": 357,
+      "name": "F Ranch",
+      "url": "https://gonorth.co.il/places/f-ranch/",
+      "change_ids": [
+        641
+      ],
+      "expected": {
+        "business_hours": null
+      },
+      "updates": {
+        "business_hours": "[\"Su 09:00-19:00\",\"Mo 09:00-19:00\",\"Tu 09:00-19:00\",\"We 09:00-19:00\",\"Th 09:00-19:00\",\"Fr 09:00-15:00\"]"
+      },
+      "verification": {
+        "source": "tourgolan",
+        "source_url": null,
+        "checked_at": "2026-09-28T09:00:00Z",
+        "practical_verified": true,
+        "google_verified": false
+      }
+    }
+  ],
+  "deferred": [
+    {
+      "change_id": 3,
+      "place_id": 48,
+      "wordpress_id": 48,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 5,
+      "place_id": 48,
+      "wordpress_id": 48,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 8,
+      "place_id": 48,
+      "wordpress_id": 48,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 9,
+      "place_id": 50,
+      "wordpress_id": 50,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 11,
+      "place_id": 50,
+      "wordpress_id": 50,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 14,
+      "place_id": 50,
+      "wordpress_id": 50,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 15,
+      "place_id": 52,
+      "wordpress_id": 52,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 17,
+      "place_id": 52,
+      "wordpress_id": 52,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 20,
+      "place_id": 52,
+      "wordpress_id": 52,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 21,
+      "place_id": 54,
+      "wordpress_id": 54,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 23,
+      "place_id": 54,
+      "wordpress_id": 54,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 26,
+      "place_id": 54,
+      "wordpress_id": 54,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 411,
+      "place_id": 58,
+      "wordpress_id": 58,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 413,
+      "place_id": 58,
+      "wordpress_id": 58,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 416,
+      "place_id": 58,
+      "wordpress_id": 58,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 27,
+      "place_id": 61,
+      "wordpress_id": 61,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 29,
+      "place_id": 61,
+      "wordpress_id": 61,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 32,
+      "place_id": 61,
+      "wordpress_id": 61,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 33,
+      "place_id": 63,
+      "wordpress_id": 63,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 35,
+      "place_id": 63,
+      "wordpress_id": 63,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 38,
+      "place_id": 63,
+      "wordpress_id": 63,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 39,
+      "place_id": 86,
+      "wordpress_id": 86,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 41,
+      "place_id": 86,
+      "wordpress_id": 86,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 44,
+      "place_id": 86,
+      "wordpress_id": 86,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 45,
+      "place_id": 87,
+      "wordpress_id": 87,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 47,
+      "place_id": 87,
+      "wordpress_id": 87,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 50,
+      "place_id": 87,
+      "wordpress_id": 87,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 339,
+      "place_id": 88,
+      "wordpress_id": 88,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 341,
+      "place_id": 88,
+      "wordpress_id": 88,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 344,
+      "place_id": 88,
+      "wordpress_id": 88,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 51,
+      "place_id": 89,
+      "wordpress_id": 89,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 53,
+      "place_id": 89,
+      "wordpress_id": 89,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 56,
+      "place_id": 89,
+      "wordpress_id": 89,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 57,
+      "place_id": 149,
+      "wordpress_id": 149,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 59,
+      "place_id": 149,
+      "wordpress_id": 149,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 62,
+      "place_id": 149,
+      "wordpress_id": 149,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 63,
+      "place_id": 157,
+      "wordpress_id": 157,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 65,
+      "place_id": 157,
+      "wordpress_id": 157,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 68,
+      "place_id": 157,
+      "wordpress_id": 157,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 69,
+      "place_id": 159,
+      "wordpress_id": 159,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 71,
+      "place_id": 159,
+      "wordpress_id": 159,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 74,
+      "place_id": 159,
+      "wordpress_id": 159,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 75,
+      "place_id": 165,
+      "wordpress_id": 165,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 77,
+      "place_id": 165,
+      "wordpress_id": 165,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 80,
+      "place_id": 165,
+      "wordpress_id": 165,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 417,
+      "place_id": 167,
+      "wordpress_id": 167,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 419,
+      "place_id": 167,
+      "wordpress_id": 167,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 422,
+      "place_id": 167,
+      "wordpress_id": 167,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 81,
+      "place_id": 169,
+      "wordpress_id": 169,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 83,
+      "place_id": 169,
+      "wordpress_id": 169,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 86,
+      "place_id": 169,
+      "wordpress_id": 169,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 87,
+      "place_id": 173,
+      "wordpress_id": 173,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 89,
+      "place_id": 173,
+      "wordpress_id": 173,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 92,
+      "place_id": 173,
+      "wordpress_id": 173,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 93,
+      "place_id": 175,
+      "wordpress_id": 175,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 95,
+      "place_id": 175,
+      "wordpress_id": 175,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 98,
+      "place_id": 175,
+      "wordpress_id": 175,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 99,
+      "place_id": 177,
+      "wordpress_id": 177,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 101,
+      "place_id": 177,
+      "wordpress_id": 177,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 104,
+      "place_id": 177,
+      "wordpress_id": 177,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 423,
+      "place_id": 179,
+      "wordpress_id": 179,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 425,
+      "place_id": 179,
+      "wordpress_id": 179,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 428,
+      "place_id": 179,
+      "wordpress_id": 179,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 105,
+      "place_id": 181,
+      "wordpress_id": 181,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 107,
+      "place_id": 181,
+      "wordpress_id": 181,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 110,
+      "place_id": 181,
+      "wordpress_id": 181,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 111,
+      "place_id": 183,
+      "wordpress_id": 183,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 113,
+      "place_id": 183,
+      "wordpress_id": 183,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 116,
+      "place_id": 183,
+      "wordpress_id": 183,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 429,
+      "place_id": 185,
+      "wordpress_id": 185,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 431,
+      "place_id": 185,
+      "wordpress_id": 185,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 434,
+      "place_id": 185,
+      "wordpress_id": 185,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 117,
+      "place_id": 187,
+      "wordpress_id": 187,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 119,
+      "place_id": 187,
+      "wordpress_id": 187,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 122,
+      "place_id": 187,
+      "wordpress_id": 187,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 345,
+      "place_id": 191,
+      "wordpress_id": 191,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 347,
+      "place_id": 191,
+      "wordpress_id": 191,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 350,
+      "place_id": 191,
+      "wordpress_id": 191,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 123,
+      "place_id": 193,
+      "wordpress_id": 193,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 125,
+      "place_id": 193,
+      "wordpress_id": 193,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 128,
+      "place_id": 193,
+      "wordpress_id": 193,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 435,
+      "place_id": 195,
+      "wordpress_id": 195,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 437,
+      "place_id": 195,
+      "wordpress_id": 195,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 440,
+      "place_id": 195,
+      "wordpress_id": 195,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 441,
+      "place_id": 197,
+      "wordpress_id": 197,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 443,
+      "place_id": 197,
+      "wordpress_id": 197,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 446,
+      "place_id": 197,
+      "wordpress_id": 197,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 129,
+      "place_id": 198,
+      "wordpress_id": 198,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 131,
+      "place_id": 198,
+      "wordpress_id": 198,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 134,
+      "place_id": 198,
+      "wordpress_id": 198,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 135,
+      "place_id": 204,
+      "wordpress_id": 204,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 137,
+      "place_id": 204,
+      "wordpress_id": 204,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 140,
+      "place_id": 204,
+      "wordpress_id": 204,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 333,
+      "place_id": 207,
+      "wordpress_id": 207,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 334,
+      "place_id": 209,
+      "wordpress_id": 209,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 141,
+      "place_id": 212,
+      "wordpress_id": 212,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 143,
+      "place_id": 212,
+      "wordpress_id": 212,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 146,
+      "place_id": 212,
+      "wordpress_id": 212,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 447,
+      "place_id": 213,
+      "wordpress_id": 213,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 449,
+      "place_id": 213,
+      "wordpress_id": 213,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 452,
+      "place_id": 213,
+      "wordpress_id": 213,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 453,
+      "place_id": 215,
+      "wordpress_id": 215,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 455,
+      "place_id": 215,
+      "wordpress_id": 215,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 458,
+      "place_id": 215,
+      "wordpress_id": 215,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 513,
+      "place_id": 217,
+      "wordpress_id": 217,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 514,
+      "place_id": 223,
+      "wordpress_id": 223,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 147,
+      "place_id": 225,
+      "wordpress_id": 225,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 149,
+      "place_id": 225,
+      "wordpress_id": 225,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 152,
+      "place_id": 225,
+      "wordpress_id": 225,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 459,
+      "place_id": 229,
+      "wordpress_id": 229,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 461,
+      "place_id": 229,
+      "wordpress_id": 229,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 464,
+      "place_id": 229,
+      "wordpress_id": 229,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 153,
+      "place_id": 231,
+      "wordpress_id": 231,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 155,
+      "place_id": 231,
+      "wordpress_id": 231,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 158,
+      "place_id": 231,
+      "wordpress_id": 231,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 465,
+      "place_id": 235,
+      "wordpress_id": 235,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 467,
+      "place_id": 235,
+      "wordpress_id": 235,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 470,
+      "place_id": 235,
+      "wordpress_id": 235,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 471,
+      "place_id": 237,
+      "wordpress_id": 237,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 473,
+      "place_id": 237,
+      "wordpress_id": 237,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 476,
+      "place_id": 237,
+      "wordpress_id": 237,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 159,
+      "place_id": 240,
+      "wordpress_id": 240,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 161,
+      "place_id": 240,
+      "wordpress_id": 240,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 164,
+      "place_id": 240,
+      "wordpress_id": 240,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 477,
+      "place_id": 242,
+      "wordpress_id": 242,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 479,
+      "place_id": 242,
+      "wordpress_id": 242,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 482,
+      "place_id": 242,
+      "wordpress_id": 242,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 483,
+      "place_id": 244,
+      "wordpress_id": 244,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 485,
+      "place_id": 244,
+      "wordpress_id": 244,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 488,
+      "place_id": 244,
+      "wordpress_id": 244,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 165,
+      "place_id": 246,
+      "wordpress_id": 246,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 167,
+      "place_id": 246,
+      "wordpress_id": 246,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 170,
+      "place_id": 246,
+      "wordpress_id": 246,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 489,
+      "place_id": 248,
+      "wordpress_id": 248,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 491,
+      "place_id": 248,
+      "wordpress_id": 248,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 494,
+      "place_id": 248,
+      "wordpress_id": 248,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 171,
+      "place_id": 323,
+      "wordpress_id": 323,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 173,
+      "place_id": 323,
+      "wordpress_id": 323,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 176,
+      "place_id": 323,
+      "wordpress_id": 323,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 177,
+      "place_id": 325,
+      "wordpress_id": 325,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 179,
+      "place_id": 325,
+      "wordpress_id": 325,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 182,
+      "place_id": 325,
+      "wordpress_id": 325,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 183,
+      "place_id": 327,
+      "wordpress_id": 327,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 185,
+      "place_id": 327,
+      "wordpress_id": 327,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 188,
+      "place_id": 327,
+      "wordpress_id": 327,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 335,
+      "place_id": 329,
+      "wordpress_id": 329,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 189,
+      "place_id": 331,
+      "wordpress_id": 331,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 191,
+      "place_id": 331,
+      "wordpress_id": 331,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 194,
+      "place_id": 331,
+      "wordpress_id": 331,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 195,
+      "place_id": 333,
+      "wordpress_id": 333,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 197,
+      "place_id": 333,
+      "wordpress_id": 333,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 200,
+      "place_id": 333,
+      "wordpress_id": 333,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 201,
+      "place_id": 337,
+      "wordpress_id": 337,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 203,
+      "place_id": 337,
+      "wordpress_id": 337,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 206,
+      "place_id": 337,
+      "wordpress_id": 337,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 207,
+      "place_id": 341,
+      "wordpress_id": 341,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 209,
+      "place_id": 341,
+      "wordpress_id": 341,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 212,
+      "place_id": 341,
+      "wordpress_id": 341,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 213,
+      "place_id": 343,
+      "wordpress_id": 343,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 215,
+      "place_id": 343,
+      "wordpress_id": 343,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 218,
+      "place_id": 343,
+      "wordpress_id": 343,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 219,
+      "place_id": 345,
+      "wordpress_id": 345,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 221,
+      "place_id": 345,
+      "wordpress_id": 345,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 224,
+      "place_id": 345,
+      "wordpress_id": 345,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 336,
+      "place_id": 347,
+      "wordpress_id": 347,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 351,
+      "place_id": 349,
+      "wordpress_id": 349,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 353,
+      "place_id": 349,
+      "wordpress_id": 349,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 356,
+      "place_id": 349,
+      "wordpress_id": 349,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 225,
+      "place_id": 351,
+      "wordpress_id": 351,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 227,
+      "place_id": 351,
+      "wordpress_id": 351,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 230,
+      "place_id": 351,
+      "wordpress_id": 351,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 357,
+      "place_id": 353,
+      "wordpress_id": 353,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 359,
+      "place_id": 353,
+      "wordpress_id": 353,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 362,
+      "place_id": 353,
+      "wordpress_id": 353,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 363,
+      "place_id": 355,
+      "wordpress_id": 355,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 365,
+      "place_id": 355,
+      "wordpress_id": 355,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 368,
+      "place_id": 355,
+      "wordpress_id": 355,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 369,
+      "place_id": 359,
+      "wordpress_id": 359,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 371,
+      "place_id": 359,
+      "wordpress_id": 359,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 374,
+      "place_id": 359,
+      "wordpress_id": 359,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 231,
+      "place_id": 361,
+      "wordpress_id": 361,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 233,
+      "place_id": 361,
+      "wordpress_id": 361,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 236,
+      "place_id": 361,
+      "wordpress_id": 361,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 237,
+      "place_id": 363,
+      "wordpress_id": 363,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 239,
+      "place_id": 363,
+      "wordpress_id": 363,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 242,
+      "place_id": 363,
+      "wordpress_id": 363,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 375,
+      "place_id": 365,
+      "wordpress_id": 365,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 377,
+      "place_id": 365,
+      "wordpress_id": 365,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 380,
+      "place_id": 365,
+      "wordpress_id": 365,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 243,
+      "place_id": 367,
+      "wordpress_id": 367,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 245,
+      "place_id": 367,
+      "wordpress_id": 367,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 248,
+      "place_id": 367,
+      "wordpress_id": 367,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 249,
+      "place_id": 369,
+      "wordpress_id": 369,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 251,
+      "place_id": 369,
+      "wordpress_id": 369,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 254,
+      "place_id": 369,
+      "wordpress_id": 369,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 381,
+      "place_id": 371,
+      "wordpress_id": 371,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 383,
+      "place_id": 371,
+      "wordpress_id": 371,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 386,
+      "place_id": 371,
+      "wordpress_id": 371,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 255,
+      "place_id": 375,
+      "wordpress_id": 375,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 257,
+      "place_id": 375,
+      "wordpress_id": 375,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 260,
+      "place_id": 375,
+      "wordpress_id": 375,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 261,
+      "place_id": 379,
+      "wordpress_id": 379,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 263,
+      "place_id": 379,
+      "wordpress_id": 379,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 266,
+      "place_id": 379,
+      "wordpress_id": 379,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 267,
+      "place_id": 381,
+      "wordpress_id": 381,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 269,
+      "place_id": 381,
+      "wordpress_id": 381,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 272,
+      "place_id": 381,
+      "wordpress_id": 381,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 387,
+      "place_id": 383,
+      "wordpress_id": 383,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 389,
+      "place_id": 383,
+      "wordpress_id": 383,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 392,
+      "place_id": 383,
+      "wordpress_id": 383,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 393,
+      "place_id": 385,
+      "wordpress_id": 385,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 395,
+      "place_id": 385,
+      "wordpress_id": 385,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 398,
+      "place_id": 385,
+      "wordpress_id": 385,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 273,
+      "place_id": 387,
+      "wordpress_id": 387,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 275,
+      "place_id": 387,
+      "wordpress_id": 387,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 278,
+      "place_id": 387,
+      "wordpress_id": 387,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 279,
+      "place_id": 389,
+      "wordpress_id": 389,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 281,
+      "place_id": 389,
+      "wordpress_id": 389,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 284,
+      "place_id": 389,
+      "wordpress_id": 389,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 495,
+      "place_id": 391,
+      "wordpress_id": 391,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 497,
+      "place_id": 391,
+      "wordpress_id": 391,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 500,
+      "place_id": 391,
+      "wordpress_id": 391,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 337,
+      "place_id": 393,
+      "wordpress_id": 393,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 285,
+      "place_id": 395,
+      "wordpress_id": 395,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 287,
+      "place_id": 395,
+      "wordpress_id": 395,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 290,
+      "place_id": 395,
+      "wordpress_id": 395,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 291,
+      "place_id": 399,
+      "wordpress_id": 399,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 293,
+      "place_id": 399,
+      "wordpress_id": 399,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 296,
+      "place_id": 399,
+      "wordpress_id": 399,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 399,
+      "place_id": 401,
+      "wordpress_id": 401,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 401,
+      "place_id": 401,
+      "wordpress_id": 401,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 404,
+      "place_id": 401,
+      "wordpress_id": 401,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 297,
+      "place_id": 403,
+      "wordpress_id": 403,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 299,
+      "place_id": 403,
+      "wordpress_id": 403,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 302,
+      "place_id": 403,
+      "wordpress_id": 403,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 303,
+      "place_id": 407,
+      "wordpress_id": 407,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 305,
+      "place_id": 407,
+      "wordpress_id": 407,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 308,
+      "place_id": 407,
+      "wordpress_id": 407,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 309,
+      "place_id": 411,
+      "wordpress_id": 411,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 311,
+      "place_id": 411,
+      "wordpress_id": 411,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 314,
+      "place_id": 411,
+      "wordpress_id": 411,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 315,
+      "place_id": 413,
+      "wordpress_id": 413,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 317,
+      "place_id": 413,
+      "wordpress_id": 413,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 320,
+      "place_id": 413,
+      "wordpress_id": 413,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 501,
+      "place_id": 415,
+      "wordpress_id": 415,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 503,
+      "place_id": 415,
+      "wordpress_id": 415,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 506,
+      "place_id": 415,
+      "wordpress_id": 415,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 321,
+      "place_id": 417,
+      "wordpress_id": 417,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 323,
+      "place_id": 417,
+      "wordpress_id": 417,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 326,
+      "place_id": 417,
+      "wordpress_id": 417,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 507,
+      "place_id": 419,
+      "wordpress_id": 419,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 509,
+      "place_id": 419,
+      "wordpress_id": 419,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 512,
+      "place_id": 419,
+      "wordpress_id": 419,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 338,
+      "place_id": 421,
+      "wordpress_id": 421,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 405,
+      "place_id": 423,
+      "wordpress_id": 423,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 407,
+      "place_id": 423,
+      "wordpress_id": 423,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 410,
+      "place_id": 423,
+      "wordpress_id": 423,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 327,
+      "place_id": 425,
+      "wordpress_id": 425,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 329,
+      "place_id": 425,
+      "wordpress_id": 425,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 332,
+      "place_id": 425,
+      "wordpress_id": 425,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    }
+  ],
+  "summary": {
+    "places": 3,
+    "change_count": 3,
+    "deferred_count": 260
+  }
+}

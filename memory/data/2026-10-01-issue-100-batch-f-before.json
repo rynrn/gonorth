@@ -1,0 +1,20 @@
+No syntax errors detected in /tmp/issue100-precheck-batch-f.php
+No syntax errors detected in /tmp/issue100-create-batch-f.php
+No syntax errors detected in /tmp/issue100-verify-batch-f.php
+{
+    "checked_at": "2026-10-01",
+    "targets": [
+        {
+            "title": "מלון גליליון",
+            "title_matches": [],
+            "place_id": "ChIJ-dkHnfyhHhURLLWGYN0f55o",
+            "place_matches": []
+        },
+        {
+            "title": "שמורת עין תאו",
+            "title_matches": [],
+            "place_id": "ChIJN1UVpIKhHhUR05ABPzqnSjA",
+            "place_matches": []
+        }
+    ]
+}

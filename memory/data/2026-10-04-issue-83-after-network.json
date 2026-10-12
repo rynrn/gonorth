@@ -1,0 +1,151 @@
+[
+  {
+    "label": "before_choice",
+    "state": {
+      "choice": null,
+      "banner": "flex",
+      "gtmScripts": 0,
+      "preferredScripts": 0,
+      "settings": true,
+      "buttons": [
+        "מאשר/ת מדידה",
+        "ללא מדידה"
+      ],
+      "overflow": false
+    },
+    "requests": {
+      "fonts.googleapis.com/css": 1,
+      "use.fontawesome.com/releases/v6.7.2/css/all.css": 1,
+      "secure.gravatar.com/avatar/bd561ad648dcab19ce6b8c66c8552f814a63d6ef04c7ec9": 1,
+      "fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSusd0mm_00.wo": 1,
+      "fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSusdUmm.woff2": 1,
+      "https://gonorth.co.il/de881be7-f05d-4802-b917-e27a3c588": 1
+    },
+    "thirdPartySentinel": [],
+    "errors": []
+  },
+  {
+    "label": "rejected",
+    "state": {
+      "choice": "0",
+      "banner": "none",
+      "gtmScripts": 0,
+      "preferredScripts": 0,
+      "settings": true,
+      "buttons": [
+        "מאשר/ת מדידה",
+        "ללא מדידה"
+      ],
+      "overflow": false
+    },
+    "requests": {
+      "fonts.googleapis.com/css": 1,
+      "use.fontawesome.com/releases/v6.7.2/css/all.css": 1,
+      "secure.gravatar.com/avatar/bd561ad648dcab19ce6b8c66c8552f814a63d6ef04c7ec9": 1,
+      "fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSusd0mm_00.wo": 1,
+      "fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSusdUmm.woff2": 1,
+      "https://gonorth.co.il/e4be564f-a0be-46b8-8334-af8906629": 1
+    },
+    "thirdPartySentinel": [],
+    "errors": []
+  },
+  {
+    "label": "accepted",
+    "state": {
+      "choice": "1",
+      "banner": "none",
+      "gtmScripts": 1,
+      "preferredScripts": 1,
+      "settings": true,
+      "buttons": [
+        "מאשר/ת מדידה",
+        "ללא מדידה"
+      ],
+      "overflow": true
+    },
+    "requests": {
+      "fonts.googleapis.com/css": 1,
+      "use.fontawesome.com/releases/v6.7.2/css/all.css": 1,
+      "www.googletagmanager.com/gtm.js": 1,
+      "secure.gravatar.com/avatar/bd561ad648dcab19ce6b8c66c8552f814a63d6ef04c7ec9": 1,
+      "www.googletagmanager.com/gtag/js": 1,
+      "fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSusd0mm_00.wo": 1,
+      "fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSusdUmm.woff2": 1,
+      "www.google-analytics.com/g/collect": 1,
+      "news.google.com/swg/js/v1/publisher.js": 1,
+      "https://gonorth.co.il/6122f0ff-c6ce-4357-b721-44908b4f6": 1,
+      "news.google.com/swg/ui/v1/serviceiframe": 1,
+      "www.gstatic.com/_/mss/boq-subscribewithgoogle/_/ss/k=boq-subscribewith": 1,
+      "www.gstatic.com/_/mss/boq-subscribewithgoogle/_/js/k=boq-subscribewith": 7,
+      "play.google.com/log": 1
+    },
+    "thirdPartySentinel": [],
+    "errors": []
+  },
+  {
+    "label": "accept_now",
+    "state": {
+      "choice": "1",
+      "banner": "none",
+      "gtmScripts": 1,
+      "preferredScripts": 1,
+      "settings": true,
+      "buttons": [
+        "מאשר/ת מדידה",
+        "ללא מדידה"
+      ],
+      "overflow": true
+    },
+    "requests": {
+      "fonts.googleapis.com/css": 1,
+      "use.fontawesome.com/releases/v6.7.2/css/all.css": 1,
+      "secure.gravatar.com/avatar/bd561ad648dcab19ce6b8c66c8552f814a63d6ef04c7ec9": 1,
+      "fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSusd0mm_00.wo": 1,
+      "fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSusdUmm.woff2": 1,
+      "https://gonorth.co.il/ed56cbea-e116-4363-9df2-f9c5b20d2": 1,
+      "www.googletagmanager.com/gtm.js": 1,
+      "news.google.com/swg/js/v1/publisher.js": 1,
+      "news.google.com/swg/ui/v1/serviceiframe": 1,
+      "www.googletagmanager.com/gtag/js": 1,
+      "www.gstatic.com/_/mss/boq-subscribewithgoogle/_/ss/k=boq-subscribewith": 1,
+      "www.gstatic.com/_/mss/boq-subscribewithgoogle/_/js/k=boq-subscribewith": 7,
+      "www.google-analytics.com/g/collect": 1,
+      "play.google.com/log": 1
+    },
+    "thirdPartySentinel": [],
+    "errors": []
+  },
+  {
+    "label": "revoke_now",
+    "state": {
+      "choice": "0",
+      "banner": "none",
+      "gtmScripts": 0,
+      "preferredScripts": 0,
+      "settings": true,
+      "buttons": [
+        "מאשר/ת מדידה",
+        "ללא מדידה"
+      ],
+      "overflow": false
+    },
+    "requests": {
+      "fonts.googleapis.com/css": 2,
+      "use.fontawesome.com/releases/v6.7.2/css/all.css": 2,
+      "www.googletagmanager.com/gtm.js": 1,
+      "secure.gravatar.com/avatar/bd561ad648dcab19ce6b8c66c8552f814a63d6ef04c7ec9": 2,
+      "www.googletagmanager.com/gtag/js": 1,
+      "fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSusd0mm_00.wo": 2,
+      "fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSusdUmm.woff2": 2,
+      "www.google-analytics.com/g/collect": 1,
+      "news.google.com/swg/js/v1/publisher.js": 1,
+      "https://gonorth.co.il/9c8957a5-1246-4949-82b9-b8c660e9e": 1,
+      "news.google.com/swg/ui/v1/serviceiframe": 1,
+      "www.gstatic.com/_/mss/boq-subscribewithgoogle/_/ss/k=boq-subscribewith": 1,
+      "www.gstatic.com/_/mss/boq-subscribewithgoogle/_/js/k=boq-subscribewith": 7,
+      "play.google.com/log": 1
+    },
+    "thirdPartySentinel": [],
+    "errors": []
+  }
+]

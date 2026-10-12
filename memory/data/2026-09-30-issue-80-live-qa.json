@@ -1,0 +1,42 @@
+{
+  "checked_at": "2026-09-30T10:01:57.553518+00:00",
+  "pages": {
+    "guide": {
+      "status": 200,
+      "canonical": "https://gonorth.co.il/agamon-hahula-guide/",
+      "meta_description_present": true,
+      "approved_conflict_notice": true,
+      "forbidden_found": [],
+      "jsonld_blocks": 1,
+      "jsonld_parse_errors": [],
+      "us_markers": false,
+      "israel_marker": true
+    },
+    "place": {
+      "status": 200,
+      "canonical": "https://gonorth.co.il/places/אגמון-החולה/",
+      "meta_description_present": true,
+      "approved_conflict_notice": true,
+      "forbidden_found": [],
+      "jsonld_blocks": 3,
+      "jsonld_parse_errors": [],
+      "us_markers": false,
+      "israel_marker": true
+    }
+  },
+  "errors": [],
+  "rest": {
+    "guide_status": "publish",
+    "guide_notice": true,
+    "place_status": "publish",
+    "place_notice": true,
+    "place_business_hours": null,
+    "place_country": "ישראל",
+    "place_region": "צפון",
+    "place_city": "יסוד המעלה",
+    "place_coordinates": [
+      "33.11107",
+      "35.58494"
+    ]
+  }
+}

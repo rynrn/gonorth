@@ -1,0 +1,57 @@
+[
+  {
+    "Name": "Baseline",
+    "Score": 59.0,
+    "FCP_ms": 6130.0,
+    "LCP_ms": 11019.0,
+    "SI_ms": 6199.0,
+    "TBT_ms": 106.0,
+    "CLS": 0.013,
+    "Requests": 79,
+    "KB": 2296.0
+  },
+  {
+    "Name": "Final mobile 1",
+    "Score": 95.0,
+    "FCP_ms": 1944.0,
+    "LCP_ms": 2260.0,
+    "SI_ms": 3209.0,
+    "TBT_ms": 144.0,
+    "CLS": 0.0,
+    "Requests": 55,
+    "KB": 1578.0
+  },
+  {
+    "Name": "Final mobile 2",
+    "Score": 96.0,
+    "FCP_ms": 1941.0,
+    "LCP_ms": 2250.0,
+    "SI_ms": 2709.0,
+    "TBT_ms": 78.0,
+    "CLS": 0.0,
+    "Requests": 55,
+    "KB": 1578.0
+  },
+  {
+    "Name": "Final mobile 3",
+    "Score": 94.0,
+    "FCP_ms": 1966.0,
+    "LCP_ms": 2519.0,
+    "SI_ms": 2558.0,
+    "TBT_ms": 147.0,
+    "CLS": 0.0,
+    "Requests": 55,
+    "KB": 1578.0
+  },
+  {
+    "Name": "Final desktop",
+    "Score": 100.0,
+    "FCP_ms": 375.0,
+    "LCP_ms": 412.0,
+    "SI_ms": 757.0,
+    "TBT_ms": 0.0,
+    "CLS": 0.0,
+    "Requests": 56,
+    "KB": 1339.0
+  }
+]

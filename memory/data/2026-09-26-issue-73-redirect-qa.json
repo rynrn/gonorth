@@ -1,0 +1,86 @@
+[
+  {
+    "ID": 84,
+    "source": "https://gonorth.co.il/%d7%9e%d7%93%d7%a8%d7%99%d7%9a-%d7%9c%d7%99%d7%a0%d7%94-%d7%91%d7%a8%d7%9e%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f-%d7%9e%d7%9c%d7%95%d7%a0%d7%95%d7%aa-%d7%a6%d7%99%d7%9e%d7%a8%d7%99%d7%9d-%d7%95%d7%a7/",
+    "expected": "https://gonorth.co.il/accommodation-ramat-hagolan-guide/",
+    "first": "301|https://gonorth.co.il/accommodation-ramat-hagolan-guide/",
+    "final": "200|https://gonorth.co.il/accommodation-ramat-hagolan-guide/|1"
+  },
+  {
+    "ID": 123,
+    "source": "https://gonorth.co.il/springs-valley-guide/",
+    "expected": "https://gonorth.co.il/valley-of-springs-guide/",
+    "first": "301|https://gonorth.co.il/valley-of-springs-guide/",
+    "final": "200|https://gonorth.co.il/valley-of-springs-guide/|1"
+  },
+  {
+    "ID": 127,
+    "source": "https://gonorth.co.il/north-israel-wineries-guide/",
+    "expected": "https://gonorth.co.il/yekavim-batzafon/",
+    "first": "301|https://gonorth.co.il/yekavim-batzafon/",
+    "final": "200|https://gonorth.co.il/yekavim-batzafon/|1"
+  },
+  {
+    "ID": 135,
+    "source": "https://gonorth.co.il/north-israel-wineries-guide-2/",
+    "expected": "https://gonorth.co.il/yekavim-batzafon/",
+    "first": "301|https://gonorth.co.il/yekavim-batzafon/",
+    "final": "200|https://gonorth.co.il/yekavim-batzafon/|1"
+  },
+  {
+    "ID": 144,
+    "source": "https://gonorth.co.il/accommodation-golan-heights/",
+    "expected": "https://gonorth.co.il/accommodation-ramat-hagolan-guide/",
+    "first": "301|https://gonorth.co.il/accommodation-ramat-hagolan-guide/",
+    "final": "200|https://gonorth.co.il/accommodation-ramat-hagolan-guide/|1"
+  },
+  {
+    "ID": 251,
+    "source": "https://gonorth.co.il/north-israel-family-activities-guide/",
+    "expected": "https://gonorth.co.il/atrakziot-leyeladim-batzafon/",
+    "first": "301|https://gonorth.co.il/atrakziot-leyeladim-batzafon/",
+    "final": "200|https://gonorth.co.il/atrakziot-leyeladim-batzafon/|1"
+  },
+  {
+    "ID": 252,
+    "source": "https://gonorth.co.il/water-trails-north-israel-summer/",
+    "expected": "https://gonorth.co.il/maslulei-mayim-batzafon/",
+    "first": "301|https://gonorth.co.il/maslulei-mayim-batzafon/",
+    "final": "200|https://gonorth.co.il/maslulei-mayim-batzafon/|1"
+  },
+  {
+    "ID": 256,
+    "source": "https://gonorth.co.il/water-trails-north-israel/",
+    "expected": "https://gonorth.co.il/maslulei-mayim-batzafon/",
+    "first": "301|https://gonorth.co.il/maslulei-mayim-batzafon/",
+    "final": "200|https://gonorth.co.il/maslulei-mayim-batzafon/|1"
+  },
+  {
+    "ID": 257,
+    "source": "https://gonorth.co.il/attractions-for-kids-north-israel/",
+    "expected": "https://gonorth.co.il/atrakziot-leyeladim-batzafon/",
+    "first": "301|https://gonorth.co.il/atrakziot-leyeladim-batzafon/",
+    "final": "200|https://gonorth.co.il/atrakziot-leyeladim-batzafon/|1"
+  },
+  {
+    "ID": 258,
+    "source": "https://gonorth.co.il/wineries-galilee-golan-guide/",
+    "expected": "https://gonorth.co.il/yekavim-batzafon/",
+    "first": "301|https://gonorth.co.il/yekavim-batzafon/",
+    "final": "200|https://gonorth.co.il/yekavim-batzafon/|1"
+  },
+  {
+    "ID": 267,
+    "source": "https://gonorth.co.il/misadot-mumlatzot-batzafon/",
+    "expected": "https://gonorth.co.il/misadot-mumlatzot-tzafon-israel/",
+    "first": "301|https://gonorth.co.il/misadot-mumlatzot-tzafon-israel/",
+    "final": "200|https://gonorth.co.il/misadot-mumlatzot-tzafon-israel/|1"
+  },
+  {
+    "ID": 126,
+    "source": "https://gonorth.co.il/shavuot-2025-north-israel/",
+    "expected": "https://gonorth.co.il/shavuot-north-israel/",
+    "first": "301|https://gonorth.co.il/shavuot-north-israel/",
+    "final": "200|https://gonorth.co.il/shavuot-north-israel/|1"
+  }
+]

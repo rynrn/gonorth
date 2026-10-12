@@ -1,0 +1,257 @@
+[
+  {
+    "id": 58,
+    "source": "google_places",
+    "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7WPXO2YkHBURGyJZtdbZK-g",
+    "checked_at": "2026-09-28T10:36:22Z",
+    "confidence": 1.0,
+    "facts": {
+      "business_status": "operational",
+      "google_place_id": "ChIJ7WPXO2YkHBURGyJZtdbZK-g",
+      "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7WPXO2YkHBURGyJZtdbZK-g",
+      "google_rating": 4.6,
+      "google_review_count": 1793,
+      "google_checked_at": "2026-09-28T10:36:22Z"
+    }
+  },
+  {
+    "id": 167,
+    "source": "google_places",
+    "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4wig3jYzHBURJdQDL6aN15w",
+    "checked_at": "2026-09-28T10:36:22Z",
+    "confidence": 0.4,
+    "facts": {
+      "business_status": "operational",
+      "google_place_id": "ChIJ4wig3jYzHBURJdQDL6aN15w",
+      "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4wig3jYzHBURJdQDL6aN15w",
+      "google_rating": 4.3,
+      "google_review_count": 136,
+      "google_checked_at": "2026-09-28T10:36:22Z"
+    }
+  },
+  {
+    "id": 179,
+    "source": "google_places",
+    "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9wpPCIyjHhURJ5BWRilgwEM",
+    "checked_at": "2026-09-28T10:36:22Z",
+    "confidence": 0.5,
+    "facts": {
+      "business_status": "operational",
+      "google_place_id": "ChIJ9wpPCIyjHhURJ5BWRilgwEM",
+      "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9wpPCIyjHhURJ5BWRilgwEM",
+      "google_rating": 4.6,
+      "google_review_count": 338,
+      "google_checked_at": "2026-09-28T10:36:22Z"
+    }
+  },
+  {
+    "id": 185,
+    "source": "google_places",
+    "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJW3gUhDlrHBUR51OLWWk5OJo",
+    "checked_at": "2026-09-28T10:36:22Z",
+    "confidence": 0.67,
+    "facts": {
+      "business_status": "operational",
+      "google_place_id": "ChIJW3gUhDlrHBUR51OLWWk5OJo",
+      "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJW3gUhDlrHBUR51OLWWk5OJo",
+      "google_rating": 4.1,
+      "google_review_count": 57,
+      "google_checked_at": "2026-09-28T10:36:22Z"
+    }
+  },
+  {
+    "id": 195,
+    "source": "google_places",
+    "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ26nR-0iHBUR-c0C3A4ot4I",
+    "checked_at": "2026-09-28T10:36:22Z",
+    "confidence": 0.33,
+    "facts": {
+      "business_status": "operational",
+      "google_place_id": "ChIJJ26nR-0iHBUR-c0C3A4ot4I",
+      "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ26nR-0iHBUR-c0C3A4ot4I",
+      "google_rating": 4.8,
+      "google_review_count": 470,
+      "google_checked_at": "2026-09-28T10:36:22Z"
+    }
+  },
+  {
+    "id": 197,
+    "source": "google_places",
+    "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJJfn9GnCfHhURpI-N72yeFmQ",
+    "checked_at": "2026-09-28T10:36:22Z",
+    "confidence": 1.0,
+    "facts": {
+      "business_status": "operational",
+      "google_place_id": "ChIJJfn9GnCfHhURpI-N72yeFmQ",
+      "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJfn9GnCfHhURpI-N72yeFmQ",
+      "google_rating": 4.8,
+      "google_review_count": 136,
+      "google_checked_at": "2026-09-28T10:36:22Z"
+    }
+  },
+  {
+    "id": 213,
+    "source": "google_places",
+    "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJMcHaBukFHBURfyE3C7N8ZJw",
+    "checked_at": "2026-09-28T10:36:22Z",
+    "confidence": 1.0,
+    "facts": {
+      "business_status": "operational",
+      "google_place_id": "ChIJMcHaBukFHBURfyE3C7N8ZJw",
+      "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJMcHaBukFHBURfyE3C7N8ZJw",
+      "google_rating": 4.7,
+      "google_review_count": 153,
+      "google_checked_at": "2026-09-28T10:36:22Z"
+    }
+  },
+  {
+    "id": 215,
+    "source": "google_places",
+    "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJ65m3OPSzHRURVm2p-1-eHCM",
+    "checked_at": "2026-09-28T10:36:22Z",
+    "confidence": 1.0,
+    "facts": {
+      "business_status": "operational",
+      "google_place_id": "ChIJ65m3OPSzHRURVm2p-1-eHCM",
+      "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ65m3OPSzHRURVm2p-1-eHCM",
+      "google_rating": 4.4,
+      "google_review_count": 347,
+      "google_checked_at": "2026-09-28T10:36:22Z"
+    }
+  },
+  {
+    "id": 229,
+    "source": "google_places",
+    "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ-OFmexBHBURI-F2_SbMIcU",
+    "checked_at": "2026-09-28T10:36:22Z",
+    "confidence": 1.0,
+    "facts": {
+      "business_status": "operational",
+      "google_place_id": "ChIJZ-OFmexBHBURI-F2_SbMIcU",
+      "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ-OFmexBHBURI-F2_SbMIcU",
+      "google_rating": 4.7,
+      "google_review_count": 418,
+      "google_checked_at": "2026-09-28T10:36:22Z"
+    }
+  },
+  {
+    "id": 235,
+    "source": "google_places",
+    "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVXk4GqvHhURQAAO-OX53Zw",
+    "checked_at": "2026-09-28T10:36:22Z",
+    "confidence": 1.0,
+    "facts": {
+      "business_status": "operational",
+      "google_place_id": "ChIJVVXk4GqvHhURQAAO-OX53Zw",
+      "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVXk4GqvHhURQAAO-OX53Zw",
+      "google_rating": 4.9,
+      "google_review_count": 1833,
+      "google_checked_at": "2026-09-28T10:36:22Z"
+    }
+  },
+  {
+    "id": 237,
+    "source": "google_places",
+    "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVlmFbKAhURFFRnnWYO79A",
+    "checked_at": "2026-09-28T10:36:22Z",
+    "confidence": 1.0,
+    "facts": {
+      "business_status": "operational",
+      "google_place_id": "ChIJVVVlmFbKAhURFFRnnWYO79A",
+      "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVlmFbKAhURFFRnnWYO79A",
+      "google_rating": 4.5,
+      "google_review_count": 753,
+      "google_checked_at": "2026-09-28T10:36:22Z"
+    }
+  },
+  {
+    "id": 242,
+    "source": "google_places",
+    "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8fGABs0mHBURknJ45eUKO9Q",
+    "checked_at": "2026-09-28T10:36:22Z",
+    "confidence": 1.0,
+    "facts": {
+      "business_status": "operational",
+      "google_place_id": "ChIJ8fGABs0mHBURknJ45eUKO9Q",
+      "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8fGABs0mHBURknJ45eUKO9Q",
+      "google_rating": 4.7,
+      "google_review_count": 1005,
+      "google_checked_at": "2026-09-28T10:36:22Z"
+    }
+  },
+  {
+    "id": 244,
+    "source": "google_places",
+    "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJA3UvfdcmHBURodpoioJ-d-Y",
+    "checked_at": "2026-09-28T10:36:22Z",
+    "confidence": 1.0,
+    "facts": {
+      "business_status": "operational",
+      "google_place_id": "ChIJA3UvfdcmHBURodpoioJ-d-Y",
+      "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJA3UvfdcmHBURodpoioJ-d-Y",
+      "google_rating": 4.7,
+      "google_review_count": 228,
+      "google_checked_at": "2026-09-28T10:36:22Z"
+    }
+  },
+  {
+    "id": 248,
+    "source": "google_places",
+    "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJtyPjZZyxHhUR-V2lrHK91J4",
+    "checked_at": "2026-09-28T10:36:22Z",
+    "confidence": 1.0,
+    "facts": {
+      "business_status": "operational",
+      "google_place_id": "ChIJtyPjZZyxHhUR-V2lrHK91J4",
+      "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtyPjZZyxHhUR-V2lrHK91J4",
+      "google_rating": 4.9,
+      "google_review_count": 176,
+      "google_checked_at": "2026-09-28T10:36:22Z"
+    }
+  },
+  {
+    "id": 391,
+    "source": "google_places",
+    "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJyYgWy5e5HhURMEqMbDxvRrM",
+    "checked_at": "2026-09-28T10:36:22Z",
+    "confidence": 0.9,
+    "facts": {
+      "business_status": "operational",
+      "google_place_id": "ChIJyYgWy5e5HhURMEqMbDxvRrM",
+      "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJyYgWy5e5HhURMEqMbDxvRrM",
+      "google_rating": 5,
+      "google_review_count": 30,
+      "google_checked_at": "2026-09-28T10:36:22Z"
+    }
+  },
+  {
+    "id": 415,
+    "source": "google_places",
+    "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_____z8WHBURXuCvqVxv8fM",
+    "checked_at": "2026-09-28T10:36:22Z",
+    "confidence": 0.9,
+    "facts": {
+      "business_status": "operational",
+      "google_place_id": "ChIJ_____z8WHBURXuCvqVxv8fM",
+      "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_____z8WHBURXuCvqVxv8fM",
+      "google_rating": 4,
+      "google_review_count": 2424,
+      "google_checked_at": "2026-09-28T10:36:22Z"
+    }
+  },
+  {
+    "id": 419,
+    "source": "google_places",
+    "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJDdXc5ES3HhURUNPYnb4h-3M",
+    "checked_at": "2026-09-28T10:36:22Z",
+    "confidence": 0.9,
+    "facts": {
+      "business_status": "operational",
+      "google_place_id": "ChIJDdXc5ES3HhURUNPYnb4h-3M",
+      "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDdXc5ES3HhURUNPYnb4h-3M",
+      "google_rating": 4.8,
+      "google_review_count": 63,
+      "google_checked_at": "2026-09-28T10:36:22Z"
+    }
+  }
+]

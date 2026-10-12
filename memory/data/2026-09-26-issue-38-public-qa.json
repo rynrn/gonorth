@@ -1,0 +1,38 @@
+{
+  "generated_at_utc": "2026-09-26T13:03:00.9716589Z",
+  "url": "https://gonorth.co.il/about/",
+  "http_status": 200,
+  "h1_count": 1,
+  "canonical": true,
+  "title": "אודות כיוון צפון | מדיניות עריכה, מקורות ותיקונים",
+  "meta_description": "הכירו את מערכת כיוון צפון: כיצד אנחנו מאמתים מידע, מתקנים טעויות, מטפלים בעסקים סגורים ומסמנים תוכן מסחרי.",
+  "editor_identity": true,
+  "verification_policy": true,
+  "corrections_policy": true,
+  "commercial_disclosure": true,
+  "closed_business_policy": true,
+  "updated_date": true,
+  "footer_about_link": true,
+  "links": [
+    {
+      "url": "https://gonorth.co.il/places/category/atraktziot-main/",
+      "status": 200
+    },
+    {
+      "url": "https://gonorth.co.il/places/category/accommodation/",
+      "status": 200
+    },
+    {
+      "url": "https://gonorth.co.il/places/category/restaurants/",
+      "status": 200
+    },
+    {
+      "url": "https://gonorth.co.il/places/category/tours/",
+      "status": 200
+    },
+    {
+      "url": "https://gonorth.co.il/contact/",
+      "status": 200
+    }
+  ]
+}

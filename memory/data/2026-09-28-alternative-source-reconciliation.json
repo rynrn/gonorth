@@ -1,0 +1,41 @@
+{
+  "places_in_ledger": 109,
+  "wordpress_records": 109,
+  "matched_fields": 869,
+  "mismatch_count": 3,
+  "mismatches": [
+    {
+      "place_id": 202,
+      "wordpress_id": 202,
+      "url": "https://gonorth.co.il/places/%d7%97%d7%9c%d7%94%d7%95%d7%95%d7%9c%d7%90%d7%95%d7%95/",
+      "field": "regular_hours_json",
+      "sqlite_value": "[\"Su 09:00-13:00\",\"Mo 09:00-13:00\",\"Tu 10:00-15:00\",\"We 09:00-13:00\",\"Th 10:00-15:00\",\"Fr 09:00-13:00\"]",
+      "wordpress_value": "\"[\\\"Su 09:00-13:00\\\",\\\"Mo 09:00-13:00\\\",\\\"Tu 10:00-15:00\\\",\\\"We 09:00-13:00\\\",\\\"Th 10:00-15:00\\\",\\\"Fr 09:00-13:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 228,
+      "wordpress_id": 228,
+      "url": "https://gonorth.co.il/places/%d7%a7%d7%95%d7%a4%d7%99%d7%a9-coffish/",
+      "field": "regular_hours_json",
+      "sqlite_value": "[\"Tu 09:00-18:00\",\"We 09:00-18:00\",\"Th 09:00-18:00\",\"Fr 09:00-18:00\",\"Sa 09:00-18:00\"]",
+      "wordpress_value": "\"[\\\"Tu 09:00-18:00\\\",\\\"We 09:00-18:00\\\",\\\"Th 09:00-18:00\\\",\\\"Fr 09:00-18:00\\\",\\\"Sa 09:00-18:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 357,
+      "wordpress_id": 357,
+      "url": "https://gonorth.co.il/places/f-ranch/",
+      "field": "regular_hours_json",
+      "sqlite_value": "[\"Su 09:00-19:00\",\"Mo 09:00-19:00\",\"Tu 09:00-19:00\",\"We 09:00-19:00\",\"Th 09:00-19:00\",\"Fr 09:00-15:00\"]",
+      "wordpress_value": "\"[\\\"Su 09:00-19:00\\\",\\\"Mo 09:00-19:00\\\",\\\"Tu 09:00-19:00\\\",\\\"We 09:00-19:00\\\",\\\"Th 09:00-19:00\\\",\\\"Fr 09:00-15:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "reason": "value_mismatch"
+    }
+  ],
+  "deferred_fields": [
+    "business_status",
+    "current_hours_json",
+    "google_maps_url",
+    "last_checked_at"
+  ]
+}

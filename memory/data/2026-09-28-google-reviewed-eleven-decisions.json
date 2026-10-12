@@ -1,0 +1,17 @@
+{
+  "reviewed_at": "2026-09-28T13:05:00Z",
+  "accepted": [
+    {"id":56,"match":"exact natural feature","evidence":"Exact Hebrew and English name and mapped stream location."},
+    {"id":171,"match":"exact reserve","evidence":"Exact reserve name and official Parks Authority URL."},
+    {"id":189,"match":"exact reserve","evidence":"Exact reserve name and exact official phone; campground candidate rejected."},
+    {"id":217,"match":"exact business","evidence":"Exact name, entrance location and previously reviewed temporary closure."},
+    {"id":219,"match":"exact business","evidence":"Exact business name; existing independently reviewed permanent closure retained."},
+    {"id":221,"match":"exact business","evidence":"Exact name and Shtula location; temporary closure corroborated."},
+    {"id":223,"match":"exact business","evidence":"Exact name, Kibbutz Eilon location and matching Facebook URL; Google reports permanent closure."},
+    {"id":233,"match":"exact branch","evidence":"Exact operator at the exact Shamir Nursery coordinates; recent reporting confirms the Kfar Yehoshua branch."},
+    {"id":339,"match":"official parent operator","evidence":"Kibbutz Ortal Tourism operates the glamping product; exact phone, coordinates and official domain."},
+    {"id":373,"match":"official venue operator","evidence":"Park HaYarden operates the lantern tour described by the listing; exact phone, site and location."},
+    {"id":397,"match":"official venue operator","evidence":"Tel Saki operates the bunker experience; exact phone, official website and location."}
+  ],
+  "not_yet_matched": [202,228,357,409]
+}

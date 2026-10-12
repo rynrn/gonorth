@@ -1,0 +1,86 @@
+[
+    {
+        "ID": 476,
+        "title": "פאן ריידר בצפון",
+        "status": "publish",
+        "slug": "%d7%a4%d7%90%d7%9f-%d7%a8%d7%99%d7%99%d7%93%d7%a8-%d7%91%d7%a6%d7%a4%d7%95%d7%9f",
+        "permalink": "https://gonorth.co.il/places/%d7%a4%d7%90%d7%9f-%d7%a8%d7%99%d7%99%d7%93%d7%a8-%d7%91%d7%a6%d7%a4%d7%95%d7%9f/",
+        "thumbnail_id": 478,
+        "thumbnail_url": "https://gonorth.co.il/wp-content/uploads/gonorth-listing-illustrations/issue100-funraider-google.jpg",
+        "alt": "קבוצת מטיילים בריידרים של פאן ריידר בצפון בעמק החולה",
+        "attribution_name": "פאן ריידר בצפון",
+        "attribution_uri": "https://maps.google.com/maps/contrib/112010401957027261337",
+        "google_photo_name": "places/ChIJs8iEj3KhHhURvORrh6SY09E/photos/Aa-ngMZJpZ0yHZcWCmjcV2JVfo7JXv1yhD1q_KvPzQDARyWEiW3Cu4tfL-uvb8-ro-MekOdus3wK8Ba5bvXHuvHJKqWbcgt76cu-7r85OSn6HZ-DZfSPmKJ2u3v4DczZr4m0HssQq4DeACpllfLg-hhVM7pYT_KoJe1WpZ1iouye_YWarn-ePQgrltPsYlJ893TrEJv6_V-u8OvrAikcjBUTBebvnPOcfx7CrDdtXkwMUh0e_2Q_8oy7dq88GnXHFLFGaIgoIe0fhZuvHnJ1I-nmnQ_786GSIq-cIE9XaaAmm_BXFERlL-3_aOpliXvgXK9bqt6rP12FQRxCz6-dvjfGAWjLmTx_QNxmSybD23OrWdBipf0RBZd1WBLiNQYI_Mjg5x40LCboxiRTqhRskBeWjNBAlg",
+        "categories": [
+            "tours"
+        ],
+        "regions": [
+            "galil"
+        ],
+        "coordinates": [
+            "33.0539083",
+            "35.6117251"
+        ],
+        "data": {
+            "address": "השמורה",
+            "city": "חולתה",
+            "latitude": "33.0539083",
+            "longitude": "35.6117251",
+            "phone": "052-383-3515",
+            "website": "https://www.funraiderbzafon.co.il/",
+            "business_hours": null,
+            "price_type": null,
+            "open_saturday": null,
+            "practical_checked_at": "2026-10-01T16:53:07+00:00",
+            "google": {
+                "place_id": "ChIJs8iEj3KhHhURvORrh6SY09E",
+                "rating": "4.9",
+                "review_count": "43",
+                "checked_at": "2026-10-01T16:53:07+00:00",
+                "complete": true
+            }
+        }
+    },
+    {
+        "ID": 477,
+        "title": "Nice to Meat",
+        "status": "publish",
+        "slug": "nice-to-meat",
+        "permalink": "https://gonorth.co.il/places/nice-to-meat/",
+        "thumbnail_id": 479,
+        "thumbnail_url": "https://gonorth.co.il/wp-content/uploads/gonorth-listing-illustrations/issue100-nicetomeat-google.jpg",
+        "alt": "מנות במסעדת Nice to Meat בצומת יסוד המעלה",
+        "attribution_name": "Nice to meat",
+        "attribution_uri": "https://maps.google.com/maps/contrib/118252933833320610946",
+        "google_photo_name": "places/ChIJT1nuvL8fHBURJh8BTXoSWQQ/photos/Aa-ngMYd3wREPGt9Jqz4WzBC0_qTnZ8Kd1qh1_A4v9Pxrh17DTGjsMWjzMb8aRwpeysDHhpqpWdA6cyMh9eQLnhcHUxVqXBMZoonGFvmapgTL7f5rM2gk72MoNDCvOmvVrtoMrh45Itfv4h9-awgIyEO9Su0G86GqFyWW_FdBTosABh4Ei0am0Fwg89EbJLCNVKcg6HuFM9IQEFrJlm81A1E-WY-HAMVcL9oGMazN13Iov64SUJH5FraCjWzFFRdDhwAQXgedZpFNmYgKSPm6prPPvYYvA5naGd1FpGfv7SyCLC_0NbFRYklr0fE3B8GrQDBGZf6ZIfYMNEiKZkuwtsyc4VpGPCPa1-rzEAxWSCWFNrg4Wgk9iADWB5EE4tJ9esJfq9cnd0e3gyE22jtmr2Dtpn_3GwnfJJqHEoiS4px6EeuSYGkNIBeMRruHRc5RZMU",
+        "categories": [
+            "restaurants-sub"
+        ],
+        "regions": [
+            "galil"
+        ],
+        "coordinates": [
+            "33.0450249",
+            "35.5734238"
+        ],
+        "data": {
+            "address": "צומת יסוד המעלה",
+            "city": "יסוד המעלה",
+            "latitude": "33.0450249",
+            "longitude": "35.5734238",
+            "phone": "054-211-6643",
+            "website": "https://www.nicetomeatrest.co.il/",
+            "business_hours": null,
+            "price_type": null,
+            "open_saturday": null,
+            "practical_checked_at": "2026-10-01T16:53:07+00:00",
+            "google": {
+                "place_id": "ChIJT1nuvL8fHBURJh8BTXoSWQQ",
+                "rating": "4.3",
+                "review_count": "275",
+                "checked_at": "2026-10-01T16:53:07+00:00",
+                "complete": true
+            }
+        }
+    }
+]

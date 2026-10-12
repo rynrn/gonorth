@@ -1,0 +1,20 @@
+{
+  "format": "gonorth-place-facts-wordpress-sync-receipt/v1",
+  "results": [
+    {
+      "message": "Permanent closure handled manually in WordPress: URL kept live with verified notice and alternatives.",
+      "change_ids": [
+        1
+      ],
+      "status": "deferred"
+    },
+    {
+      "message": "Temporary closure handled manually in WordPress: URL kept live with verified notice and alternatives.",
+      "change_ids": [
+        2
+      ],
+      "status": "deferred"
+    }
+  ],
+  "applied": false
+}

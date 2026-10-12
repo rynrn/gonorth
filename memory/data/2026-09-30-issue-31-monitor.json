@@ -1,0 +1,29 @@
+{
+  "generated_at": "2026-09-30T14:22:10Z",
+  "verification_due_days": 90,
+  "places": 109,
+  "due_for_verification": 0,
+  "pending_changes": 0,
+  "closure_reviews": 0,
+  "verified_source_coverage": {
+    "complete": 109,
+    "google": 104,
+    "alternative": 5,
+    "total": 109
+  },
+  "verification_source_breakdown": {
+    "coffeetrail": 2,
+    "google_places": 104,
+    "official_website": 1,
+    "tourgolan": 2
+  },
+  "google_place_id_coverage": {
+    "with_id": 105,
+    "total": 109
+  },
+  "google_rating_coverage": {
+    "complete": 105,
+    "total": 109
+  },
+  "needs_attention": false
+}

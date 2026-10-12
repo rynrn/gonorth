@@ -1,0 +1,43 @@
+{
+  "http": "200",
+  "canonical": "https://gonorth.co.il/hanukkah-north-israel/",
+  "meta_description": "מה עושים בחנוכה בצפון 2026? תאריכים מאומתים, פעילויות לילדים, סדנאות, צפרות, עכו, הגולן ומסלולי יום לחופשת החג.",
+  "og_image": "https://gonorth.co.il/wp-content/uploads/2026/09/hanukkah-north-israel-2026.webp",
+  "words": 0,
+  "sitemap_present": true,
+  "content_links": 0,
+  "link_errors": 0,
+  "redirecting_links": 0,
+  "backlinks": [
+    {
+      "ID": 128,
+      "url": "https://gonorth.co.il/akko-travel-guide/",
+      "status": "200",
+      "link_present": true
+    },
+    {
+      "ID": 173,
+      "url": "https://gonorth.co.il/places/%d7%90%d7%92%d7%9e%d7%95%d7%9f-%d7%94%d7%97%d7%95%d7%9c%d7%94/",
+      "status": "200",
+      "link_present": true
+    },
+    {
+      "ID": 399,
+      "url": "https://gonorth.co.il/places/%d7%93%d7%94-%d7%a7%d7%a8%d7%99%d7%a0%d7%94-%d7%a9%d7%95%d7%a7%d7%95%d7%9c%d7%93-%d7%91%d7%95%d7%98%d7%99%d7%a7/",
+      "status": "200",
+      "link_present": true
+    },
+    {
+      "ID": 405,
+      "url": "https://gonorth.co.il/places/%d7%97%d7%9e%d7%aa-%d7%92%d7%93%d7%a8/",
+      "status": "200",
+      "link_present": true
+    },
+    {
+      "ID": 419,
+      "url": "https://gonorth.co.il/places/%d7%98%d7%a8%d7%99%d7%a4%d7%95%d7%a0%d7%9c-%d7%91%d7%90%d7%95%d7%9c%d7%99%d7%a0%d7%92/",
+      "status": "200",
+      "link_present": true
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "checked_at": "2026-10-09",
+  "status": "planning_assumptions_not_observed",
+  "organic_clicks": 1200,
+  "proposed_media_ils": 1500,
+  "baseline_factor": 0.39780000000000004,
+  "combined_base_users": 1074.0,
+  "organic_only_users": 477.0,
+  "weak_users": 519.0,
+  "strong_users": 1623.0,
+  "clicks_needed_for_1000": 2514.0,
+  "media_needed_at_cpc_1_5": 1971.0,
+  "weekly_media_sum": 1500,
+  "max_cpc_for_1000_with_1200_organic": 1.1417036583499158,
+  "half_organic_users": 835.0,
+  "no_organic_users": 597.0
+}

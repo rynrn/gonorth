@@ -1,0 +1,155 @@
+{
+  "id": 28,
+  "count": 35,
+  "description": "גליל עליון ותחתון",
+  "link": "https://gonorth.co.il/region/galil/",
+  "name": "גליל",
+  "slug": "galil",
+  "taxonomy": "gn_region",
+  "meta": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v27.5 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>גליל Archives - כיוון צפון</title>\n<meta name=\"description\" content=\"טיול בגליל - אטרקציות, יקבים ולינה | GoNorth\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://gonorth.co.il/region/galil/\" />\n<meta property=\"og:locale\" content=\"he_IL\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"גליל Archives - כיוון צפון\" />\n<meta property=\"og:description\" content=\"טיול בגליל - אטרקציות, יקבים ולינה | GoNorth\" />\n<meta property=\"og:url\" content=\"https://gonorth.co.il/region/galil/\" />\n<meta property=\"og:site_name\" content=\"כיוון צפון\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/gonorth.co.il\\/region\\/galil\\/\",\"url\":\"https:\\/\\/gonorth.co.il\\/region\\/galil\\/\",\"name\":\"גליל Archives - כיוון צפון\",\"isPartOf\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\"},\"description\":\"טיול בגליל - אטרקציות, יקבים ולינה | GoNorth\",\"breadcrumb\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/region\\/galil\\/#breadcrumb\"},\"inLanguage\":\"he-IL\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/gonorth.co.il\\/region\\/galil\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/gonorth.co.il\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"גליל\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"name\":\"כיוון צפון\",\"description\":\"גלה את הצפון כמו מקומי\",\"alternateName\":\"GoNorth\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/gonorth.co.il\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"he-IL\",\"publisher\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\",\"name\":\"כיוון צפון\",\"alternateName\":\"GoNorth\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization-logo\",\"url\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/themes\\/gonorth-child\\/assets\\/gonorth-organic-mark.svg\",\"width\":300,\"height\":130},\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"שירות לקוחות\",\"url\":\"https:\\/\\/gonorth.co.il\\/contact\\/\",\"availableLanguage\":[\"עברית\"]},\"sameAs\":[\"https:\\/\\/gonorth.co.il\\/about\\/\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "גליל Archives - כיוון צפון",
+    "description": "טיול בגליל - אטרקציות, יקבים ולינה | GoNorth",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://gonorth.co.il/region/galil/",
+    "og_locale": "he_IL",
+    "og_type": "article",
+    "og_title": "גליל Archives - כיוון צפון",
+    "og_description": "טיול בגליל - אטרקציות, יקבים ולינה | GoNorth",
+    "og_url": "https://gonorth.co.il/region/galil/",
+    "og_site_name": "כיוון צפון",
+    "twitter_card": "summary_large_image",
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "CollectionPage",
+          "@id": "https://gonorth.co.il/region/galil/",
+          "url": "https://gonorth.co.il/region/galil/",
+          "name": "גליל Archives - כיוון צפון",
+          "isPartOf": {
+            "@id": "https://gonorth.co.il/#website"
+          },
+          "description": "טיול בגליל - אטרקציות, יקבים ולינה | GoNorth",
+          "breadcrumb": {
+            "@id": "https://gonorth.co.il/region/galil/#breadcrumb"
+          },
+          "inLanguage": "he-IL"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://gonorth.co.il/region/galil/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://gonorth.co.il/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "גליל"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://gonorth.co.il/#website",
+          "url": "https://gonorth.co.il/",
+          "name": "כיוון צפון",
+          "description": "גלה את הצפון כמו מקומי",
+          "alternateName": "GoNorth",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://gonorth.co.il/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "he-IL",
+          "publisher": {
+            "@id": "https://gonorth.co.il/#organization"
+          }
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://gonorth.co.il/#organization",
+          "name": "כיוון צפון",
+          "alternateName": "GoNorth",
+          "url": "https://gonorth.co.il/",
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://gonorth.co.il/#organization-logo",
+            "url": "https://gonorth.co.il/wp-content/themes/gonorth-child/assets/gonorth-organic-mark.svg",
+            "width": 300,
+            "height": 130
+          },
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "contactType": "שירות לקוחות",
+            "url": "https://gonorth.co.il/contact/",
+            "availableLanguage": [
+              "עברית"
+            ]
+          },
+          "sameAs": [
+            "https://gonorth.co.il/about/"
+          ]
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://gonorth.co.il/wp-json/wp/v2/gn_region/28",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://gonorth.co.il/wp-json/wp/v2/gn_region"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://gonorth.co.il/wp-json/wp/v2/taxonomies/gn_region"
+      }
+    ],
+    "wp:post_type": [
+      {
+        "href": "https://gonorth.co.il/wp-json/wp/v2/places?gn_region=28"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

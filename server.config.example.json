@@ -1,0 +1,17 @@
+{
+  "ssh": {
+    "host": "203.0.113.10",
+    "user": "automation-user",
+    "password": null,
+    "key": "~/.ssh/gonorth_rsa",
+    "alias": "gonorth",
+    "command": "ssh gonorth"
+  },
+  "wordpress": {
+    "path": "/var/www/gonorth",
+    "config": "/var/www/gonorth/wp-config.php",
+    "themes": "/var/www/gonorth/wp-content/themes",
+    "plugins": "/var/www/gonorth/wp-content/plugins",
+    "uploads": "/var/www/gonorth/wp-content/uploads"
+  }
+}

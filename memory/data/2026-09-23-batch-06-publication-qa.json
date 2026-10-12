@@ -1,0 +1,26 @@
+[
+  {
+    "id": 413,
+    "url": "https://gonorth.co.il/places/%d7%91%d7%99%d7%aa-%d7%94%d7%91%d7%93-%d7%a9%d7%9c-%d7%94%d7%92%d7%95%d7%9c%d7%9f-olea-essence/",
+    "status": "publish",
+    "http": 200,
+    "before_chars": 449,
+    "after_chars": 1210,
+    "exact_readback": true,
+    "h2": 3,
+    "guide_link": true,
+    "at": "2026-09-22T22:30:43.3395612Z"
+  },
+  {
+    "id": 187,
+    "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%94%d7%9e%d7%a9%d7%95%d7%a9%d7%99%d7%9d/",
+    "status": "publish",
+    "http": 200,
+    "before_chars": 453,
+    "after_chars": 1413,
+    "exact_readback": true,
+    "h2": 3,
+    "guide_link": true,
+    "at": "2026-09-22T22:30:47.1009425Z"
+  }
+]

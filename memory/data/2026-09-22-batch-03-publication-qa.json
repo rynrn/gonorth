@@ -1,0 +1,22 @@
+[
+  {
+    "id": 181,
+    "title": "חוות בת יער",
+    "url": "https://gonorth.co.il/places/%d7%97%d7%95%d7%95%d7%aa-%d7%91%d7%aa-%d7%99%d7%a2%d7%a8/",
+    "http": 200,
+    "chars": 1015,
+    "h2": 9,
+    "guide_link": true,
+    "verified": true
+  },
+  {
+    "id": 215,
+    "title": "קפה קירשנר",
+    "url": "https://gonorth.co.il/places/%d7%a7%d7%a4%d7%94-%d7%a7%d7%99%d7%a8%d7%a9%d7%a0%d7%a8/",
+    "http": 200,
+    "chars": 915,
+    "h2": 9,
+    "guide_link": true,
+    "verified": true
+  }
+]

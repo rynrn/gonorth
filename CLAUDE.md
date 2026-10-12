@@ -101,7 +101,7 @@ For WordPress-specific operations, an MCP server is configured:
 ```
 Endpoint: https://gonorth.co.il/wp-json/mcp/mcp-adapter-default-server
 Username: rynrn
-Password: fALc 6wqz QTvw xVKA D4ng 3mGU
+Password: (stored in local untracked config)
 Config:   .claude/.mcp.json
 ```
 
@@ -534,3 +534,4 @@ Password: (in server.config.json or MCP config)
 ---
 
 *Last updated: 2026-04-06 | GoNorth project*
+

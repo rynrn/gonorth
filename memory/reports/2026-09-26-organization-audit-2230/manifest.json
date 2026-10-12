@@ -1,0 +1,81 @@
+{
+  "completed_at": "2026-09-26T22:55:40.6592402+03:00",
+  "scope": "Read-only audit;12 role reports;no live-site mutations",
+  "reports": [
+    {
+      "role": "orchestrator",
+      "report": "memory\\reports\\2026-09-26-organization-audit-2230\\orchestrator.md",
+      "exists": true,
+      "words": 1731
+    },
+    {
+      "role": "dev-agent",
+      "report": "memory\\reports\\2026-09-26-organization-audit-2230\\dev-agent.md",
+      "exists": true,
+      "words": 1843
+    },
+    {
+      "role": "designer-agent",
+      "report": "memory\\reports\\2026-09-26-organization-audit-2230\\designer-agent.md",
+      "exists": true,
+      "words": 1673
+    },
+    {
+      "role": "content-agent",
+      "report": "memory\\reports\\2026-09-26-organization-audit-2230\\content-agent.md",
+      "exists": true,
+      "words": 1697
+    },
+    {
+      "role": "content-quality-agent",
+      "report": "memory\\reports\\2026-09-26-organization-audit-2230\\content-quality-agent.md",
+      "exists": true,
+      "words": 1775
+    },
+    {
+      "role": "listings-agent",
+      "report": "memory\\reports\\2026-09-26-organization-audit-2230\\listings-agent.md",
+      "exists": true,
+      "words": 1926
+    },
+    {
+      "role": "seo-agent",
+      "report": "memory\\reports\\2026-09-26-organization-audit-2230\\seo-agent.md",
+      "exists": true,
+      "words": 1843
+    },
+    {
+      "role": "security-agent",
+      "report": "memory\\reports\\2026-09-26-organization-audit-2230\\security-agent.md",
+      "exists": true,
+      "words": 1680
+    },
+    {
+      "role": "performance-agent",
+      "report": "memory\\reports\\2026-09-26-organization-audit-2230\\performance-agent.md",
+      "exists": true,
+      "words": 1677
+    },
+    {
+      "role": "plugin-agent",
+      "report": "memory\\reports\\2026-09-26-organization-audit-2230\\plugin-agent.md",
+      "exists": true,
+      "words": 1734
+    },
+    {
+      "role": "cfo-agent",
+      "report": "memory\\reports\\2026-09-26-organization-audit-2230\\cfo-agent.md",
+      "exists": true,
+      "words": 1760
+    },
+    {
+      "role": "social-media-agent",
+      "report": "memory\\reports\\2026-09-26-organization-audit-2230\\social-media-agent.md",
+      "exists": true,
+      "words": 1825
+    }
+  ],
+  "summary": "README.md",
+  "combined": "full-report.html",
+  "social_calendar_links_checked": 6
+}

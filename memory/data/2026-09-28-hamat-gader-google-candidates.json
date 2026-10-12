@@ -1,0 +1,21 @@
+No syntax errors detected in /home/claude/inspect-hamat-gader-google.php
+{
+    "http_status": 200,
+    "candidates": [
+        {
+            "id": "ChIJ707xlLxsHBURUqJSgmZyaa4",
+            "name": "חמת גדר",
+            "address": "חמת גדר",
+            "latitude": 32.6833586,
+            "longitude": 35.6647332,
+            "rating": null,
+            "review_count": null,
+            "business_status": null,
+            "moved_place_id": null,
+            "types": [
+                "locality",
+                "political"
+            ]
+        }
+    ]
+}

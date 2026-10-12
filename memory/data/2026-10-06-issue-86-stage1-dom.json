@@ -1,0 +1,57 @@
+[
+  {
+    "type": "post",
+    "id": 431,
+    "url": "https://gonorth.co.il/villas-israel-north-guide/",
+    "slug": "villas-israel-north-guide",
+    "status": 200,
+    "commerceNodes": 0,
+    "geodirNodes": 0,
+    "wooCss": 0,
+    "wooJs": 0
+  },
+  {
+    "type": "post",
+    "id": 432,
+    "url": "https://gonorth.co.il/agamon-hahula-guide/",
+    "slug": "agamon-hahula-guide",
+    "status": 200,
+    "commerceNodes": 0,
+    "geodirNodes": 0,
+    "wooCss": 0,
+    "wooJs": 0
+  },
+  {
+    "type": "page",
+    "id": 436,
+    "url": "https://gonorth.co.il/tours-kayaks-north-israel/",
+    "slug": "tours-kayaks-north-israel",
+    "status": 200,
+    "commerceNodes": 0,
+    "geodirNodes": 0,
+    "wooCss": 0,
+    "wooJs": 0
+  },
+  {
+    "type": "post",
+    "id": 516,
+    "url": "https://gonorth.co.il/yizreel-valley-day-trip/",
+    "slug": "yizreel-valley-day-trip",
+    "status": 200,
+    "commerceNodes": 0,
+    "geodirNodes": 0,
+    "wooCss": 4,
+    "wooJs": 9
+  },
+  {
+    "type": "post",
+    "id": 517,
+    "url": "https://gonorth.co.il/south-kinneret-day-trip/",
+    "slug": "south-kinneret-day-trip",
+    "status": 200,
+    "commerceNodes": 0,
+    "geodirNodes": 0,
+    "wooCss": 0,
+    "wooJs": 0
+  }
+]

@@ -1,0 +1,3039 @@
+{
+  "generated_at_utc": "2026-09-26T06:49:13.6035021Z",
+  "summary": {
+    "exported_count": 170,
+    "graph_count": 170,
+    "editorial_edges": 164,
+    "rows_with_no_editorial_inbound": 124,
+    "places_with_no_editorial_inbound": 84,
+    "rows_with_no_editorial_outbound": 93,
+    "places_with_no_editorial_outbound": 68,
+    "duplicate_target_rows": 1
+  },
+  "rows": [
+    {
+      "id": 16,
+      "type": "page",
+      "title": "חיפוש",
+      "url": "https://gonorth.co.il/search/",
+      "categories": [],
+      "content_chars": 2728,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 18,
+      "type": "page",
+      "title": "אזורים",
+      "url": "https://gonorth.co.il/location/",
+      "categories": [],
+      "content_chars": 4790,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 19,
+      "type": "page",
+      "title": "ארכיון מקומות",
+      "url": "https://gonorth.co.il/gd-archive/",
+      "categories": [],
+      "content_chars": 791,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 20,
+      "type": "page",
+      "title": "כרטיס מקום",
+      "url": "https://gonorth.co.il/gd-archive-item/",
+      "categories": [],
+      "content_chars": 2371,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 21,
+      "type": "page",
+      "title": "פרטי מקום",
+      "url": "https://gonorth.co.il/gd-details/",
+      "categories": [],
+      "content_chars": 2450,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 23,
+      "type": "page",
+      "title": "כיוון צפון | המדריך לצפון ישראל – אטרקציות, לינה וסיורים",
+      "url": "https://gonorth.co.il/",
+      "categories": [],
+      "content_chars": 0,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        126,
+        206,
+        433
+      ]
+    },
+    {
+      "id": 24,
+      "type": "page",
+      "title": "מאות מקומות מומלצים בצפון ישראל  –  אטרקציות, לינה, אוכל וסיורים בגליל, גולן וחרמון. כל המידע במקום אחד.",
+      "url": "https://gonorth.co.il/places/",
+      "categories": [],
+      "content_chars": 0,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        219,
+        221,
+        262,
+        267,
+        440,
+        441
+      ]
+    },
+    {
+      "id": 25,
+      "type": "page",
+      "title": "blog",
+      "url": "https://gonorth.co.il/blog/",
+      "categories": [],
+      "content_chars": 1051,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 26,
+      "type": "page",
+      "title": "אודות כיוון צפון – מדריך לטיול בצפון ישראל",
+      "url": "https://gonorth.co.il/about/",
+      "categories": [],
+      "content_chars": 1536,
+      "outbound_internal_links": 5,
+      "outbound_known_ids": [
+        27
+      ],
+      "outbound_unknown_paths": [
+        "/places/category/accommodation",
+        "/places/category/attractions",
+        "/places/category/restaurants-sub",
+        "/places/category/tours"
+      ],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 27,
+      "type": "page",
+      "title": "צור קשר עם כיוון צפון – שאלות, טעויות ועדכוני מידע על הצפון",
+      "url": "https://gonorth.co.il/contact/",
+      "categories": [],
+      "content_chars": 1126,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        26,
+        120,
+        127,
+        145,
+        147,
+        251,
+        252,
+        428
+      ]
+    },
+    {
+      "id": 46,
+      "type": "page",
+      "title": "הצהרת נגישות",
+      "url": "https://gonorth.co.il/negishot/",
+      "categories": [],
+      "content_chars": 638,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 47,
+      "type": "page",
+      "title": "מדיניות פרטיות",
+      "url": "https://gonorth.co.il/mediniyut-pratiyut/",
+      "categories": [],
+      "content_chars": 927,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 48,
+      "type": "gd_place",
+      "title": "יקב הר אודם",
+      "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%94%d7%a8-%d7%90%d7%95%d7%93%d7%9d/",
+      "categories": [
+        "יקבים"
+      ],
+      "content_chars": 719,
+      "outbound_internal_links": 1,
+      "outbound_known_ids": [
+        268
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        268
+      ]
+    },
+    {
+      "id": 50,
+      "type": "gd_place",
+      "title": "כפר נופש – יער אודם",
+      "url": "https://gonorth.co.il/places/%d7%9b%d7%a4%d7%a8-%d7%a0%d7%95%d7%a4%d7%a9-%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d/",
+      "categories": [
+        "לינה"
+      ],
+      "content_chars": 573,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 52,
+      "type": "gd_place",
+      "title": "החווה ביער אודם",
+      "url": "https://gonorth.co.il/places/%d7%94%d7%97%d7%95%d7%95%d7%94-%d7%91%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d/",
+      "categories": [
+        "אטרקציות"
+      ],
+      "content_chars": 602,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        126
+      ]
+    },
+    {
+      "id": 54,
+      "type": "gd_place",
+      "title": "שמורת טבע החולה",
+      "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%97%d7%95%d7%9c%d7%94/",
+      "categories": [
+        "טבע ומסלולים"
+      ],
+      "content_chars": 691,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        126
+      ]
+    },
+    {
+      "id": 56,
+      "type": "gd_place",
+      "title": "נחל השופט",
+      "url": "https://gonorth.co.il/places/%d7%a0%d7%97%d7%9c-%d7%94%d7%a9%d7%95%d7%a4%d7%98/",
+      "categories": [
+        "טבע ומסלולים"
+      ],
+      "content_chars": 541,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        126
+      ]
+    },
+    {
+      "id": 58,
+      "type": "gd_place",
+      "title": "שמורת טבע נחל עמוד",
+      "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%a2%d7%9e%d7%95%d7%93/",
+      "categories": [
+        "טבע ומסלולים"
+      ],
+      "content_chars": 588,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        120,
+        126,
+        130
+      ]
+    },
+    {
+      "id": 61,
+      "type": "gd_place",
+      "title": "מלון פרא — Pereh Hotel",
+      "url": "https://gonorth.co.il/places/%d7%9e%d7%9c%d7%95%d7%9f-%d7%a4%d7%a8%d7%90-pereh-hotel/",
+      "categories": [
+        "לינה"
+      ],
+      "content_chars": 601,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        126,
+        141,
+        144,
+        145
+      ]
+    },
+    {
+      "id": 63,
+      "type": "gd_place",
+      "title": "כנען וילאג׳ – מלון בוטיק וספא בצפון",
+      "url": "https://gonorth.co.il/places/%d7%9b%d7%a0%d7%a2%d7%9f-%d7%95%d7%99%d7%9c%d7%90%d7%92%d7%b3-%d7%9e%d7%9c%d7%95%d7%9f-%d7%91%d7%95%d7%98%d7%99%d7%a7-%d7%95%d7%a1%d7%a4%d7%90-%d7%91%d7%a6%d7%a4%d7%95%d7%9f/",
+      "categories": [
+        "לינה"
+      ],
+      "content_chars": 545,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        126,
+        130,
+        141,
+        145
+      ]
+    },
+    {
+      "id": 84,
+      "type": "page",
+      "title": "מדריך לינה ברמת הגולן: מלונות, צימרים וקמפינג",
+      "url": "https://gonorth.co.il/%d7%9e%d7%93%d7%a8%d7%99%d7%9a-%d7%9c%d7%99%d7%a0%d7%94-%d7%91%d7%a8%d7%9e%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f-%d7%9e%d7%9c%d7%95%d7%a0%d7%95%d7%aa-%d7%a6%d7%99%d7%9e%d7%a8%d7%99%d7%9d-%d7%95%d7%a7/",
+      "categories": [],
+      "content_chars": 3271,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 86,
+      "type": "gd_place",
+      "title": "פארק המעיינות",
+      "url": "https://gonorth.co.il/places/%d7%a4%d7%90%d7%a8%d7%a7-%d7%94%d7%9e%d7%a2%d7%99%d7%99%d7%a0%d7%95%d7%aa/",
+      "categories": [
+        "אטרקציות"
+      ],
+      "content_chars": 615,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        141,
+        147
+      ]
+    },
+    {
+      "id": 87,
+      "type": "gd_place",
+      "title": "גן גורו — הפארק האוסטרלי",
+      "url": "https://gonorth.co.il/places/%d7%92%d7%9f-%d7%92%d7%95%d7%a8%d7%95-%d7%94%d7%a4%d7%90%d7%a8%d7%a7-%d7%94%d7%90%d7%95%d7%a1%d7%98%d7%a8%d7%9c%d7%99/",
+      "categories": [
+        "אטרקציות"
+      ],
+      "content_chars": 545,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        141,
+        250,
+        251,
+        443
+      ]
+    },
+    {
+      "id": 88,
+      "type": "gd_place",
+      "title": "שמורת נחל הקיבוצים",
+      "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%a0%d7%97%d7%9c-%d7%94%d7%a7%d7%99%d7%91%d7%95%d7%a6%d7%99%d7%9d/",
+      "categories": [
+        "טבע ומסלולים"
+      ],
+      "content_chars": 609,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        141,
+        147,
+        250,
+        251,
+        252
+      ]
+    },
+    {
+      "id": 89,
+      "type": "gd_place",
+      "title": "שמורת טבע נחל שניר (חצבאני)",
+      "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%a9%d7%a0%d7%99%d7%a8-%d7%97%d7%a6%d7%91%d7%90%d7%a0%d7%99/",
+      "categories": [
+        "טבע ומסלולים"
+      ],
+      "content_chars": 595,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        141,
+        250,
+        252
+      ]
+    },
+    {
+      "id": 94,
+      "type": "post",
+      "title": "10 אטרקציות מומלצות בגליל לחופשת משפחה",
+      "url": "https://gonorth.co.il/10-%d7%90%d7%98%d7%a8%d7%a7%d7%a6%d7%99%d7%95%d7%aa-%d7%9e%d7%95%d7%9e%d7%9c%d7%a6%d7%95%d7%aa-%d7%91%d7%92%d7%9c%d7%99%d7%9c-%d7%9c%d7%97%d7%95%d7%a4%d7%a9%d7%aa-%d7%9e%d7%a9%d7%a4%d7%97%d7%94/",
+      "categories": [],
+      "content_chars": 4226,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        159,
+        387,
+        391,
+        419
+      ]
+    },
+    {
+      "id": 95,
+      "type": "post",
+      "title": "מסלול טיול ברמת הגולן – מהבניאס ועד תל פארס",
+      "url": "https://gonorth.co.il/%d7%9e%d7%a1%d7%9c%d7%95%d7%9c-%d7%98%d7%99%d7%95%d7%9c-%d7%91%d7%a8%d7%9e%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f-%d7%9e%d7%94%d7%91%d7%a0%d7%99%d7%90%d7%a1-%d7%95%d7%a2%d7%93-%d7%aa%d7%9c-%d7%a4/",
+      "categories": [],
+      "content_chars": 4589,
+      "outbound_internal_links": 2,
+      "outbound_known_ids": [
+        248,
+        335
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        187,
+        248,
+        335,
+        413,
+        440
+      ]
+    },
+    {
+      "id": 96,
+      "type": "post",
+      "title": "5 מסלולי הליכה בגליל העליון שחייבים לנסות",
+      "url": "https://gonorth.co.il/5-%d7%9e%d7%a1%d7%9c%d7%95%d7%9c%d7%99-%d7%94%d7%9c%d7%99%d7%9b%d7%94-%d7%91%d7%92%d7%9c%d7%99%d7%9c-%d7%94%d7%a2%d7%9c%d7%99%d7%95%d7%9f-%d7%a9%d7%97%d7%99%d7%99%d7%91%d7%99%d7%9d-%d7%9c%d7%a0%d7%a1/",
+      "categories": [],
+      "content_chars": 4244,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        250,
+        254,
+        258,
+        433,
+        448
+      ]
+    },
+    {
+      "id": 97,
+      "type": "post",
+      "title": "לינה בצפון ישראל – המדריך המלא לצימרים ואחוזות",
+      "url": "https://gonorth.co.il/%d7%9c%d7%99%d7%a0%d7%94-%d7%91%d7%a6%d7%a4%d7%95%d7%9f-%d7%99%d7%a9%d7%a8%d7%90%d7%9c-%d7%94%d7%9e%d7%93%d7%a8%d7%99%d7%9a-%d7%94%d7%9e%d7%9c%d7%90-%d7%9c%d7%a6%d7%99%d7%9e%d7%a8%d7%99%d7%9d-%d7%95/",
+      "categories": [],
+      "content_chars": 4970,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        135,
+        206,
+        250,
+        251,
+        252,
+        254,
+        256,
+        257,
+        258,
+        427,
+        429,
+        431,
+        432,
+        433
+      ]
+    },
+    {
+      "id": 98,
+      "type": "post",
+      "title": "חוויות קולינריות בצפון – מסעדות, שווקים ויקבים שכדאי להכיר",
+      "url": "https://gonorth.co.il/%d7%97%d7%95%d7%95%d7%99%d7%95%d7%aa-%d7%a7%d7%95%d7%9c%d7%99%d7%a0%d7%a8%d7%99%d7%95%d7%aa-%d7%91%d7%a6%d7%a4%d7%95%d7%9f-%d7%9e%d7%a1%d7%a2%d7%93%d7%95%d7%aa-%d7%a9%d7%95%d7%95%d7%a7%d7%99%d7%9d/",
+      "categories": [],
+      "content_chars": 4876,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        135,
+        141,
+        206,
+        427,
+        433
+      ]
+    },
+    {
+      "id": 100,
+      "type": "page",
+      "title": "הוסף מקום",
+      "url": "https://gonorth.co.il/add-listing/",
+      "categories": [],
+      "content_chars": 593,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 120,
+      "type": "page",
+      "title": "מדריך לנהריה — חוף, טבע ומה לעשות בצפון הגליל",
+      "url": "https://gonorth.co.il/nahariya-travel-guide/",
+      "categories": [],
+      "content_chars": 3686,
+      "outbound_internal_links": 4,
+      "outbound_known_ids": [
+        27,
+        58
+      ],
+      "outbound_unknown_paths": [
+        "/places/category/accommodation",
+        "/places/category/attractions"
+      ],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 121,
+      "type": "page",
+      "title": "חמת גדר — מה יש שם, כרטיסים ואיך מגיעים",
+      "url": "https://gonorth.co.il/hamat-gader-guide/",
+      "categories": [],
+      "content_chars": 3184,
+      "outbound_internal_links": 2,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [
+        "/region/galil",
+        "/region/golan"
+      ],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 122,
+      "type": "page",
+      "title": "חורשת טל — הפארק הלאומי בצפון הגולן",
+      "url": "https://gonorth.co.il/horshat-tal-guide/",
+      "categories": [],
+      "content_chars": 4212,
+      "outbound_internal_links": 4,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [
+        "/places/category/accommodation",
+        "/region/galil",
+        "/region/golan"
+      ],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 123,
+      "type": "page",
+      "title": "עמק המעיינות — המדריך לטיול",
+      "url": "https://gonorth.co.il/springs-valley-guide/",
+      "categories": [],
+      "content_chars": 4159,
+      "outbound_internal_links": 4,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [
+        "/places/category/accommodation",
+        "/places/category/attractions",
+        "/region/carmel",
+        "/region/galil"
+      ],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 125,
+      "type": "page",
+      "title": "אתר החרמון — מדריך לביקור בהר",
+      "url": "https://gonorth.co.il/hermon-site-guide/",
+      "categories": [],
+      "content_chars": 4621,
+      "outbound_internal_links": 2,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [
+        "/region/galil",
+        "/region/golan"
+      ],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 126,
+      "type": "page",
+      "title": "מה לעשות בשבועות 2025 בצפון — המדריך לחג",
+      "url": "https://gonorth.co.il/shavuot-2025-north-israel/",
+      "categories": [],
+      "content_chars": 5026,
+      "outbound_internal_links": 10,
+      "outbound_known_ids": [
+        23,
+        52,
+        54,
+        56,
+        58,
+        61,
+        63
+      ],
+      "outbound_unknown_paths": [
+        "/places/category/accommodation",
+        "/places/category/attractions",
+        "/places/category/restaurants"
+      ],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 127,
+      "type": "page",
+      "title": "יקבים בצפון ישראל — מדריך ליקבי הגולן והגליל",
+      "url": "https://gonorth.co.il/north-israel-wineries-guide/",
+      "categories": [],
+      "content_chars": 3803,
+      "outbound_internal_links": 4,
+      "outbound_known_ids": [
+        27
+      ],
+      "outbound_unknown_paths": [
+        "/places/category/restaurants",
+        "/region/galil",
+        "/region/golan"
+      ],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 128,
+      "type": "page",
+      "title": "מדריך לעכו — מה לראות, לאכול ולעשות בעיר הנמל",
+      "url": "https://gonorth.co.il/akko-travel-guide/",
+      "categories": [],
+      "content_chars": 2687,
+      "outbound_internal_links": 2,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [
+        "/places/category/attractions",
+        "/region/galil"
+      ],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 130,
+      "type": "page",
+      "title": "מדריך לצפת — אמנות, היסטוריה ונוף הרים",
+      "url": "https://gonorth.co.il/tzfat-travel-guide/",
+      "categories": [],
+      "content_chars": 3790,
+      "outbound_internal_links": 4,
+      "outbound_known_ids": [
+        58,
+        63
+      ],
+      "outbound_unknown_paths": [
+        "/places/category/attractions",
+        "/region/galil"
+      ],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 131,
+      "type": "page",
+      "title": "מצוקי דרגות — מסלול הטיול, קושי ואיך מגיעים",
+      "url": "https://gonorth.co.il/metzukei-dragot-guide/",
+      "categories": [],
+      "content_chars": 3171,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 135,
+      "type": "page",
+      "title": "יקבים בצפון ישראל — המדריך לביקורים וטעימות",
+      "url": "https://gonorth.co.il/north-israel-wineries-guide-2/",
+      "categories": [],
+      "content_chars": 3423,
+      "outbound_internal_links": 2,
+      "outbound_known_ids": [
+        97,
+        98
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 141,
+      "type": "page",
+      "title": "טיול משפחתי בגליל — 10 פעילויות לילדים",
+      "url": "https://gonorth.co.il/family-trip-galilee/",
+      "categories": [],
+      "content_chars": 5967,
+      "outbound_internal_links": 9,
+      "outbound_known_ids": [
+        61,
+        63,
+        86,
+        87,
+        88,
+        89,
+        98
+      ],
+      "outbound_unknown_paths": [
+        "/places/category/accommodation",
+        "/region/galil"
+      ],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        448
+      ]
+    },
+    {
+      "id": 144,
+      "type": "page",
+      "title": "לינה בגולן — צימרים ומלונות ברמת הגולן",
+      "url": "https://gonorth.co.il/accommodation-golan-heights/",
+      "categories": [],
+      "content_chars": 4684,
+      "outbound_internal_links": 3,
+      "outbound_known_ids": [
+        61
+      ],
+      "outbound_unknown_paths": [
+        "/places/category/accommodation",
+        "/region/golan"
+      ],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 145,
+      "type": "page",
+      "title": "לינה בגליל — צימרים ומלונות בגליל עליון ותחתון",
+      "url": "https://gonorth.co.il/accommodation-galilee/",
+      "categories": [],
+      "content_chars": 5811,
+      "outbound_internal_links": 6,
+      "outbound_known_ids": [
+        27,
+        61,
+        63
+      ],
+      "outbound_unknown_paths": [
+        "/places/category/accommodation",
+        "/region/galil"
+      ],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        448
+      ]
+    },
+    {
+      "id": 146,
+      "type": "page",
+      "title": "חוף דור — מדריך לחוף הים הכי יפה בכרמל",
+      "url": "https://gonorth.co.il/dor-beach-guide/",
+      "categories": [],
+      "content_chars": 3624,
+      "outbound_internal_links": 1,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [
+        "/region/carmel"
+      ],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 147,
+      "type": "page",
+      "title": "עמק המעיינות — מה לעשות ולראות",
+      "url": "https://gonorth.co.il/valley-of-springs-guide/",
+      "categories": [],
+      "content_chars": 4929,
+      "outbound_internal_links": 5,
+      "outbound_known_ids": [
+        27,
+        86,
+        88
+      ],
+      "outbound_unknown_paths": [
+        "/places/category/accommodation",
+        "/places/category/restaurants"
+      ],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 149,
+      "type": "gd_place",
+      "title": "דג על הדן",
+      "url": "https://gonorth.co.il/places/%d7%93%d7%92-%d7%a2%d7%9c-%d7%94%d7%93%d7%9f/",
+      "categories": [
+        "מסעדות"
+      ],
+      "content_chars": 690,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        250,
+        433,
+        443
+      ]
+    },
+    {
+      "id": 157,
+      "type": "gd_place",
+      "title": "כפר החיות בכפר גלעדי",
+      "url": "https://gonorth.co.il/places/%d7%9b%d7%a4%d7%a8-%d7%94%d7%97%d7%99%d7%95%d7%aa-%d7%91%d7%9b%d7%a4%d7%a8-%d7%92%d7%9c%d7%a2%d7%93%d7%99/",
+      "categories": [
+        "אטרקציות"
+      ],
+      "content_chars": 1068,
+      "outbound_internal_links": 1,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [
+        "/10-אטרקציות-בגליל-לחופשת-משפחה"
+      ],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        250,
+        251,
+        443
+      ]
+    },
+    {
+      "id": 159,
+      "type": "gd_place",
+      "title": "לול ארט",
+      "url": "https://gonorth.co.il/places/%d7%9c%d7%95%d7%9c-%d7%90%d7%a8%d7%98/",
+      "categories": [
+        "אטרקציות"
+      ],
+      "content_chars": 1110,
+      "outbound_internal_links": 1,
+      "outbound_known_ids": [
+        94
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 161,
+      "type": "gd_place",
+      "title": "עזיזו — לבנדר מהגולן",
+      "url": "https://gonorth.co.il/places/%d7%a2%d7%96%d7%99%d7%96%d7%95-%d7%9c%d7%91%d7%a0%d7%93%d7%a8-%d7%9e%d7%94%d7%92%d7%95%d7%9c%d7%9f/",
+      "categories": [
+        "אטרקציות"
+      ],
+      "content_chars": 574,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 165,
+      "type": "gd_place",
+      "title": "פיינטבול הגושרים",
+      "url": "https://gonorth.co.il/places/%d7%a4%d7%99%d7%99%d7%a0%d7%98%d7%91%d7%95%d7%9c-%d7%94%d7%92%d7%95%d7%a9%d7%a8%d7%99%d7%9d/",
+      "categories": [
+        "סיורים ופעילויות"
+      ],
+      "content_chars": 537,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 167,
+      "type": "gd_place",
+      "title": "קידס לנד — אתגר הנינג'ה לילדים",
+      "url": "https://gonorth.co.il/places/%d7%a7%d7%99%d7%93%d7%a1-%d7%9c%d7%a0%d7%93-%d7%90%d7%aa%d7%92%d7%a8-%d7%94%d7%a0%d7%99%d7%a0%d7%92%d7%94-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d/",
+      "categories": [
+        "סיורים ופעילויות"
+      ],
+      "content_chars": 1106,
+      "outbound_internal_links": 1,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [
+        "/10-אטרקציות-בגליל-לחופשת-משפחה"
+      ],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 169,
+      "type": "gd_place",
+      "title": "שמורת טבע הר מירון",
+      "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%a8-%d7%9e%d7%99%d7%a8%d7%95%d7%9f/",
+      "categories": [
+        "טבע ומסלולים"
+      ],
+      "content_chars": 639,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 171,
+      "type": "gd_place",
+      "title": "שמורת טבע נחל כזיב",
+      "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%9b%d7%96%d7%99%d7%91/",
+      "categories": [
+        "טבע ומסלולים"
+      ],
+      "content_chars": 586,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 173,
+      "type": "gd_place",
+      "title": "אגמון החולה",
+      "url": "https://gonorth.co.il/places/%d7%90%d7%92%d7%9e%d7%95%d7%9f-%d7%94%d7%97%d7%95%d7%9c%d7%94/",
+      "categories": [
+        "טבע ומסלולים"
+      ],
+      "content_chars": 540,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 175,
+      "type": "gd_place",
+      "title": "גן לאומי תל חצור",
+      "url": "https://gonorth.co.il/places/%d7%92%d7%9f-%d7%9c%d7%90%d7%95%d7%9e%d7%99-%d7%aa%d7%9c-%d7%97%d7%a6%d7%95%d7%a8/",
+      "categories": [
+        "אטרקציות"
+      ],
+      "content_chars": 616,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 177,
+      "type": "gd_place",
+      "title": "עין תינה",
+      "url": "https://gonorth.co.il/places/%d7%a2%d7%99%d7%9f-%d7%aa%d7%99%d7%a0%d7%94/",
+      "categories": [
+        "טבע ומסלולים"
+      ],
+      "content_chars": 1054,
+      "outbound_internal_links": 1,
+      "outbound_known_ids": [
+        262
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 179,
+      "type": "gd_place",
+      "title": "עין דיבשה",
+      "url": "https://gonorth.co.il/places/%d7%a2%d7%99%d7%9f-%d7%93%d7%99%d7%91%d7%a9%d7%94/",
+      "categories": [
+        "טבע ומסלולים"
+      ],
+      "content_chars": 571,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 181,
+      "type": "gd_place",
+      "title": "חוות בת יער",
+      "url": "https://gonorth.co.il/places/%d7%97%d7%95%d7%95%d7%aa-%d7%91%d7%aa-%d7%99%d7%a2%d7%a8/",
+      "categories": [
+        "אטרקציות",
+        "מסעדות"
+      ],
+      "content_chars": 1135,
+      "outbound_internal_links": 1,
+      "outbound_known_ids": [
+        448
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 183,
+      "type": "gd_place",
+      "title": "רוג'ום — קיר טיפוס בקריית שמונה",
+      "url": "https://gonorth.co.il/places/%d7%a8%d7%95%d7%92%d7%95%d7%9d-%d7%a7%d7%99%d7%a8-%d7%98%d7%99%d7%a4%d7%95%d7%a1-%d7%91%d7%a7%d7%a8%d7%99%d7%99%d7%aa-%d7%a9%d7%9e%d7%95%d7%a0%d7%94/",
+      "categories": [
+        "סיורים ופעילויות"
+      ],
+      "content_chars": 1040,
+      "outbound_internal_links": 1,
+      "outbound_known_ids": [
+        270
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 185,
+      "type": "gd_place",
+      "title": "גן מורד הירדן",
+      "url": "https://gonorth.co.il/places/%d7%92%d7%9f-%d7%9e%d7%95%d7%a8%d7%93-%d7%94%d7%99%d7%a8%d7%93%d7%9f/",
+      "categories": [
+        "טבע ומסלולים"
+      ],
+      "content_chars": 1044,
+      "outbound_internal_links": 1,
+      "outbound_known_ids": [
+        262
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 187,
+      "type": "gd_place",
+      "title": "שמורת טבע נחל המשושים",
+      "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%94%d7%9e%d7%a9%d7%95%d7%a9%d7%99%d7%9d/",
+      "categories": [
+        "טבע ומסלולים"
+      ],
+      "content_chars": 1413,
+      "outbound_internal_links": 1,
+      "outbound_known_ids": [
+        95
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 189,
+      "type": "gd_place",
+      "title": "שמורת טבע יהודיה",
+      "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%99%d7%94%d7%95%d7%93%d7%99%d7%94/",
+      "categories": [
+        "טבע ומסלולים"
+      ],
+      "content_chars": 1080,
+      "outbound_internal_links": 1,
+      "outbound_known_ids": [
+        262
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 191,
+      "type": "gd_place",
+      "title": "שמורת טבע הבניאס",
+      "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%91%d7%a0%d7%99%d7%90%d7%a1/",
+      "categories": [
+        "טבע ומסלולים"
+      ],
+      "content_chars": 1203,
+      "outbound_internal_links": 1,
+      "outbound_known_ids": [
+        262
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 193,
+      "type": "gd_place",
+      "title": "יקב רמת הגולן",
+      "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%a8%d7%9e%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f/",
+      "categories": [
+        "יקבים"
+      ],
+      "content_chars": 1135,
+      "outbound_internal_links": 1,
+      "outbound_known_ids": [
+        268
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 195,
+      "type": "gd_place",
+      "title": "מפגש היקב — עמיעד",
+      "url": "https://gonorth.co.il/places/%d7%9e%d7%a4%d7%92%d7%a9-%d7%94%d7%99%d7%a7%d7%91-%d7%a2%d7%9e%d7%99%d7%a2%d7%93/",
+      "categories": [
+        "יקבים"
+      ],
+      "content_chars": 1046,
+      "outbound_internal_links": 1,
+      "outbound_known_ids": [
+        268
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 197,
+      "type": "gd_place",
+      "title": "יקב רמות נפתלי",
+      "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%a8%d7%9e%d7%95%d7%aa-%d7%a0%d7%a4%d7%aa%d7%9c%d7%99/",
+      "categories": [
+        "יקבים"
+      ],
+      "content_chars": 964,
+      "outbound_internal_links": 1,
+      "outbound_known_ids": [
+        268
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        268
+      ]
+    },
+    {
+      "id": 198,
+      "type": "gd_place",
+      "title": "יקב דלתון",
+      "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%93%d7%9c%d7%aa%d7%95%d7%9f/",
+      "categories": [
+        "יקבים"
+      ],
+      "content_chars": 940,
+      "outbound_internal_links": 1,
+      "outbound_known_ids": [
+        268
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 202,
+      "type": "gd_place",
+      "title": "חלהוולאוו",
+      "url": "https://gonorth.co.il/places/%d7%97%d7%9c%d7%94%d7%95%d7%95%d7%9c%d7%90%d7%95%d7%95/",
+      "categories": [
+        "עגלות קפה"
+      ],
+      "content_chars": 526,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 204,
+      "type": "gd_place",
+      "title": "קפה מוייז",
+      "url": "https://gonorth.co.il/places/%d7%a7%d7%a4%d7%94-%d7%9e%d7%95%d7%99%d7%99%d7%96/",
+      "categories": [
+        "עגלות קפה"
+      ],
+      "content_chars": 956,
+      "outbound_internal_links": 1,
+      "outbound_known_ids": [
+        427
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 206,
+      "type": "page",
+      "title": "גשר הזיו — מה לעשות, לאן לאכול ואיפה ללון באזור",
+      "url": "https://gonorth.co.il/gesher-haziv-guide/",
+      "categories": [],
+      "content_chars": 4513,
+      "outbound_internal_links": 5,
+      "outbound_known_ids": [
+        23,
+        97,
+        98
+      ],
+      "outbound_unknown_paths": [
+        "/places/category/teva",
+        "/region/galil"
+      ],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 207,
+      "type": "gd_place",
+      "title": "נינו עגלת קפה",
+      "url": "https://gonorth.co.il/places/%d7%a0%d7%99%d7%a0%d7%95-%d7%a2%d7%92%d7%9c%d7%aa-%d7%a7%d7%a4%d7%94/",
+      "categories": [
+        "עגלות קפה"
+      ],
+      "content_chars": 594,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 209,
+      "type": "gd_place",
+      "title": "דה פייפ קפה",
+      "url": "https://gonorth.co.il/places/%d7%93%d7%94-%d7%a4%d7%99%d7%99%d7%a4-%d7%a7%d7%a4%d7%94/",
+      "categories": [
+        "עגלות קפה"
+      ],
+      "content_chars": 932,
+      "outbound_internal_links": 1,
+      "outbound_known_ids": [
+        427
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 212,
+      "type": "gd_place",
+      "title": "קפה חמה",
+      "url": "https://gonorth.co.il/places/%d7%a7%d7%a4%d7%94-%d7%97%d7%9e%d7%94/",
+      "categories": [
+        "עגלות קפה"
+      ],
+      "content_chars": 991,
+      "outbound_internal_links": 1,
+      "outbound_known_ids": [
+        427
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 213,
+      "type": "gd_place",
+      "title": "דורא עגלת קפה",
+      "url": "https://gonorth.co.il/places/%d7%93%d7%95%d7%a8%d7%90-%d7%a2%d7%92%d7%9c%d7%aa-%d7%a7%d7%a4%d7%94/",
+      "categories": [
+        "עגלות קפה"
+      ],
+      "content_chars": 914,
+      "outbound_internal_links": 1,
+      "outbound_known_ids": [
+        427
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 215,
+      "type": "gd_place",
+      "title": "קפה קירשנר",
+      "url": "https://gonorth.co.il/places/%d7%a7%d7%a4%d7%94-%d7%a7%d7%99%d7%a8%d7%a9%d7%a0%d7%a8/",
+      "categories": [
+        "עגלות קפה"
+      ],
+      "content_chars": 1038,
+      "outbound_internal_links": 1,
+      "outbound_known_ids": [
+        433
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 217,
+      "type": "gd_place",
+      "title": "קפה התן",
+      "url": "https://gonorth.co.il/places/%d7%a7%d7%a4%d7%94-%d7%94%d7%aa%d7%9f/",
+      "categories": [
+        "עגלות קפה"
+      ],
+      "content_chars": 943,
+      "outbound_internal_links": 1,
+      "outbound_known_ids": [
+        427
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 219,
+      "type": "gd_place",
+      "title": "עגלת קפה מיכאל",
+      "url": "https://gonorth.co.il/places/%d7%a2%d7%92%d7%9c%d7%aa-%d7%a7%d7%a4%d7%94-%d7%9e%d7%99%d7%9b%d7%90%d7%9c/",
+      "categories": [
+        "עגלות קפה"
+      ],
+      "content_chars": 938,
+      "outbound_internal_links": 2,
+      "outbound_known_ids": [
+        24,
+        427
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 221,
+      "type": "gd_place",
+      "title": "אסתר — קפה ובישולים לדרך",
+      "url": "https://gonorth.co.il/places/%d7%90%d7%a1%d7%aa%d7%a8-%d7%a7%d7%a4%d7%94-%d7%95%d7%91%d7%99%d7%a9%d7%95%d7%9c%d7%99%d7%9d-%d7%9c%d7%93%d7%a8%d7%9a/",
+      "categories": [
+        "עגלות קפה"
+      ],
+      "content_chars": 967,
+      "outbound_internal_links": 2,
+      "outbound_known_ids": [
+        24,
+        427
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 223,
+      "type": "gd_place",
+      "title": "מיקה",
+      "url": "https://gonorth.co.il/places/%d7%9e%d7%99%d7%a7%d7%94/",
+      "categories": [
+        "עגלות קפה"
+      ],
+      "content_chars": 910,
+      "outbound_internal_links": 1,
+      "outbound_known_ids": [
+        427
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 225,
+      "type": "gd_place",
+      "title": "עגלת קפה החלוצים",
+      "url": "https://gonorth.co.il/places/%d7%a2%d7%92%d7%9c%d7%aa-%d7%a7%d7%a4%d7%94-%d7%94%d7%97%d7%9c%d7%95%d7%a6%d7%99%d7%9d/",
+      "categories": [
+        "עגלות קפה"
+      ],
+      "content_chars": 538,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 228,
+      "type": "gd_place",
+      "title": "קופיש Coffish",
+      "url": "https://gonorth.co.il/places/%d7%a7%d7%95%d7%a4%d7%99%d7%a9-coffish/",
+      "categories": [
+        "עגלות קפה"
+      ],
+      "content_chars": 942,
+      "outbound_internal_links": 1,
+      "outbound_known_ids": [
+        427
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 229,
+      "type": "gd_place",
+      "title": "שישו קפה",
+      "url": "https://gonorth.co.il/places/%d7%a9%d7%99%d7%a9%d7%95-%d7%a7%d7%a4%d7%94/",
+      "categories": [
+        "עגלות קפה"
+      ],
+      "content_chars": 1092,
+      "outbound_internal_links": 2,
+      "outbound_known_ids": [
+        267,
+        427
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        267
+      ]
+    },
+    {
+      "id": 231,
+      "type": "gd_place",
+      "title": "עספורה",
+      "url": "https://gonorth.co.il/places/%d7%a2%d7%a1%d7%a4%d7%95%d7%a8%d7%94/",
+      "categories": [
+        "עגלות קפה"
+      ],
+      "content_chars": 992,
+      "outbound_internal_links": 1,
+      "outbound_known_ids": [
+        427
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 233,
+      "type": "gd_place",
+      "title": "הקרון בכפר יהושוע",
+      "url": "https://gonorth.co.il/places/%d7%94%d7%a7%d7%a8%d7%95%d7%9f-%d7%91%d7%9b%d7%a4%d7%a8-%d7%99%d7%94%d7%95%d7%a9%d7%95%d7%a2/",
+      "categories": [
+        "עגלות קפה"
+      ],
+      "content_chars": 998,
+      "outbound_internal_links": 1,
+      "outbound_known_ids": [
+        433
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 235,
+      "type": "gd_place",
+      "title": "יקב תל שיפון",
+      "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%aa%d7%9c-%d7%a9%d7%99%d7%a4%d7%95%d7%9f/",
+      "categories": [
+        "יקבים",
+        "מסעדות"
+      ],
+      "content_chars": 986,
+      "outbound_internal_links": 1,
+      "outbound_known_ids": [
+        268
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        268
+      ]
+    },
+    {
+      "id": 237,
+      "type": "gd_place",
+      "title": "יקב שאטו גולן",
+      "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%a9%d7%90%d7%98%d7%95-%d7%92%d7%95%d7%9c%d7%9f/",
+      "categories": [
+        "יקבים"
+      ],
+      "content_chars": 846,
+      "outbound_internal_links": 1,
+      "outbound_known_ids": [
+        268
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        258,
+        268,
+        427
+      ]
+    },
+    {
+      "id": 240,
+      "type": "gd_place",
+      "title": "יקב הרי גליל",
+      "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%94%d7%a8%d7%99-%d7%92%d7%9c%d7%99%d7%9c/",
+      "categories": [
+        "יקבים"
+      ],
+      "content_chars": 1000,
+      "outbound_internal_links": 1,
+      "outbound_known_ids": [
+        268
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        258,
+        427
+      ]
+    },
+    {
+      "id": 242,
+      "type": "gd_place",
+      "title": "יקב אדיר",
+      "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%90%d7%93%d7%99%d7%a8/",
+      "categories": [
+        "יקבים"
+      ],
+      "content_chars": 1036,
+      "outbound_internal_links": 1,
+      "outbound_known_ids": [
+        268
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        258,
+        427,
+        441
+      ]
+    },
+    {
+      "id": 244,
+      "type": "gd_place",
+      "title": "יקב בן זמרה",
+      "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%91%d7%9f-%d7%96%d7%9e%d7%a8%d7%94/",
+      "categories": [
+        "יקבים"
+      ],
+      "content_chars": 889,
+      "outbound_internal_links": 1,
+      "outbound_known_ids": [
+        268
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        258,
+        268,
+        427
+      ]
+    },
+    {
+      "id": 246,
+      "type": "gd_place",
+      "title": "אינדי פארק",
+      "url": "https://gonorth.co.il/places/%d7%90%d7%99%d7%a0%d7%93%d7%99-%d7%a4%d7%90%d7%a8%d7%a7/",
+      "categories": [
+        "אטרקציות"
+      ],
+      "content_chars": 913,
+      "outbound_internal_links": 1,
+      "outbound_known_ids": [
+        270
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        257,
+        270,
+        441
+      ]
+    },
+    {
+      "id": 248,
+      "type": "gd_place",
+      "title": "מטאור — תצפיות כוכבים",
+      "url": "https://gonorth.co.il/places/%d7%9e%d7%98%d7%90%d7%95%d7%a8-%d7%aa%d7%a6%d7%a4%d7%99%d7%95%d7%aa-%d7%9b%d7%95%d7%9b%d7%91%d7%99%d7%9d/",
+      "categories": [
+        "אטרקציות"
+      ],
+      "content_chars": 1084,
+      "outbound_internal_links": 1,
+      "outbound_known_ids": [
+        95
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        95,
+        427
+      ]
+    },
+    {
+      "id": 250,
+      "type": "page",
+      "title": "קיבוץ דפנה ואזור דן — מדריך לטיול בצפון הגליל",
+      "url": "https://gonorth.co.il/kibbutz-dafna-dan-region-guide/",
+      "categories": [],
+      "content_chars": 5878,
+      "outbound_internal_links": 10,
+      "outbound_known_ids": [
+        87,
+        88,
+        89,
+        96,
+        97,
+        149,
+        157
+      ],
+      "outbound_unknown_paths": [
+        "/places/category/teva",
+        "/region/galil"
+      ],
+      "duplicate_known_targets": [
+        {
+          "target_id": 89,
+          "count": 2
+        }
+      ],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 251,
+      "type": "page",
+      "title": "מה לעשות בצפון ישראל עם ילדים — המדריך המשפחתי",
+      "url": "https://gonorth.co.il/north-israel-family-activities-guide/",
+      "categories": [],
+      "content_chars": 5037,
+      "outbound_internal_links": 9,
+      "outbound_known_ids": [
+        27,
+        87,
+        88,
+        97,
+        157
+      ],
+      "outbound_unknown_paths": [
+        "/places/category/atraktziot-main",
+        "/places/category/teva",
+        "/region/galil",
+        "/region/golan"
+      ],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 252,
+      "type": "page",
+      "title": "טיול מים בצפון ישראל — הנחלים הכי שווים לקיץ",
+      "url": "https://gonorth.co.il/water-trails-north-israel-summer/",
+      "categories": [],
+      "content_chars": 4509,
+      "outbound_internal_links": 5,
+      "outbound_known_ids": [
+        27,
+        88,
+        89,
+        97
+      ],
+      "outbound_unknown_paths": [
+        "/places/category/teva"
+      ],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 253,
+      "type": "page",
+      "title": "מסלולי טבע מומלצים לטיול בצפון הארץ",
+      "url": "https://gonorth.co.il/nature-trails-north-guide/",
+      "categories": [],
+      "content_chars": 1288,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 254,
+      "type": "page",
+      "title": "מדריך לקיבוצי הצפון: לינה, טבע ופעילויות בגשר הזיו, דפנה ועוד",
+      "url": "https://gonorth.co.il/kibbutz-stays-northern-israel/",
+      "categories": [],
+      "content_chars": 5289,
+      "outbound_internal_links": 3,
+      "outbound_known_ids": [
+        96,
+        97
+      ],
+      "outbound_unknown_paths": [
+        "/places/category/teva"
+      ],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 256,
+      "type": "page",
+      "title": "מסלולי מים בצפון ישראל — הנחלים, הבריכות והמפלים הכי שווים",
+      "url": "https://gonorth.co.il/water-trails-north-israel/",
+      "categories": [],
+      "content_chars": 5659,
+      "outbound_internal_links": 2,
+      "outbound_known_ids": [
+        97
+      ],
+      "outbound_unknown_paths": [
+        "/places/category/teva"
+      ],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        448
+      ]
+    },
+    {
+      "id": 257,
+      "type": "page",
+      "title": "אטרקציות לילדים בצפון ישראל — מה לעשות עם הילדים בגליל ובגולן",
+      "url": "https://gonorth.co.il/attractions-for-kids-north-israel/",
+      "categories": [],
+      "content_chars": 5498,
+      "outbound_internal_links": 4,
+      "outbound_known_ids": [
+        97,
+        246
+      ],
+      "outbound_unknown_paths": [
+        "/places/category/atraktziot-main",
+        "/places/category/teva"
+      ],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 258,
+      "type": "page",
+      "title": "יקבים בגליל ובגולן — מדריך לסיורים וטעימות יין בצפון",
+      "url": "https://gonorth.co.il/wineries-galilee-golan-guide/",
+      "categories": [],
+      "content_chars": 6554,
+      "outbound_internal_links": 10,
+      "outbound_known_ids": [
+        96,
+        97,
+        237,
+        240,
+        242,
+        244
+      ],
+      "outbound_unknown_paths": [
+        "/places/category/restaurants-sub",
+        "/places/category/yakavim",
+        "/region/galil",
+        "/region/golan"
+      ],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 262,
+      "type": "post",
+      "title": "מסלולי מים בצפון: 7 טיולים רטובים ומרעננים",
+      "url": "https://gonorth.co.il/maslulei-mayim-batzafon/",
+      "categories": [],
+      "content_chars": 6805,
+      "outbound_internal_links": 1,
+      "outbound_known_ids": [
+        24
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        177,
+        185,
+        189,
+        191,
+        268,
+        269,
+        440,
+        441
+      ]
+    },
+    {
+      "id": 267,
+      "type": "post",
+      "title": "מסעדות מומלצות בצפון: איפה כדאי לאכול",
+      "url": "https://gonorth.co.il/misadot-mumlatzot-batzafon/",
+      "categories": [],
+      "content_chars": 5615,
+      "outbound_internal_links": 2,
+      "outbound_known_ids": [
+        24,
+        229
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        229
+      ]
+    },
+    {
+      "id": 268,
+      "type": "post",
+      "title": "יקבים בצפון: מדריך טעימות בגליל ובגולן",
+      "url": "https://gonorth.co.il/yekavim-batzafon/",
+      "categories": [],
+      "content_chars": 5564,
+      "outbound_internal_links": 6,
+      "outbound_known_ids": [
+        48,
+        197,
+        235,
+        237,
+        244,
+        262
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        48,
+        193,
+        195,
+        197,
+        198,
+        235,
+        237,
+        240,
+        242,
+        244,
+        441
+      ]
+    },
+    {
+      "id": 269,
+      "type": "post",
+      "title": "מעיינות בצפון: המקומות הכי מרעננים לטיול",
+      "url": "https://gonorth.co.il/maayanot-batzafon/",
+      "categories": [],
+      "content_chars": 5725,
+      "outbound_internal_links": 1,
+      "outbound_known_ids": [
+        262
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        270,
+        441
+      ]
+    },
+    {
+      "id": 270,
+      "type": "post",
+      "title": "אטרקציות לילדים בצפון: רעיונות למשפחות",
+      "url": "https://gonorth.co.il/atrakziot-leyeladim-batzafon/",
+      "categories": [],
+      "content_chars": 6526,
+      "outbound_internal_links": 2,
+      "outbound_known_ids": [
+        246,
+        269
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        183,
+        246,
+        440,
+        441
+      ]
+    },
+    {
+      "id": 323,
+      "type": "gd_place",
+      "title": "קייקי כפר בלום",
+      "url": "https://gonorth.co.il/places/%d7%a7%d7%99%d7%99%d7%a7%d7%99-%d7%9b%d7%a4%d7%a8-%d7%91%d7%9c%d7%95%d7%9d/",
+      "categories": [
+        "סיורים ופעילויות"
+      ],
+      "content_chars": 551,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 325,
+      "type": "gd_place",
+      "title": "רפטינג נהר הירדן",
+      "url": "https://gonorth.co.il/places/%d7%a8%d7%a4%d7%98%d7%99%d7%a0%d7%92-%d7%a0%d7%94%d7%a8-%d7%94%d7%99%d7%a8%d7%93%d7%9f/",
+      "categories": [
+        "סיורים ופעילויות"
+      ],
+      "content_chars": 581,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 327,
+      "type": "gd_place",
+      "title": "חמי טבריה",
+      "url": "https://gonorth.co.il/places/%d7%97%d7%9e%d7%99-%d7%98%d7%91%d7%a8%d7%99%d7%94/",
+      "categories": [
+        "אטרקציות"
+      ],
+      "content_chars": 657,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 329,
+      "type": "gd_place",
+      "title": "חוות האושר — רכיבה על סוסים",
+      "url": "https://gonorth.co.il/places/%d7%97%d7%95%d7%95%d7%aa-%d7%94%d7%90%d7%95%d7%a9%d7%a8-%d7%a8%d7%9b%d7%99%d7%91%d7%94-%d7%a2%d7%9c-%d7%a1%d7%95%d7%a1%d7%99%d7%9d/",
+      "categories": [
+        "סיורים ופעילויות"
+      ],
+      "content_chars": 601,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 331,
+      "type": "gd_place",
+      "title": "ורד הגליל",
+      "url": "https://gonorth.co.il/places/%d7%95%d7%a8%d7%93-%d7%94%d7%92%d7%9c%d7%99%d7%9c/",
+      "categories": [
+        "לינה",
+        "סיורים ופעילויות"
+      ],
+      "content_chars": 628,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 333,
+      "type": "gd_place",
+      "title": "חוות הבוקרים — מרום גולן",
+      "url": "https://gonorth.co.il/places/%d7%97%d7%95%d7%95%d7%aa-%d7%94%d7%91%d7%95%d7%a7%d7%a8%d7%99%d7%9d-%d7%9e%d7%a8%d7%95%d7%9d-%d7%92%d7%95%d7%9c%d7%9f/",
+      "categories": [
+        "סיורים ופעילויות"
+      ],
+      "content_chars": 577,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 335,
+      "type": "gd_place",
+      "title": "גיל גולן — מרכז רכיבה",
+      "url": "https://gonorth.co.il/places/%d7%92%d7%99%d7%9c-%d7%92%d7%95%d7%9c%d7%9f-%d7%9e%d7%a8%d7%9b%d7%96-%d7%a8%d7%9b%d7%99%d7%91%d7%94/",
+      "categories": [
+        "סיורים ופעילויות"
+      ],
+      "content_chars": 1230,
+      "outbound_internal_links": 1,
+      "outbound_known_ids": [
+        95
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        95
+      ]
+    },
+    {
+      "id": 337,
+      "type": "gd_place",
+      "title": "חוות סוסים — קיבוץ אורטל",
+      "url": "https://gonorth.co.il/places/%d7%97%d7%95%d7%95%d7%aa-%d7%a1%d7%95%d7%a1%d7%99%d7%9d-%d7%a7%d7%99%d7%91%d7%95%d7%a5-%d7%90%d7%95%d7%a8%d7%98%d7%9c/",
+      "categories": [
+        "סיורים ופעילויות"
+      ],
+      "content_chars": 504,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 339,
+      "type": "gd_place",
+      "title": "גלמפינג קיבוץ אורטל",
+      "url": "https://gonorth.co.il/places/%d7%92%d7%9c%d7%9e%d7%a4%d7%99%d7%a0%d7%92-%d7%a7%d7%99%d7%91%d7%95%d7%a5-%d7%90%d7%95%d7%a8%d7%98%d7%9c/",
+      "categories": [
+        "לינה"
+      ],
+      "content_chars": 579,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 341,
+      "type": "gd_place",
+      "title": "גלמפינג על הצוק — עין קיניא",
+      "url": "https://gonorth.co.il/places/%d7%92%d7%9c%d7%9e%d7%a4%d7%99%d7%a0%d7%92-%d7%a2%d7%9c-%d7%94%d7%a6%d7%95%d7%a7-%d7%a2%d7%99%d7%9f-%d7%a7%d7%99%d7%a0%d7%99%d7%90/",
+      "categories": [
+        "לינה"
+      ],
+      "content_chars": 596,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 343,
+      "type": "gd_place",
+      "title": "גלמפינג עין תאנה",
+      "url": "https://gonorth.co.il/places/%d7%92%d7%9c%d7%9e%d7%a4%d7%99%d7%a0%d7%92-%d7%a2%d7%99%d7%9f-%d7%aa%d7%90%d7%a0%d7%94/",
+      "categories": [
+        "לינה"
+      ],
+      "content_chars": 564,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 345,
+      "type": "gd_place",
+      "title": "בלום וילג׳ — כפר בלום",
+      "url": "https://gonorth.co.il/places/%d7%91%d7%9c%d7%95%d7%9d-%d7%95%d7%99%d7%9c%d7%92%d7%b3-%d7%9b%d7%a4%d7%a8-%d7%91%d7%9c%d7%95%d7%9d/",
+      "categories": [
+        "לינה"
+      ],
+      "content_chars": 657,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 347,
+      "type": "gd_place",
+      "title": "קטיף עצמי אל-רום",
+      "url": "https://gonorth.co.il/places/%d7%a7%d7%98%d7%99%d7%a3-%d7%a2%d7%a6%d7%9e%d7%99-%d7%90%d7%9c-%d7%a8%d7%95%d7%9d/",
+      "categories": [
+        "אטרקציות"
+      ],
+      "content_chars": 547,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 349,
+      "type": "gd_place",
+      "title": "מרכז מורשת שמן הזית — משק טוייסטר",
+      "url": "https://gonorth.co.il/places/%d7%9e%d7%a8%d7%9b%d7%96-%d7%9e%d7%95%d7%a8%d7%a9%d7%aa-%d7%a9%d7%9e%d7%9f-%d7%94%d7%96%d7%99%d7%aa-%d7%9e%d7%a9%d7%a7-%d7%98%d7%95%d7%99%d7%99%d7%a1%d7%98%d7%a8/",
+      "categories": [
+        "אטרקציות"
+      ],
+      "content_chars": 506,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 351,
+      "type": "gd_place",
+      "title": "ג׳ימי ג׳יפ — טיולי ג׳יפים",
+      "url": "https://gonorth.co.il/places/%d7%92%d7%b3%d7%99%d7%9e%d7%99-%d7%92%d7%b3%d7%99%d7%a4-%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%92%d7%b3%d7%99%d7%a4%d7%99%d7%9d/",
+      "categories": [
+        "סיורים ופעילויות"
+      ],
+      "content_chars": 578,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 353,
+      "type": "gd_place",
+      "title": "סאונדטראק — טיולי אוזניות בטבע",
+      "url": "https://gonorth.co.il/places/%d7%a1%d7%90%d7%95%d7%a0%d7%93%d7%98%d7%a8%d7%90%d7%a7-%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%90%d7%95%d7%96%d7%a0%d7%99%d7%95%d7%aa-%d7%91%d7%98%d7%91%d7%a2/",
+      "categories": [
+        "סיורים ופעילויות"
+      ],
+      "content_chars": 651,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 355,
+      "type": "gd_place",
+      "title": "קול שופר — מרכז מבקרים",
+      "url": "https://gonorth.co.il/places/%d7%a7%d7%95%d7%9c-%d7%a9%d7%95%d7%a4%d7%a8-%d7%9e%d7%a8%d7%9b%d7%96-%d7%9e%d7%91%d7%a7%d7%a8%d7%99%d7%9d/",
+      "categories": [
+        "אטרקציות"
+      ],
+      "content_chars": 601,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 357,
+      "type": "gd_place",
+      "title": "F Ranch",
+      "url": "https://gonorth.co.il/places/f-ranch/",
+      "categories": [
+        "סיורים ופעילויות"
+      ],
+      "content_chars": 978,
+      "outbound_internal_links": 1,
+      "outbound_known_ids": [
+        427
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 359,
+      "type": "gd_place",
+      "title": "מחלבת נטור — אוכל גבינות וחוויה כפרית בגולן",
+      "url": "https://gonorth.co.il/places/%d7%9e%d7%97%d7%9c%d7%91%d7%aa-%d7%a0%d7%98%d7%95%d7%a8-%d7%90%d7%95%d7%9b%d7%9c-%d7%92%d7%91%d7%99%d7%a0%d7%95%d7%aa-%d7%95%d7%97%d7%95%d7%95%d7%99%d7%94-%d7%9b%d7%a4%d7%a8%d7%99%d7%aa/",
+      "categories": [
+        "אטרקציות",
+        "מסעדות"
+      ],
+      "content_chars": 571,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 361,
+      "type": "gd_place",
+      "title": "העדי שבמטבח — סדנאות שוקולד",
+      "url": "https://gonorth.co.il/places/%d7%94%d7%a2%d7%93%d7%99-%d7%a9%d7%91%d7%9e%d7%98%d7%91%d7%97-%d7%a1%d7%93%d7%a0%d7%90%d7%95%d7%aa-%d7%a9%d7%95%d7%a7%d7%95%d7%9c%d7%93/",
+      "categories": [
+        "מסעדות",
+        "סיורים ופעילויות"
+      ],
+      "content_chars": 598,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 363,
+      "type": "gd_place",
+      "title": "יקב פלטר",
+      "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%a4%d7%9c%d7%98%d7%a8/",
+      "categories": [
+        "יקבים"
+      ],
+      "content_chars": 540,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 365,
+      "type": "gd_place",
+      "title": "ג׳י.פי.אס טיולי ג׳יפים",
+      "url": "https://gonorth.co.il/places/%d7%92%d7%b3%d7%99-%d7%a4%d7%99-%d7%90%d7%a1-%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%92%d7%b3%d7%99%d7%a4%d7%99%d7%9d/",
+      "categories": [
+        "סיורים ופעילויות"
+      ],
+      "content_chars": 513,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 367,
+      "type": "gd_place",
+      "title": "מזקקת גולני",
+      "url": "https://gonorth.co.il/places/%d7%9e%d7%96%d7%a7%d7%a7%d7%aa-%d7%92%d7%95%d7%9c%d7%a0%d7%99/",
+      "categories": [
+        "אטרקציות",
+        "מסעדות"
+      ],
+      "content_chars": 585,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 369,
+      "type": "gd_place",
+      "title": "רייזר סטאר חד-נס",
+      "url": "https://gonorth.co.il/places/%d7%a8%d7%99%d7%99%d7%96%d7%a8-%d7%a1%d7%98%d7%90%d7%a8-%d7%97%d7%93-%d7%a0%d7%a1/",
+      "categories": [
+        "סיורים ופעילויות"
+      ],
+      "content_chars": 619,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 371,
+      "type": "gd_place",
+      "title": "החווה התיירותית — בל עפרי",
+      "url": "https://gonorth.co.il/places/%d7%94%d7%97%d7%95%d7%95%d7%94-%d7%94%d7%aa%d7%99%d7%99%d7%a8%d7%95%d7%aa%d7%99%d7%aa-%d7%91%d7%9c-%d7%a2%d7%a4%d7%a8%d7%99/",
+      "categories": [
+        "אטרקציות",
+        "מסעדות"
+      ],
+      "content_chars": 690,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 373,
+      "type": "gd_place",
+      "title": "טיולי עששיות בפארק הירדן",
+      "url": "https://gonorth.co.il/places/%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%a2%d7%a9%d7%a9%d7%99%d7%95%d7%aa-%d7%91%d7%a4%d7%90%d7%a8%d7%a7-%d7%94%d7%99%d7%a8%d7%93%d7%9f/",
+      "categories": [
+        "סיורים ופעילויות"
+      ],
+      "content_chars": 553,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 375,
+      "type": "gd_place",
+      "title": "הרפת הרובוטית",
+      "url": "https://gonorth.co.il/places/%d7%94%d7%a8%d7%a4%d7%aa-%d7%94%d7%a8%d7%95%d7%91%d7%95%d7%98%d7%99%d7%aa/",
+      "categories": [
+        "אטרקציות"
+      ],
+      "content_chars": 536,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 377,
+      "type": "gd_place",
+      "title": "בירה בזלת — מבשלת הגולן",
+      "url": "https://gonorth.co.il/places/%d7%91%d7%99%d7%a8%d7%94-%d7%91%d7%96%d7%9c%d7%aa-%d7%9e%d7%91%d7%a9%d7%9c%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f/",
+      "categories": [
+        "אטרקציות",
+        "מסעדות"
+      ],
+      "content_chars": 668,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 379,
+      "type": "gd_place",
+      "title": "לימונטו — מרכז מבקרים",
+      "url": "https://gonorth.co.il/places/%d7%9c%d7%99%d7%9e%d7%95%d7%a0%d7%98%d7%95-%d7%9e%d7%a8%d7%9b%d7%96-%d7%9e%d7%91%d7%a7%d7%a8%d7%99%d7%9d/",
+      "categories": [
+        "אטרקציות",
+        "מסעדות"
+      ],
+      "content_chars": 600,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 381,
+      "type": "gd_place",
+      "title": "חוויית ג׳יפים ורייזרים בגולן",
+      "url": "https://gonorth.co.il/places/%d7%97%d7%95%d7%95%d7%99%d7%99%d7%aa-%d7%92%d7%b3%d7%99%d7%a4%d7%99%d7%9d-%d7%95%d7%a8%d7%99%d7%99%d7%96%d7%a8%d7%99%d7%9d-%d7%91%d7%92%d7%95%d7%9c%d7%9f/",
+      "categories": [
+        "סיורים ופעילויות"
+      ],
+      "content_chars": 590,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 383,
+      "type": "gd_place",
+      "title": "סנאבל — המרכז התיירותי הדרוזי",
+      "url": "https://gonorth.co.il/places/%d7%a1%d7%a0%d7%90%d7%91%d7%9c-%d7%94%d7%9e%d7%a8%d7%9b%d7%96-%d7%94%d7%aa%d7%99%d7%99%d7%a8%d7%95%d7%aa%d7%99-%d7%94%d7%93%d7%a8%d7%95%d7%96%d7%99/",
+      "categories": [
+        "מסעדות",
+        "סיורים ופעילויות"
+      ],
+      "content_chars": 550,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 385,
+      "type": "gd_place",
+      "title": "טיולי אתגר — Wild Adventures",
+      "url": "https://gonorth.co.il/places/%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%90%d7%aa%d7%92%d7%a8-wild-adventures/",
+      "categories": [
+        "סיורים ופעילויות"
+      ],
+      "content_chars": 627,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 387,
+      "type": "gd_place",
+      "title": "קטיף עצמי רוני",
+      "url": "https://gonorth.co.il/places/%d7%a7%d7%98%d7%99%d7%a3-%d7%a2%d7%a6%d7%9e%d7%99-%d7%a8%d7%95%d7%a0%d7%99/",
+      "categories": [
+        "אטרקציות"
+      ],
+      "content_chars": 1118,
+      "outbound_internal_links": 1,
+      "outbound_known_ids": [
+        94
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 389,
+      "type": "gd_place",
+      "title": "חוות שביט — כנף",
+      "url": "https://gonorth.co.il/places/%d7%97%d7%95%d7%95%d7%aa-%d7%a9%d7%91%d7%99%d7%98-%d7%9b%d7%a0%d7%a3/",
+      "categories": [
+        "סיורים ופעילויות"
+      ],
+      "content_chars": 504,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 391,
+      "type": "gd_place",
+      "title": "War Zone Paintball",
+      "url": "https://gonorth.co.il/places/war-zone-paintball/",
+      "categories": [
+        "סיורים ופעילויות"
+      ],
+      "content_chars": 1183,
+      "outbound_internal_links": 1,
+      "outbound_known_ids": [
+        94
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 393,
+      "type": "gd_place",
+      "title": "קטיף עצמי נווה אטיב",
+      "url": "https://gonorth.co.il/places/%d7%a7%d7%98%d7%99%d7%a3-%d7%a2%d7%a6%d7%9e%d7%99-%d7%a0%d7%95%d7%95%d7%94-%d7%90%d7%98%d7%99%d7%91/",
+      "categories": [
+        "אטרקציות"
+      ],
+      "content_chars": 526,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 395,
+      "type": "gd_place",
+      "title": "דיר עזיז — טבע עיזים גבינות",
+      "url": "https://gonorth.co.il/places/%d7%93%d7%99%d7%a8-%d7%a2%d7%96%d7%99%d7%96-%d7%98%d7%91%d7%a2-%d7%a2%d7%99%d7%96%d7%99%d7%9d-%d7%92%d7%91%d7%99%d7%a0%d7%95%d7%aa/",
+      "categories": [
+        "אטרקציות",
+        "מסעדות"
+      ],
+      "content_chars": 1008,
+      "outbound_internal_links": 1,
+      "outbound_known_ids": [
+        427
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 397,
+      "type": "gd_place",
+      "title": "אתגר הבונקר",
+      "url": "https://gonorth.co.il/places/%d7%90%d7%aa%d7%92%d7%a8-%d7%94%d7%91%d7%95%d7%a0%d7%a7%d7%a8/",
+      "categories": [
+        "סיורים ופעילויות"
+      ],
+      "content_chars": 568,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 399,
+      "type": "gd_place",
+      "title": "דה קרינה — שוקולד בוטיק",
+      "url": "https://gonorth.co.il/places/%d7%93%d7%94-%d7%a7%d7%a8%d7%99%d7%a0%d7%94-%d7%a9%d7%95%d7%a7%d7%95%d7%9c%d7%93-%d7%91%d7%95%d7%98%d7%99%d7%a7/",
+      "categories": [
+        "אטרקציות",
+        "מסעדות"
+      ],
+      "content_chars": 572,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 401,
+      "type": "gd_place",
+      "title": "Go Golan — טיולי ריינג׳רים",
+      "url": "https://gonorth.co.il/places/go-golan-%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%a8%d7%99%d7%99%d7%a0%d7%92%d7%b3%d7%a8%d7%99%d7%9d/",
+      "categories": [
+        "סיורים ופעילויות"
+      ],
+      "content_chars": 551,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 403,
+      "type": "gd_place",
+      "title": "קטיף עצמי הדובדבן שבגולן",
+      "url": "https://gonorth.co.il/places/%d7%a7%d7%98%d7%99%d7%a3-%d7%a2%d7%a6%d7%9e%d7%99-%d7%94%d7%93%d7%95%d7%91%d7%93%d7%91%d7%9f-%d7%a9%d7%91%d7%92%d7%95%d7%9c%d7%9f/",
+      "categories": [
+        "אטרקציות"
+      ],
+      "content_chars": 557,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 405,
+      "type": "gd_place",
+      "title": "חמת גדר",
+      "url": "https://gonorth.co.il/places/%d7%97%d7%9e%d7%aa-%d7%92%d7%93%d7%a8/",
+      "categories": [
+        "אטרקציות"
+      ],
+      "content_chars": 655,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 407,
+      "type": "gd_place",
+      "title": "אתר החרמון",
+      "url": "https://gonorth.co.il/places/%d7%90%d7%aa%d7%a8-%d7%94%d7%97%d7%a8%d7%9e%d7%95%d7%9f/",
+      "categories": [
+        "אטרקציות"
+      ],
+      "content_chars": 536,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 409,
+      "type": "gd_place",
+      "title": "מורשת גוש קטיף בגולן",
+      "url": "https://gonorth.co.il/places/%d7%9e%d7%95%d7%a8%d7%a9%d7%aa-%d7%92%d7%95%d7%a9-%d7%a7%d7%98%d7%99%d7%a3-%d7%91%d7%92%d7%95%d7%9c%d7%9f/",
+      "categories": [
+        "אטרקציות"
+      ],
+      "content_chars": 569,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 411,
+      "type": "gd_place",
+      "title": "מרכבות הבשן",
+      "url": "https://gonorth.co.il/places/%d7%9e%d7%a8%d7%9b%d7%91%d7%95%d7%aa-%d7%94%d7%91%d7%a9%d7%9f/",
+      "categories": [
+        "אטרקציות",
+        "סיורים ופעילויות"
+      ],
+      "content_chars": 1040,
+      "outbound_internal_links": 1,
+      "outbound_known_ids": [
+        427
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 413,
+      "type": "gd_place",
+      "title": "בית הבד של הגולן — Olea Essence",
+      "url": "https://gonorth.co.il/places/%d7%91%d7%99%d7%aa-%d7%94%d7%91%d7%93-%d7%a9%d7%9c-%d7%94%d7%92%d7%95%d7%9c%d7%9f-olea-essence/",
+      "categories": [
+        "אטרקציות",
+        "מסעדות"
+      ],
+      "content_chars": 1210,
+      "outbound_internal_links": 1,
+      "outbound_known_ids": [
+        95
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 415,
+      "type": "gd_place",
+      "title": "אבו קיאק",
+      "url": "https://gonorth.co.il/places/%d7%90%d7%91%d7%95-%d7%a7%d7%99%d7%90%d7%a7/",
+      "categories": [
+        "סיורים ופעילויות"
+      ],
+      "content_chars": 508,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 417,
+      "type": "gd_place",
+      "title": "יקב בזלת הגולן",
+      "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%91%d7%96%d7%9c%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f/",
+      "categories": [
+        "יקבים"
+      ],
+      "content_chars": 505,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        433,
+        443
+      ]
+    },
+    {
+      "id": 419,
+      "type": "gd_place",
+      "title": "טריפונל באולינג",
+      "url": "https://gonorth.co.il/places/%d7%98%d7%a8%d7%99%d7%a4%d7%95%d7%a0%d7%9c-%d7%91%d7%90%d7%95%d7%9c%d7%99%d7%a0%d7%92/",
+      "categories": [
+        "אטרקציות"
+      ],
+      "content_chars": 1090,
+      "outbound_internal_links": 1,
+      "outbound_known_ids": [
+        94
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 421,
+      "type": "gd_place",
+      "title": "הבוסתן של מוטי",
+      "url": "https://gonorth.co.il/places/%d7%94%d7%91%d7%95%d7%a1%d7%aa%d7%9f-%d7%a9%d7%9c-%d7%9e%d7%95%d7%98%d7%99/",
+      "categories": [
+        "אטרקציות"
+      ],
+      "content_chars": 508,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        443
+      ]
+    },
+    {
+      "id": 423,
+      "type": "gd_place",
+      "title": "קיאק-כנרת",
+      "url": "https://gonorth.co.il/places/%d7%a7%d7%99%d7%90%d7%a7-%d7%9b%d7%a0%d7%a8%d7%aa/",
+      "categories": [
+        "סיורים ופעילויות"
+      ],
+      "content_chars": 620,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 425,
+      "type": "gd_place",
+      "title": "הכפר האינדיאני — גלמפינג ברמת הגולן",
+      "url": "https://gonorth.co.il/places/%d7%94%d7%9b%d7%a4%d7%a8-%d7%94%d7%90%d7%99%d7%a0%d7%93%d7%99%d7%90%d7%a0%d7%99-%d7%92%d7%9c%d7%9e%d7%a4%d7%99%d7%a0%d7%92-%d7%91%d7%a8%d7%9e%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f/",
+      "categories": [
+        "לינה"
+      ],
+      "content_chars": 591,
+      "outbound_internal_links": 0,
+      "outbound_known_ids": [],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 427,
+      "type": "post",
+      "title": "טיול סוף שבוע בצפון ישראל — איך מתכננים יומיים מושלמים",
+      "url": "https://gonorth.co.il/weekend-trip-north-israel/",
+      "categories": [],
+      "content_chars": 6074,
+      "outbound_internal_links": 8,
+      "outbound_known_ids": [
+        97,
+        98,
+        237,
+        240,
+        242,
+        244,
+        248
+      ],
+      "outbound_unknown_paths": [
+        "/places/category/teva"
+      ],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        204,
+        209,
+        212,
+        213,
+        217,
+        219,
+        221,
+        223,
+        228,
+        229,
+        231,
+        357,
+        395,
+        411,
+        440,
+        441,
+        448
+      ]
+    },
+    {
+      "id": 428,
+      "type": "post",
+      "title": "טיול בעמק המעיינות עם ילדים: מסלולים, פארקים ואטרקציות",
+      "url": "https://gonorth.co.il/tiyul-emek-hamaayanot-im-yeladim/",
+      "categories": [],
+      "content_chars": 5310,
+      "outbound_internal_links": 3,
+      "outbound_known_ids": [
+        27
+      ],
+      "outbound_unknown_paths": [
+        "/places/category/accommodation",
+        "/places/category/teva"
+      ],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 429,
+      "type": "post",
+      "title": "לינה ברמת הגולן: צימרים, אחוזות ואוהלים – המדריך המלא",
+      "url": "https://gonorth.co.il/accommodation-ramat-hagolan-guide/",
+      "categories": [],
+      "content_chars": 4702,
+      "outbound_internal_links": 2,
+      "outbound_known_ids": [
+        97
+      ],
+      "outbound_unknown_paths": [
+        "/places/category/accommodation"
+      ],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        430,
+        431,
+        443,
+        447
+      ]
+    },
+    {
+      "id": 430,
+      "type": "post",
+      "title": "באולינג במגדל שמס — כל מה שצריך לדעת לפני שמגיעים",
+      "url": "https://gonorth.co.il/bowling-majdal-shams/",
+      "categories": [],
+      "content_chars": 3957,
+      "outbound_internal_links": 3,
+      "outbound_known_ids": [
+        429
+      ],
+      "outbound_unknown_paths": [
+        "/places/category/atraktziot-main",
+        "/region/golan"
+      ],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        443
+      ]
+    },
+    {
+      "id": 431,
+      "type": "post",
+      "title": "וילות להשכרה בצפון ישראל: המדריך לחופשה בבית פרטי",
+      "url": "https://gonorth.co.il/villas-israel-north-guide/",
+      "categories": [],
+      "content_chars": 6321,
+      "outbound_internal_links": 5,
+      "outbound_known_ids": [
+        97,
+        429
+      ],
+      "outbound_unknown_paths": [
+        "/places/category/atraktziot-main",
+        "/places/category/restaurants-sub",
+        "/places/category/teva"
+      ],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 432,
+      "type": "post",
+      "title": "אגמון החולה — מדריך לביקור: מסלולים, עגלות ותצפיות על הציפורים",
+      "url": "https://gonorth.co.il/agamon-hahula-guide/",
+      "categories": [],
+      "content_chars": 5713,
+      "outbound_internal_links": 2,
+      "outbound_known_ids": [
+        97
+      ],
+      "outbound_unknown_paths": [
+        "/places/category/teva"
+      ],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 433,
+      "type": "post",
+      "title": "מסעדות מומלצות בצפון ישראל — איפה אוכלים בגליל ובגולן",
+      "url": "https://gonorth.co.il/misadot-mumlatzot-tzafon-israel/",
+      "categories": [],
+      "content_chars": 6416,
+      "outbound_internal_links": 9,
+      "outbound_known_ids": [
+        23,
+        96,
+        97,
+        98,
+        149,
+        417
+      ],
+      "outbound_unknown_paths": [
+        "/places/category/restaurants-sub",
+        "/places/category/yakavim",
+        "/region/golan"
+      ],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        215,
+        233,
+        443,
+        448
+      ]
+    },
+    {
+      "id": 440,
+      "type": "page",
+      "title": "ראש השנה בצפון",
+      "url": "https://gonorth.co.il/rosh-hashanah-batzafon/",
+      "categories": [],
+      "content_chars": 4631,
+      "outbound_internal_links": 14,
+      "outbound_known_ids": [
+        24,
+        95,
+        262,
+        270,
+        427
+      ],
+      "outbound_unknown_paths": [
+        "/places/category/accommodation",
+        "/places/category/agalot-kafe",
+        "/places/category/atraktziot-main",
+        "/places/category/restaurants-sub",
+        "/places/category/teva",
+        "/places/category/tours",
+        "/region/carmel",
+        "/region/galil",
+        "/region/golan"
+      ],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 441,
+      "type": "page",
+      "title": "סוכות בצפון",
+      "url": "https://gonorth.co.il/sukkot-batzafon/",
+      "categories": [],
+      "content_chars": 6900,
+      "outbound_internal_links": 18,
+      "outbound_known_ids": [
+        24,
+        242,
+        246,
+        262,
+        268,
+        269,
+        270,
+        427
+      ],
+      "outbound_unknown_paths": [
+        "/places/category/accommodation",
+        "/places/category/agalot-kafe",
+        "/places/category/atraktziot-main",
+        "/places/category/restaurants-sub",
+        "/places/category/teva",
+        "/places/category/tours",
+        "/places/category/yakavim",
+        "/region/carmel",
+        "/region/galil",
+        "/region/golan"
+      ],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 443,
+      "type": "post",
+      "title": "טיול בצפון ללא הליכה — אטרקציות, אוכל ואתרים לכל הגיל",
+      "url": "https://gonorth.co.il/tiyul-tzafon-lelo-halika/",
+      "categories": [],
+      "content_chars": 6624,
+      "outbound_internal_links": 10,
+      "outbound_known_ids": [
+        87,
+        149,
+        157,
+        417,
+        421,
+        429,
+        430,
+        433
+      ],
+      "outbound_unknown_paths": [
+        "/places/category/atraktziot-main",
+        "/places/category/yakavim"
+      ],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 447,
+      "type": "post",
+      "title": "לינה בגולן: איך בוחרים בין צימר, גלמפינג ומלון ברמת הגולן",
+      "url": "https://gonorth.co.il/golan-accommodation-comparison/",
+      "categories": [],
+      "content_chars": 5146,
+      "outbound_internal_links": 2,
+      "outbound_known_ids": [
+        429
+      ],
+      "outbound_unknown_paths": [
+        "/region/golan"
+      ],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": []
+    },
+    {
+      "id": 448,
+      "type": "post",
+      "title": "מדריך לטיול בגליל העליון: מסלולים, כפרים ומה לעשות ביום אחד",
+      "url": "https://gonorth.co.il/upper-galilee-day-trip-guide/",
+      "categories": [],
+      "content_chars": 5102,
+      "outbound_internal_links": 6,
+      "outbound_known_ids": [
+        96,
+        141,
+        145,
+        256,
+        427,
+        433
+      ],
+      "outbound_unknown_paths": [],
+      "duplicate_known_targets": [],
+      "inbound_known_ids": [
+        181
+      ]
+    }
+  ]
+}

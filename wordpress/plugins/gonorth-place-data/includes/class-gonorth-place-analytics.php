@@ -40,6 +40,7 @@ final class GoNorth_Place_Analytics {
 			'GoNorthAnalyticsConfig',
 			array(
 				'currentPlace'     => $place,
+				'currentGuide'     => is_singular( 'post' ) ? array( 'guide_id' => (string) get_queried_object_id() ) : null,
 				'discoverySurface' => self::get_discovery_surface(),
 				'debug'            => (bool) apply_filters( 'gonorth_place_analytics_debug', $debug ),
 			)

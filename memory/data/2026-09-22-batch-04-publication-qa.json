@@ -1,0 +1,20 @@
+[
+  {
+    "id": 233,
+    "title": "הקרון בכפר יהושוע",
+    "url": "https://gonorth.co.il/places/%d7%94%d7%a7%d7%a8%d7%95%d7%9f-%d7%91%d7%9b%d7%a4%d7%a8-%d7%99%d7%94%d7%95%d7%a9%d7%95%d7%a2/",
+    "http": 200,
+    "chars": 875,
+    "guide_link": true,
+    "verified": true
+  },
+  {
+    "id": 228,
+    "title": "קופיש Coffish",
+    "url": "https://gonorth.co.il/places/%d7%a7%d7%95%d7%a4%d7%99%d7%a9-coffish/",
+    "http": 200,
+    "chars": 825,
+    "guide_link": true,
+    "verified": true
+  }
+]

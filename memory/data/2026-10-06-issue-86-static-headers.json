@@ -1,0 +1,29 @@
+[
+  {
+    "path": "/wp-includes/css/dist/block-library/style.min.css",
+    "status": 200,
+    "encoding": "none",
+    "cache_control": null,
+    "etag": true,
+    "bytes_wire": 140829,
+    "bytes_expanded": 140829
+  },
+  {
+    "path": "/wp-content/plugins/geodirectory/vendor/ayecode/wp-ayecode-ui/assets-v5/js/bootstrap.bundle.min.js",
+    "status": 200,
+    "encoding": "none",
+    "cache_control": null,
+    "etag": true,
+    "bytes_wire": 136517,
+    "bytes_expanded": 136517
+  },
+  {
+    "path": "/wp-content/themes/astra/assets/js/minified/frontend.min.js",
+    "status": 200,
+    "encoding": "none",
+    "cache_control": null,
+    "etag": true,
+    "bytes_wire": 25664,
+    "bytes_expanded": 25664
+  }
+]

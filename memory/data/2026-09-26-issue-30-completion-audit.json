@@ -1,0 +1,464 @@
+{
+  "generated_at_utc": "2026-09-26T11:31:25.3705741Z",
+  "scope_total": 109,
+  "previously_verified": 55,
+  "verified_this_completion": 34,
+  "verified_total": 89,
+  "documented_exceptions": 20,
+  "verified": [
+    {
+      "id": 50,
+      "title": "כפר נופש – יער אודם",
+      "result": "verified",
+      "source_url": "https://www.yayalim.co.il",
+      "practical_checked_at": "2026-09-26T14:26:12+03:00",
+      "notes": "Official source reachable and matched the listing."
+    },
+    {
+      "id": 61,
+      "title": "מלון פרא — Pereh Hotel",
+      "result": "verified",
+      "source_url": "https://pereh.co.il",
+      "practical_checked_at": "2026-09-26T14:26:12+03:00",
+      "notes": "Official source reachable and matched the listing."
+    },
+    {
+      "id": 63,
+      "title": "כנען וילאג׳ – מלון בוטיק וספא בצפון",
+      "result": "verified",
+      "source_url": "https://www.cnaan-village.co.il",
+      "practical_checked_at": "2026-09-26T14:26:12+03:00",
+      "notes": "Official source reachable and matched the listing."
+    },
+    {
+      "id": 88,
+      "title": "שמורת נחל הקיבוצים",
+      "result": "verified",
+      "source_url": "https://www.parks.org.il",
+      "practical_checked_at": "2026-09-26T14:26:12+03:00",
+      "notes": "Official source reachable and matched the listing."
+    },
+    {
+      "id": 173,
+      "title": "אגמון החולה",
+      "result": "verified",
+      "source_url": "https://agamon-hula.co.il/",
+      "practical_checked_at": "2026-09-26T14:26:12+03:00",
+      "notes": "Official source reachable and matched the listing."
+    },
+    {
+      "id": 177,
+      "title": "עין תינה",
+      "result": "verified",
+      "source_url": "https://www.parks.org.il/trip/ein-tina/",
+      "practical_checked_at": "2026-09-26T14:26:12+03:00",
+      "notes": "Official source reachable and matched the listing."
+    },
+    {
+      "id": 181,
+      "title": "חוות בת יער",
+      "result": "verified",
+      "source_url": "https://www.batyaar.co.il/",
+      "practical_checked_at": "2026-09-26T14:26:12+03:00",
+      "notes": "Official source reachable and matched the listing."
+    },
+    {
+      "id": 195,
+      "title": "מפגש היקב — עמיעד",
+      "result": "verified",
+      "source_url": "https://liqueur-amiad.co.il/",
+      "practical_checked_at": "2026-09-26T14:26:12+03:00",
+      "notes": "Official source reachable and matched the listing."
+    },
+    {
+      "id": 197,
+      "title": "יקב רמות נפתלי",
+      "result": "verified",
+      "source_url": "https://ramotnaftaly.com/",
+      "practical_checked_at": "2026-09-26T14:26:12+03:00",
+      "notes": "Official source verified through recent search index because direct crawl was blocked."
+    },
+    {
+      "id": 202,
+      "title": "חלהוולאוו",
+      "result": "verified",
+      "source_url": null,
+      "practical_checked_at": "2026-09-26T14:26:12+03:00",
+      "notes": "Current regional/business directory matched name, location and phone."
+    },
+    {
+      "id": 207,
+      "title": "נינו עגלת קפה",
+      "result": "verified",
+      "source_url": "https://www.facebook.com/ninocoffeecart",
+      "practical_checked_at": "2026-09-26T14:26:12+03:00",
+      "notes": "Official source reachable and matched the listing."
+    },
+    {
+      "id": 212,
+      "title": "קפה חמה",
+      "result": "verified",
+      "source_url": "https://www.facebook.com/cafehamma",
+      "practical_checked_at": "2026-09-26T14:26:12+03:00",
+      "notes": "Official source reachable and matched the listing."
+    },
+    {
+      "id": 217,
+      "title": "קפה התן",
+      "result": "verified",
+      "source_url": null,
+      "practical_checked_at": "2026-09-26T14:26:12+03:00",
+      "notes": "Current regional/business directory matched name, location and phone."
+    },
+    {
+      "id": 244,
+      "title": "יקב בן זמרה",
+      "result": "verified",
+      "source_url": "https://www.benzimrawinery.com",
+      "practical_checked_at": "2026-09-26T14:26:12+03:00",
+      "notes": "Official source reachable and matched the listing."
+    },
+    {
+      "id": 327,
+      "title": "חמי טבריה",
+      "result": "verified",
+      "source_url": "https://brownhotels.co.il/hamei-tiberius",
+      "practical_checked_at": "2026-09-26T14:26:12+03:00",
+      "notes": "Official source reachable and matched the listing."
+    },
+    {
+      "id": 329,
+      "title": "חוות האושר — רכיבה על סוסים",
+      "result": "verified",
+      "source_url": "http://www.katzrin-ranch.co.il/",
+      "practical_checked_at": "2026-09-26T14:26:12+03:00",
+      "notes": "Official source reachable and matched the listing."
+    },
+    {
+      "id": 331,
+      "title": "ורד הגליל",
+      "result": "verified",
+      "source_url": "https://brownhotels.co.il/vered-hagalil-guest-farm",
+      "practical_checked_at": "2026-09-26T14:26:12+03:00",
+      "notes": "Official source reachable and matched the listing."
+    },
+    {
+      "id": 335,
+      "title": "גיל גולן — מרכז רכיבה",
+      "result": "verified",
+      "source_url": "https://gil-golan.weebly.com/",
+      "practical_checked_at": "2026-09-26T14:26:12+03:00",
+      "notes": "Official source reachable and matched the listing."
+    },
+    {
+      "id": 337,
+      "title": "חוות סוסים — קיבוץ אורטל",
+      "result": "verified",
+      "source_url": "https://www.ortal.net/%D7%97%D7%95%D7%95%D7%AA-%D7%A1%D7%95%D7%A1%D7%99%D7%9D/",
+      "practical_checked_at": "2026-09-26T14:26:12+03:00",
+      "notes": "Official source reachable and matched the listing."
+    },
+    {
+      "id": 339,
+      "title": "גלמפינג קיבוץ אורטל",
+      "result": "verified",
+      "source_url": "https://www.ortal.net/glamping-ortal/",
+      "practical_checked_at": "2026-09-26T14:26:12+03:00",
+      "notes": "Official source reachable and matched the listing."
+    },
+    {
+      "id": 341,
+      "title": "גלמפינג על הצוק — עין קיניא",
+      "result": "verified",
+      "source_url": null,
+      "practical_checked_at": "2026-09-26T14:26:12+03:00",
+      "notes": "Current regional/business directory matched name, location and phone."
+    },
+    {
+      "id": 343,
+      "title": "גלמפינג עין תאנה",
+      "result": "verified",
+      "source_url": "https://www.ein-teina.com/",
+      "practical_checked_at": "2026-09-26T14:26:12+03:00",
+      "notes": "Official source reachable and matched the listing."
+    },
+    {
+      "id": 345,
+      "title": "בלום וילג׳ — כפר בלום",
+      "result": "verified",
+      "source_url": "https://blumvillage.co.il/",
+      "practical_checked_at": "2026-09-26T14:26:12+03:00",
+      "notes": "Official source reachable and matched the listing."
+    },
+    {
+      "id": 347,
+      "title": "קטיף עצמי אל-רום",
+      "result": "verified",
+      "source_url": "https://katif-elrom.co.il/",
+      "practical_checked_at": "2026-09-26T14:26:12+03:00",
+      "notes": "Official source verified through recent search index because direct crawl was blocked."
+    },
+    {
+      "id": 349,
+      "title": "מרכז מורשת שמן הזית — משק טוייסטר",
+      "result": "verified",
+      "source_url": null,
+      "practical_checked_at": "2026-09-26T14:26:12+03:00",
+      "notes": "Current regional/business directory matched name, location and phone."
+    },
+    {
+      "id": 353,
+      "title": "סאונדטראק — טיולי אוזניות בטבע",
+      "result": "verified",
+      "source_url": "https://www.soundtrackbateva.com/",
+      "practical_checked_at": "2026-09-26T14:26:12+03:00",
+      "notes": "Official source reachable and matched the listing."
+    },
+    {
+      "id": 361,
+      "title": "העדי שבמטבח — סדנאות שוקולד",
+      "result": "verified",
+      "source_url": "https://theadi.co.il/",
+      "practical_checked_at": "2026-09-26T14:26:12+03:00",
+      "notes": "Official source reachable and matched the listing."
+    },
+    {
+      "id": 373,
+      "title": "טיולי עששיות בפארק הירדן",
+      "result": "verified",
+      "source_url": "https://www.parkyarden.co.il/",
+      "practical_checked_at": "2026-09-26T14:26:12+03:00",
+      "notes": "Official source reachable and matched the listing."
+    },
+    {
+      "id": 377,
+      "title": "בירה בזלת — מבשלת הגולן",
+      "result": "verified",
+      "source_url": "https://bazeletbeer.co.il/",
+      "practical_checked_at": "2026-09-26T14:26:12+03:00",
+      "notes": "Official source reachable and matched the listing."
+    },
+    {
+      "id": 397,
+      "title": "אתגר הבונקר",
+      "result": "verified",
+      "source_url": "https://tel-saki.org/",
+      "practical_checked_at": "2026-09-26T14:26:12+03:00",
+      "notes": "Official source reachable and matched the listing."
+    },
+    {
+      "id": 403,
+      "title": "קטיף עצמי הדובדבן שבגולן",
+      "result": "verified",
+      "source_url": "https://camping-ido.co.il/",
+      "practical_checked_at": "2026-09-26T14:26:12+03:00",
+      "notes": "Official source reachable and matched the listing."
+    },
+    {
+      "id": 407,
+      "title": "אתר החרמון",
+      "result": "verified",
+      "source_url": "https://skihermon.co.il/",
+      "practical_checked_at": "2026-09-26T14:26:12+03:00",
+      "notes": "Official source reachable and matched the listing."
+    },
+    {
+      "id": 421,
+      "title": "הבוסתן של מוטי",
+      "result": "verified",
+      "source_url": "https://www.habustan-moti.co.il/",
+      "practical_checked_at": "2026-09-26T14:26:12+03:00",
+      "notes": "Official source reachable and matched the listing."
+    },
+    {
+      "id": 425,
+      "title": "הכפר האינדיאני — גלמפינג ברמת הגולן",
+      "result": "verified",
+      "source_url": "https://tipi.co.il/",
+      "practical_checked_at": "2026-09-26T14:26:12+03:00",
+      "notes": "Official source reachable and matched the listing."
+    }
+  ],
+  "exceptions": [
+    {
+      "id": 167,
+      "title": "קידס לנד — אתגר הנינג'ה לילדים",
+      "result": "documented_exception",
+      "attempted_at": "2026-09-26",
+      "reason": "Reviewed; no current first-party or equivalently authoritative source found to verify the practical fields.",
+      "phone": "073-784-0213",
+      "website": ""
+    },
+    {
+      "id": 179,
+      "title": "עין דיבשה",
+      "result": "documented_exception",
+      "attempted_at": "2026-09-26",
+      "reason": "Natural location reviewed; no sufficiently specific current first-party page found for the listing details.",
+      "phone": "",
+      "website": ""
+    },
+    {
+      "id": 185,
+      "title": "גן מורד הירדן",
+      "result": "documented_exception",
+      "attempted_at": "2026-09-26",
+      "reason": "Natural location reviewed; no sufficiently specific current first-party page found for the listing details.",
+      "phone": "",
+      "website": ""
+    },
+    {
+      "id": 209,
+      "title": "דה פייפ קפה",
+      "result": "documented_exception",
+      "attempted_at": "2026-09-26",
+      "reason": "Reviewed; no current first-party or equivalently authoritative source found to verify the practical fields.",
+      "phone": "050-640-0828",
+      "website": ""
+    },
+    {
+      "id": 219,
+      "title": "עגלת קפה מיכאל",
+      "result": "documented_exception",
+      "attempted_at": "2026-09-26",
+      "reason": "Closed listing retained for SEO with closure notice; stale contact/navigation already removed. No active-data timestamp.",
+      "phone": "",
+      "website": ""
+    },
+    {
+      "id": 221,
+      "title": "אסתר — קפה ובישולים לדרך",
+      "result": "documented_exception",
+      "attempted_at": "2026-09-26",
+      "reason": "Closed listing retained for SEO with closure notice; stale contact/navigation already removed. No active-data timestamp.",
+      "phone": "",
+      "website": ""
+    },
+    {
+      "id": 223,
+      "title": "מיקה",
+      "result": "documented_exception",
+      "attempted_at": "2026-09-26",
+      "reason": "Reviewed; no current first-party or equivalently authoritative source found to verify the practical fields.",
+      "phone": "052-636-3199",
+      "website": ""
+    },
+    {
+      "id": 228,
+      "title": "קופיש Coffish",
+      "result": "documented_exception",
+      "attempted_at": "2026-09-26",
+      "reason": "Reviewed; no current first-party or equivalently authoritative source found to verify the practical fields.",
+      "phone": "",
+      "website": ""
+    },
+    {
+      "id": 233,
+      "title": "הקרון בכפר יהושוע",
+      "result": "documented_exception",
+      "attempted_at": "2026-09-26",
+      "reason": "Reviewed; no current first-party or equivalently authoritative source found to verify the practical fields.",
+      "phone": "054-663-4441",
+      "website": ""
+    },
+    {
+      "id": 351,
+      "title": "ג׳ימי ג׳יפ — טיולי ג׳יפים",
+      "result": "documented_exception",
+      "attempted_at": "2026-09-26",
+      "reason": "Reviewed; no current first-party or equivalently authoritative source found to verify the practical fields.",
+      "phone": "052-254-3323",
+      "website": ""
+    },
+    {
+      "id": 357,
+      "title": "F Ranch",
+      "result": "documented_exception",
+      "attempted_at": "2026-09-26",
+      "reason": "Reviewed; no current first-party or equivalently authoritative source found to verify the practical fields.",
+      "phone": "058-455-9312",
+      "website": ""
+    },
+    {
+      "id": 365,
+      "title": "ג׳י.פי.אס טיולי ג׳יפים",
+      "result": "documented_exception",
+      "attempted_at": "2026-09-26",
+      "reason": "Reviewed; no current first-party or equivalently authoritative source found to verify the practical fields.",
+      "phone": "052-342-0543",
+      "website": ""
+    },
+    {
+      "id": 371,
+      "title": "החווה התיירותית — בל עפרי",
+      "result": "documented_exception",
+      "attempted_at": "2026-09-26",
+      "reason": "Reviewed; no current first-party or equivalently authoritative source found to verify the practical fields.",
+      "phone": "052-880-5026",
+      "website": ""
+    },
+    {
+      "id": 383,
+      "title": "סנאבל — המרכז התיירותי הדרוזי",
+      "result": "documented_exception",
+      "attempted_at": "2026-09-26",
+      "reason": "Reviewed; no current first-party or equivalently authoritative source found to verify the practical fields.",
+      "phone": "050-377-8850",
+      "website": ""
+    },
+    {
+      "id": 387,
+      "title": "קטיף עצמי רוני",
+      "result": "documented_exception",
+      "attempted_at": "2026-09-26",
+      "reason": "Reviewed; no current first-party or equivalently authoritative source found to verify the practical fields.",
+      "phone": "054-568-4575",
+      "website": ""
+    },
+    {
+      "id": 393,
+      "title": "קטיף עצמי נווה אטיב",
+      "result": "documented_exception",
+      "attempted_at": "2026-09-26",
+      "reason": "Reviewed; no current first-party or equivalently authoritative source found to verify the practical fields.",
+      "phone": "054-804-0254",
+      "website": ""
+    },
+    {
+      "id": 395,
+      "title": "דיר עזיז — טבע עיזים גבינות",
+      "result": "documented_exception",
+      "attempted_at": "2026-09-26",
+      "reason": "Reviewed; no current first-party or equivalently authoritative source found to verify the practical fields.",
+      "phone": "054-438-3706",
+      "website": ""
+    },
+    {
+      "id": 409,
+      "title": "מורשת גוש קטיף בגולן",
+      "result": "documented_exception",
+      "attempted_at": "2026-09-26",
+      "reason": "Reviewed; no current first-party or equivalently authoritative source found to verify the practical fields.",
+      "phone": "",
+      "website": ""
+    },
+    {
+      "id": 411,
+      "title": "מרכבות הבשן",
+      "result": "documented_exception",
+      "attempted_at": "2026-09-26",
+      "reason": "Reviewed; no current first-party or equivalently authoritative source found to verify the practical fields.",
+      "phone": "053-793-1986",
+      "website": ""
+    },
+    {
+      "id": 419,
+      "title": "טריפונל באולינג",
+      "result": "documented_exception",
+      "attempted_at": "2026-09-26",
+      "reason": "Reviewed; no current first-party or equivalently authoritative source found to verify the practical fields.",
+      "phone": "052-736-7570",
+      "website": ""
+    }
+  ]
+}

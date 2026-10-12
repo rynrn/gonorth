@@ -1,0 +1,188 @@
+[
+  {
+    "label": "pre_home",
+    "state": {
+      "banner": "flex",
+      "consent": null,
+      "gtmScripts": 1,
+      "preferredScripts": 0,
+      "dataLayerCount": 3,
+      "dataLayerLeak": false,
+      "buttons": [
+        "הבנתי, סגור"
+      ]
+    },
+    "thirdParty": [
+      {
+        "host": "www.googletagmanager.com",
+        "path": "/gtm.js",
+        "sentinel": false,
+        "resource": "script"
+      },
+      {
+        "host": "www.googletagmanager.com",
+        "path": "/gtag/js",
+        "sentinel": false,
+        "resource": "script"
+      },
+      {
+        "host": "www.google-analytics.com",
+        "path": "/g/collect",
+        "sentinel": false,
+        "resource": "fetch"
+      }
+    ],
+    "sentinelRequestCount": 0,
+    "errors": []
+  },
+  {
+    "label": "pre_guide",
+    "state": {
+      "banner": "flex",
+      "consent": null,
+      "gtmScripts": 1,
+      "preferredScripts": 0,
+      "dataLayerCount": 3,
+      "dataLayerLeak": false,
+      "buttons": [
+        "הבנתי, סגור"
+      ]
+    },
+    "thirdParty": [
+      {
+        "host": "fonts.googleapis.com",
+        "path": "/css",
+        "sentinel": false,
+        "resource": "stylesheet"
+      },
+      {
+        "host": "www.googletagmanager.com",
+        "path": "/gtm.js",
+        "sentinel": false,
+        "resource": "script"
+      },
+      {
+        "host": "www.googletagmanager.com",
+        "path": "/gtag/js",
+        "sentinel": false,
+        "resource": "script"
+      },
+      {
+        "host": "www.google-analytics.com",
+        "path": "/g/collect",
+        "sentinel": true,
+        "resource": "fetch"
+      }
+    ],
+    "sentinelRequestCount": 2,
+    "errors": []
+  },
+  {
+    "label": "accepted_guide",
+    "state": {
+      "banner": "none",
+      "consent": "1",
+      "gtmScripts": 1,
+      "preferredScripts": 1,
+      "dataLayerCount": 3,
+      "dataLayerLeak": false,
+      "buttons": [
+        "הבנתי, סגור"
+      ]
+    },
+    "thirdParty": [
+      {
+        "host": "fonts.googleapis.com",
+        "path": "/css",
+        "sentinel": false,
+        "resource": "stylesheet"
+      },
+      {
+        "host": "www.googletagmanager.com",
+        "path": "/gtm.js",
+        "sentinel": false,
+        "resource": "script"
+      },
+      {
+        "host": "www.googletagmanager.com",
+        "path": "/gtag/js",
+        "sentinel": false,
+        "resource": "script"
+      },
+      {
+        "host": "www.google-analytics.com",
+        "path": "/g/collect",
+        "sentinel": true,
+        "resource": "fetch"
+      },
+      {
+        "host": "news.google.com",
+        "path": "/swg/js/v1/publisher.js",
+        "sentinel": false,
+        "resource": "script"
+      },
+      {
+        "host": "news.google.com",
+        "path": "/swg/ui/v1/serviceiframe",
+        "sentinel": false,
+        "resource": "document"
+      },
+      {
+        "host": "www.gstatic.com",
+        "path": "/_/mss/boq-subscribewithgoogle/_/ss/k=boq-subscribewithgoogle.SubscribewithgoogleClientUi.JS3M-9IWalk.R.B1.O/am=gAgAMCADAIA/d=1/ed=1/rs=ABXTjI58iKeGegq-qOogNtisnKAz35OScg/m=serviceiframeview,_b,_tp",
+        "sentinel": false,
+        "resource": "stylesheet"
+      },
+      {
+        "host": "www.gstatic.com",
+        "path": "/_/mss/boq-subscribewithgoogle/_/js/k=boq-subscribewithgoogle.SubscribewithgoogleClientUi.iw.dWUdxD7Z4Po.2018.O/am=AAAAACAD/d=1/excm=_b,_tp,serviceiframeview/ed=1/dg=0/wt=2/ujg=1/rs=ABXTjI4VtYKIG6G-1EuUciEf5-4oMa8bFw/dti=1/m=_b,_tp",
+        "sentinel": false,
+        "resource": "script"
+      },
+      {
+        "host": "www.gstatic.com",
+        "path": "/_/mss/boq-subscribewithgoogle/_/js/k=boq-subscribewithgoogle.SubscribewithgoogleClientUi.iw.dWUdxD7Z4Po.2018.O/ck=boq-subscribewithgoogle.SubscribewithgoogleClientUi.JS3M-9IWalk.R.B1.O/am=AAAAACAD/d=1/exm=_b,_tp/excm=_b,_tp,serviceiframeview/ed=1/wt=2/ujg=1/rs=ABXTjI4tmGsZndy8BnPmiGIMxkq7-2Yu6g/ee=EVNhjf:pw70Gc;EmZ2Bf:zr1jrb;JsbNhc:Xd8iUd;K5nYTd:ZDZcre;LBgRLc:SdcwHb;Me32dd:MEeYgc;NJ1rfe:qTnoBf;NPKaK:SdcwHb;NSEoX:lazG7b;Pjplud:EEDORb;QGR0gd:Mlhmy;SNUn3:ZwDk9d;ScI3Yc:e7Hzgb;Uvc8o:VDovNc;YIZmRd:A1yn5d;a56pNe:JEfCwb;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:QIhFr;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;pXdRYb:MdUzUe;qQEoOc:KUM7Z;qafBPd:yDVVkb;qddgKe:xQtZb;wR5FRb:O1Gjze;xqZiqf:wmnU7d;yxTchf:KUM7Z;zxnPse:duFQFc/dti=1/m=W93Wdc",
+        "sentinel": false,
+        "resource": "script"
+      },
+      {
+        "host": "www.gstatic.com",
+        "path": "/_/mss/boq-subscribewithgoogle/_/js/k=boq-subscribewithgoogle.SubscribewithgoogleClientUi.iw.dWUdxD7Z4Po.2018.O/ck=boq-subscribewithgoogle.SubscribewithgoogleClientUi.JS3M-9IWalk.R.B1.O/am=AAAAACAD/d=1/exm=W93Wdc,_b,_tp/excm=_b,_tp,serviceiframeview/ed=1/wt=2/ujg=1/rs=ABXTjI4tmGsZndy8BnPmiGIMxkq7-2Yu6g/ee=EVNhjf:pw70Gc;EmZ2Bf:zr1jrb;JsbNhc:Xd8iUd;K5nYTd:ZDZcre;LBgRLc:SdcwHb;Me32dd:MEeYgc;NJ1rfe:qTnoBf;NPKaK:SdcwHb;NSEoX:lazG7b;Pjplud:EEDORb;QGR0gd:Mlhmy;SNUn3:ZwDk9d;ScI3Yc:e7Hzgb;Uvc8o:VDovNc;YIZmRd:A1yn5d;a56pNe:JEfCwb;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:QIhFr;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;pXdRYb:MdUzUe;qQEoOc:KUM7Z;qafBPd:yDVVkb;qddgKe:xQtZb;wR5FRb:O1Gjze;xqZiqf:wmnU7d;yxTchf:KUM7Z;zxnPse:duFQFc/dti=1/m=Wt6vjf,hhhU8,FCpbqb,ws9Tlc,WhJNk",
+        "sentinel": false,
+        "resource": "script"
+      },
+      {
+        "host": "www.gstatic.com",
+        "path": "/_/mss/boq-subscribewithgoogle/_/js/k=boq-subscribewithgoogle.SubscribewithgoogleClientUi.iw.dWUdxD7Z4Po.2018.O/ck=boq-subscribewithgoogle.SubscribewithgoogleClientUi.JS3M-9IWalk.R.B1.O/am=AAAAACAD/d=1/exm=FCpbqb,W93Wdc,WhJNk,Wt6vjf,_b,_tp,hhhU8,ws9Tlc/excm=_b,_tp,serviceiframeview/ed=1/wt=2/ujg=1/rs=ABXTjI4tmGsZndy8BnPmiGIMxkq7-2Yu6g/ee=EVNhjf:pw70Gc;EmZ2Bf:zr1jrb;JsbNhc:Xd8iUd;K5nYTd:ZDZcre;LBgRLc:SdcwHb;Me32dd:MEeYgc;NJ1rfe:qTnoBf;NPKaK:SdcwHb;NSEoX:lazG7b;Pjplud:EEDORb;QGR0gd:Mlhmy;SNUn3:ZwDk9d;ScI3Yc:e7Hzgb;Uvc8o:VDovNc;YIZmRd:A1yn5d;a56pNe:JEfCwb;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:QIhFr;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;pXdRYb:MdUzUe;qQEoOc:KUM7Z;qafBPd:yDVVkb;qddgKe:xQtZb;wR5FRb:O1Gjze;xqZiqf:wmnU7d;yxTchf:KUM7Z;zxnPse:duFQFc/dti=1/m=LEikZe",
+        "sentinel": false,
+        "resource": "script"
+      },
+      {
+        "host": "www.gstatic.com",
+        "path": "/_/mss/boq-subscribewithgoogle/_/js/k=boq-subscribewithgoogle.SubscribewithgoogleClientUi.iw.dWUdxD7Z4Po.2018.O/ck=boq-subscribewithgoogle.SubscribewithgoogleClientUi.JS3M-9IWalk.R.B1.O/am=AAAAACAD/d=1/exm=FCpbqb,LEikZe,W93Wdc,WhJNk,Wt6vjf,_b,_tp,hhhU8,ws9Tlc/excm=_b,_tp,serviceiframeview/ed=1/wt=2/ujg=1/rs=ABXTjI4tmGsZndy8BnPmiGIMxkq7-2Yu6g/ee=EVNhjf:pw70Gc;EmZ2Bf:zr1jrb;JsbNhc:Xd8iUd;K5nYTd:ZDZcre;LBgRLc:SdcwHb;Me32dd:MEeYgc;NJ1rfe:qTnoBf;NPKaK:SdcwHb;NSEoX:lazG7b;Pjplud:EEDORb;QGR0gd:Mlhmy;SNUn3:ZwDk9d;ScI3Yc:e7Hzgb;Uvc8o:VDovNc;YIZmRd:A1yn5d;a56pNe:JEfCwb;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:QIhFr;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;pXdRYb:MdUzUe;qQEoOc:KUM7Z;qafBPd:yDVVkb;qddgKe:xQtZb;wR5FRb:O1Gjze;xqZiqf:wmnU7d;yxTchf:KUM7Z;zxnPse:duFQFc/dti=1/m=YYmHzb,p3hmRc,LvGhrf,RqjULd",
+        "sentinel": false,
+        "resource": "script"
+      },
+      {
+        "host": "www.gstatic.com",
+        "path": "/_/mss/boq-subscribewithgoogle/_/js/k=boq-subscribewithgoogle.SubscribewithgoogleClientUi.iw.dWUdxD7Z4Po.2018.O/ck=boq-subscribewithgoogle.SubscribewithgoogleClientUi.JS3M-9IWalk.R.B1.O/am=AAAAACAD/d=1/exm=FCpbqb,LEikZe,LvGhrf,RqjULd,W93Wdc,WhJNk,Wt6vjf,YYmHzb,_b,_tp,hhhU8,p3hmRc,ws9Tlc/excm=_b,_tp,serviceiframeview/ed=1/wt=2/ujg=1/rs=ABXTjI4tmGsZndy8BnPmiGIMxkq7-2Yu6g/ee=EVNhjf:pw70Gc;EmZ2Bf:zr1jrb;JsbNhc:Xd8iUd;K5nYTd:ZDZcre;LBgRLc:SdcwHb;Me32dd:MEeYgc;NJ1rfe:qTnoBf;NPKaK:SdcwHb;NSEoX:lazG7b;Pjplud:EEDORb;QGR0gd:Mlhmy;SNUn3:ZwDk9d;ScI3Yc:e7Hzgb;Uvc8o:VDovNc;YIZmRd:A1yn5d;a56pNe:JEfCwb;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:QIhFr;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;pXdRYb:MdUzUe;qQEoOc:KUM7Z;qafBPd:yDVVkb;qddgKe:xQtZb;wR5FRb:O1Gjze;xqZiqf:wmnU7d;yxTchf:KUM7Z;zxnPse:duFQFc/dti=1/m=P6sQOc",
+        "sentinel": false,
+        "resource": "script"
+      },
+      {
+        "host": "play.google.com",
+        "path": "/log",
+        "sentinel": false,
+        "resource": "fetch"
+      },
+      {
+        "host": "www.gstatic.com",
+        "path": "/_/mss/boq-subscribewithgoogle/_/js/k=boq-subscribewithgoogle.SubscribewithgoogleClientUi.iw.dWUdxD7Z4Po.2018.O/ck=boq-subscribewithgoogle.SubscribewithgoogleClientUi.JS3M-9IWalk.R.B1.O/am=AAAAACAD/d=1/exm=FCpbqb,LEikZe,LvGhrf,P6sQOc,RqjULd,W93Wdc,WhJNk,Wt6vjf,YYmHzb,_b,_tp,hhhU8,p3hmRc,ws9Tlc/excm=_b,_tp,serviceiframeview/ed=1/wt=2/ujg=1/rs=ABXTjI4tmGsZndy8BnPmiGIMxkq7-2Yu6g/ee=EVNhjf:pw70Gc;EmZ2Bf:zr1jrb;JsbNhc:Xd8iUd;K5nYTd:ZDZcre;LBgRLc:SdcwHb;Me32dd:MEeYgc;NJ1rfe:qTnoBf;NPKaK:SdcwHb;NSEoX:lazG7b;Pjplud:EEDORb;QGR0gd:Mlhmy;SNUn3:ZwDk9d;ScI3Yc:e7Hzgb;Uvc8o:VDovNc;YIZmRd:A1yn5d;a56pNe:JEfCwb;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:QIhFr;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;pXdRYb:MdUzUe;qQEoOc:KUM7Z;qafBPd:yDVVkb;qddgKe:xQtZb;wR5FRb:O1Gjze;xqZiqf:wmnU7d;yxTchf:KUM7Z;zxnPse:duFQFc/dti=1/m=O6y8ed,aW3pY,n73qwf,UUJqVe,IZT63,e5qFLc,pw70Gc,KUM7Z,O1Gjze,MpJwZc,PrPYRd,XVMNvd,duFQFc,QIhFr,xQtZb,SdcwHb,wmnU7d,hc6Ubd,SpsfSb,Z5uLle,MdUzUe,zbML3c",
+        "sentinel": false,
+        "resource": "script"
+      }
+    ],
+    "sentinelRequestCount": 2,
+    "errors": []
+  }
+]

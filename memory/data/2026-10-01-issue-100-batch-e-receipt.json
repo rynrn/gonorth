@@ -1,0 +1,74 @@
+[
+    {
+        "ID": 488,
+        "title": "עין עלומים — עין הדייג",
+        "status": "publish",
+        "excerpt": "מעיין קטן ומוצל ליד כביש הגישה לשמורת החולה, המוכר גם בשם עין הדייג, עם תעלה רדודה לשכשוך.",
+        "content": "<p>עין עלומים, המוכר למטיילים בשם עין הדייג, הוא מעיין קטן הזורם לתעלה מוצלת בחורשת אקליפטוסים ליד כביש הגישה לשמורת טבע החולה.</p><p>הגישה כוללת חניה זהירה בשולי הדרך והליכה קצרה. זהו אתר טבע ללא שירותי הצלה או מתקני רחצה מוסדרים, ומצב המים והגישה עשוי להשתנות.</p><p><strong>יש להימנע מהשלכת פסולת, אין לשהות במקום בלילה, ויש לבדוק את תנאי הגישה לפני היציאה.</strong> הכניסה למים היא באחריות המבקרים בלבד.</p>",
+        "permalink": "https://gonorth.co.il/places/%d7%a2%d7%99%d7%9f-%d7%a2%d7%9c%d7%95%d7%9e%d7%99%d7%9d-%d7%a2%d7%99%d7%9f-%d7%94%d7%93%d7%99%d7%99%d7%92/",
+        "thumbnail_id": 489,
+        "thumbnail_url": "https://gonorth.co.il/wp-content/uploads/gonorth-listing-illustrations/issue100-ein-hadayag-google.jpg",
+        "categories": [
+            "teva"
+        ],
+        "regions": [
+            "galil"
+        ],
+        "source": "https://inature.info/wiki/עין_עלומים_-_עין_הדייג",
+        "data": {
+            "address": "כביש הגישה לשמורת החולה 9119",
+            "city": "יסוד המעלה",
+            "latitude": "33.073438",
+            "longitude": "35.5881812",
+            "phone": null,
+            "website": null,
+            "business_hours": null,
+            "price_type": null,
+            "open_saturday": null,
+            "practical_checked_at": "2026-10-01T17:57:22+00:00",
+            "google": {
+                "place_id": "ChIJ0_yTaVihHhURH0kwZx0Y3hc",
+                "rating": "4.2",
+                "review_count": "162",
+                "checked_at": "2026-10-01T17:57:22+00:00",
+                "complete": true
+            }
+        }
+    },
+    {
+        "ID": 54,
+        "title": "שמורת טבע החולה",
+        "status": "publish",
+        "excerpt": "שמורת הטבע הראשונה בישראל: מסלול מעגלי נגיש בחלקו, אגם, מצפור, גשר עץ ומרכז המבקרים עופוריה.",
+        "content": "<p>שמורת טבע החולה היא שמורת הטבע הראשונה בישראל ובית גידול לח חשוב לעופות מים, צמחי ביצה ובעלי חיים בעמק החולה. השמורה שונה מאגמון החולה הסמוך, והיא מנוהלת על ידי רשות הטבע והגנים.</p><p>מסלול הביקור המעגלי עובר בין האגם, מצפור, גשר עץ ומסתור תצפית. במרכז המבקרים פועל מיצג עופוריה, ולקבוצות נדרש תיאום מראש למיצג. חלקים מרכזיים באתר נגישים, ובהם החניה, מרכז השירות, מרכז המבקרים וחלק ממסלול השמורה.</p><p><strong>הכניסה למים אסורה.</strong> מומלץ לבדוק באתר רשות הטבע והגנים שעות פתיחה, מחירים, עומסים והנחיות עדכניות, ולתאם ביקור בתקופות עמוסות.</p>",
+        "permalink": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%97%d7%95%d7%9c%d7%94/",
+        "thumbnail_id": 55,
+        "thumbnail_url": "https://gonorth.co.il/wp-content/uploads/2026/04/hula.jpg",
+        "categories": [
+            "teva"
+        ],
+        "regions": [
+            "galil"
+        ],
+        "source": "https://www.parks.org.il/reserve-park/שמורת-טבע-החולה/",
+        "data": {
+            "address": "שמורת טבע החולה, יסוד המעלה",
+            "city": "יסוד המעלה",
+            "latitude": "33.0674266",
+            "longitude": "35.6033203",
+            "phone": "04-693-7069",
+            "website": "https://www.parks.org.il/reserve-park/%D7%A9%D7%9E%D7%95%D7%A8%D7%AA-%D7%98%D7%91%D7%A2-%D7%94%D7%97%D7%95%D7%9C%D7%94",
+            "business_hours": "[\"Su 08:00-17:00\",\"Mo 08:00-17:00\",\"Tu 08:00-17:00\",\"We 08:00-17:00\",\"Th 08:00-17:00\",\"Fr 08:00-16:00\",\"Sa 08:00-17:00\"],[\"UTC\":\"+0\",\"Timezone\":\"UTC\"]",
+            "price_type": null,
+            "open_saturday": "yes",
+            "practical_checked_at": "2026-09-02T20:32:06+00:00",
+            "google": {
+                "place_id": "ChIJDe-xV1GgHhURlGNbJEEjk5s",
+                "rating": "4.6",
+                "review_count": "3957",
+                "checked_at": "2026-09-28T10:21:23+00:00",
+                "complete": true
+            }
+        }
+    }
+]

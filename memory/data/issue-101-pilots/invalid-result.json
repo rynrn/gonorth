@@ -1,0 +1,37 @@
+{
+  "ok": false,
+  "records": 2,
+  "errors": [
+    {
+      "code": "blocked_country",
+      "record": "קפה צפון",
+      "value": "United States"
+    },
+    {
+      "code": "blocked_region",
+      "record": "קפה צפון",
+      "value": "Pennsylvania"
+    },
+    {
+      "code": "coordinates_outside_israel",
+      "record": "קפה צפון",
+      "latitude": 40.0,
+      "longitude": -75.0
+    },
+    {
+      "code": "duplicate_normalized_name",
+      "records": [
+        "קפה צפון",
+        "קפה-צפון"
+      ]
+    },
+    {
+      "code": "duplicate_google_place_id",
+      "records": [
+        "קפה צפון",
+        "קפה-צפון"
+      ]
+    }
+  ],
+  "warnings": []
+}

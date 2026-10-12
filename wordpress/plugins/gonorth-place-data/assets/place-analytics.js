@@ -18,8 +18,11 @@
 	}
 
 	function send( eventName, parameters ) {
+		let consentGranted = false;
+		try { consentGranted = '1' === window.localStorage.getItem( 'gn_analytics_consent_v2' ); } catch ( error ) {}
+		if ( ! consentGranted ) return;
 		const payload = clean( Object.assign( {}, parameters, {
-			page_location: window.location.href,
+			page_location: window.location.origin + window.location.pathname,
 			debug_mode: config.debug ? true : undefined,
 		} ) );
 		try {
@@ -35,6 +38,7 @@
 	}
 
 	function sendOnce( key, eventName, parameters ) {
+		try { if ( '1' !== window.localStorage.getItem( 'gn_analytics_consent_v2' ) ) return; } catch ( error ) { return; }
 		if ( sentOnce.has( key ) ) return;
 		sentOnce.add( key );
 		send( eventName, parameters );
@@ -69,6 +73,85 @@
 		} );
 	}
 
+	const searchEventKey = 'gn_search_event_v2';
+	const allowedCategories = new Set( [ 'atraktziot-main', 'teva', 'accommodation', 'restaurants-sub', 'yakavim', 'agalot-kafe', 'tours' ] );
+	const allowedRegions = new Set( [ 'galil', 'golan', 'carmel' ] );
+	const allowedSaturday = new Set( [ 'yes', 'no', 'unknown' ] );
+
+	function approved() {
+		try { return '1' === window.localStorage.getItem( 'gn_analytics_consent_v2' ); } catch ( error ) { return false; }
+	}
+
+	function categorySlug( value ) {
+		return allowedCategories.has( value ) ? value : '';
+	}
+
+	function regionSlug( value ) {
+		return allowedRegions.has( value ) ? value : '';
+	}
+
+	function saturdayState( value ) {
+		return allowedSaturday.has( value ) ? value : '';
+	}
+
+	function onSearchSubmit( event ) {
+		const form = event.target;
+		if ( ! form.matches || ! form.matches( '.gn-hero__search, #gn-archive-search' ) || ! approved() ) return;
+		const input = form.querySelector( 'input[name="s"]' );
+		const select = form.querySelector( 'select[name="category"]' );
+		const hasQuery = !! ( input && input.value.trim() );
+		const category = categorySlug( select ? select.value : '' );
+		const regionInput = form.querySelector( 'select[name="region"]' );
+		const saturdayInput = form.querySelector( 'select[name="saturday"]' );
+		const region = regionSlug( regionInput ? regionInput.value : '' );
+		const saturday = saturdayState( saturdayInput ? saturdayInput.value : '' );
+		if ( ! hasQuery && ! category && ! region && ! saturday ) return;
+		const source = form.matches( '.gn-hero__search' ) ? 'home' : 'archive';
+		try {
+			window.sessionStorage.setItem( searchEventKey, JSON.stringify( { hasQuery: hasQuery, category: category, region: region, saturday: saturday, source: source } ) );
+		} catch ( error ) {
+			// The visitor's search must work even when session storage is unavailable.
+		}
+	}
+
+	function flushSearchSubmit() {
+		let pending;
+		try {
+			pending = window.sessionStorage.getItem( searchEventKey );
+			window.sessionStorage.removeItem( searchEventKey );
+		} catch ( error ) { return; }
+		if ( ! pending || ! approved() || ! /^\/places(?:\/|$)/.test( window.location.pathname ) ) return;
+		try { pending = JSON.parse( pending ); } catch ( error ) { return; }
+		const category = categorySlug( pending.category );
+		const region = regionSlug( pending.region );
+		const saturday = saturdayState( pending.saturday );
+		const source = pending.source === 'home' ? 'home' : 'archive';
+		if ( pending.hasQuery === true ) {
+			sendOnce( 'search_submit', 'search_submit', { search_scope: source, has_query: true, category_slug: category, region_slug: region, saturday_state: saturday } );
+		}
+		if ( category ) {
+			sendOnce( 'filter_apply_category', 'filter_apply', { search_scope: source, filter_name: 'category', category_slug: category } );
+		}
+		if ( region ) {
+			sendOnce( 'filter_apply_region', 'filter_apply', { search_scope: source, filter_name: 'region', region_slug: region } );
+		}
+		if ( saturday ) {
+			sendOnce( 'filter_apply_saturday', 'filter_apply', { search_scope: source, filter_name: 'open_saturday', saturday_state: saturday } );
+		}
+	}
+
+	function trackZeroResults() {
+		if ( ! document.querySelector( 'main#gn-search-results.gn-search-empty' ) ) return;
+		const params = new URL( window.location.href ).searchParams;
+		const hasQuery = !! ( params.get( 's' ) || '' ).trim();
+		const categoryPath = window.location.pathname.match( /^\/places\/category\/([^/]+)\/?$/ );
+		const category = categorySlug( params.get( 'category' ) || ( categoryPath ? categoryPath[ 1 ] : '' ) );
+		const region = regionSlug( params.get( 'region' ) );
+		const saturday = saturdayState( params.get( 'saturday' ) );
+		if ( ! hasQuery && ! category && ! region && ! saturday ) return;
+		sendOnce( 'zero_results', 'zero_results', { search_scope: 'archive', has_query: hasQuery, category_slug: category, region_slug: region, saturday_state: saturday, results_count: 0 } );
+	}
+
 	function cardSelector() {
 		return '[data-gn-place-card], .gn-card-col[data-post-id]';
 	}
@@ -99,6 +182,38 @@
 		event.__goNorthAnalyticsHandled = true;
 		const link = event.target.closest ? event.target.closest( 'a' ) : null;
 		if ( ! link ) return;
+
+		const preferredSource = link.closest( '[data-gn-preferred-source]' );
+		if ( preferredSource ) {
+			let consentGranted = false;
+			try {
+				consentGranted = '1' === window.localStorage.getItem( 'gn_analytics_consent_v2' );
+			} catch ( error ) {
+				consentGranted = false;
+			}
+			if ( consentGranted ) {
+				send( 'preferred_source_click', clean( {
+					placement: preferredSource.dataset.placement || 'content',
+					page_type: preferredSource.dataset.pageType || 'other',
+					place_id: preferredSource.dataset.placeId || ( config.currentPlace ? config.currentPlace.place_id : '' ),
+				} ) );
+			}
+		}
+
+		if ( config.currentGuide ) {
+			try {
+				const destination = new URL( link.href, window.location.href );
+				const parts = destination.pathname.split( '/' ).filter( Boolean );
+				if ( destination.origin === window.location.origin && parts[ 0 ] === 'places' && parts.length === 2 && parts[ 1 ] !== 'category' ) {
+					send( 'guide_to_place_click', {
+						guide_id: config.currentGuide.guide_id,
+						target_type: 'place',
+					} );
+				}
+			} catch ( error ) {
+				// Navigation remains unchanged if a link cannot be parsed.
+			}
+		}
 
 		const card = link.closest( cardSelector() );
 		if ( card ) {
@@ -145,7 +260,10 @@
 			},
 		} );
 
-		if ( config.currentPlace ) window.GoNorthAnalytics.trackPlaceView();
+		if ( config.currentPlace ) {
+			window.GoNorthAnalytics.trackPlaceView();
+			window.addEventListener( 'gn-consent-granted', function () { window.GoNorthAnalytics.trackPlaceView(); }, { once: true } );
+		}
 		if ( 'IntersectionObserver' in window ) {
 			observer = new IntersectionObserver( function ( entries ) {
 				entries.forEach( function ( entry ) {
@@ -163,6 +281,10 @@
 				} );
 			} ).observe( document.body, { childList: true, subtree: true } );
 		}
+		flushSearchSubmit();
+		trackZeroResults();
+		window.addEventListener( 'gn-consent-granted', trackZeroResults, { once: true } );
+		document.addEventListener( 'submit', onSearchSubmit, true );
 		document.addEventListener( 'click', onClick, true );
 		document.addEventListener( 'toggle', onToggle, true );
 	}

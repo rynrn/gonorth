@@ -1,0 +1,220 @@
+{
+  "checkedAt": "2026-10-05T21:35:57.926Z",
+  "checks": {
+    "legacy_prompts": true,
+    "legacy_does_not_load_google": true,
+    "new_visitor_does_not_load_google": true,
+    "rejected_does_not_load_google": true,
+    "accepted_loads_gtm": true,
+    "accept_now_loads_gtm": true,
+    "revoke_blocks_next_load": true,
+    "no_sentinel_to_google": true,
+    "no_page_errors": true
+  },
+  "scenarios": [
+    {
+      "name": "legacy_only",
+      "before": {
+        "choice": null,
+        "legacy": "1",
+        "banner": "flex",
+        "gtmScripts": 0,
+        "preferredScripts": 0
+      },
+      "after": {
+        "choice": null,
+        "legacy": "1",
+        "banner": "flex",
+        "gtmScripts": 0,
+        "preferredScripts": 0
+      },
+      "googleBefore": [],
+      "googleAfter": [],
+      "errors": []
+    },
+    {
+      "name": "new_visitor",
+      "before": {
+        "choice": null,
+        "legacy": null,
+        "banner": "flex",
+        "gtmScripts": 0,
+        "preferredScripts": 0
+      },
+      "after": {
+        "choice": null,
+        "legacy": null,
+        "banner": "flex",
+        "gtmScripts": 0,
+        "preferredScripts": 0
+      },
+      "googleBefore": [],
+      "googleAfter": [],
+      "errors": []
+    },
+    {
+      "name": "rejected",
+      "before": {
+        "choice": "0",
+        "legacy": "1",
+        "banner": "none",
+        "gtmScripts": 0,
+        "preferredScripts": 0
+      },
+      "after": {
+        "choice": "0",
+        "legacy": "1",
+        "banner": "none",
+        "gtmScripts": 0,
+        "preferredScripts": 0
+      },
+      "googleBefore": [],
+      "googleAfter": [],
+      "errors": []
+    },
+    {
+      "name": "accepted",
+      "before": {
+        "choice": "1",
+        "legacy": "1",
+        "banner": "none",
+        "gtmScripts": 1,
+        "preferredScripts": 1
+      },
+      "after": {
+        "choice": "1",
+        "legacy": "1",
+        "banner": "none",
+        "gtmScripts": 1,
+        "preferredScripts": 1
+      },
+      "googleBefore": [
+        {
+          "host": "www.googletagmanager.com",
+          "path": "/gtm.js",
+          "sentinel": false
+        },
+        {
+          "host": "www.googletagmanager.com",
+          "path": "/gtag/js",
+          "sentinel": false
+        },
+        {
+          "host": "www.google-analytics.com",
+          "path": "/g/collect",
+          "sentinel": false
+        },
+        {
+          "host": "news.google.com",
+          "path": "/swg/js/v1/publisher.js",
+          "sentinel": false
+        },
+        {
+          "host": "news.google.com",
+          "path": "/swg/ui/v1/serviceiframe",
+          "sentinel": false
+        }
+      ],
+      "googleAfter": [],
+      "errors": []
+    },
+    {
+      "name": "accept_now",
+      "before": {
+        "choice": null,
+        "legacy": "1",
+        "banner": "flex",
+        "gtmScripts": 0,
+        "preferredScripts": 0
+      },
+      "after": {
+        "choice": "1",
+        "legacy": null,
+        "banner": "none",
+        "gtmScripts": 1,
+        "preferredScripts": 1
+      },
+      "googleBefore": [],
+      "googleAfter": [
+        {
+          "host": "www.googletagmanager.com",
+          "path": "/gtm.js",
+          "sentinel": false
+        },
+        {
+          "host": "news.google.com",
+          "path": "/swg/js/v1/publisher.js",
+          "sentinel": false
+        },
+        {
+          "host": "news.google.com",
+          "path": "/swg/ui/v1/serviceiframe",
+          "sentinel": false
+        },
+        {
+          "host": "www.googletagmanager.com",
+          "path": "/gtag/js",
+          "sentinel": false
+        },
+        {
+          "host": "www.google-analytics.com",
+          "path": "/g/collect",
+          "sentinel": false
+        }
+      ],
+      "errors": []
+    },
+    {
+      "name": "revoke_now",
+      "before": {
+        "choice": "1",
+        "legacy": "1",
+        "banner": "none",
+        "gtmScripts": 1,
+        "preferredScripts": 1
+      },
+      "after": {
+        "choice": "0",
+        "legacy": null,
+        "banner": "none",
+        "gtmScripts": 0,
+        "preferredScripts": 0
+      },
+      "googleBefore": [
+        {
+          "host": "www.googletagmanager.com",
+          "path": "/gtm.js",
+          "sentinel": false
+        },
+        {
+          "host": "www.googletagmanager.com",
+          "path": "/gtag/js",
+          "sentinel": false
+        },
+        {
+          "host": "www.google-analytics.com",
+          "path": "/g/collect",
+          "sentinel": false
+        },
+        {
+          "host": "news.google.com",
+          "path": "/swg/js/v1/publisher.js",
+          "sentinel": false
+        },
+        {
+          "host": "news.google.com",
+          "path": "/swg/ui/v1/serviceiframe",
+          "sentinel": false
+        }
+      ],
+      "googleAfter": [
+        {
+          "host": "www.google-analytics.com",
+          "path": "/g/collect",
+          "sentinel": false
+        }
+      ],
+      "errors": []
+    }
+  ]
+}

@@ -224,6 +224,13 @@ final class GoNorth_Place_Data {
 			return $legacy ? self::get_legacy_meta( $post_id, $legacy ) : null;
 		};
 
+		$google_place_id = $value( 'google_place_id', 'google_place_id' );
+		$google_rating   = $value( 'google_rating', 'geodir_post_rating' );
+		$google_reviews  = $value( 'google_review_count' );
+		$google_checked  = $value( 'google_checked_at' );
+		$google_complete = ! empty( $google_place_id ) && is_numeric( $google_rating ) && (float) $google_rating > 0
+			&& is_numeric( $google_reviews ) && (int) $google_reviews > 0 && ! empty( $google_checked );
+
 		return array(
 			'address'              => $value( 'street', 'geodir_post_address' ),
 			'city'                 => $value( 'city', 'geodir_post_city' ),
@@ -236,10 +243,11 @@ final class GoNorth_Place_Data {
 			'open_saturday'        => $value( 'open_saturday' ),
 			'practical_checked_at' => $value( 'practical_checked_at' ),
 			'google'               => array(
-				'place_id'     => $value( 'google_place_id', 'google_place_id' ),
-				'rating'       => $value( 'google_rating', 'geodir_post_rating' ),
-				'review_count' => $value( 'google_review_count' ),
-				'checked_at'   => $value( 'google_checked_at' ),
+				'place_id'     => $google_place_id,
+				'rating'       => $google_complete ? $google_rating : null,
+				'review_count' => $google_complete ? $google_reviews : null,
+				'checked_at'   => $google_complete ? $google_checked : null,
+				'complete'     => $google_complete,
 			),
 		);
 	}
@@ -384,6 +392,51 @@ final class GoNorth_Place_Data {
 	}
 
 	/**
+	 * Restore a previously saved canonical record from a verified sync backup.
+	 *
+	 * This is deliberately separate from update(): normal callers cannot write
+	 * freshness timestamps. The method is only used by the privileged WP-CLI
+	 * rollback command after its backup format has been validated.
+	 *
+	 * @param int                 $post_id Place ID.
+	 * @param array<string,mixed> $data Backed-up canonical data.
+	 * @return true|WP_Error
+	 */
+	public static function restore( int $post_id, array $data ) {
+		$timestamps = array_intersect_key(
+			$data,
+			array_flip( array( 'practical_checked_at', 'google_checked_at' ) )
+		);
+		$updates = array_diff_key( $data, $timestamps );
+		$clears  = array();
+		foreach ( array( 'google_rating', 'google_review_count' ) as $nullable_field ) {
+			if ( array_key_exists( $nullable_field, $updates ) && ( null === $updates[ $nullable_field ] || '' === $updates[ $nullable_field ] ) ) {
+				$clears[ $nullable_field ] = null;
+				unset( $updates[ $nullable_field ] );
+			}
+		}
+
+		$result = self::update( $post_id, $updates, false, false );
+		if ( is_wp_error( $result ) ) {
+			return $result;
+		}
+		foreach ( $clears as $key => $value ) {
+			$saved = self::save_canonical_field( $post_id, $key, $value );
+			if ( is_wp_error( $saved ) ) {
+				return $saved;
+			}
+		}
+		foreach ( $timestamps as $key => $value ) {
+			$restored_value = null === $value || '' === $value ? null : sanitize_text_field( (string) $value );
+			$saved          = self::save_canonical_field( $post_id, $key, $restored_value );
+			if ( is_wp_error( $saved ) ) {
+				return $saved;
+			}
+		}
+		return true;
+	}
+
+	/**
 	 * Safely write one allowlisted GeoDirectory detail column.
 	 *
 	 * GeoDirectory 2.8.160 interpolates custom-field values into a query before
@@ -513,8 +566,9 @@ final class GoNorth_Place_Data {
 			return $content;
 		}
 
-		$data  = self::get( $post_id );
-		$items = array();
+		$data      = self::get( $post_id );
+		$items     = array();
+		$has_price = in_array( $data['price_type'], array( 'free', 'paid' ), true );
 
 		if ( 'free' === $data['price_type'] ) {
 			$items[] = array( 'מחיר', 'הכניסה חינם' );
@@ -526,6 +580,18 @@ final class GoNorth_Place_Data {
 			$items[] = array( 'שבת', 'פתוח בשבת' );
 		} elseif ( 'no' === $data['open_saturday'] ) {
 			$items[] = array( 'שבת', 'סגור בשבת' );
+		}
+		if ( ! empty( $data['google']['complete'] ) ) {
+			$google_checked = strtotime( (string) $data['google']['checked_at'] );
+			$rating_text   = sprintf(
+				'%s מתוך 5 לפי %s ביקורות ב־Google',
+				number_format_i18n( (float) $data['google']['rating'], 1 ),
+				number_format_i18n( (int) $data['google']['review_count'] )
+			);
+			if ( false !== $google_checked ) {
+				$rating_text .= sprintf( ' · נבדק ב־%s', wp_date( 'j.n.Y', $google_checked ) );
+			}
+			$items[] = array( 'דירוג Google', $rating_text );
 		}
 
 		$hours = self::format_business_hours( (string) $data['business_hours'] );
@@ -555,6 +621,9 @@ final class GoNorth_Place_Data {
 						<div><dt><?php echo esc_html( $item[0] ); ?></dt><dd><?php echo esc_html( $item[1] ); ?></dd></div>
 					<?php endforeach; ?>
 				</dl>
+				<?php if ( $has_price ) : ?>
+					<p class="gn-practical-data__price-note">המחיר עשוי להשתנות. מומלץ לוודא מול המקום לפני ההגעה.</p>
+				<?php endif; ?>
 			<?php endif; ?>
 			<?php if ( $hours ) : ?>
 				<div class="gn-practical-data__hours-section">
@@ -612,6 +681,55 @@ final class GoNorth_Place_Data {
 		}
 		return $result;
 	}
+
+	/**
+	 * Join a street/address and locality without repeating the locality.
+	 *
+	 * GeoDirectory's historical street values often already contain the town or
+	 * village. Keep that useful prose intact, but avoid output such as
+	 * "ניר דוד, ניר דוד" after the canonical city is corrected.
+	 *
+	 * @param mixed $address Street or full address.
+	 * @param mixed $city Locality.
+	 */
+	public static function format_location( $address, $city ): string {
+		$address = trim( (string) $address );
+		$city    = trim( (string) $city );
+		if ( '' === $address ) {
+			return $city;
+		}
+		if ( '' === $city ) {
+			return $address;
+		}
+
+		$normalize = static function ( string $value ): string {
+			$value = strtr(
+				mb_strtolower( $value, 'UTF-8' ),
+				array( '׳' => '', '״' => '', "'" => '', '"' => '', '־' => '-', '–' => '-', '—' => '-' )
+			);
+			return (string) preg_replace( '/[^\p{L}\p{N}]+/u', '', $value );
+		};
+		$address_key = $normalize( $address );
+		$city_keys   = array( $normalize( $city ) );
+		$aliases     = array(
+			'כפר יהושע'    => array( 'כפר יהושוע' ),
+			'חיספין'        => array( 'חספין' ),
+			'עין קנייא'     => array( 'עין קיניא' ),
+			'נווה אטי"ב'    => array( 'נווה אטיב', 'נווה אטי״ב' ),
+			"מג'ד אל-כרום" => array( 'מגד אל-כרום' ),
+			'דגניה א׳'      => array( "דגניה א'", 'דגניה א' ),
+		);
+		foreach ( $aliases[ $city ] ?? array() as $alias ) {
+			$city_keys[] = $normalize( $alias );
+		}
+		foreach ( array_unique( array_filter( $city_keys ) ) as $city_key ) {
+			if ( false !== mb_strpos( $address_key, $city_key, 0, 'UTF-8' ) ) {
+				return $address;
+			}
+		}
+
+		return $address . ', ' . $city;
+	}
 }
 
 /**
@@ -638,3 +756,4 @@ function gonorth_store_google_place_data( int $post_id, array $data ) {
 	);
 	return GoNorth_Place_Data::update( $post_id, $allowed, false, true );
 }
+

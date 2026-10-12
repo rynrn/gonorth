@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "place_id": 219,
+    "name": "עגלת קפה מיכאל",
+    "url": "https://gonorth.co.il/places/%d7%a2%d7%92%d7%9c%d7%aa-%d7%a7%d7%a4%d7%94-%d7%9e%d7%99%d7%9b%d7%90%d7%9c/",
+    "field": "business_status",
+    "old_value": "unknown",
+    "new_value": "permanently_closed",
+    "detected_at": "2026-09-23T13:37:24Z",
+    "confidence": 0.95,
+    "source": "manual_review",
+    "source_url": null,
+    "seo_action": "keep_url_live_and_review_closure"
+  },
+  {
+    "id": 2,
+    "place_id": 221,
+    "name": "אסתר — קפה ובישולים לדרך",
+    "url": "https://gonorth.co.il/places/%d7%90%d7%a1%d7%aa%d7%a8-%d7%a7%d7%a4%d7%94-%d7%95%d7%91%d7%99%d7%a9%d7%95%d7%9c%d7%99%d7%9d-%d7%9c%d7%93%d7%a8%d7%9a/",
+    "field": "business_status",
+    "old_value": "unknown",
+    "new_value": "temporarily_closed",
+    "detected_at": "2026-09-23T13:37:26Z",
+    "confidence": 0.9,
+    "source": "manual_review",
+    "source_url": null,
+    "seo_action": "keep_url_live_and_review_closure"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://gonorth.co.il/coffee-carts-cafes-north-israel/",
+    "status": 200,
+    "title": "עגלות קפה ובתי קפה בצפון | כיוון צפון",
+    "canonical": "https://gonorth.co.il/coffee-carts-cafes-north-israel/",
+    "meta_chars": 118,
+    "h1_count": 1,
+    "og_image": "https://gonorth.co.il/wp-content/uploads/2026/coffee-carts-north-israel-hero.webp",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "coffee_links": 12,
+    "golan_links": 0
+  },
+  {
+    "url": "https://gonorth.co.il/golan-accommodation-comparison/",
+    "status": 200,
+    "title": "לינה וגלמפינג ברמת הגולן: מדריך השוואה | כיוון צפון",
+    "canonical": "https://gonorth.co.il/golan-accommodation-comparison/",
+    "meta_chars": 117,
+    "h1_count": 1,
+    "og_image": "https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-49.jpg",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "coffee_links": 0,
+    "golan_links": 21
+  }
+]

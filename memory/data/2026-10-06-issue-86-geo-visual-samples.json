@@ -1,0 +1,54 @@
+[
+  {
+    "id": 517,
+    "width": 390,
+    "mode": "baseline",
+    "status": 200,
+    "errors": [],
+    "blockedCount": 0,
+    "dimensions": [
+      390,
+      6447
+    ]
+  },
+  {
+    "id": 517,
+    "width": 390,
+    "mode": "without_geo",
+    "status": 200,
+    "errors": [],
+    "blockedCount": 3,
+    "dimensions": [
+      390,
+      6447
+    ],
+    "changedPixels": 6591,
+    "totalPixels": 2514330
+  },
+  {
+    "id": 517,
+    "width": 1280,
+    "mode": "baseline",
+    "status": 200,
+    "errors": [],
+    "blockedCount": 0,
+    "dimensions": [
+      1280,
+      3652
+    ]
+  },
+  {
+    "id": 517,
+    "width": 1280,
+    "mode": "without_geo",
+    "status": 200,
+    "errors": [],
+    "blockedCount": 3,
+    "dimensions": [
+      1280,
+      3652
+    ],
+    "changedPixels": 13195,
+    "totalPixels": 4674560
+  }
+]

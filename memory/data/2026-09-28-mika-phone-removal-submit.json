@@ -1,0 +1,12 @@
+[
+  {
+    "id": 223,
+    "source": "google_places",
+    "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJk7XS3LUsHBURlNFSDQx162I",
+    "checked_at": "2026-09-28T13:10:00Z",
+    "confidence": 1.0,
+    "facts": {
+      "phone": null
+    }
+  }
+]

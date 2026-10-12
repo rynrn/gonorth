@@ -1,0 +1,3026 @@
+[
+  {
+    "id": "503",
+    "title": {
+      "raw": "הטנק הסורי ההפוך",
+      "rendered": "הטנק הסורי ההפוך"
+    },
+    "link": "https://gonorth.co.il/places/%d7%94%d7%98%d7%a0%d7%a7-%d7%94%d7%a1%d7%95%d7%a8%d7%99-%d7%94%d7%94%d7%a4%d7%95%d7%9a/",
+    "status": "publish",
+    "street": "נחל חרמון, סמוך לשאר ישוב",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "שאר ישוב",
+    "latitude": null,
+    "longitude": null,
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 17,
+        "name": "אטרקציות",
+        "slug": "atraktziot-main"
+      },
+      {
+        "id": 35,
+        "name": "טבע ומסלולים",
+        "slug": "teva"
+      }
+    ]
+  },
+  {
+    "id": "498",
+    "title": {
+      "raw": "TRIO — טריו קפה",
+      "rendered": "TRIO — טריו קפה"
+    },
+    "link": "https://gonorth.co.il/places/trio-%d7%98%d7%a8%d7%99%d7%95-%d7%a7%d7%a4%d7%94/",
+    "status": "publish",
+    "street": "נחלים 1, שאר ישוב, 1224000",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "שאר ישוב",
+    "latitude": null,
+    "longitude": null,
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 37,
+        "name": "בתי קפה",
+        "slug": "batei-kafe"
+      }
+    ]
+  },
+  {
+    "id": "499",
+    "title": {
+      "raw": "שירי פסטה",
+      "rendered": "שירי פסטה"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a9%d7%99%d7%a8%d7%99-%d7%a4%d7%a1%d7%98%d7%94/",
+    "status": "publish",
+    "street": "דפנה",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "דפנה",
+    "latitude": null,
+    "longitude": null,
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 33,
+        "name": "מסעדות",
+        "slug": "restaurants-sub"
+      }
+    ]
+  },
+  {
+    "id": "500",
+    "title": {
+      "raw": "קמפינג מטיילים דפנה",
+      "rendered": "קמפינג מטיילים דפנה"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a7%d7%9e%d7%a4%d7%99%d7%a0%d7%92-%d7%9e%d7%98%d7%99%d7%99%d7%9c%d7%99%d7%9d-%d7%93%d7%a4%d7%a0%d7%94/",
+    "status": "publish",
+    "street": "קמפינג דפנה, דפנה",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "דפנה",
+    "latitude": null,
+    "longitude": null,
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 18,
+        "name": "לינה",
+        "slug": "accommodation"
+      }
+    ]
+  },
+  {
+    "id": "501",
+    "title": {
+      "raw": "מלון מטיילים ארץ דפנה",
+      "rendered": "מלון מטיילים ארץ דפנה"
+    },
+    "link": "https://gonorth.co.il/places/%d7%9e%d7%9c%d7%95%d7%9f-%d7%9e%d7%98%d7%99%d7%99%d7%9c%d7%99%d7%9d-%d7%90%d7%a8%d7%a5-%d7%93%d7%a4%d7%a0%d7%94/",
+    "status": "publish",
+    "street": "קיבוץ דפנה",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "דפנה",
+    "latitude": null,
+    "longitude": null,
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 18,
+        "name": "לינה",
+        "slug": "accommodation"
+      }
+    ]
+  },
+  {
+    "id": "502",
+    "title": {
+      "raw": "קלומפוס",
+      "rendered": "קלומפוס"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a7%d7%9c%d7%95%d7%9e%d7%a4%d7%95%d7%a1/",
+    "status": "publish",
+    "street": "מתחם דפנה'לה, כביש 99, דפנה, 1223500",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "דפנה",
+    "latitude": null,
+    "longitude": null,
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 33,
+        "name": "מסעדות",
+        "slug": "restaurants-sub"
+      }
+    ]
+  },
+  {
+    "id": "495",
+    "title": {
+      "raw": "פארק דפנה",
+      "rendered": "פארק דפנה"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a4%d7%90%d7%a8%d7%a7-%d7%93%d7%a4%d7%a0%d7%94/",
+    "status": "publish",
+    "street": "15, דפנה",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "דפנה",
+    "latitude": null,
+    "longitude": null,
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 17,
+        "name": "אטרקציות",
+        "slug": "atraktziot-main"
+      },
+      {
+        "id": 35,
+        "name": "טבע ומסלולים",
+        "slug": "teva"
+      }
+    ]
+  },
+  {
+    "id": "494",
+    "title": {
+      "raw": "מוזיאון האדם הקדמון",
+      "rendered": "מוזיאון האדם הקדמון"
+    },
+    "link": "https://gonorth.co.il/places/%d7%9e%d7%95%d7%96%d7%99%d7%90%d7%95%d7%9f-%d7%94%d7%90%d7%93%d7%9d-%d7%94%d7%a7%d7%93%d7%9e%d7%95%d7%9f/",
+    "status": "publish",
+    "street": "מוזיאון האדם הקדמון, מעיין ברוך, 1222000",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "מעיין ברוך",
+    "latitude": null,
+    "longitude": null,
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 17,
+        "name": "אטרקציות",
+        "slug": "atraktziot-main"
+      }
+    ]
+  },
+  {
+    "id": "491",
+    "title": {
+      "raw": "שמורת עין תאו",
+      "rendered": "שמורת עין תאו"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%a2%d7%99%d7%9f-%d7%aa%d7%90%d7%95/",
+    "status": "publish",
+    "street": "שמורת עין תאו, עמק החולה",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "עמק החולה",
+    "latitude": null,
+    "longitude": null,
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 35,
+        "name": "טבע ומסלולים",
+        "slug": "teva"
+      }
+    ]
+  },
+  {
+    "id": "490",
+    "title": {
+      "raw": "מלון גליליון",
+      "rendered": "מלון גליליון"
+    },
+    "link": "https://gonorth.co.il/places/%d7%9e%d7%9c%d7%95%d7%9f-%d7%92%d7%9c%d7%99%d7%9c%d7%99%d7%95%d7%9f/",
+    "status": "publish",
+    "street": "כביש 90, עמק החולה",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "עמק החולה",
+    "latitude": null,
+    "longitude": null,
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 18,
+        "name": "לינה",
+        "slug": "accommodation"
+      }
+    ]
+  },
+  {
+    "id": "488",
+    "title": {
+      "raw": "עין עלומים — עין הדייג",
+      "rendered": "עין עלומים — עין הדייג"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a2%d7%99%d7%9f-%d7%a2%d7%9c%d7%95%d7%9e%d7%99%d7%9d-%d7%a2%d7%99%d7%9f-%d7%94%d7%93%d7%99%d7%99%d7%92/",
+    "status": "publish",
+    "street": "כביש הגישה לשמורת החולה 9119",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "יסוד המעלה",
+    "latitude": null,
+    "longitude": null,
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 35,
+        "name": "טבע ומסלולים",
+        "slug": "teva"
+      }
+    ]
+  },
+  {
+    "id": "485",
+    "title": {
+      "raw": "Norah Café — קפה נורה",
+      "rendered": "Norah Café — קפה נורה"
+    },
+    "link": "https://gonorth.co.il/places/norah-cafe-%d7%a7%d7%a4%d7%94-%d7%a0%d7%95%d7%a8%d7%94/",
+    "status": "publish",
+    "street": "מתחם אחוזת ירדן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "יסוד המעלה",
+    "latitude": null,
+    "longitude": null,
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 37,
+        "name": "בתי קפה",
+        "slug": "batei-kafe"
+      }
+    ]
+  },
+  {
+    "id": "484",
+    "title": {
+      "raw": "מלון אחוזת הירדן — לשעבר סביוני הגליל",
+      "rendered": "מלון אחוזת הירדן — לשעבר סביוני הגליל"
+    },
+    "link": "https://gonorth.co.il/places/%d7%9e%d7%9c%d7%95%d7%9f-%d7%90%d7%97%d7%95%d7%96%d7%aa-%d7%94%d7%99%d7%a8%d7%93%d7%9f-%d7%9c%d7%a9%d7%a2%d7%91%d7%a8-%d7%a1%d7%91%d7%99%d7%95%d7%a0%d7%99-%d7%94%d7%92%d7%9c%d7%99%d7%9c/",
+    "status": "publish",
+    "street": "המייסדים",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "יסוד המעלה",
+    "latitude": null,
+    "longitude": null,
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 18,
+        "name": "לינה",
+        "slug": "accommodation"
+      }
+    ]
+  },
+  {
+    "id": "481",
+    "title": {
+      "raw": "Peti Peti — פטי פטי",
+      "rendered": "Peti Peti — פטי פטי"
+    },
+    "link": "https://gonorth.co.il/places/peti-peti-%d7%a4%d7%98%d7%99-%d7%a4%d7%98%d7%99/",
+    "status": "publish",
+    "street": "תחנת דלק סונול",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "שדה אליעזר",
+    "latitude": null,
+    "longitude": null,
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 33,
+        "name": "מסעדות",
+        "slug": "restaurants-sub"
+      }
+    ]
+  },
+  {
+    "id": "480",
+    "title": {
+      "raw": "שוורצע (משק שוורץ)",
+      "rendered": "שוורצע (משק שוורץ)"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a9%d7%95%d7%95%d7%a8%d7%a6%d7%a2-%d7%9e%d7%a9%d7%a7-%d7%a9%d7%95%d7%95%d7%a8%d7%a5/",
+    "status": "publish",
+    "street": "הזית 47",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "שדה אליעזר",
+    "latitude": null,
+    "longitude": null,
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 32,
+        "name": "ochel",
+        "slug": "ochel"
+      }
+    ]
+  },
+  {
+    "id": "477",
+    "title": {
+      "raw": "Nice to Meat",
+      "rendered": "Nice to Meat"
+    },
+    "link": "https://gonorth.co.il/places/nice-to-meat/",
+    "status": "publish",
+    "street": "צומת יסוד המעלה",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "יסוד המעלה",
+    "latitude": null,
+    "longitude": null,
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 33,
+        "name": "מסעדות",
+        "slug": "restaurants-sub"
+      }
+    ]
+  },
+  {
+    "id": "476",
+    "title": {
+      "raw": "פאן ריידר בצפון",
+      "rendered": "פאן ריידר בצפון"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a4%d7%90%d7%9f-%d7%a8%d7%99%d7%99%d7%93%d7%a8-%d7%91%d7%a6%d7%a4%d7%95%d7%9f/",
+    "status": "publish",
+    "street": "השמורה",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "חולתה",
+    "latitude": null,
+    "longitude": null,
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 20,
+        "name": "סיורים ופעילויות",
+        "slug": "tours"
+      }
+    ]
+  },
+  {
+    "id": "471",
+    "title": {
+      "raw": "רנטו בר יין ומעדנייה",
+      "rendered": "רנטו בר יין ומעדנייה"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a8%d7%a0%d7%98%d7%95-%d7%91%d7%a8-%d7%99%d7%99%d7%9f-%d7%95%d7%9e%d7%a2%d7%93%d7%a0%d7%99%d7%99%d7%94/",
+    "status": "publish",
+    "street": "כיכר המושבה, המייסדים 130",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "יסוד המעלה",
+    "latitude": null,
+    "longitude": null,
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 33,
+        "name": "מסעדות",
+        "slug": "restaurants-sub"
+      }
+    ]
+  },
+  {
+    "id": "470",
+    "title": {
+      "raw": "המקום של ארנון",
+      "rendered": "המקום של ארנון"
+    },
+    "link": "https://gonorth.co.il/places/%d7%94%d7%9e%d7%a7%d7%95%d7%9d-%d7%a9%d7%9c-%d7%90%d7%a8%d7%a0%d7%95%d7%9f/",
+    "status": "publish",
+    "street": "רחוב השזיף פינת המגדל",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "יסוד המעלה",
+    "latitude": null,
+    "longitude": null,
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 37,
+        "name": "בתי קפה",
+        "slug": "batei-kafe"
+      }
+    ]
+  },
+  {
+    "id": "425",
+    "title": {
+      "raw": "הכפר האינדיאני — גלמפינג ברמת הגולן",
+      "rendered": "הכפר האינדיאני — גלמפינג ברמת הגולן"
+    },
+    "link": "https://gonorth.co.il/places/%d7%94%d7%9b%d7%a4%d7%a8-%d7%94%d7%90%d7%99%d7%a0%d7%93%d7%99%d7%90%d7%a0%d7%99-%d7%92%d7%9c%d7%9e%d7%a4%d7%99%d7%a0%d7%92-%d7%91%d7%a8%d7%9e%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f/",
+    "status": "publish",
+    "street": "מושב אבני איתן, רמת הגולן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "אבני איתן",
+    "latitude": "32.828811",
+    "longitude": "35.763073",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 18,
+        "name": "לינה",
+        "slug": "accommodation"
+      }
+    ]
+  },
+  {
+    "id": "423",
+    "title": {
+      "raw": "קיאק-כנרת",
+      "rendered": "קיאק-כנרת"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a7%d7%99%d7%90%d7%a7-%d7%9b%d7%a0%d7%a8%d7%aa/",
+    "status": "publish",
+    "street": "חניון ירדן-כנרת, דגניה א׳",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "דגניה א׳",
+    "latitude": "32.711232",
+    "longitude": "35.576669",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 20,
+        "name": "סיורים ופעילויות",
+        "slug": "tours"
+      }
+    ]
+  },
+  {
+    "id": "421",
+    "title": {
+      "raw": "הבוסתן של מוטי",
+      "rendered": "הבוסתן של מוטי"
+    },
+    "link": "https://gonorth.co.il/places/%d7%94%d7%91%d7%95%d7%a1%d7%aa%d7%9f-%d7%a9%d7%9c-%d7%9e%d7%95%d7%98%d7%99/",
+    "status": "publish",
+    "street": "עמק הבכא, מול קיבוץ אל-רום",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "אל-רום",
+    "latitude": "33.171452",
+    "longitude": "35.782969",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 17,
+        "name": "אטרקציות",
+        "slug": "atraktziot-main"
+      }
+    ]
+  },
+  {
+    "id": "419",
+    "title": {
+      "raw": "טריפונל באולינג",
+      "rendered": "טריפונל באולינג"
+    },
+    "link": "https://gonorth.co.il/places/%d7%98%d7%a8%d7%99%d7%a4%d7%95%d7%a0%d7%9c-%d7%91%d7%90%d7%95%d7%9c%d7%99%d7%a0%d7%92/",
+    "status": "publish",
+    "street": "מגדל שמס, רמת הגולן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "מג'דל שמס",
+    "latitude": "33.259872",
+    "longitude": "35.769863",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 17,
+        "name": "אטרקציות",
+        "slug": "atraktziot-main"
+      }
+    ]
+  },
+  {
+    "id": "417",
+    "title": {
+      "raw": "יקב בזלת הגולן",
+      "rendered": "יקב בזלת הגולן"
+    },
+    "link": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%91%d7%96%d7%9c%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f/",
+    "status": "publish",
+    "street": "מושב קדמת צבי, רמת הגולן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "קדמת צבי",
+    "latitude": "33.026335",
+    "longitude": "35.69845",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 36,
+        "name": "יקבים",
+        "slug": "yakavim"
+      }
+    ]
+  },
+  {
+    "id": "415",
+    "title": {
+      "raw": "אבו קיאק",
+      "rendered": "אבו קיאק"
+    },
+    "link": "https://gonorth.co.il/places/%d7%90%d7%91%d7%95-%d7%a7%d7%99%d7%90%d7%a7/",
+    "status": "publish",
+    "street": "כביש 888, פארק הירדן (סמוך לחד-נס)",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "חד נס",
+    "latitude": "32.907982",
+    "longitude": "35.623964",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 20,
+        "name": "סיורים ופעילויות",
+        "slug": "tours"
+      }
+    ]
+  },
+  {
+    "id": "413",
+    "title": {
+      "raw": "בית הבד של הגולן — Olea Essence",
+      "rendered": "בית הבד של הגולן — Olea Essence"
+    },
+    "link": "https://gonorth.co.il/places/%d7%91%d7%99%d7%aa-%d7%94%d7%91%d7%93-%d7%a9%d7%9c-%d7%94%d7%92%d7%95%d7%9c%d7%9f-olea-essence/",
+    "status": "publish",
+    "street": "דרך השמן 2, קצרין",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "קצרין",
+    "latitude": "32.986548",
+    "longitude": "35.708759",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 17,
+        "name": "אטרקציות",
+        "slug": "atraktziot-main"
+      },
+      {
+        "id": 33,
+        "name": "מסעדות",
+        "slug": "restaurants-sub"
+      }
+    ]
+  },
+  {
+    "id": "411",
+    "title": {
+      "raw": "מרכבות הבשן",
+      "rendered": "מרכבות הבשן"
+    },
+    "link": "https://gonorth.co.il/places/%d7%9e%d7%a8%d7%9b%d7%91%d7%95%d7%aa-%d7%94%d7%91%d7%a9%d7%9f/",
+    "status": "publish",
+    "street": "מושב אבני איתן, רמת הגולן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "אבני איתן",
+    "latitude": "32.820853",
+    "longitude": "35.771014",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 17,
+        "name": "אטרקציות",
+        "slug": "atraktziot-main"
+      },
+      {
+        "id": 20,
+        "name": "סיורים ופעילויות",
+        "slug": "tours"
+      }
+    ]
+  },
+  {
+    "id": "409",
+    "title": {
+      "raw": "מורשת גוש קטיף בגולן",
+      "rendered": "מורשת גוש קטיף בגולן"
+    },
+    "link": "https://gonorth.co.il/places/%d7%9e%d7%95%d7%a8%d7%a9%d7%aa-%d7%92%d7%95%d7%a9-%d7%a7%d7%98%d7%99%d7%a3-%d7%91%d7%92%d7%95%d7%9c%d7%9f/",
+    "status": "publish",
+    "street": "מושב אבני איתן, רמת הגולן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "אבני איתן",
+    "latitude": "32.824808",
+    "longitude": "35.765777",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 17,
+        "name": "אטרקציות",
+        "slug": "atraktziot-main"
+      }
+    ]
+  },
+  {
+    "id": "407",
+    "title": {
+      "raw": "אתר החרמון",
+      "rendered": "אתר החרמון"
+    },
+    "link": "https://gonorth.co.il/places/%d7%90%d7%aa%d7%a8-%d7%94%d7%97%d7%a8%d7%9e%d7%95%d7%9f/",
+    "status": "publish",
+    "street": "הר החרמון, רמת הגולן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "נווה אטי\"ב",
+    "latitude": "33.30799",
+    "longitude": "35.772672",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 17,
+        "name": "אטרקציות",
+        "slug": "atraktziot-main"
+      }
+    ]
+  },
+  {
+    "id": "405",
+    "title": {
+      "raw": "חמת גדר",
+      "rendered": "חמת גדר"
+    },
+    "link": "https://gonorth.co.il/places/%d7%97%d7%9e%d7%aa-%d7%92%d7%93%d7%a8/",
+    "status": "publish",
+    "street": "כביש 98, חמת גדר",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "חמת גדר",
+    "latitude": "32.683056",
+    "longitude": "35.663056",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 17,
+        "name": "אטרקציות",
+        "slug": "atraktziot-main"
+      }
+    ]
+  },
+  {
+    "id": "403",
+    "title": {
+      "raw": "קטיף עצמי הדובדבן שבגולן",
+      "rendered": "קטיף עצמי הדובדבן שבגולן"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a7%d7%98%d7%99%d7%a3-%d7%a2%d7%a6%d7%9e%d7%99-%d7%94%d7%93%d7%95%d7%91%d7%93%d7%91%d7%9f-%d7%a9%d7%91%d7%92%d7%95%d7%9c%d7%9f/",
+    "status": "publish",
+    "street": "שעל, רמת הגולן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "שעל",
+    "latitude": "33.163946",
+    "longitude": "35.718634",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 17,
+        "name": "אטרקציות",
+        "slug": "atraktziot-main"
+      }
+    ]
+  },
+  {
+    "id": "401",
+    "title": {
+      "raw": "Go Golan — טיולי ריינג׳רים",
+      "rendered": "Go Golan — טיולי ריינג׳רים"
+    },
+    "link": "https://gonorth.co.il/places/go-golan-%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%a8%d7%99%d7%99%d7%a0%d7%92%d7%b3%d7%a8%d7%99%d7%9d/",
+    "status": "publish",
+    "street": "דרך התמר, גבעת יואב",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "גבעת יואב",
+    "latitude": "32.797159",
+    "longitude": "35.685204",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 20,
+        "name": "סיורים ופעילויות",
+        "slug": "tours"
+      }
+    ]
+  },
+  {
+    "id": "399",
+    "title": {
+      "raw": "דה קרינה — שוקולד בוטיק",
+      "rendered": "דה קרינה — שוקולד בוטיק"
+    },
+    "link": "https://gonorth.co.il/places/%d7%93%d7%94-%d7%a7%d7%a8%d7%99%d7%a0%d7%94-%d7%a9%d7%95%d7%a7%d7%95%d7%9c%d7%93-%d7%91%d7%95%d7%98%d7%99%d7%a7/",
+    "status": "publish",
+    "street": "קיבוץ עין זיוון, רמת הגולן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "עין זיוון",
+    "latitude": "33.096705",
+    "longitude": "35.798676",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 17,
+        "name": "אטרקציות",
+        "slug": "atraktziot-main"
+      },
+      {
+        "id": 33,
+        "name": "מסעדות",
+        "slug": "restaurants-sub"
+      }
+    ]
+  },
+  {
+    "id": "397",
+    "title": {
+      "raw": "אתגר הבונקר",
+      "rendered": "אתגר הבונקר"
+    },
+    "link": "https://gonorth.co.il/places/%d7%90%d7%aa%d7%92%d7%a8-%d7%94%d7%91%d7%95%d7%a0%d7%a7%d7%a8/",
+    "status": "publish",
+    "street": "תל סאקי, דרום רמת הגולן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "",
+    "latitude": "32.865863",
+    "longitude": "35.829789",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 20,
+        "name": "סיורים ופעילויות",
+        "slug": "tours"
+      }
+    ]
+  },
+  {
+    "id": "395",
+    "title": {
+      "raw": "דיר עזיז — טבע עיזים גבינות",
+      "rendered": "דיר עזיז — טבע עיזים גבינות"
+    },
+    "link": "https://gonorth.co.il/places/%d7%93%d7%99%d7%a8-%d7%a2%d7%96%d7%99%d7%96-%d7%98%d7%91%d7%a2-%d7%a2%d7%99%d7%96%d7%99%d7%9d-%d7%92%d7%91%d7%99%d7%a0%d7%95%d7%aa/",
+    "status": "publish",
+    "street": "מושב כנף, רמת הגולן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "כנף",
+    "latitude": "32.871532",
+    "longitude": "35.697041",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 17,
+        "name": "אטרקציות",
+        "slug": "atraktziot-main"
+      },
+      {
+        "id": 33,
+        "name": "מסעדות",
+        "slug": "restaurants-sub"
+      }
+    ]
+  },
+  {
+    "id": "393",
+    "title": {
+      "raw": "קטיף עצמי נווה אטיב",
+      "rendered": "קטיף עצמי נווה אטיב"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a7%d7%98%d7%99%d7%a3-%d7%a2%d7%a6%d7%9e%d7%99-%d7%a0%d7%95%d7%95%d7%94-%d7%90%d7%98%d7%99%d7%91/",
+    "status": "publish",
+    "street": "מושב נווה אטיב, רמת הגולן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "נווה אטי\"ב",
+    "latitude": "33.26582",
+    "longitude": "35.745051",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 17,
+        "name": "אטרקציות",
+        "slug": "atraktziot-main"
+      }
+    ]
+  },
+  {
+    "id": "391",
+    "title": {
+      "raw": "War Zone Paintball",
+      "rendered": "War Zone Paintball"
+    },
+    "link": "https://gonorth.co.il/places/war-zone-paintball/",
+    "status": "publish",
+    "street": "עין קנייא, רמת הגולן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "עין קנייא",
+    "latitude": "33.238892",
+    "longitude": "35.724096",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 20,
+        "name": "סיורים ופעילויות",
+        "slug": "tours"
+      }
+    ]
+  },
+  {
+    "id": "389",
+    "title": {
+      "raw": "חוות שביט — כנף",
+      "rendered": "חוות שביט — כנף"
+    },
+    "link": "https://gonorth.co.il/places/%d7%97%d7%95%d7%95%d7%aa-%d7%a9%d7%91%d7%99%d7%98-%d7%9b%d7%a0%d7%a3/",
+    "status": "publish",
+    "street": "מושב כנף, רמת הגולן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "כנף",
+    "latitude": "32.870279",
+    "longitude": "35.706865",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 20,
+        "name": "סיורים ופעילויות",
+        "slug": "tours"
+      }
+    ]
+  },
+  {
+    "id": "387",
+    "title": {
+      "raw": "קטיף עצמי רוני",
+      "rendered": "קטיף עצמי רוני"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a7%d7%98%d7%99%d7%a3-%d7%a2%d7%a6%d7%9e%d7%99-%d7%a8%d7%95%d7%a0%d7%99/",
+    "status": "publish",
+    "street": "בוקעאתא, רמת הגולן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "בוקעאתא",
+    "latitude": "33.197303",
+    "longitude": "35.773971",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 17,
+        "name": "אטרקציות",
+        "slug": "atraktziot-main"
+      }
+    ]
+  },
+  {
+    "id": "385",
+    "title": {
+      "raw": "טיולי אתגר — Wild Adventures",
+      "rendered": "טיולי אתגר — Wild Adventures"
+    },
+    "link": "https://gonorth.co.il/places/%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%90%d7%aa%d7%92%d7%a8-wild-adventures/",
+    "status": "publish",
+    "street": "בית אורן, הר הכרמל",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "בית אורן",
+    "latitude": "32.727648",
+    "longitude": "35.015139",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 20,
+        "name": "סיורים ופעילויות",
+        "slug": "tours"
+      }
+    ]
+  },
+  {
+    "id": "383",
+    "title": {
+      "raw": "סנאבל — המרכז התיירותי הדרוזי",
+      "rendered": "סנאבל — המרכז התיירותי הדרוזי"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a1%d7%a0%d7%90%d7%91%d7%9c-%d7%94%d7%9e%d7%a8%d7%9b%d7%96-%d7%94%d7%aa%d7%99%d7%99%d7%a8%d7%95%d7%aa%d7%99-%d7%94%d7%93%d7%a8%d7%95%d7%96%d7%99/",
+    "status": "publish",
+    "street": "עין קנייא, רמת הגולן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "עין קנייא",
+    "latitude": "33.239984",
+    "longitude": "35.731978",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 33,
+        "name": "מסעדות",
+        "slug": "restaurants-sub"
+      },
+      {
+        "id": 20,
+        "name": "סיורים ופעילויות",
+        "slug": "tours"
+      }
+    ]
+  },
+  {
+    "id": "381",
+    "title": {
+      "raw": "חוויית ג׳יפים ורייזרים בגולן",
+      "rendered": "חוויית ג׳יפים ורייזרים בגולן"
+    },
+    "link": "https://gonorth.co.il/places/%d7%97%d7%95%d7%95%d7%99%d7%99%d7%aa-%d7%92%d7%b3%d7%99%d7%a4%d7%99%d7%9d-%d7%95%d7%a8%d7%99%d7%99%d7%96%d7%a8%d7%99%d7%9d-%d7%91%d7%92%d7%95%d7%9c%d7%9f/",
+    "status": "publish",
+    "street": "חד-נס, רמת הגולן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "חד נס",
+    "latitude": "32.935269",
+    "longitude": "35.636017",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 20,
+        "name": "סיורים ופעילויות",
+        "slug": "tours"
+      }
+    ]
+  },
+  {
+    "id": "379",
+    "title": {
+      "raw": "לימונטו — מרכז מבקרים",
+      "rendered": "לימונטו — מרכז מבקרים"
+    },
+    "link": "https://gonorth.co.il/places/%d7%9c%d7%99%d7%9e%d7%95%d7%a0%d7%98%d7%95-%d7%9e%d7%a8%d7%9b%d7%96-%d7%9e%d7%91%d7%a7%d7%a8%d7%99%d7%9d/",
+    "status": "publish",
+    "street": "דרך התמר, גבעת יואב",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "גבעת יואב",
+    "latitude": "32.796832",
+    "longitude": "35.685411",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 17,
+        "name": "אטרקציות",
+        "slug": "atraktziot-main"
+      },
+      {
+        "id": 33,
+        "name": "מסעדות",
+        "slug": "restaurants-sub"
+      }
+    ]
+  },
+  {
+    "id": "377",
+    "title": {
+      "raw": "בירה בזלת — מבשלת הגולן",
+      "rendered": "בירה בזלת — מבשלת הגולן"
+    },
+    "link": "https://gonorth.co.il/places/%d7%91%d7%99%d7%a8%d7%94-%d7%91%d7%96%d7%9c%d7%aa-%d7%9e%d7%91%d7%a9%d7%9c%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f/",
+    "status": "publish",
+    "street": "מתחם קסם הגולן, קצרין",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "קצרין",
+    "latitude": "32.987058",
+    "longitude": "35.707579",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 17,
+        "name": "אטרקציות",
+        "slug": "atraktziot-main"
+      },
+      {
+        "id": 33,
+        "name": "מסעדות",
+        "slug": "restaurants-sub"
+      }
+    ]
+  },
+  {
+    "id": "375",
+    "title": {
+      "raw": "הרפת הרובוטית",
+      "rendered": "הרפת הרובוטית"
+    },
+    "link": "https://gonorth.co.il/places/%d7%94%d7%a8%d7%a4%d7%aa-%d7%94%d7%a8%d7%95%d7%91%d7%95%d7%98%d7%99%d7%aa/",
+    "status": "publish",
+    "street": "משק 37, אבני איתן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "אבני איתן",
+    "latitude": "32.823149",
+    "longitude": "35.764073",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 17,
+        "name": "אטרקציות",
+        "slug": "atraktziot-main"
+      }
+    ]
+  },
+  {
+    "id": "373",
+    "title": {
+      "raw": "טיולי עששיות בפארק הירדן",
+      "rendered": "טיולי עששיות בפארק הירדן"
+    },
+    "link": "https://gonorth.co.il/places/%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%a2%d7%a9%d7%a9%d7%99%d7%95%d7%aa-%d7%91%d7%a4%d7%90%d7%a8%d7%a7-%d7%94%d7%99%d7%a8%d7%93%d7%9f/",
+    "status": "publish",
+    "street": "פארק הירדן, צפון הכנרת",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "חד נס",
+    "latitude": "32.915945",
+    "longitude": "35.630958",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 20,
+        "name": "סיורים ופעילויות",
+        "slug": "tours"
+      }
+    ]
+  },
+  {
+    "id": "371",
+    "title": {
+      "raw": "החווה התיירותית — בל עפרי",
+      "rendered": "החווה התיירותית — בל עפרי"
+    },
+    "link": "https://gonorth.co.il/places/%d7%94%d7%97%d7%95%d7%95%d7%94-%d7%94%d7%aa%d7%99%d7%99%d7%a8%d7%95%d7%aa%d7%99%d7%aa-%d7%91%d7%9c-%d7%a2%d7%a4%d7%a8%d7%99/",
+    "status": "publish",
+    "street": "מושב קדמת צבי, רמת הגולן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "קדמת צבי",
+    "latitude": "33.030466",
+    "longitude": "35.699016",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 17,
+        "name": "אטרקציות",
+        "slug": "atraktziot-main"
+      },
+      {
+        "id": 33,
+        "name": "מסעדות",
+        "slug": "restaurants-sub"
+      }
+    ]
+  },
+  {
+    "id": "369",
+    "title": {
+      "raw": "רייזר סטאר חד-נס",
+      "rendered": "רייזר סטאר חד-נס"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a8%d7%99%d7%99%d7%96%d7%a8-%d7%a1%d7%98%d7%90%d7%a8-%d7%97%d7%93-%d7%a0%d7%a1/",
+    "status": "publish",
+    "street": "חופים 35, חד-נס",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "חד נס",
+    "latitude": "32.926106",
+    "longitude": "35.642177",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 20,
+        "name": "סיורים ופעילויות",
+        "slug": "tours"
+      }
+    ]
+  },
+  {
+    "id": "367",
+    "title": {
+      "raw": "מזקקת גולני",
+      "rendered": "מזקקת גולני"
+    },
+    "link": "https://gonorth.co.il/places/%d7%9e%d7%96%d7%a7%d7%a7%d7%aa-%d7%92%d7%95%d7%9c%d7%a0%d7%99/",
+    "status": "publish",
+    "street": "אזור התעשייה, קצרין",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "קצרין",
+    "latitude": "32.993674",
+    "longitude": "35.71102",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 17,
+        "name": "אטרקציות",
+        "slug": "atraktziot-main"
+      },
+      {
+        "id": 33,
+        "name": "מסעדות",
+        "slug": "restaurants-sub"
+      }
+    ]
+  },
+  {
+    "id": "365",
+    "title": {
+      "raw": "ג׳י.פי.אס טיולי ג׳יפים",
+      "rendered": "ג׳י.פי.אס טיולי ג׳יפים"
+    },
+    "link": "https://gonorth.co.il/places/%d7%92%d7%b3%d7%99-%d7%a4%d7%99-%d7%90%d7%a1-%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%92%d7%b3%d7%99%d7%a4%d7%99%d7%9d/",
+    "status": "publish",
+    "street": "קיבוץ עין זיוון, רמת הגולן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "עין זיוון",
+    "latitude": "33.096656",
+    "longitude": "35.798246",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 20,
+        "name": "סיורים ופעילויות",
+        "slug": "tours"
+      }
+    ]
+  },
+  {
+    "id": "363",
+    "title": {
+      "raw": "יקב פלטר",
+      "rendered": "יקב פלטר"
+    },
+    "link": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%a4%d7%9c%d7%98%d7%a8/",
+    "status": "publish",
+    "street": "קיבוץ עין זיוון, רמת הגולן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "עין זיוון",
+    "latitude": "33.097034",
+    "longitude": "35.799596",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 36,
+        "name": "יקבים",
+        "slug": "yakavim"
+      }
+    ]
+  },
+  {
+    "id": "361",
+    "title": {
+      "raw": "העדי שבמטבח — סדנאות שוקולד",
+      "rendered": "העדי שבמטבח — סדנאות שוקולד"
+    },
+    "link": "https://gonorth.co.il/places/%d7%94%d7%a2%d7%93%d7%99-%d7%a9%d7%91%d7%9e%d7%98%d7%91%d7%97-%d7%a1%d7%93%d7%a0%d7%90%d7%95%d7%aa-%d7%a9%d7%95%d7%a7%d7%95%d7%9c%d7%93/",
+    "status": "publish",
+    "street": "עורב, חספין, רמת הגולן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "חיספין",
+    "latitude": "32.848356",
+    "longitude": "35.795228",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 33,
+        "name": "מסעדות",
+        "slug": "restaurants-sub"
+      },
+      {
+        "id": 20,
+        "name": "סיורים ופעילויות",
+        "slug": "tours"
+      }
+    ]
+  },
+  {
+    "id": "359",
+    "title": {
+      "raw": "מחלבת נטור — אוכל גבינות וחוויה כפרית בגולן",
+      "rendered": "מחלבת נטור — אוכל גבינות וחוויה כפרית בגולן"
+    },
+    "link": "https://gonorth.co.il/places/%d7%9e%d7%97%d7%9c%d7%91%d7%aa-%d7%a0%d7%98%d7%95%d7%a8-%d7%90%d7%95%d7%9b%d7%9c-%d7%92%d7%91%d7%99%d7%a0%d7%95%d7%aa-%d7%95%d7%97%d7%95%d7%95%d7%99%d7%94-%d7%9b%d7%a4%d7%a8%d7%99%d7%aa/",
+    "status": "publish",
+    "street": "מושב נטור, רמת הגולן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "נטור",
+    "latitude": "32.849141",
+    "longitude": "35.757777",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 17,
+        "name": "אטרקציות",
+        "slug": "atraktziot-main"
+      },
+      {
+        "id": 33,
+        "name": "מסעדות",
+        "slug": "restaurants-sub"
+      }
+    ]
+  },
+  {
+    "id": "357",
+    "title": {
+      "raw": "F Ranch",
+      "rendered": "F Ranch"
+    },
+    "link": "https://gonorth.co.il/places/f-ranch/",
+    "status": "publish",
+    "street": "מושב נטור, דרום רמת הגולן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "נטור",
+    "latitude": "32.854068",
+    "longitude": "35.752574",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 20,
+        "name": "סיורים ופעילויות",
+        "slug": "tours"
+      }
+    ]
+  },
+  {
+    "id": "355",
+    "title": {
+      "raw": "קול שופר — מרכז מבקרים",
+      "rendered": "קול שופר — מרכז מבקרים"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a7%d7%95%d7%9c-%d7%a9%d7%95%d7%a4%d7%a8-%d7%9e%d7%a8%d7%9b%d7%96-%d7%9e%d7%91%d7%a7%d7%a8%d7%99%d7%9d/",
+    "status": "publish",
+    "street": "מושב גבעת יואב, רמת הגולן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "גבעת יואב",
+    "latitude": "32.800199",
+    "longitude": "35.684042",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 17,
+        "name": "אטרקציות",
+        "slug": "atraktziot-main"
+      }
+    ]
+  },
+  {
+    "id": "353",
+    "title": {
+      "raw": "סאונדטראק — טיולי אוזניות בטבע",
+      "rendered": "סאונדטראק — טיולי אוזניות בטבע"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a1%d7%90%d7%95%d7%a0%d7%93%d7%98%d7%a8%d7%90%d7%a7-%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%90%d7%95%d7%96%d7%a0%d7%99%d7%95%d7%aa-%d7%91%d7%98%d7%91%d7%a2/",
+    "status": "publish",
+    "street": "מיצר, דרום רמת הגולן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "מיצר",
+    "latitude": "32.76976",
+    "longitude": "35.736485",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 20,
+        "name": "סיורים ופעילויות",
+        "slug": "tours"
+      }
+    ]
+  },
+  {
+    "id": "351",
+    "title": {
+      "raw": "ג׳ימי ג׳יפ — טיולי ג׳יפים",
+      "rendered": "ג׳ימי ג׳יפ — טיולי ג׳יפים"
+    },
+    "link": "https://gonorth.co.il/places/%d7%92%d7%b3%d7%99%d7%9e%d7%99-%d7%92%d7%b3%d7%99%d7%a4-%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%92%d7%b3%d7%99%d7%a4%d7%99%d7%9d/",
+    "status": "publish",
+    "street": "גבעת יואב, רמת הגולן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "גבעת יואב",
+    "latitude": "32.801127",
+    "longitude": "35.68444",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 20,
+        "name": "סיורים ופעילויות",
+        "slug": "tours"
+      }
+    ]
+  },
+  {
+    "id": "349",
+    "title": {
+      "raw": "מרכז מורשת שמן הזית — משק טוייסטר",
+      "rendered": "מרכז מורשת שמן הזית — משק טוייסטר"
+    },
+    "link": "https://gonorth.co.il/places/%d7%9e%d7%a8%d7%9b%d7%96-%d7%9e%d7%95%d7%a8%d7%a9%d7%aa-%d7%a9%d7%9e%d7%9f-%d7%94%d7%96%d7%99%d7%aa-%d7%9e%d7%a9%d7%a7-%d7%98%d7%95%d7%99%d7%99%d7%a1%d7%98%d7%a8/",
+    "status": "publish",
+    "street": "קיבוץ גבעת יואב, רמת הגולן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "גבעת יואב",
+    "latitude": "32.801217",
+    "longitude": "35.680911",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 17,
+        "name": "אטרקציות",
+        "slug": "atraktziot-main"
+      }
+    ]
+  },
+  {
+    "id": "347",
+    "title": {
+      "raw": "קטיף עצמי אל-רום",
+      "rendered": "קטיף עצמי אל-רום"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a7%d7%98%d7%99%d7%a3-%d7%a2%d7%a6%d7%9e%d7%99-%d7%90%d7%9c-%d7%a8%d7%95%d7%9d/",
+    "status": "publish",
+    "street": "קיבוץ אל-רום, רמת הגולן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "אל-רום",
+    "latitude": "33.173565",
+    "longitude": "35.804159",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 17,
+        "name": "אטרקציות",
+        "slug": "atraktziot-main"
+      }
+    ]
+  },
+  {
+    "id": "345",
+    "title": {
+      "raw": "בלום וילג׳ — כפר בלום",
+      "rendered": "בלום וילג׳ — כפר בלום"
+    },
+    "link": "https://gonorth.co.il/places/%d7%91%d7%9c%d7%95%d7%9d-%d7%95%d7%99%d7%9c%d7%92%d7%b3-%d7%9b%d7%a4%d7%a8-%d7%91%d7%9c%d7%95%d7%9d/",
+    "status": "publish",
+    "street": "Klor Center, כפר בלום",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "כפר בלום",
+    "latitude": "33.177315",
+    "longitude": "35.614566",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 18,
+        "name": "לינה",
+        "slug": "accommodation"
+      }
+    ]
+  },
+  {
+    "id": "343",
+    "title": {
+      "raw": "גלמפינג עין תאנה",
+      "rendered": "גלמפינג עין תאנה"
+    },
+    "link": "https://gonorth.co.il/places/%d7%92%d7%9c%d7%9e%d7%a4%d7%99%d7%a0%d7%92-%d7%a2%d7%99%d7%9f-%d7%aa%d7%90%d7%a0%d7%94/",
+    "status": "publish",
+    "street": "הגורן 219, גבעת יואב",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "גבעת יואב",
+    "latitude": "32.810609",
+    "longitude": "35.679909",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 18,
+        "name": "לינה",
+        "slug": "accommodation"
+      }
+    ]
+  },
+  {
+    "id": "341",
+    "title": {
+      "raw": "גלמפינג על הצוק — עין קיניא",
+      "rendered": "גלמפינג על הצוק — עין קיניא"
+    },
+    "link": "https://gonorth.co.il/places/%d7%92%d7%9c%d7%9e%d7%a4%d7%99%d7%a0%d7%92-%d7%a2%d7%9c-%d7%94%d7%a6%d7%95%d7%a7-%d7%a2%d7%99%d7%9f-%d7%a7%d7%99%d7%a0%d7%99%d7%90/",
+    "status": "publish",
+    "street": "עין קיניא, רמת הגולן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "עין קנייא",
+    "latitude": "33.236764",
+    "longitude": "35.731347",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 18,
+        "name": "לינה",
+        "slug": "accommodation"
+      }
+    ]
+  },
+  {
+    "id": "339",
+    "title": {
+      "raw": "גלמפינג קיבוץ אורטל",
+      "rendered": "גלמפינג קיבוץ אורטל"
+    },
+    "link": "https://gonorth.co.il/places/%d7%92%d7%9c%d7%9e%d7%a4%d7%99%d7%a0%d7%92-%d7%a7%d7%99%d7%91%d7%95%d7%a5-%d7%90%d7%95%d7%a8%d7%98%d7%9c/",
+    "status": "publish",
+    "street": "קיבוץ אורטל, רמת הגולן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "אורטל",
+    "latitude": "33.086301",
+    "longitude": "35.758384",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 18,
+        "name": "לינה",
+        "slug": "accommodation"
+      }
+    ]
+  },
+  {
+    "id": "337",
+    "title": {
+      "raw": "חוות סוסים — קיבוץ אורטל",
+      "rendered": "חוות סוסים — קיבוץ אורטל"
+    },
+    "link": "https://gonorth.co.il/places/%d7%97%d7%95%d7%95%d7%aa-%d7%a1%d7%95%d7%a1%d7%99%d7%9d-%d7%a7%d7%99%d7%91%d7%95%d7%a5-%d7%90%d7%95%d7%a8%d7%98%d7%9c/",
+    "status": "publish",
+    "street": "קיבוץ אורטל, רמת הגולן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "אורטל",
+    "latitude": "33.089668",
+    "longitude": "35.762899",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 20,
+        "name": "סיורים ופעילויות",
+        "slug": "tours"
+      }
+    ]
+  },
+  {
+    "id": "335",
+    "title": {
+      "raw": "גיל גולן — מרכז רכיבה",
+      "rendered": "גיל גולן — מרכז רכיבה"
+    },
+    "link": "https://gonorth.co.il/places/%d7%92%d7%99%d7%9c-%d7%92%d7%95%d7%9c%d7%9f-%d7%9e%d7%a8%d7%9b%d7%96-%d7%a8%d7%9b%d7%99%d7%91%d7%94/",
+    "status": "publish",
+    "street": "מושב אלוני הבשן, רמת הגולן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "אלוני הבשן",
+    "latitude": "33.041329",
+    "longitude": "35.836342",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 20,
+        "name": "סיורים ופעילויות",
+        "slug": "tours"
+      }
+    ]
+  },
+  {
+    "id": "333",
+    "title": {
+      "raw": "חוות הבוקרים — מרום גולן",
+      "rendered": "חוות הבוקרים — מרום גולן"
+    },
+    "link": "https://gonorth.co.il/places/%d7%97%d7%95%d7%95%d7%aa-%d7%94%d7%91%d7%95%d7%a7%d7%a8%d7%99%d7%9d-%d7%9e%d7%a8%d7%95%d7%9d-%d7%92%d7%95%d7%9c%d7%9f/",
+    "status": "publish",
+    "street": "קיבוץ מרום גולן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "מרום גולן",
+    "latitude": "33.130282",
+    "longitude": "35.779734",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 20,
+        "name": "סיורים ופעילויות",
+        "slug": "tours"
+      }
+    ]
+  },
+  {
+    "id": "331",
+    "title": {
+      "raw": "ורד הגליל",
+      "rendered": "ורד הגליל"
+    },
+    "link": "https://gonorth.co.il/places/%d7%95%d7%a8%d7%93-%d7%94%d7%92%d7%9c%d7%99%d7%9c/",
+    "status": "publish",
+    "street": "צומת כורזים, כביש 8277",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "כורזים",
+    "latitude": "32.90416",
+    "longitude": "35.550785",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 18,
+        "name": "לינה",
+        "slug": "accommodation"
+      },
+      {
+        "id": 20,
+        "name": "סיורים ופעילויות",
+        "slug": "tours"
+      }
+    ]
+  },
+  {
+    "id": "329",
+    "title": {
+      "raw": "חוות האושר — רכיבה על סוסים",
+      "rendered": "חוות האושר — רכיבה על סוסים"
+    },
+    "link": "https://gonorth.co.il/places/%d7%97%d7%95%d7%95%d7%aa-%d7%94%d7%90%d7%95%d7%a9%d7%a8-%d7%a8%d7%9b%d7%99%d7%91%d7%94-%d7%a2%d7%9c-%d7%a1%d7%95%d7%a1%d7%99%d7%9d/",
+    "status": "publish",
+    "street": "זוויתן, קצרין",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "קצרין",
+    "latitude": "32.988456",
+    "longitude": "35.690872",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 20,
+        "name": "סיורים ופעילויות",
+        "slug": "tours"
+      }
+    ]
+  },
+  {
+    "id": "327",
+    "title": {
+      "raw": "חמי טבריה",
+      "rendered": "חמי טבריה"
+    },
+    "link": "https://gonorth.co.il/places/%d7%97%d7%9e%d7%99-%d7%98%d7%91%d7%a8%d7%99%d7%94/",
+    "status": "publish",
+    "street": "שדרות אליעזר קפלן, טבריה",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "טבריה",
+    "latitude": "32.767735",
+    "longitude": "35.550377",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 17,
+        "name": "אטרקציות",
+        "slug": "atraktziot-main"
+      }
+    ]
+  },
+  {
+    "id": "325",
+    "title": {
+      "raw": "רפטינג נהר הירדן",
+      "rendered": "רפטינג נהר הירדן"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a8%d7%a4%d7%98%d7%99%d7%a0%d7%92-%d7%a0%d7%94%d7%a8-%d7%94%d7%99%d7%a8%d7%93%d7%9f/",
+    "status": "publish",
+    "street": "קיבוץ גדות",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "גדות",
+    "latitude": "33.025279",
+    "longitude": "35.627449",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 20,
+        "name": "סיורים ופעילויות",
+        "slug": "tours"
+      }
+    ]
+  },
+  {
+    "id": "323",
+    "title": {
+      "raw": "קייקי כפר בלום",
+      "rendered": "קייקי כפר בלום"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a7%d7%99%d7%99%d7%a7%d7%99-%d7%9b%d7%a4%d7%a8-%d7%91%d7%9c%d7%95%d7%9d/",
+    "status": "publish",
+    "street": "קיבוץ כפר בלום, גליל עליון",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "כפר בלום",
+    "latitude": "33.176154",
+    "longitude": "35.614267",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 20,
+        "name": "סיורים ופעילויות",
+        "slug": "tours"
+      }
+    ]
+  },
+  {
+    "id": "248",
+    "title": {
+      "raw": "מטאור — תצפיות כוכבים",
+      "rendered": "מטאור — תצפיות כוכבים"
+    },
+    "link": "https://gonorth.co.il/places/%d7%9e%d7%98%d7%90%d7%95%d7%a8-%d7%aa%d7%a6%d7%a4%d7%99%d7%95%d7%aa-%d7%9b%d7%95%d7%9b%d7%91%d7%99%d7%9d/",
+    "status": "publish",
+    "street": "מושב שאל, רמת הגולן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "שעל",
+    "latitude": "33.17",
+    "longitude": "35.76",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 17,
+        "name": "אטרקציות",
+        "slug": "atraktziot-main"
+      }
+    ]
+  },
+  {
+    "id": "246",
+    "title": {
+      "raw": "אינדי פארק",
+      "rendered": "אינדי פארק"
+    },
+    "link": "https://gonorth.co.il/places/%d7%90%d7%99%d7%a0%d7%93%d7%99-%d7%a4%d7%90%d7%a8%d7%a7/",
+    "status": "publish",
+    "street": "נהר הירדן, יסוד המעלה",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "יסוד המעלה",
+    "latitude": "33.0718",
+    "longitude": "35.6206",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 17,
+        "name": "אטרקציות",
+        "slug": "atraktziot-main"
+      }
+    ]
+  },
+  {
+    "id": "244",
+    "title": {
+      "raw": "יקב בן זמרה",
+      "rendered": "יקב בן זמרה"
+    },
+    "link": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%91%d7%9f-%d7%96%d7%9e%d7%a8%d7%94/",
+    "status": "publish",
+    "street": "כרם בן זמרה, גליל עליון",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "כרם בן זמרה",
+    "latitude": "33.002",
+    "longitude": "35.25",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 36,
+        "name": "יקבים",
+        "slug": "yakavim"
+      }
+    ]
+  },
+  {
+    "id": "242",
+    "title": {
+      "raw": "יקב אדיר",
+      "rendered": "יקב אדיר"
+    },
+    "link": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%90%d7%93%d7%99%d7%a8/",
+    "status": "publish",
+    "street": "פארק תעשיות דלתון, גליל עליון",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "דלתון",
+    "latitude": "32.9946",
+    "longitude": "35.4333",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 36,
+        "name": "יקבים",
+        "slug": "yakavim"
+      }
+    ]
+  },
+  {
+    "id": "240",
+    "title": {
+      "raw": "יקב הרי גליל",
+      "rendered": "יקב הרי גליל"
+    },
+    "link": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%94%d7%a8%d7%99-%d7%92%d7%9c%d7%99%d7%9c/",
+    "status": "publish",
+    "street": "קיבוץ יראון, מרום הגליל",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "יראון",
+    "latitude": "33.078434",
+    "longitude": "35.448469",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 36,
+        "name": "יקבים",
+        "slug": "yakavim"
+      }
+    ]
+  },
+  {
+    "id": "237",
+    "title": {
+      "raw": "יקב שאטו גולן",
+      "rendered": "יקב שאטו גולן"
+    },
+    "link": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%a9%d7%90%d7%98%d7%95-%d7%92%d7%95%d7%9c%d7%9f/",
+    "status": "publish",
+    "street": "מושב אליעד, גולן דרומי",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "אליעד",
+    "latitude": "32.773",
+    "longitude": "35.73",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 36,
+        "name": "יקבים",
+        "slug": "yakavim"
+      }
+    ]
+  },
+  {
+    "id": "235",
+    "title": {
+      "raw": "יקב תל שיפון",
+      "rendered": "יקב תל שיפון"
+    },
+    "link": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%aa%d7%9c-%d7%a9%d7%99%d7%a4%d7%95%d7%9f/",
+    "status": "publish",
+    "street": "קיבוץ אורטל, גולן צפוני",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "אורטל",
+    "latitude": "33.2507",
+    "longitude": "35.7764",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 36,
+        "name": "יקבים",
+        "slug": "yakavim"
+      },
+      {
+        "id": 33,
+        "name": "מסעדות",
+        "slug": "restaurants-sub"
+      }
+    ]
+  },
+  {
+    "id": "233",
+    "title": {
+      "raw": "הקרון בכפר יהושוע",
+      "rendered": "הקרון בכפר יהושוע"
+    },
+    "link": "https://gonorth.co.il/places/%d7%94%d7%a7%d7%a8%d7%95%d7%9f-%d7%91%d7%9b%d7%a4%d7%a8-%d7%99%d7%94%d7%95%d7%a9%d7%95%d7%a2/",
+    "status": "publish",
+    "street": "משתלת שמיר, כפר יהושוע, עמק יזרעאל",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "כפר יהושע",
+    "latitude": "32.7186",
+    "longitude": "35.1378",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 38,
+        "name": "עגלות קפה",
+        "slug": "agalot-kafe"
+      }
+    ]
+  },
+  {
+    "id": "231",
+    "title": {
+      "raw": "עספורה",
+      "rendered": "עספורה"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a2%d7%a1%d7%a4%d7%95%d7%a8%d7%94/",
+    "status": "publish",
+    "street": "רפת ישנה, קיבוץ הרדוף, גליל תחתון",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "הרדוף",
+    "latitude": "32.762018",
+    "longitude": "35.176081",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 38,
+        "name": "עגלות קפה",
+        "slug": "agalot-kafe"
+      }
+    ]
+  },
+  {
+    "id": "229",
+    "title": {
+      "raw": "שישו קפה",
+      "rendered": "שישו קפה"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a9%d7%99%d7%a9%d7%95-%d7%a7%d7%a4%d7%94/",
+    "status": "publish",
+    "street": "משק אבנעים, מושב הזורעים, גליל תחתון",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "הזורעים",
+    "latitude": "32.7003",
+    "longitude": "35.3717",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 38,
+        "name": "עגלות קפה",
+        "slug": "agalot-kafe"
+      }
+    ]
+  },
+  {
+    "id": "228",
+    "title": {
+      "raw": "קופיש Coffish",
+      "rendered": "קופיש Coffish"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a7%d7%95%d7%a4%d7%99%d7%a9-coffish/",
+    "status": "publish",
+    "street": "נמל קיבוץ עין גב, חוף כינרת מזרחי",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "עין גב",
+    "latitude": "32.7833",
+    "longitude": "35.64",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 38,
+        "name": "עגלות קפה",
+        "slug": "agalot-kafe"
+      }
+    ]
+  },
+  {
+    "id": "225",
+    "title": {
+      "raw": "עגלת קפה החלוצים",
+      "rendered": "עגלת קפה החלוצים"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a2%d7%92%d7%9c%d7%aa-%d7%a7%d7%a4%d7%94-%d7%94%d7%97%d7%9c%d7%95%d7%a6%d7%99%d7%9d/",
+    "status": "publish",
+    "street": "שכונת החלוצים, ראש פינה",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "ראש פינה",
+    "latitude": "32.9659",
+    "longitude": "35.54",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 38,
+        "name": "עגלות קפה",
+        "slug": "agalot-kafe"
+      }
+    ]
+  },
+  {
+    "id": "223",
+    "title": {
+      "raw": "מיקה",
+      "rendered": "מיקה"
+    },
+    "link": "https://gonorth.co.il/places/%d7%9e%d7%99%d7%a7%d7%94/",
+    "status": "publish",
+    "street": "קיבוץ אילון, גליל מערבי",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "אילון",
+    "latitude": "",
+    "longitude": "",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 38,
+        "name": "עגלות קפה",
+        "slug": "agalot-kafe"
+      }
+    ]
+  },
+  {
+    "id": "221",
+    "title": {
+      "raw": "אסתר — קפה ובישולים לדרך",
+      "rendered": "אסתר — קפה ובישולים לדרך"
+    },
+    "link": "https://gonorth.co.il/places/%d7%90%d7%a1%d7%aa%d7%a8-%d7%a7%d7%a4%d7%94-%d7%95%d7%91%d7%99%d7%a9%d7%95%d7%9c%d7%99%d7%9d-%d7%9c%d7%93%d7%a8%d7%9a/",
+    "status": "publish",
+    "street": "מושב שתולה, גליל מערבי",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "שתולה",
+    "latitude": "",
+    "longitude": "",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 38,
+        "name": "עגלות קפה",
+        "slug": "agalot-kafe"
+      }
+    ]
+  },
+  {
+    "id": "219",
+    "title": {
+      "raw": "עגלת קפה מיכאל",
+      "rendered": "עגלת קפה מיכאל"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a2%d7%92%d7%9c%d7%aa-%d7%a7%d7%a4%d7%94-%d7%9e%d7%99%d7%9b%d7%90%d7%9c/",
+    "status": "publish",
+    "street": "קיבוץ שדה נחמיה, גליל עליון",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "שדה נחמיה",
+    "latitude": "",
+    "longitude": "",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 38,
+        "name": "עגלות קפה",
+        "slug": "agalot-kafe"
+      }
+    ]
+  },
+  {
+    "id": "217",
+    "title": {
+      "raw": "קפה התן",
+      "rendered": "קפה התן"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a7%d7%a4%d7%94-%d7%94%d7%aa%d7%9f/",
+    "status": "publish",
+    "street": "כניסה צפונית לבית הילל, גליל עליון",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "בית הלל",
+    "latitude": "",
+    "longitude": "",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 38,
+        "name": "עגלות קפה",
+        "slug": "agalot-kafe"
+      }
+    ]
+  },
+  {
+    "id": "215",
+    "title": {
+      "raw": "קפה קירשנר",
+      "rendered": "קפה קירשנר"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a7%d7%a4%d7%94-%d7%a7%d7%99%d7%a8%d7%a9%d7%a0%d7%a8/",
+    "status": "publish",
+    "street": "בית לחם הגלילית, עמק יזרעאל",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "בית לחם הגלילית",
+    "latitude": "32.6931",
+    "longitude": "35.2008",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 38,
+        "name": "עגלות קפה",
+        "slug": "agalot-kafe"
+      }
+    ]
+  },
+  {
+    "id": "213",
+    "title": {
+      "raw": "דורא עגלת קפה",
+      "rendered": "דורא עגלת קפה"
+    },
+    "link": "https://gonorth.co.il/places/%d7%93%d7%95%d7%a8%d7%90-%d7%a2%d7%92%d7%9c%d7%aa-%d7%a7%d7%a4%d7%94/",
+    "status": "publish",
+    "street": "משתלת הגולן, מושב נוב, גולן דרומי",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "נוב",
+    "latitude": "32.786",
+    "longitude": "35.692",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 38,
+        "name": "עגלות קפה",
+        "slug": "agalot-kafe"
+      }
+    ]
+  },
+  {
+    "id": "212",
+    "title": {
+      "raw": "קפה חמה",
+      "rendered": "קפה חמה"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a7%d7%a4%d7%94-%d7%97%d7%9e%d7%94/",
+    "status": "publish",
+    "street": "קיבוץ מבוא חמה, גולן דרומי",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "מבוא חמה",
+    "latitude": "32.73085",
+    "longitude": "35.65236",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 38,
+        "name": "עגלות קפה",
+        "slug": "agalot-kafe"
+      }
+    ]
+  },
+  {
+    "id": "209",
+    "title": {
+      "raw": "דה פייפ קפה",
+      "rendered": "דה פייפ קפה"
+    },
+    "link": "https://gonorth.co.il/places/%d7%93%d7%94-%d7%a4%d7%99%d7%99%d7%a4-%d7%a7%d7%a4%d7%94/",
+    "status": "publish",
+    "street": "מושב רמות, רמת הגולן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "רמות",
+    "latitude": "32.8506",
+    "longitude": "35.6666",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 38,
+        "name": "עגלות קפה",
+        "slug": "agalot-kafe"
+      }
+    ]
+  },
+  {
+    "id": "207",
+    "title": {
+      "raw": "נינו עגלת קפה",
+      "rendered": "נינו עגלת קפה"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a0%d7%99%d7%a0%d7%95-%d7%a2%d7%92%d7%9c%d7%aa-%d7%a7%d7%a4%d7%94/",
+    "status": "publish",
+    "street": "מעלה גמלא, רמת הגולן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "מעלה גמלא",
+    "latitude": "32.8904543",
+    "longitude": "35.6833482",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 38,
+        "name": "עגלות קפה",
+        "slug": "agalot-kafe"
+      }
+    ]
+  },
+  {
+    "id": "204",
+    "title": {
+      "raw": "קפה מוייז",
+      "rendered": "קפה מוייז"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a7%d7%a4%d7%94-%d7%9e%d7%95%d7%99%d7%99%d7%96/",
+    "status": "publish",
+    "street": "מושב רמות, רמת הגולן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "רמות",
+    "latitude": "32.8506",
+    "longitude": "35.6666",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 38,
+        "name": "עגלות קפה",
+        "slug": "agalot-kafe"
+      }
+    ]
+  },
+  {
+    "id": "202",
+    "title": {
+      "raw": "חלהוולאוו",
+      "rendered": "חלהוולאוו"
+    },
+    "link": "https://gonorth.co.il/places/%d7%97%d7%9c%d7%94%d7%95%d7%95%d7%9c%d7%90%d7%95%d7%95/",
+    "status": "publish",
+    "street": "מושב אודם, רמת הגולן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "אודם",
+    "latitude": "33.192",
+    "longitude": "35.7518",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 38,
+        "name": "עגלות קפה",
+        "slug": "agalot-kafe"
+      }
+    ]
+  },
+  {
+    "id": "198",
+    "title": {
+      "raw": "יקב דלתון",
+      "rendered": "יקב דלתון"
+    },
+    "link": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%93%d7%9c%d7%aa%d7%95%d7%9f/",
+    "status": "publish",
+    "street": "פארק תעשיות מרום הגליל, מושב דלתון",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "דלתון",
+    "latitude": "33.027853",
+    "longitude": "35.47685",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 36,
+        "name": "יקבים",
+        "slug": "yakavim"
+      }
+    ]
+  },
+  {
+    "id": "197",
+    "title": {
+      "raw": "יקב רמות נפתלי",
+      "rendered": "יקב רמות נפתלי"
+    },
+    "link": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%a8%d7%9e%d7%95%d7%aa-%d7%a0%d7%a4%d7%aa%d7%9c%d7%99/",
+    "status": "publish",
+    "street": "מושב רמות נפתלי, גליל עליון",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "רמות נפתלי",
+    "latitude": "33.094",
+    "longitude": "35.529",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 36,
+        "name": "יקבים",
+        "slug": "yakavim"
+      }
+    ]
+  },
+  {
+    "id": "195",
+    "title": {
+      "raw": "מפגש היקב — עמיעד",
+      "rendered": "מפגש היקב — עמיעד"
+    },
+    "link": "https://gonorth.co.il/places/%d7%9e%d7%a4%d7%92%d7%a9-%d7%94%d7%99%d7%a7%d7%91-%d7%a2%d7%9e%d7%99%d7%a2%d7%93/",
+    "status": "publish",
+    "street": "קיבוץ עמיעד, גליל עליון",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "עמיעד",
+    "latitude": "32.917",
+    "longitude": "35.571",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 36,
+        "name": "יקבים",
+        "slug": "yakavim"
+      }
+    ]
+  },
+  {
+    "id": "193",
+    "title": {
+      "raw": "יקב רמת הגולן",
+      "rendered": "יקב רמת הגולן"
+    },
+    "link": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%a8%d7%9e%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f/",
+    "status": "publish",
+    "street": "אזור תעשייה קצרין, רמת הגולן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "קצרין",
+    "latitude": "32.988575",
+    "longitude": "35.708596",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 36,
+        "name": "יקבים",
+        "slug": "yakavim"
+      }
+    ]
+  },
+  {
+    "id": "191",
+    "title": {
+      "raw": "שמורת טבע הבניאס",
+      "rendered": "שמורת טבע הבניאס"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%91%d7%a0%d7%99%d7%90%d7%a1/",
+    "status": "publish",
+    "street": "כביש 99, שניר, גולן צפוני",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "שניר",
+    "latitude": "33.247485",
+    "longitude": "35.693717",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 35,
+        "name": "טבע ומסלולים",
+        "slug": "teva"
+      }
+    ]
+  },
+  {
+    "id": "189",
+    "title": {
+      "raw": "שמורת טבע יהודיה",
+      "rendered": "שמורת טבע יהודיה"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%99%d7%94%d7%95%d7%93%d7%99%d7%94/",
+    "status": "publish",
+    "street": "כביש 87, שמורת יהודיה, מרכז הגולן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "",
+    "latitude": "32.941991",
+    "longitude": "35.701102",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 35,
+        "name": "טבע ומסלולים",
+        "slug": "teva"
+      }
+    ]
+  },
+  {
+    "id": "187",
+    "title": {
+      "raw": "שמורת טבע נחל המשושים",
+      "rendered": "שמורת טבע נחל המשושים"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%94%d7%9e%d7%a9%d7%95%d7%a9%d7%99%d7%9d/",
+    "status": "publish",
+    "street": "כביש 888, ליד כפר חד-נס, רמת הגולן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "חד נס",
+    "latitude": "32.938867",
+    "longitude": "35.665318",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 35,
+        "name": "טבע ומסלולים",
+        "slug": "teva"
+      }
+    ]
+  },
+  {
+    "id": "185",
+    "title": {
+      "raw": "גן מורד הירדן",
+      "rendered": "גן מורד הירדן"
+    },
+    "link": "https://gonorth.co.il/places/%d7%92%d7%9f-%d7%9e%d7%95%d7%a8%d7%93-%d7%94%d7%99%d7%a8%d7%93%d7%9f/",
+    "status": "publish",
+    "street": "לאורך נהר הירדן, סמוך לדגניה א",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "מנחמיה",
+    "latitude": "32.675939",
+    "longitude": "35.558367",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 35,
+        "name": "טבע ומסלולים",
+        "slug": "teva"
+      }
+    ]
+  },
+  {
+    "id": "183",
+    "title": {
+      "raw": "רוג'ום — קיר טיפוס בקריית שמונה",
+      "rendered": "רוג'ום — קיר טיפוס בקריית שמונה"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a8%d7%95%d7%92%d7%95%d7%9d-%d7%a7%d7%99%d7%a8-%d7%98%d7%99%d7%a4%d7%95%d7%a1-%d7%91%d7%a7%d7%a8%d7%99%d7%99%d7%aa-%d7%a9%d7%9e%d7%95%d7%a0%d7%94/",
+    "status": "publish",
+    "street": "כיכר ההסתדרות 4, קריית שמונה",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "קריית שמונה",
+    "latitude": "33.207",
+    "longitude": "35.569",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 20,
+        "name": "סיורים ופעילויות",
+        "slug": "tours"
+      }
+    ]
+  },
+  {
+    "id": "181",
+    "title": {
+      "raw": "חוות בת יער",
+      "rendered": "חוות בת יער"
+    },
+    "link": "https://gonorth.co.il/places/%d7%97%d7%95%d7%95%d7%aa-%d7%91%d7%aa-%d7%99%d7%a2%d7%a8/",
+    "status": "publish",
+    "street": "מצפה עמוקה, יער ביריה, גליל עליון",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "עמוקה",
+    "latitude": "32.9969",
+    "longitude": "35.5174",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 17,
+        "name": "אטרקציות",
+        "slug": "atraktziot-main"
+      },
+      {
+        "id": 33,
+        "name": "מסעדות",
+        "slug": "restaurants-sub"
+      }
+    ]
+  },
+  {
+    "id": "179",
+    "title": {
+      "raw": "עין דיבשה",
+      "rendered": "עין דיבשה"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a2%d7%99%d7%9f-%d7%93%d7%99%d7%91%d7%a9%d7%94/",
+    "status": "publish",
+    "street": "כביש 918, כ-3.7 קמ מדרום לצומת גונן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "גונן",
+    "latitude": "33.069",
+    "longitude": "35.63",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 35,
+        "name": "טבע ומסלולים",
+        "slug": "teva"
+      }
+    ]
+  },
+  {
+    "id": "177",
+    "title": {
+      "raw": "עין תינה",
+      "rendered": "עין תינה"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a2%d7%99%d7%9f-%d7%aa%d7%99%d7%a0%d7%94/",
+    "status": "publish",
+    "street": "כביש 918, ק\"מ 23, בין גדות לגונן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "גונן",
+    "latitude": "33.07866",
+    "longitude": "35.64322",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 35,
+        "name": "טבע ומסלולים",
+        "slug": "teva"
+      }
+    ]
+  },
+  {
+    "id": "175",
+    "title": {
+      "raw": "גן לאומי תל חצור",
+      "rendered": "גן לאומי תל חצור"
+    },
+    "link": "https://gonorth.co.il/places/%d7%92%d7%9f-%d7%9c%d7%90%d7%95%d7%9e%d7%99-%d7%aa%d7%9c-%d7%97%d7%a6%d7%95%d7%a8/",
+    "status": "publish",
+    "street": "כביש 90, מול קיבוץ איילת השחר, גליל עליון",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "איילת השחר",
+    "latitude": "33.01749",
+    "longitude": "35.56817",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 17,
+        "name": "אטרקציות",
+        "slug": "atraktziot-main"
+      }
+    ]
+  },
+  {
+    "id": "173",
+    "title": {
+      "raw": "אגמון החולה",
+      "rendered": "אגמון החולה"
+    },
+    "link": "https://gonorth.co.il/places/%d7%90%d7%92%d7%9e%d7%95%d7%9f-%d7%94%d7%97%d7%95%d7%9c%d7%94/",
+    "status": "publish",
+    "street": "כביש 90, עמק החולה, ליד יסוד המעלה",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "יסוד המעלה",
+    "latitude": "33.11107",
+    "longitude": "35.58494",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 35,
+        "name": "טבע ומסלולים",
+        "slug": "teva"
+      }
+    ]
+  },
+  {
+    "id": "171",
+    "title": {
+      "raw": "שמורת טבע נחל כזיב",
+      "rendered": "שמורת טבע נחל כזיב"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%9b%d7%96%d7%99%d7%91/",
+    "status": "publish",
+    "street": "גליל מערבי, בין מעלות-תרשיחא להילה",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "הילה",
+    "latitude": "33.04378",
+    "longitude": "35.25647",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 35,
+        "name": "טבע ומסלולים",
+        "slug": "teva"
+      }
+    ]
+  },
+  {
+    "id": "169",
+    "title": {
+      "raw": "שמורת טבע הר מירון",
+      "rendered": "שמורת טבע הר מירון"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%a8-%d7%9e%d7%99%d7%a8%d7%95%d7%9f/",
+    "status": "publish",
+    "street": "כביש 89, מירון, גליל עליון",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "מירון",
+    "latitude": "32.99025",
+    "longitude": "35.40499",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 35,
+        "name": "טבע ומסלולים",
+        "slug": "teva"
+      }
+    ]
+  },
+  {
+    "id": "167",
+    "title": {
+      "raw": "קידס לנד — אתגר הנינג'ה לילדים",
+      "rendered": "קידס לנד — אתגר הנינג'ה לילדים"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a7%d7%99%d7%93%d7%a1-%d7%9c%d7%a0%d7%93-%d7%90%d7%aa%d7%92%d7%a8-%d7%94%d7%a0%d7%99%d7%a0%d7%92%d7%94-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d/",
+    "status": "publish",
+    "street": "מגד אל-כרום, גליל תחתון",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "מג'ד אל-כרום",
+    "latitude": "32.924",
+    "longitude": "35.24",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 20,
+        "name": "סיורים ופעילויות",
+        "slug": "tours"
+      }
+    ]
+  },
+  {
+    "id": "165",
+    "title": {
+      "raw": "פיינטבול הגושרים",
+      "rendered": "פיינטבול הגושרים"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a4%d7%99%d7%99%d7%a0%d7%98%d7%91%d7%95%d7%9c-%d7%94%d7%92%d7%95%d7%a9%d7%a8%d7%99%d7%9d/",
+    "status": "publish",
+    "street": "קיבוץ הגושרים, אצבע הגליל",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "הגושרים",
+    "latitude": "33.217",
+    "longitude": "35.627",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 20,
+        "name": "סיורים ופעילויות",
+        "slug": "tours"
+      }
+    ]
+  },
+  {
+    "id": "161",
+    "title": {
+      "raw": "עזיזו — לבנדר מהגולן",
+      "rendered": "עזיזו — לבנדר מהגולן"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a2%d7%96%d7%99%d7%96%d7%95-%d7%9c%d7%91%d7%a0%d7%93%d7%a8-%d7%9e%d7%94%d7%92%d7%95%d7%9c%d7%9f/",
+    "status": "publish",
+    "street": "חווה 76, מושב כנף, רמת הגולן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "כנף",
+    "latitude": "32.8682",
+    "longitude": "35.70143",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 17,
+        "name": "אטרקציות",
+        "slug": "atraktziot-main"
+      }
+    ]
+  },
+  {
+    "id": "159",
+    "title": {
+      "raw": "לול ארט",
+      "rendered": "לול ארט"
+    },
+    "link": "https://gonorth.co.il/places/%d7%9c%d7%95%d7%9c-%d7%90%d7%a8%d7%98/",
+    "status": "publish",
+    "street": "מושב רמות, רמת הגולן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "רמות",
+    "latitude": "32.8494",
+    "longitude": "35.6675",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 17,
+        "name": "אטרקציות",
+        "slug": "atraktziot-main"
+      }
+    ]
+  },
+  {
+    "id": "157",
+    "title": {
+      "raw": "כפר החיות בכפר גלעדי",
+      "rendered": "כפר החיות בכפר גלעדי"
+    },
+    "link": "https://gonorth.co.il/places/%d7%9b%d7%a4%d7%a8-%d7%94%d7%97%d7%99%d7%95%d7%aa-%d7%91%d7%9b%d7%a4%d7%a8-%d7%92%d7%9c%d7%a2%d7%93%d7%99/",
+    "status": "publish",
+    "street": "קיבוץ כפר גלעדי, גליל עליון",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "כפר גלעדי",
+    "latitude": "33.2425",
+    "longitude": "35.575",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 17,
+        "name": "אטרקציות",
+        "slug": "atraktziot-main"
+      }
+    ]
+  },
+  {
+    "id": "149",
+    "title": {
+      "raw": "דג על הדן",
+      "rendered": "דג על הדן"
+    },
+    "link": "https://gonorth.co.il/places/%d7%93%d7%92-%d7%a2%d7%9c-%d7%94%d7%93%d7%9f/",
+    "status": "publish",
+    "street": "כביש 99, הגושרים",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "הגושרים",
+    "latitude": "33.228241",
+    "longitude": "35.62389",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 33,
+        "name": "מסעדות",
+        "slug": "restaurants-sub"
+      }
+    ]
+  },
+  {
+    "id": "89",
+    "title": {
+      "raw": "שמורת טבע נחל שניר (חצבאני)",
+      "rendered": "שמורת טבע נחל שניר (חצבאני)"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%a9%d7%a0%d7%99%d7%a8-%d7%97%d7%a6%d7%91%d7%90%d7%a0%d7%99/",
+    "status": "publish",
+    "street": "כביש 99, 4.5 ק\"מ מזרחית לצומת המצודות, ליד קיבוץ הגושרים",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "הגושרים",
+    "latitude": "33.23133",
+    "longitude": "35.62556",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 35,
+        "name": "טבע ומסלולים",
+        "slug": "teva"
+      }
+    ]
+  },
+  {
+    "id": "88",
+    "title": {
+      "raw": "שמורת נחל הקיבוצים",
+      "rendered": "שמורת נחל הקיבוצים"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%a0%d7%97%d7%9c-%d7%94%d7%a7%d7%99%d7%91%d7%95%d7%a6%d7%99%d7%9d/",
+    "status": "publish",
+    "street": "כביש 669, ליד קיבוץ ניר דוד, בקעת בית שאן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "ניר דוד",
+    "latitude": "32.49615",
+    "longitude": "35.45116",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 35,
+        "name": "טבע ומסלולים",
+        "slug": "teva"
+      }
+    ]
+  },
+  {
+    "id": "87",
+    "title": {
+      "raw": "גן גורו — הפארק האוסטרלי",
+      "rendered": "גן גורו — הפארק האוסטרלי"
+    },
+    "link": "https://gonorth.co.il/places/%d7%92%d7%9f-%d7%92%d7%95%d7%a8%d7%95-%d7%94%d7%a4%d7%90%d7%a8%d7%a7-%d7%94%d7%90%d7%95%d7%a1%d7%98%d7%a8%d7%9c%d7%99/",
+    "status": "publish",
+    "street": "קיבוץ ניר דוד, עמק המעיינות",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "ניר דוד",
+    "latitude": "32.50776",
+    "longitude": "35.44827",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 17,
+        "name": "אטרקציות",
+        "slug": "atraktziot-main"
+      }
+    ]
+  },
+  {
+    "id": "86",
+    "title": {
+      "raw": "פארק המעיינות",
+      "rendered": "פארק המעיינות"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a4%d7%90%d7%a8%d7%a7-%d7%94%d7%9e%d7%a2%d7%99%d7%99%d7%a0%d7%95%d7%aa/",
+    "status": "publish",
+    "street": "כביש 669 ליד גן השלושה, ניר דוד",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "ניר דוד",
+    "latitude": "32.50354",
+    "longitude": "35.448704",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 17,
+        "name": "אטרקציות",
+        "slug": "atraktziot-main"
+      }
+    ]
+  },
+  {
+    "id": "63",
+    "title": {
+      "raw": "כנען וילאג׳ - מלון בוטיק וספא בצפון",
+      "rendered": "כנען וילאג׳ &#8211; מלון בוטיק וספא בצפון"
+    },
+    "link": "https://gonorth.co.il/places/%d7%9b%d7%a0%d7%a2%d7%9f-%d7%95%d7%99%d7%9c%d7%90%d7%92%d7%b3-%d7%9e%d7%9c%d7%95%d7%9f-%d7%91%d7%95%d7%98%d7%99%d7%a7-%d7%95%d7%a1%d7%a4%d7%90-%d7%91%d7%a6%d7%a4%d7%95%d7%9f/",
+    "status": "publish",
+    "street": "חד נס 13",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "חד נס",
+    "latitude": "32.9253878",
+    "longitude": "35.6424809",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 18,
+        "name": "לינה",
+        "slug": "accommodation"
+      }
+    ]
+  },
+  {
+    "id": "61",
+    "title": {
+      "raw": "מלון פרא — Pereh Hotel",
+      "rendered": "מלון פרא — Pereh Hotel"
+    },
+    "link": "https://gonorth.co.il/places/%d7%9e%d7%9c%d7%95%d7%9f-%d7%a4%d7%a8%d7%90-pereh-hotel/",
+    "status": "publish",
+    "street": "צומת בית המכס, גדות 12000",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "גדות",
+    "latitude": "33.0120264",
+    "longitude": "35.6511751",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 18,
+        "name": "לינה",
+        "slug": "accommodation"
+      }
+    ]
+  },
+  {
+    "id": "58",
+    "title": {
+      "raw": "שמורת טבע נחל עמוד",
+      "rendered": "שמורת טבע נחל עמוד"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%a2%d7%9e%d7%95%d7%93/",
+    "status": "publish",
+    "street": "שמורת טבע נחל עמוד, חניה ומרכז מידע",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "כפר שמאי",
+    "latitude": "32.8866575",
+    "longitude": "35.5005401",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 35,
+        "name": "טבע ומסלולים",
+        "slug": "teva"
+      }
+    ]
+  },
+  {
+    "id": "56",
+    "title": {
+      "raw": "נחל השופט",
+      "rendered": "נחל השופט"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a0%d7%97%d7%9c-%d7%94%d7%a9%d7%95%d7%a4%d7%98/",
+    "status": "publish",
+    "street": "חניון חרובים, נחל השופט",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "עין השופט",
+    "latitude": "32.628333",
+    "longitude": "35.105822",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 35,
+        "name": "טבע ומסלולים",
+        "slug": "teva"
+      }
+    ]
+  },
+  {
+    "id": "54",
+    "title": {
+      "raw": "שמורת טבע החולה",
+      "rendered": "שמורת טבע החולה"
+    },
+    "link": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%97%d7%95%d7%9c%d7%94/",
+    "status": "publish",
+    "street": "שמורת טבע החולה, יסוד המעלה",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "יסוד המעלה",
+    "latitude": "33.0674266",
+    "longitude": "35.6033203",
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 35,
+        "name": "טבע ומסלולים",
+        "slug": "teva"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "title": {
+      "raw": "החווה ביער אודם",
+      "rendered": "החווה ביער אודם"
+    },
+    "link": "https://gonorth.co.il/places/%d7%94%d7%97%d7%95%d7%95%d7%94-%d7%91%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d/",
+    "status": "publish",
+    "street": "אודם, רמת הגולן 12473",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "אודם",
+    "latitude": "33.1904869",
+    "longitude": "35.7497005",
+    "default_category": "17",
+    "post_category": [
+      {
+        "id": 17,
+        "name": "אטרקציות",
+        "slug": "atraktziot-main"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "title": {
+      "raw": "כפר נופש - יער אודם",
+      "rendered": "כפר נופש &#8211; יער אודם"
+    },
+    "link": "https://gonorth.co.il/places/%d7%9b%d7%a4%d7%a8-%d7%a0%d7%95%d7%a4%d7%a9-%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d/",
+    "status": "publish",
+    "street": "אודם, רמת הגולן 12473",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "אודם",
+    "latitude": "33.1919804",
+    "longitude": "35.7509705",
+    "default_category": "17",
+    "post_category": [
+      {
+        "id": 18,
+        "name": "לינה",
+        "slug": "accommodation"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "title": {
+      "raw": "יקב הר אודם",
+      "rendered": "יקב הר אודם"
+    },
+    "link": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%94%d7%a8-%d7%90%d7%95%d7%93%d7%9d/",
+    "status": "publish",
+    "street": "מושב אודם, צפון רמת הגולן",
+    "country": "ישראל",
+    "region": "צפון",
+    "city": "מושב אודם",
+    "latitude": "33.191991",
+    "longitude": "35.751795",
+    "default_category": "19",
+    "post_category": [
+      {
+        "id": 36,
+        "name": "יקבים",
+        "slug": "yakavim"
+      }
+    ]
+  }
+]

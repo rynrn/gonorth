@@ -1,0 +1,21 @@
+{
+  "reviewed_at": "2026-09-28T12:10:00Z",
+  "accepted": [
+    {"id": 161, "reason": "Same location and phone; Tour Golan identifies Azizo as the lavender farm in Kanaf."},
+    {"id": 335, "reason": "Same location and phone; current and historical tourism sources identify the family riding activity as Gil Golan."},
+    {"id": 377, "reason": "Same phone and Katzrin address; the restaurant operates inside the Bazelet brewery and represents the same visitor venue."}
+  ],
+  "rejected": [
+    {"id": 56, "reason": "Candidate is Ein Hashofet Forest, not Nahal Hashofet."},
+    {"id": 171, "reason": "Candidate is a parking lot, not the nature reserve."},
+    {"id": 189, "reason": "Candidate is the Yehudiya campground, not the reserve."},
+    {"id": 202, "reason": "Candidate is HaHava BeYaar Odem, a different listing already mapped to WordPress 52."},
+    {"id": 228, "reason": "Candidate is the general Ein Gev place, not Coffish."},
+    {"id": 233, "reason": "Candidate is a different food truck."},
+    {"id": 339, "reason": "Candidate represents Kibbutz Ortal tourism broadly, not the glamping product."},
+    {"id": 357, "reason": "Candidate Natur Farm is a different venue and has different contact details."},
+    {"id": 373, "reason": "Candidate is Park HaYarden, not the lantern-tour operator."},
+    {"id": 397, "reason": "Candidate is Tel Saki itself, not the bunker activity operator."},
+    {"id": 409, "reason": "Candidate is a different heritage center 161 km away."}
+  ]
+}

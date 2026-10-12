@@ -1,0 +1,20 @@
+{
+  "status": "pending",
+  "city": "",
+  "street": "",
+  "lat": "32.7027036",
+  "lon": "35.1275862",
+  "category": [
+    "atraktziot-main"
+  ],
+  "region": [
+    "carmel"
+  ],
+  "thumb": "535",
+  "mediaParent": 534,
+  "mediaCaptionHasLicense": false,
+  "contentHasPhotoLicense": true,
+  "contentSaysNearTivon": true,
+  "contentSaysInsideTivon": false,
+  "guideTemplateHasOfficial": true
+}

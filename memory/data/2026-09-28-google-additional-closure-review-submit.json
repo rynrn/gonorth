@@ -1,0 +1,24 @@
+{
+  "results": [
+    {
+      "id": 217,
+      "source": "google_places",
+      "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJWVJMG6C9HhURndCIJ7aZmxU",
+      "checked_at": "2026-09-28T10:36:52Z",
+      "confidence": 1.0,
+      "facts": {
+        "business_status": "temporarily_closed"
+      }
+    },
+    {
+      "id": 223,
+      "source": "google_places",
+      "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJk7XS3LUsHBURlNFSDQx162I",
+      "checked_at": "2026-09-28T10:36:52Z",
+      "confidence": 1.0,
+      "facts": {
+        "business_status": "permanently_closed"
+      }
+    }
+  ]
+}

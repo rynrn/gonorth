@@ -1,0 +1,6 @@
+<?php
+if (!defined('ABSPATH')) { exit; }
+$out=[];
+foreach([480,481] as $id){$p=get_post($id);$t=get_post_thumbnail_id($id);$out[]=['ID'=>$id,'title'=>$p->post_title,'status'=>get_post_status($id),'permalink'=>get_permalink($id),'thumbnail_id'=>$t,'thumbnail_url'=>wp_get_attachment_url($t),'alt'=>get_post_meta($t,'_wp_attachment_image_alt',true),'attribution_name'=>get_post_meta($t,'_gonorth_google_photo_attribution_name',true),'attribution_uri'=>get_post_meta($t,'_gonorth_google_photo_attribution_uri',true),'google_photo_name'=>get_post_meta($t,'_gonorth_google_photo_name',true),'categories'=>wp_get_post_terms($id,'gd_placecategory',['fields'=>'slugs']),'regions'=>wp_get_post_terms($id,'gn_region',['fields'=>'slugs']),'coordinates'=>[get_post_meta($id,'geodir_post_latitude',true),get_post_meta($id,'geodir_post_longitude',true)],'source'=>get_post_meta($id,'_gonorth_verification_source_url',true),'source_type'=>get_post_meta($id,'_gonorth_verification_source_type',true),'data'=>GoNorth_Place_Data::get($id)];}
+echo wp_json_encode($out,JSON_UNESCAPED_UNICODE|JSON_UNESCAPED_SLASHES|JSON_PRETTY_PRINT).PHP_EOL;
+

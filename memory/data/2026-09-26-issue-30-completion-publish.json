@@ -1,0 +1,342 @@
+[
+    {
+        "id": 50,
+        "title": "כפר נופש – יער אודם",
+        "url": "https://gonorth.co.il/places/%d7%9b%d7%a4%d7%a8-%d7%a0%d7%95%d7%a4%d7%a9-%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d/",
+        "practical_checked_at": "2026-09-26T11:26:12+00:00",
+        "phone": "050-522-9450",
+        "website": "https://www.yayalim.co.il",
+        "business_hours": null,
+        "price_type": "paid"
+    },
+    {
+        "id": 61,
+        "title": "מלון פרא — Pereh Hotel",
+        "url": "https://gonorth.co.il/places/%d7%9e%d7%9c%d7%95%d7%9f-%d7%a4%d7%a8%d7%90-pereh-hotel/",
+        "practical_checked_at": "2026-09-26T11:26:12+00:00",
+        "phone": "077-331-1222",
+        "website": "https://pereh.co.il",
+        "business_hours": null,
+        "price_type": null
+    },
+    {
+        "id": 63,
+        "title": "כנען וילאג׳ – מלון בוטיק וספא בצפון",
+        "url": "https://gonorth.co.il/places/%d7%9b%d7%a0%d7%a2%d7%9f-%d7%95%d7%99%d7%9c%d7%90%d7%92%d7%b3-%d7%9e%d7%9c%d7%95%d7%9f-%d7%91%d7%95%d7%98%d7%99%d7%a7-%d7%95%d7%a1%d7%a4%d7%90-%d7%91%d7%a6%d7%a4%d7%95%d7%9f/",
+        "practical_checked_at": "2026-09-26T11:26:12+00:00",
+        "phone": "04-682-2128",
+        "website": "https://www.cnaan-village.co.il",
+        "business_hours": null,
+        "price_type": null
+    },
+    {
+        "id": 88,
+        "title": "שמורת נחל הקיבוצים",
+        "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%a0%d7%97%d7%9c-%d7%94%d7%a7%d7%99%d7%91%d7%95%d7%a6%d7%99%d7%9d/",
+        "practical_checked_at": "2026-09-26T11:26:12+00:00",
+        "phone": "*3639",
+        "website": "https://www.parks.org.il",
+        "business_hours": null,
+        "price_type": null
+    },
+    {
+        "id": 173,
+        "title": "אגמון החולה",
+        "url": "https://gonorth.co.il/places/%d7%90%d7%92%d7%9e%d7%95%d7%9f-%d7%94%d7%97%d7%95%d7%9c%d7%94/",
+        "practical_checked_at": "2026-09-26T11:26:12+00:00",
+        "phone": "04-681-7137",
+        "website": "https://agamon-hula.co.il/",
+        "business_hours": null,
+        "price_type": null
+    },
+    {
+        "id": 177,
+        "title": "עין תינה",
+        "url": "https://gonorth.co.il/places/%d7%a2%d7%99%d7%9f-%d7%aa%d7%99%d7%a0%d7%94/",
+        "practical_checked_at": "2026-09-26T11:26:12+00:00",
+        "phone": "*3639",
+        "website": "https://www.parks.org.il/trip/ein-tina/",
+        "business_hours": null,
+        "price_type": null
+    },
+    {
+        "id": 181,
+        "title": "חוות בת יער",
+        "url": "https://gonorth.co.il/places/%d7%97%d7%95%d7%95%d7%aa-%d7%91%d7%aa-%d7%99%d7%a2%d7%a8/",
+        "practical_checked_at": "2026-09-26T11:26:12+00:00",
+        "phone": "04-692-1788",
+        "website": "https://www.batyaar.co.il/",
+        "business_hours": null,
+        "price_type": null
+    },
+    {
+        "id": 195,
+        "title": "מפגש היקב — עמיעד",
+        "url": "https://gonorth.co.il/places/%d7%9e%d7%a4%d7%92%d7%a9-%d7%94%d7%99%d7%a7%d7%91-%d7%a2%d7%9e%d7%99%d7%a2%d7%93/",
+        "practical_checked_at": "2026-09-26T11:26:12+00:00",
+        "phone": "04-690-9333",
+        "website": "https://liqueur-amiad.co.il/",
+        "business_hours": null,
+        "price_type": null
+    },
+    {
+        "id": 197,
+        "title": "יקב רמות נפתלי",
+        "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%a8%d7%9e%d7%95%d7%aa-%d7%a0%d7%a4%d7%aa%d7%9c%d7%99/",
+        "practical_checked_at": "2026-09-26T11:26:12+00:00",
+        "phone": "04-694-0371",
+        "website": "https://ramotnaftaly.com/",
+        "business_hours": null,
+        "price_type": null
+    },
+    {
+        "id": 202,
+        "title": "חלהוולאוו",
+        "url": "https://gonorth.co.il/places/%d7%97%d7%9c%d7%94%d7%95%d7%95%d7%9c%d7%90%d7%95%d7%95/",
+        "practical_checked_at": "2026-09-26T11:26:12+00:00",
+        "phone": "058-4345278",
+        "website": null,
+        "business_hours": null,
+        "price_type": null
+    },
+    {
+        "id": 207,
+        "title": "נינו עגלת קפה",
+        "url": "https://gonorth.co.il/places/%d7%a0%d7%99%d7%a0%d7%95-%d7%a2%d7%92%d7%9c%d7%aa-%d7%a7%d7%a4%d7%94/",
+        "practical_checked_at": "2026-09-26T11:26:12+00:00",
+        "phone": "054-2474134",
+        "website": "https://www.facebook.com/ninocoffeecart",
+        "business_hours": null,
+        "price_type": null
+    },
+    {
+        "id": 212,
+        "title": "קפה חמה",
+        "url": "https://gonorth.co.il/places/%d7%a7%d7%a4%d7%94-%d7%97%d7%9e%d7%94/",
+        "practical_checked_at": "2026-09-26T11:26:12+00:00",
+        "phone": "050-7250101",
+        "website": "https://www.facebook.com/cafehamma",
+        "business_hours": null,
+        "price_type": null
+    },
+    {
+        "id": 217,
+        "title": "קפה התן",
+        "url": "https://gonorth.co.il/places/%d7%a7%d7%a4%d7%94-%d7%94%d7%aa%d7%9f/",
+        "practical_checked_at": "2026-09-26T11:26:12+00:00",
+        "phone": "052-470-8383",
+        "website": null,
+        "business_hours": null,
+        "price_type": null
+    },
+    {
+        "id": 244,
+        "title": "יקב בן זמרה",
+        "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%91%d7%9f-%d7%96%d7%9e%d7%a8%d7%94/",
+        "practical_checked_at": "2026-09-26T11:26:12+00:00",
+        "phone": "055-5570829",
+        "website": "https://www.benzimrawinery.com",
+        "business_hours": null,
+        "price_type": null
+    },
+    {
+        "id": 327,
+        "title": "חמי טבריה",
+        "url": "https://gonorth.co.il/places/%d7%97%d7%9e%d7%99-%d7%98%d7%91%d7%a8%d7%99%d7%94/",
+        "practical_checked_at": "2026-09-26T11:26:12+00:00",
+        "phone": "04-6123600",
+        "website": "https://brownhotels.co.il/hamei-tiberius",
+        "business_hours": null,
+        "price_type": null
+    },
+    {
+        "id": 329,
+        "title": "חוות האושר — רכיבה על סוסים",
+        "url": "https://gonorth.co.il/places/%d7%97%d7%95%d7%95%d7%aa-%d7%94%d7%90%d7%95%d7%a9%d7%a8-%d7%a8%d7%9b%d7%99%d7%91%d7%94-%d7%a2%d7%9c-%d7%a1%d7%95%d7%a1%d7%99%d7%9d/",
+        "practical_checked_at": "2026-09-26T11:26:12+00:00",
+        "phone": "072-392-5652",
+        "website": "http://www.katzrin-ranch.co.il/",
+        "business_hours": null,
+        "price_type": null
+    },
+    {
+        "id": 331,
+        "title": "ורד הגליל",
+        "url": "https://gonorth.co.il/places/%d7%95%d7%a8%d7%93-%d7%94%d7%92%d7%9c%d7%99%d7%9c/",
+        "practical_checked_at": "2026-09-26T11:26:12+00:00",
+        "phone": "04-693-5785",
+        "website": "https://brownhotels.co.il/vered-hagalil-guest-farm",
+        "business_hours": null,
+        "price_type": null
+    },
+    {
+        "id": 335,
+        "title": "גיל גולן — מרכז רכיבה",
+        "url": "https://gonorth.co.il/places/%d7%92%d7%99%d7%9c-%d7%92%d7%95%d7%9c%d7%9f-%d7%9e%d7%a8%d7%9b%d7%96-%d7%a8%d7%9b%d7%99%d7%91%d7%94/",
+        "practical_checked_at": "2026-09-26T11:26:12+00:00",
+        "phone": "052-811-9505",
+        "website": "https://gil-golan.weebly.com/",
+        "business_hours": null,
+        "price_type": null
+    },
+    {
+        "id": 337,
+        "title": "חוות סוסים — קיבוץ אורטל",
+        "url": "https://gonorth.co.il/places/%d7%97%d7%95%d7%95%d7%aa-%d7%a1%d7%95%d7%a1%d7%99%d7%9d-%d7%a7%d7%99%d7%91%d7%95%d7%a5-%d7%90%d7%95%d7%a8%d7%98%d7%9c/",
+        "practical_checked_at": "2026-09-26T11:26:12+00:00",
+        "phone": "053-736-4750",
+        "website": "https://www.ortal.net/%D7%97%D7%95%D7%95%D7%AA-%D7%A1%D7%95%D7%A1%D7%99%D7%9D/",
+        "business_hours": null,
+        "price_type": null
+    },
+    {
+        "id": 339,
+        "title": "גלמפינג קיבוץ אורטל",
+        "url": "https://gonorth.co.il/places/%d7%92%d7%9c%d7%9e%d7%a4%d7%99%d7%a0%d7%92-%d7%a7%d7%99%d7%91%d7%95%d7%a5-%d7%90%d7%95%d7%a8%d7%98%d7%9c/",
+        "practical_checked_at": "2026-09-26T11:26:12+00:00",
+        "phone": "04-648-8095",
+        "website": "https://www.ortal.net/glamping-ortal/",
+        "business_hours": null,
+        "price_type": null
+    },
+    {
+        "id": 341,
+        "title": "גלמפינג על הצוק — עין קיניא",
+        "url": "https://gonorth.co.il/places/%d7%92%d7%9c%d7%9e%d7%a4%d7%99%d7%a0%d7%92-%d7%a2%d7%9c-%d7%94%d7%a6%d7%95%d7%a7-%d7%a2%d7%99%d7%9f-%d7%a7%d7%99%d7%a0%d7%99%d7%90/",
+        "practical_checked_at": "2026-09-26T11:26:12+00:00",
+        "phone": "053-271-8919",
+        "website": null,
+        "business_hours": null,
+        "price_type": null
+    },
+    {
+        "id": 343,
+        "title": "גלמפינג עין תאנה",
+        "url": "https://gonorth.co.il/places/%d7%92%d7%9c%d7%9e%d7%a4%d7%99%d7%a0%d7%92-%d7%a2%d7%99%d7%9f-%d7%aa%d7%90%d7%a0%d7%94/",
+        "practical_checked_at": "2026-09-26T11:26:12+00:00",
+        "phone": "054-478-4677",
+        "website": "https://www.ein-teina.com/",
+        "business_hours": null,
+        "price_type": null
+    },
+    {
+        "id": 345,
+        "title": "בלום וילג׳ — כפר בלום",
+        "url": "https://gonorth.co.il/places/%d7%91%d7%9c%d7%95%d7%9d-%d7%95%d7%99%d7%9c%d7%92%d7%b3-%d7%9b%d7%a4%d7%a8-%d7%91%d7%9c%d7%95%d7%9d/",
+        "practical_checked_at": "2026-09-26T11:26:12+00:00",
+        "phone": "04-690-2616",
+        "website": "https://blumvillage.co.il/",
+        "business_hours": null,
+        "price_type": null
+    },
+    {
+        "id": 347,
+        "title": "קטיף עצמי אל-רום",
+        "url": "https://gonorth.co.il/places/%d7%a7%d7%98%d7%99%d7%a3-%d7%a2%d7%a6%d7%9e%d7%99-%d7%90%d7%9c-%d7%a8%d7%95%d7%9d/",
+        "practical_checked_at": "2026-09-26T11:26:12+00:00",
+        "phone": "04-683-8016",
+        "website": "https://katif-elrom.co.il/",
+        "business_hours": null,
+        "price_type": null
+    },
+    {
+        "id": 349,
+        "title": "מרכז מורשת שמן הזית — משק טוייסטר",
+        "url": "https://gonorth.co.il/places/%d7%9e%d7%a8%d7%9b%d7%96-%d7%9e%d7%95%d7%a8%d7%a9%d7%aa-%d7%a9%d7%9e%d7%9f-%d7%94%d7%96%d7%99%d7%aa-%d7%9e%d7%a9%d7%a7-%d7%98%d7%95%d7%99%d7%99%d7%a1%d7%98%d7%a8/",
+        "practical_checked_at": "2026-09-26T11:26:12+00:00",
+        "phone": "052-8700553",
+        "website": null,
+        "business_hours": null,
+        "price_type": null
+    },
+    {
+        "id": 353,
+        "title": "סאונדטראק — טיולי אוזניות בטבע",
+        "url": "https://gonorth.co.il/places/%d7%a1%d7%90%d7%95%d7%a0%d7%93%d7%98%d7%a8%d7%90%d7%a7-%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%90%d7%95%d7%96%d7%a0%d7%99%d7%95%d7%aa-%d7%91%d7%98%d7%91%d7%a2/",
+        "practical_checked_at": "2026-09-26T11:26:12+00:00",
+        "phone": "050-832-4990",
+        "website": "https://www.soundtrackbateva.com/",
+        "business_hours": null,
+        "price_type": null
+    },
+    {
+        "id": 361,
+        "title": "העדי שבמטבח — סדנאות שוקולד",
+        "url": "https://gonorth.co.il/places/%d7%94%d7%a2%d7%93%d7%99-%d7%a9%d7%91%d7%9e%d7%98%d7%91%d7%97-%d7%a1%d7%93%d7%a0%d7%90%d7%95%d7%aa-%d7%a9%d7%95%d7%a7%d7%95%d7%9c%d7%93/",
+        "practical_checked_at": "2026-09-26T11:26:12+00:00",
+        "phone": "054-977-2524",
+        "website": "https://theadi.co.il/",
+        "business_hours": null,
+        "price_type": null
+    },
+    {
+        "id": 373,
+        "title": "טיולי עששיות בפארק הירדן",
+        "url": "https://gonorth.co.il/places/%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%a2%d7%a9%d7%a9%d7%99%d7%95%d7%aa-%d7%91%d7%a4%d7%90%d7%a8%d7%a7-%d7%94%d7%99%d7%a8%d7%93%d7%9f/",
+        "practical_checked_at": "2026-09-26T11:26:12+00:00",
+        "phone": "04-692-3422",
+        "website": "https://www.parkyarden.co.il/",
+        "business_hours": null,
+        "price_type": null
+    },
+    {
+        "id": 377,
+        "title": "בירה בזלת — מבשלת הגולן",
+        "url": "https://gonorth.co.il/places/%d7%91%d7%99%d7%a8%d7%94-%d7%91%d7%96%d7%9c%d7%aa-%d7%9e%d7%91%d7%a9%d7%9c%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f/",
+        "practical_checked_at": "2026-09-26T11:26:12+00:00",
+        "phone": "04-696-1311",
+        "website": "https://bazeletbeer.co.il/",
+        "business_hours": null,
+        "price_type": null
+    },
+    {
+        "id": 397,
+        "title": "אתגר הבונקר",
+        "url": "https://gonorth.co.il/places/%d7%90%d7%aa%d7%92%d7%a8-%d7%94%d7%91%d7%95%d7%a0%d7%a7%d7%a8/",
+        "practical_checked_at": "2026-09-26T11:26:12+00:00",
+        "phone": "050-843-2379",
+        "website": "https://tel-saki.org/",
+        "business_hours": null,
+        "price_type": null
+    },
+    {
+        "id": 403,
+        "title": "קטיף עצמי הדובדבן שבגולן",
+        "url": "https://gonorth.co.il/places/%d7%a7%d7%98%d7%99%d7%a3-%d7%a2%d7%a6%d7%9e%d7%99-%d7%94%d7%93%d7%95%d7%91%d7%93%d7%91%d7%9f-%d7%a9%d7%91%d7%92%d7%95%d7%9c%d7%9f/",
+        "practical_checked_at": "2026-09-26T11:26:12+00:00",
+        "phone": "054-751-5166",
+        "website": "https://camping-ido.co.il/",
+        "business_hours": null,
+        "price_type": null
+    },
+    {
+        "id": 407,
+        "title": "אתר החרמון",
+        "url": "https://gonorth.co.il/places/%d7%90%d7%aa%d7%a8-%d7%94%d7%97%d7%a8%d7%9e%d7%95%d7%9f/",
+        "practical_checked_at": "2026-09-26T11:26:12+00:00",
+        "phone": "1599-550560",
+        "website": "https://skihermon.co.il/",
+        "business_hours": null,
+        "price_type": null
+    },
+    {
+        "id": 421,
+        "title": "הבוסתן של מוטי",
+        "url": "https://gonorth.co.il/places/%d7%94%d7%91%d7%95%d7%a1%d7%aa%d7%9f-%d7%a9%d7%9c-%d7%9e%d7%95%d7%98%d7%99/",
+        "practical_checked_at": "2026-09-26T11:26:12+00:00",
+        "phone": "054-260-0160",
+        "website": "https://www.habustan-moti.co.il/",
+        "business_hours": null,
+        "price_type": null
+    },
+    {
+        "id": 425,
+        "title": "הכפר האינדיאני — גלמפינג ברמת הגולן",
+        "url": "https://gonorth.co.il/places/%d7%94%d7%9b%d7%a4%d7%a8-%d7%94%d7%90%d7%99%d7%a0%d7%93%d7%99%d7%90%d7%a0%d7%99-%d7%92%d7%9c%d7%9e%d7%a4%d7%99%d7%a0%d7%92-%d7%91%d7%a8%d7%9e%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f/",
+        "practical_checked_at": "2026-09-26T11:26:12+00:00",
+        "phone": "04-676-2151",
+        "website": "https://tipi.co.il/",
+        "business_hours": null,
+        "price_type": null
+    }
+]

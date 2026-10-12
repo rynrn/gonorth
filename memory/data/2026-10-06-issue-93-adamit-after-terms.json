@@ -1,0 +1,27 @@
+{
+  "id": "556",
+  "status": "pending",
+  "title": "פארק אדמית ומערת קשת",
+  "city": "",
+  "latitude": "33.0772748",
+  "longitude": "35.1979702",
+  "country": "ישראל",
+  "region": "צפון",
+  "categoryTerms": [
+    "atraktziot-main",
+    "teva"
+  ],
+  "regionTerms": [
+    "galil"
+  ],
+  "flag": "1",
+  "thumbnail": "557",
+  "mediaId": "557",
+  "mediaParent": 556,
+  "mediaFile": "issue93-licensed/adamit-keshet-avi1111-2012-scaled.jpg",
+  "mediaHash": "DE4BD8C38D461236C04355508AB8FE03650AFC545A0F33C8D38B6A0AC11927BE",
+  "mediaAlt": "קשת הסלע בפארק אדמית עם הנוף שמעברה, צילום משנת 2012",
+  "closureAtStart": true,
+  "contentHasKKL": true,
+  "contentHasWazeLink": false
+}

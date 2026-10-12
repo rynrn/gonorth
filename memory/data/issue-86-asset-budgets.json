@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "measurement": "Chrome PerformanceResourceTiming transferSize, cold sample; bytes include response headers",
+  "templates": {
+    "archive": {"stylesheets": 400000, "scripts": 500000, "images": 1200000, "single_image": 200000},
+    "place": {"stylesheets": 400000, "scripts": 500000, "images": 250000, "single_image": 200000},
+    "article": {"stylesheets": 300000, "scripts": 250000, "images": 250000, "single_image": 200000}
+  }
+}

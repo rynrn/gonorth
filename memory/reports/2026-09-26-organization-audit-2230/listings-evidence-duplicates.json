@@ -1,0 +1,77 @@
+{
+  "checked_at": "2026-09-26T22:42:11.0675441+03:00",
+  "inventory": "shared-places.json",
+  "scope": "109 public listings and places-to-add.md; unpublished WP records unavailable",
+  "checks": [
+    {
+      "term": "מדעטק",
+      "public_listing_matches": [],
+      "queue_match": false
+    },
+    {
+      "term": "אבירים",
+      "public_listing_matches": [],
+      "queue_match": false
+    },
+    {
+      "term": "ציפורי",
+      "public_listing_matches": [],
+      "queue_match": false
+    },
+    {
+      "term": "בית שערים",
+      "public_listing_matches": [],
+      "queue_match": false
+    },
+    {
+      "term": "עין אפק",
+      "public_listing_matches": [],
+      "queue_match": false
+    },
+    {
+      "term": "אדמית",
+      "public_listing_matches": [],
+      "queue_match": false
+    },
+    {
+      "term": "מערת קשת",
+      "public_listing_matches": [],
+      "queue_match": false
+    },
+    {
+      "term": "נחל תנינים",
+      "public_listing_matches": [],
+      "queue_match": false
+    },
+    {
+      "term": "נחל מערות",
+      "public_listing_matches": [],
+      "queue_match": false
+    },
+    {
+      "term": "נחל המערות",
+      "public_listing_matches": [],
+      "queue_match": false
+    },
+    {
+      "term": "ינקו",
+      "public_listing_matches": [],
+      "queue_match": false
+    },
+    {
+      "term": "אפנדי",
+      "public_listing_matches": [],
+      "queue_match": false
+    },
+    {
+      "term": "אלמא",
+      "public_listing_matches": [],
+      "queue_match": false
+    },
+    {
+      "term": "פסטורל",
+      "public_listing_matches": [],
+      "queue_match": false
+    }
+  ]
+}

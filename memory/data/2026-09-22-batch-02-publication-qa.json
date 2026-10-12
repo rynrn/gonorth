@@ -1,0 +1,24 @@
+[
+  {
+    "id": 242,
+    "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%90%d7%93%d7%99%d7%a8/",
+    "status": "publish",
+    "http": 200,
+    "exact_readback": true,
+    "h2": 9,
+    "intro_present": true,
+    "guide_link": true,
+    "at": "2026-09-22T10:46:33.5963987Z"
+  },
+  {
+    "id": 235,
+    "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%aa%d7%9c-%d7%a9%d7%99%d7%a4%d7%95%d7%9f/",
+    "status": "publish",
+    "http": 200,
+    "exact_readback": true,
+    "h2": 9,
+    "intro_present": true,
+    "guide_link": true,
+    "at": "2026-09-22T10:46:37.4234335Z"
+  }
+]

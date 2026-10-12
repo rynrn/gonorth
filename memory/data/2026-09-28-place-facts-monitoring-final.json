@@ -1,0 +1,17 @@
+{
+  "generated_at": "2026-09-28T10:39:31Z",
+  "verification_due_days": 90,
+  "places": 109,
+  "due_for_verification": 12,
+  "pending_changes": 8,
+  "closure_reviews": 8,
+  "google_place_id_coverage": {
+    "with_id": 84,
+    "total": 109
+  },
+  "google_rating_coverage": {
+    "complete": 84,
+    "total": 109
+  },
+  "needs_attention": true
+}

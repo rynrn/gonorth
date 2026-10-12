@@ -1,0 +1,196 @@
+{
+  "checked_at_utc": "2026-10-05T22:28:51+00:00",
+  "core_version": "7.1.2",
+  "plugins": [
+    {
+      "name": "accessibility-onetap",
+      "title": "Accessibility Widget by OneTap – Easy One-Click Accessibility Toolbar",
+      "status": "active",
+      "version": "2.10.0",
+      "update": "available",
+      "update_version": "2.14.0",
+      "auto_update": "off"
+    },
+    {
+      "name": "ameliabooking",
+      "title": "Amelia",
+      "status": "active",
+      "version": "2.3",
+      "update": "available",
+      "update_version": "2.4.11",
+      "auto_update": "off"
+    },
+    {
+      "name": "autoptimize",
+      "title": "Autoptimize",
+      "status": "active",
+      "version": "3.1.15.1",
+      "update": "available",
+      "update_version": "3.1.16",
+      "auto_update": "off"
+    },
+    {
+      "name": "elementor",
+      "title": "Elementor",
+      "status": "active",
+      "version": "4.0.7",
+      "update": "available",
+      "update_version": "4.3.4",
+      "auto_update": "off"
+    },
+    {
+      "name": "geodirectory",
+      "title": "GeoDirectory",
+      "status": "active",
+      "version": "2.8.160",
+      "update": "available",
+      "update_version": "2.8.189",
+      "auto_update": "off"
+    },
+    {
+      "name": "gonorth-place-data",
+      "title": "GoNorth Place Data",
+      "status": "active",
+      "version": "1.18.9",
+      "update": "none",
+      "update_version": "",
+      "auto_update": "off"
+    },
+    {
+      "name": "mcp-adapter",
+      "title": "MCP Adapter",
+      "status": "active",
+      "version": "0.4.1",
+      "update": "available",
+      "update_version": "0.7.0",
+      "auto_update": "off"
+    },
+    {
+      "name": "sassy-social-share",
+      "title": "Sassy Social Share",
+      "status": "inactive",
+      "version": "3.3.79",
+      "update": "none",
+      "update_version": "",
+      "auto_update": "off"
+    },
+    {
+      "name": "scaup-seo",
+      "title": "Scaup SEO",
+      "status": "active",
+      "version": "1.58.2",
+      "update": "none",
+      "update_version": "",
+      "auto_update": "off"
+    },
+    {
+      "name": "wp-smushit",
+      "title": "Smush",
+      "status": "active",
+      "version": "4.3.0",
+      "update": "available",
+      "update_version": "4.3.4",
+      "auto_update": "off"
+    },
+    {
+      "name": "updraftplus",
+      "title": "UpdraftPlus - Backup/Restore",
+      "status": "active",
+      "version": "1.26.3",
+      "update": "available",
+      "update_version": "1.26.8",
+      "auto_update": "off"
+    },
+    {
+      "name": "woocommerce",
+      "title": "WooCommerce",
+      "status": "active",
+      "version": "10.7.0",
+      "update": "available",
+      "update_version": "11.1.2",
+      "auto_update": "off"
+    },
+    {
+      "name": "wordfence",
+      "title": "Wordfence Security",
+      "status": "inactive",
+      "version": "8.2.1",
+      "update": "available",
+      "update_version": "9.0.2",
+      "auto_update": "off"
+    },
+    {
+      "name": "wp-super-cache",
+      "title": "WP Super Cache",
+      "status": "active",
+      "version": "3.1.0",
+      "update": "available",
+      "update_version": "3.1.4",
+      "auto_update": "off"
+    },
+    {
+      "name": "wordpress-seo",
+      "title": "Yoast SEO",
+      "status": "active",
+      "version": "27.5",
+      "update": "available",
+      "update_version": "28.6",
+      "auto_update": "off"
+    },
+    {
+      "name": "geodir-fast-ajax",
+      "title": "GeoDirectory Fast AJAX",
+      "status": "must-use",
+      "version": "1.0.0",
+      "update": false,
+      "update_version": "",
+      "auto_update": "off"
+    },
+    {
+      "name": "advanced-cache.php",
+      "title": "",
+      "status": "dropin",
+      "version": "",
+      "update": false,
+      "update_version": "",
+      "auto_update": "off"
+    }
+  ],
+  "themes": [
+    {
+      "name": "astra",
+      "status": "parent",
+      "version": "4.13.0",
+      "update": "available",
+      "update_version": "4.14.0"
+    },
+    {
+      "name": "gonorth-child",
+      "status": "active",
+      "version": "1.0.0",
+      "update": "none",
+      "update_version": ""
+    },
+    {
+      "name": "twentytwentyfive",
+      "status": "inactive",
+      "version": "1.4",
+      "update": "available",
+      "update_version": "1.5"
+    },
+    {
+      "name": "twentytwentyfour",
+      "status": "inactive",
+      "version": "1.4",
+      "update": "available",
+      "update_version": "1.6"
+    },
+    {
+      "name": "twentytwentythree",
+      "status": "inactive",
+      "version": "1.6",
+      "update": "available",
+      "update_version": "1.7"
+    }
+  ]
+}

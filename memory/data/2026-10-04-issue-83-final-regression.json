@@ -1,0 +1,56 @@
+{
+  "home_no_choice": {
+    "before": {
+      "choice": null,
+      "placeView": 0,
+      "gtm": 0
+    },
+    "after": {
+      "choice": null,
+      "placeView": 0,
+      "gtm": 0
+    },
+    "requests": [],
+    "anySentinel": false
+  },
+  "place_accept_now": {
+    "before": {
+      "choice": null,
+      "placeView": 0,
+      "gtm": 0
+    },
+    "after": {
+      "choice": "1",
+      "placeView": 1,
+      "gtm": 1
+    },
+    "requests": [
+      {
+        "host": "www.googletagmanager.com",
+        "path": "/gtm.js",
+        "sentinel": false
+      },
+      {
+        "host": "news.google.com",
+        "path": "/swg/js/v1/publisher.js",
+        "sentinel": false
+      },
+      {
+        "host": "news.google.com",
+        "path": "/swg/ui/v1/serviceiframe",
+        "sentinel": false
+      },
+      {
+        "host": "www.googletagmanager.com",
+        "path": "/gtag/js",
+        "sentinel": false
+      },
+      {
+        "host": "www.google-analytics.com",
+        "path": "/g/collect",
+        "sentinel": false
+      }
+    ],
+    "anySentinel": false
+  }
+}

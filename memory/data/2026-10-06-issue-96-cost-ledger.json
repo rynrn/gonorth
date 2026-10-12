@@ -1,0 +1,96 @@
+{
+  "as_of": "2026-10-06",
+  "currency": "ILS",
+  "period": "2026-09",
+  "actual_cost_total_ils": null,
+  "reason": "No verified invoices or finalized billing exports in project workspace",
+  "actuals": [
+    {
+      "renewal_date": null,
+      "actual_ils": null,
+      "source": "invoice or hosting dashboard",
+      "billing_period": "2026-09",
+      "owner": "site owner",
+      "service": "WordPress server/hosting",
+      "verification": "missing",
+      "category": "hosting"
+    },
+    {
+      "renewal_date": null,
+      "actual_ils": null,
+      "source": "registrar invoice",
+      "billing_period": "2026-09",
+      "owner": "site owner",
+      "service": "gonorth.co.il domain",
+      "verification": "missing",
+      "category": "domain"
+    },
+    {
+      "renewal_date": null,
+      "actual_ils": null,
+      "source": "vendor invoices; active plugin inventory is not proof of charges",
+      "billing_period": "2026-09",
+      "owner": "site owner",
+      "service": "WordPress paid licenses/subscriptions",
+      "verification": "missing",
+      "category": "plugins"
+    },
+    {
+      "renewal_date": null,
+      "actual_ils": null,
+      "source": "Cloud Billing finalized charges",
+      "billing_period": "2026-09",
+      "owner": "cloud billing owner",
+      "service": "Google Cloud Maps/Places API",
+      "verification": "missing",
+      "category": "api"
+    },
+    {
+      "renewal_date": null,
+      "actual_ils": null,
+      "source": "invoices or rights agreements",
+      "billing_period": "2026-09",
+      "owner": "site owner",
+      "service": "photography/media rights",
+      "verification": "missing",
+      "category": "media"
+    },
+    {
+      "renewal_date": null,
+      "actual_ils": null,
+      "source": "time logs and agreed hourly or internal cost basis",
+      "billing_period": "2026-09",
+      "owner": "site owner",
+      "service": "research/content/design/development/maintenance",
+      "verification": "missing",
+      "category": "labor"
+    },
+    {
+      "renewal_date": null,
+      "actual_ils": null,
+      "source": "platform/vendor invoices",
+      "billing_period": "2026-09",
+      "owner": "site owner",
+      "service": "ads/social/email",
+      "verification": "missing",
+      "category": "marketing"
+    },
+    {
+      "renewal_date": null,
+      "actual_ils": null,
+      "source": "hosting or storage invoices; local snapshot alone does not establish cost",
+      "billing_period": "2026-09",
+      "owner": "site owner",
+      "service": "backup/storage",
+      "verification": "missing",
+      "category": "backup"
+    }
+  ],
+  "evidence": {
+    "woo_order_counts": "memory/data/2026-10-06-issue-96-woocommerce-aggregate.json",
+    "active_plugins": "memory/data/2026-10-06-issue-96-plugin-inventory.json",
+    "ga4": "Issue #84: collection in correct property unverified",
+    "search_console": "Issue #46: property data unavailable"
+  },
+  "decision": "Continue free; no paid rollout or purchasing on this evidence"
+}

@@ -1,0 +1,35 @@
+[
+    {
+        "id": 56,
+        "title": "נחל השופט",
+        "url": "https://gonorth.co.il/places/%d7%a0%d7%97%d7%9c-%d7%94%d7%a9%d7%95%d7%a4%d7%98/",
+        "content_hash": "d5e89f3705126d82384d554f5506177dde532f02f8071cc064d2e675867029cf",
+        "phone": "1-800-350-550",
+        "website": "https://www.kkl.org.il/travel/trips/290971/",
+        "business_hours": null,
+        "price_type": null,
+        "practical_checked_at": "2026-09-26T09:26:17+00:00"
+    },
+    {
+        "id": 169,
+        "title": "שמורת טבע הר מירון",
+        "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%a8-%d7%9e%d7%99%d7%a8%d7%95%d7%9f/",
+        "content_hash": "6f94dcf4e2ecef6ece3fbdb01453ac1ca327165fe212f8edea707550eeb2c0ac",
+        "phone": "*3639",
+        "website": "https://www.parks.org.il/reserve-park/%D7%A9%D7%9E%D7%95%D7%A8%D7%AA-%D7%98%D7%91%D7%A2-%D7%94%D7%A8-%D7%9E%D7%99%D7%A8%D7%95%D7%9F/",
+        "business_hours": null,
+        "price_type": null,
+        "practical_checked_at": "2026-09-26T09:26:17+00:00"
+    },
+    {
+        "id": 171,
+        "title": "שמורת טבע נחל כזיב",
+        "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%9b%d7%96%d7%99%d7%91/",
+        "content_hash": "fce38f398e085ba6a10293ac8446d2e9914d411558d92c9448add4400351ea4e",
+        "phone": "*3639",
+        "website": "https://www.parks.org.il/reserve-park/%D7%A9%D7%9E%D7%95%D7%A8%D7%AA-%D7%98%D7%91%D7%A2-%D7%A0%D7%97%D7%9C-%D7%9B%D7%96%D7%99%D7%91/",
+        "business_hours": null,
+        "price_type": null,
+        "practical_checked_at": "2026-09-26T09:26:17+00:00"
+    }
+]

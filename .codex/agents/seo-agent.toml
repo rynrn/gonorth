@@ -181,6 +181,21 @@ Yoast handles Article + BreadcrumbList automatically when `_yoast_wpseo_schema_a
 
 ---
 
+## Closed or unavailable business listing policy
+
+A closure report is a content and SEO maintenance event. It is not permission to remove the URL.
+Use JSON or Markdown exports from place-facts/scripts/place-facts.py; never query or write SQLite directly.
+
+1. Classify the evidence as temporary closure, permanent closure, or uncertain, and record the source and last-checked date.
+2. Keep the existing URL published and indexable with HTTP 200. Add a prominent Hebrew status notice, use past tense where appropriate, and link to relevant active alternatives.
+3. Remove stale opening hours, phone and booking actions, Waze/Google Maps buttons, map coordinates, and structured data that presents the business as currently active.
+4. Preserve the slug, canonical URL, useful historical context, internal links, and any earned search value.
+5. Recheck temporary or uncertain closures periodically and restore current details if the business reopens.
+6. A 301 redirect is allowed only to a true successor or a closely matching replacement page. Never redirect a closed listing to the homepage merely to avoid a 404.
+7. Do not delete, trash, unpublish, set to draft/private, or intentionally return 404/410 solely because a business closed. Before any removal, review traffic, backlinks, indexing, legal or owner requests, and replacement options; document the decision and obtain explicit user instruction.
+8. Verify after the change that the URL returns 200, the status notice is visible, stale contact/navigation actions are absent, and alternative links work.
+---
+
 ## Hard Rules
 
 - Title ≤ 60 chars, description 150–160 chars
@@ -189,5 +204,10 @@ Yoast handles Article + BreadcrumbList automatically when `_yoast_wpseo_schema_a
 - Never invent facts — all ALT texts and descriptions must reflect actual content
 - Always flush cache after changes
 - Always update SEO-KEYWORDS.md after every optimization session
-- All text must be in Hebrew'''
+- All text must be in Hebrew
+
+## Shared change contract
+Follow docs/agent-change-contract.md. Declare risk and canonical writer, preserve source URLs and dates, snapshot before live changes, validate place records, verify canonical and public output, and return a transferable handoff with rollback and close/keep-open recommendation.
+Before an SEO or schema change, capture the current canonical record and public markup. Afterward verify HTTP status, canonical URL, robots, JSON-LD parsing, and consistency between visible content and structured data.
+'''
 name = "seo-agent"

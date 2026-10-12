@@ -1,0 +1,65 @@
+{
+  "format": "gonorth-place-facts-wordpress-sync/v1",
+  "generated_at": "2026-09-28T12:28:30Z",
+  "changes": [
+    {
+      "place_id": 405,
+      "wordpress_id": 405,
+      "name": "חמת גדר",
+      "url": "https://gonorth.co.il/places/%d7%97%d7%9e%d7%aa-%d7%92%d7%93%d7%a8/",
+      "change_ids": [
+        535,
+        537,
+        538
+      ],
+      "expected": {
+        "google_place_id": null,
+        "google_rating": null,
+        "google_review_count": null
+      },
+      "updates": {
+        "google_place_id": "ChIJpW_MwKJsHBUR13O0U86aTl4",
+        "google_rating": 4.2,
+        "google_review_count": 7995
+      },
+      "verification": {
+        "source": "google_places",
+        "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJpW_MwKJsHBUR13O0U86aTl4",
+        "checked_at": "2026-09-28T12:25:00Z",
+        "practical_verified": false,
+        "google_verified": true
+      }
+    }
+  ],
+  "deferred": [
+    {
+      "change_id": 534,
+      "place_id": 405,
+      "wordpress_id": 405,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 536,
+      "place_id": 405,
+      "wordpress_id": 405,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 539,
+      "place_id": 405,
+      "wordpress_id": 405,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    }
+  ],
+  "summary": {
+    "places": 1,
+    "change_count": 3,
+    "deferred_count": 3
+  }
+}

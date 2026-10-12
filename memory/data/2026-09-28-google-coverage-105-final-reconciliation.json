@@ -1,0 +1,13 @@
+{
+  "places_in_ledger": 109,
+  "wordpress_records": 109,
+  "matched_fields": 872,
+  "mismatch_count": 0,
+  "mismatches": [],
+  "deferred_fields": [
+    "business_status",
+    "current_hours_json",
+    "google_maps_url",
+    "last_checked_at"
+  ]
+}

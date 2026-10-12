@@ -1,0 +1,17 @@
+{
+  "status": "database_import_verified",
+  "archive_checksum_verified": true,
+  "sql_bytes_streamed": 5023794,
+  "tables": 124,
+  "wp_posts_tables": 1,
+  "wp_options_tables": 2,
+  "wp_users_tables": 2,
+  "runtime_version": "10.11.14-MariaDB",
+  "networking_disabled": true,
+  "seconds_to_import_and_check": 5.113,
+  "application_restore_tested": false,
+  "post_rows_total": 381,
+  "option_rows_total": 2417,
+  "user_rows_total": 5,
+  "database_content_verified": true
+}

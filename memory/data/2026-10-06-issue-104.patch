@@ -1,0 +1,24 @@
+--- before/gonorth.css
++++ after/gonorth.css
+@@ -2780,3 +2780,10 @@
+ @media (max-width: 640px) {
+   .gn-filter-bar input[type="search"] { width: 100%; }
+ }
++
++/* #104: clip only the offscreen Preferred Sources service iframe on mobile. */
++@media (max-width: 768px) {
++  html:has(iframe[src^="https://news.google.com/swg/ui/v1/serviceiframe"]) {
++    overflow-x: clip;
++  }
++}
+--- before/functions.php
++++ after/functions.php
+@@ -51,7 +51,7 @@
+     );
+     wp_enqueue_style( 'gonorth-main',
+         get_stylesheet_directory_uri() . '/assets/css/gonorth.css',
+-        $main_dependencies, '2.9.7'
++        $main_dependencies, '2.9.8'
+     );
+ }
+ 

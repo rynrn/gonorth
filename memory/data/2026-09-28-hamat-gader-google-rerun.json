@@ -1,0 +1,24 @@
+{
+    "summary": {
+        "stored": 0,
+        "dry_run_matches": 0,
+        "fresh_skipped": 0,
+        "failures_rejected": 1,
+        "applied": false
+    },
+    "results": [
+        {
+            "id": 405,
+            "title": "חמת גדר",
+            "status": "incomplete_google_response",
+            "candidate": "",
+            "km": "",
+            "score": "",
+            "rating": "",
+            "reviews": "",
+            "business": "",
+            "place_id": "",
+            "moved_place_id": ""
+        }
+    ]
+}

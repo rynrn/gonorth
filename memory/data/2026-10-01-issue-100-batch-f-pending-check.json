@@ -1,0 +1,85 @@
+No syntax errors detected in /tmp/issue100-verify-batch-f.php
+[
+    {
+        "ID": 490,
+        "title": "מלון גליליון",
+        "status": "pending",
+        "excerpt": "מלון בעמק החולה סמוך לאגמון החולה, עם חדרים וסוויטות, בריכה, ספא, מסעדות ומתחמי אירועים.",
+        "content": "<p>מלון גליליון נמצא בעמק החולה, סמוך לאגמון החולה ובין ראש פינה לקריית שמונה. לפי אתר המלון, במתחם 120 חדרים וסוויטות והוא מתאים כבסיס לטיולים בגליל העליון וברמת הגולן.</p><p>במלון פועלים בריכת שחייה, מתחם ספא, מסעדות וחללי אירוח ואירועים. סוגי החדרים, הארוחות והשירותים הכלולים משתנים בין חבילות ועונות.</p><p><strong>מומלץ לבדוק ישירות מול המלון</strong> זמינות, מחירים, מדיניות ילדים, נגישות ושעות פעילות של מתקני המלון לפני ההזמנה.</p>",
+        "permalink": "https://gonorth.co.il/?post_type=gd_place&p=490",
+        "thumbnail_id": 492,
+        "thumbnail_url": "https://gonorth.co.il/wp-content/uploads/gonorth-listing-illustrations/issue100-galilion-google.jpg",
+        "alt": "בריכת מלון גליליון ומבני המלון בעמק החולה",
+        "attribution_name": "miki levy",
+        "attribution_uri": "https://maps.google.com/maps/contrib/117959199072543111231",
+        "google_photo_name": "places/ChIJ-dkHnfyhHhURLLWGYN0f55o/photos/Aa-ngMa_WLlJsZOAI3wPSwg6sdeSsl5WxEGUpjeXPPer5Qd6f2lgIuE9lOmlosrWdrCyIxb3wAQUxNcK_euHfuUh_3AMiE5WWTUjuSbups84JK6EAztjg_16PoyVDqHFnzPk7QQoI8IiWuoJi1aH3-3NkvaszNR_kPvwkRGvJJtUXVWIPCL8rLAepOAYTAJhCAVrzjYWQ4bGfUTe_XYTOzlP558FevgBdL_5siMygS4_l10AFZCz3Dzgz_Zxku56WJYfvqZWUdBScJ4rqmJnkET2FebuaCsEW-BWoTR7ovjoXk7Slls40_6yKYE5z6GJJP0hYD2dnYz6o4l5B2h6bzAOk_IKKlg-_8bwlqcQGIx5aJAxcs9ge0T37hctAjvbcKWs840yJlJmL_HJfFWkD95t7b2sznuTH3VJ797MPidOp87Pkg",
+        "categories": [
+            "accommodation"
+        ],
+        "regions": [
+            "galil"
+        ],
+        "source": "https://galilion.co.il/landingpage/",
+        "source_type": "official_website_plus_google",
+        "data": {
+            "address": "כביש 90, עמק החולה",
+            "city": "עמק החולה",
+            "latitude": "33.1174951",
+            "longitude": "35.5732668",
+            "phone": "04-697-8008",
+            "website": "https://galilion.co.il/",
+            "business_hours": null,
+            "price_type": null,
+            "open_saturday": null,
+            "practical_checked_at": "2026-10-01T18:21:46+00:00",
+            "google": {
+                "place_id": "ChIJ-dkHnfyhHhURLLWGYN0f55o",
+                "rating": "4.5",
+                "review_count": "4075",
+                "checked_at": "2026-10-01T18:21:46+00:00",
+                "complete": true
+            }
+        }
+    },
+    {
+        "ID": 491,
+        "title": "שמורת עין תאו",
+        "status": "pending",
+        "excerpt": "שמורת טבע קטנה במערב עמק החולה סביב מעיין עין תאו, עם בריכה טבעית, צמחיית מים ובית גידול לח ורגיש.",
+        "content": "<p>שמורת עין תאו, המוכרת גם בשם עין ג'חולה, משתרעת סביב מעיין במערב עמק החולה. המעיין מזין בריכה טבעית גדולה וסביבת מים מתוקים שבה צמחיית מים ובית גידול רגיש.</p><p>זהו אתר טבע לא מוסדר וללא שירותי הצלה, שירותים או מתקני ביקור. תנאי הגישה ומצב השבילים עשויים להשתנות, והשטח אינו מתאים לעגלות או לכיסאות גלגלים.</p><p><strong>יש לשמור על ערכי הטבע, לציית לשילוט בשטח ולא להיכנס לבריכה הטבעית.</strong> לפני היציאה מומלץ לבדוק עדכוני גישה; אין להסתמך על המקום כאתר רחצה מוסדר.</p>",
+        "permalink": "https://gonorth.co.il/?post_type=gd_place&p=491",
+        "thumbnail_id": 493,
+        "thumbnail_url": "https://gonorth.co.il/wp-content/uploads/gonorth-listing-illustrations/issue100-ein-teo-google.jpg",
+        "alt": "בריכת מים בין עצים בשמורת עין תאו",
+        "attribution_name": "גיל וגנאר",
+        "attribution_uri": "https://maps.google.com/maps/contrib/117378058405958237922",
+        "google_photo_name": "places/ChIJN1UVpIKhHhUR05ABPzqnSjA/photos/Aa-ngMbuXQI6VUUlE1OnWE3moBWeWMPVk0cD3bd-bi7QwewC_rs0pGclR-70zo8lS1F6Ql0KU1yzh9XXSv332s3uNjaREXDzBjGr7eHPliSbYC6B005t5Jj4cQRJ6ubISVggdwXTk5RGndTfjYDmsD8x2wybpx9vfyg3tzmU-ul3RqQGbxUZgdg7WTWDG0czvmOjHghVt16K_K9gn3NLzLqRN1w8y3GL7A_Y2LoAe9LQKNAEN1lKgC5Wyvb6aATNaR-4Pej9hRFv5pyDYQCOTimOgLUwZU84WhxSnjzMOqLcrMxLf1oZtNVZqMhRX2zOFxfcBBpYe541X3p2uOuWCQZsUlnfhEmW2G8RE9cCHqFEFsI9dyf8jIVbanA9DzbiP06Cm47MAEVt1O_lnbPlPPL0cYiIo7sD8LwChdZFcdB3h0JteV9X",
+        "categories": [
+            "teva"
+        ],
+        "regions": [
+            "galil"
+        ],
+        "source": "https://inature.info/wiki/שמורת_עין_תאו",
+        "source_type": "alternative_nature_guide_plus_google",
+        "data": {
+            "address": "שמורת עין תאו, עמק החולה",
+            "city": "עמק החולה",
+            "latitude": "33.1034375",
+            "longitude": "35.6091203",
+            "phone": null,
+            "website": null,
+            "business_hours": null,
+            "price_type": null,
+            "open_saturday": null,
+            "practical_checked_at": "2026-10-01T18:21:46+00:00",
+            "google": {
+                "place_id": "ChIJN1UVpIKhHhUR05ABPzqnSjA",
+                "rating": "4.4",
+                "review_count": "28",
+                "checked_at": "2026-10-01T18:21:46+00:00",
+                "complete": true
+            }
+        }
+    }
+]

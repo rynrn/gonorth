@@ -1,0 +1,506 @@
+[
+  {
+    "id": 441,
+    "slug": "sukkot-batzafon",
+    "status": "draft",
+    "title": {
+      "raw": "סוכות בצפון",
+      "rendered": "סוכות בצפון"
+    }
+  },
+  {
+    "id": 440,
+    "slug": "rosh-hashanah-batzafon",
+    "status": "draft",
+    "title": {
+      "raw": "ראש השנה בצפון",
+      "rendered": "ראש השנה בצפון"
+    }
+  },
+  {
+    "id": 439,
+    "slug": "open-saturday",
+    "status": "draft",
+    "title": {
+      "raw": "מקומות פתוחים בשבת בצפון",
+      "rendered": "מקומות פתוחים בשבת בצפון"
+    }
+  },
+  {
+    "id": 438,
+    "slug": "issue-42-glamping-hub-review",
+    "status": "draft",
+    "title": {
+      "raw": "טיוטה: לינה וגלמפינג בצפון",
+      "rendered": "טיוטה: לינה וגלמפינג בצפון"
+    }
+  },
+  {
+    "id": 437,
+    "slug": "issue-42-coffee-hub-review",
+    "status": "draft",
+    "title": {
+      "raw": "טיוטה: עגלות קפה ובתי קפה בצפון",
+      "rendered": "טיוטה: עגלות קפה ובתי קפה בצפון"
+    }
+  },
+  {
+    "id": 436,
+    "slug": "issue-41-tours-kayaks-review",
+    "status": "draft",
+    "title": {
+      "raw": "טיוטה: סיורים בצפון וקיאקים בנחל הירדן",
+      "rendered": "טיוטה: סיורים בצפון וקיאקים בנחל הירדן"
+    }
+  },
+  {
+    "id": 435,
+    "slug": "about-editorial-policy-draft",
+    "status": "draft",
+    "title": {
+      "raw": "טיוטה: אודות כיוון צפון — מדיניות עריכה ומקורות",
+      "rendered": "טיוטה: אודות כיוון צפון — מדיניות עריכה ומקורות"
+    }
+  },
+  {
+    "id": 258,
+    "slug": "wineries-galilee-golan-guide",
+    "status": "publish",
+    "title": {
+      "raw": "יקבים בגליל ובגולן — מדריך לסיורים וטעימות יין בצפון",
+      "rendered": "יקבים בגליל ובגולן — מדריך לסיורים וטעימות יין בצפון"
+    }
+  },
+  {
+    "id": 257,
+    "slug": "attractions-for-kids-north-israel",
+    "status": "publish",
+    "title": {
+      "raw": "אטרקציות לילדים בצפון ישראל — מה לעשות עם הילדים בגליל ובגולן",
+      "rendered": "אטרקציות לילדים בצפון ישראל — מה לעשות עם הילדים בגליל ובגולן"
+    }
+  },
+  {
+    "id": 256,
+    "slug": "water-trails-north-israel",
+    "status": "publish",
+    "title": {
+      "raw": "מסלולי מים בצפון ישראל — הנחלים, הבריכות והמפלים הכי שווים",
+      "rendered": "מסלולי מים בצפון ישראל — הנחלים, הבריכות והמפלים הכי שווים"
+    }
+  },
+  {
+    "id": 254,
+    "slug": "kibbutz-stays-northern-israel",
+    "status": "publish",
+    "title": {
+      "raw": "מדריך לקיבוצי הצפון: לינה, טבע ופעילויות בגשר הזיו, דפנה ועוד",
+      "rendered": "מדריך לקיבוצי הצפון: לינה, טבע ופעילויות בגשר הזיו, דפנה ועוד"
+    }
+  },
+  {
+    "id": 253,
+    "slug": "nature-trails-north-guide",
+    "status": "publish",
+    "title": {
+      "raw": "מסלולי טבע מומלצים לטיול בצפון הארץ",
+      "rendered": "מסלולי טבע מומלצים לטיול בצפון הארץ"
+    }
+  },
+  {
+    "id": 252,
+    "slug": "water-trails-north-israel-summer",
+    "status": "publish",
+    "title": {
+      "raw": "טיול מים בצפון ישראל — הנחלים הכי שווים לקיץ",
+      "rendered": "טיול מים בצפון ישראל — הנחלים הכי שווים לקיץ"
+    }
+  },
+  {
+    "id": 251,
+    "slug": "north-israel-family-activities-guide",
+    "status": "publish",
+    "title": {
+      "raw": "מה לעשות בצפון ישראל עם ילדים — המדריך המשפחתי",
+      "rendered": "מה לעשות בצפון ישראל עם ילדים — המדריך המשפחתי"
+    }
+  },
+  {
+    "id": 250,
+    "slug": "kibbutz-dafna-dan-region-guide",
+    "status": "publish",
+    "title": {
+      "raw": "קיבוץ דפנה ואזור דן — מדריך לטיול בצפון הגליל",
+      "rendered": "קיבוץ דפנה ואזור דן — מדריך לטיול בצפון הגליל"
+    }
+  },
+  {
+    "id": 206,
+    "slug": "gesher-haziv-guide",
+    "status": "publish",
+    "title": {
+      "raw": "גשר הזיו — מה לעשות, לאן לאכול ואיפה ללון באזור",
+      "rendered": "גשר הזיו — מה לעשות, לאן לאכול ואיפה ללון באזור"
+    }
+  },
+  {
+    "id": 147,
+    "slug": "valley-of-springs-guide",
+    "status": "publish",
+    "title": {
+      "raw": "עמק המעיינות — מה לעשות ולראות",
+      "rendered": "עמק המעיינות — מה לעשות ולראות"
+    }
+  },
+  {
+    "id": 146,
+    "slug": "dor-beach-guide",
+    "status": "publish",
+    "title": {
+      "raw": "חוף דור — מדריך לחוף הים הכי יפה בכרמל",
+      "rendered": "חוף דור — מדריך לחוף הים הכי יפה בכרמל"
+    }
+  },
+  {
+    "id": 145,
+    "slug": "accommodation-galilee",
+    "status": "publish",
+    "title": {
+      "raw": "לינה בגליל — צימרים ומלונות בגליל עליון ותחתון",
+      "rendered": "לינה בגליל — צימרים ומלונות בגליל עליון ותחתון"
+    }
+  },
+  {
+    "id": 144,
+    "slug": "accommodation-golan-heights",
+    "status": "publish",
+    "title": {
+      "raw": "לינה בגולן — צימרים ומלונות ברמת הגולן",
+      "rendered": "לינה בגולן — צימרים ומלונות ברמת הגולן"
+    }
+  },
+  {
+    "id": 141,
+    "slug": "family-trip-galilee",
+    "status": "publish",
+    "title": {
+      "raw": "טיול משפחתי בגליל — 10 פעילויות לילדים",
+      "rendered": "טיול משפחתי בגליל — 10 פעילויות לילדים"
+    }
+  },
+  {
+    "id": 135,
+    "slug": "north-israel-wineries-guide-2",
+    "status": "publish",
+    "title": {
+      "raw": "יקבים בצפון ישראל — המדריך לביקורים וטעימות",
+      "rendered": "יקבים בצפון ישראל — המדריך לביקורים וטעימות"
+    }
+  },
+  {
+    "id": 123,
+    "slug": "springs-valley-guide",
+    "status": "publish",
+    "title": {
+      "raw": "עמק המעיינות — המדריך לטיול",
+      "rendered": "עמק המעיינות — המדריך לטיול"
+    }
+  },
+  {
+    "id": 131,
+    "slug": "metzukei-dragot-guide",
+    "status": "publish",
+    "title": {
+      "raw": "מצוקי דרגות — מסלול הטיול, קושי ואיך מגיעים",
+      "rendered": "מצוקי דרגות — מסלול הטיול, קושי ואיך מגיעים"
+    }
+  },
+  {
+    "id": 126,
+    "slug": "shavuot-2025-north-israel",
+    "status": "publish",
+    "title": {
+      "raw": "מה לעשות בשבועות 2025 בצפון — המדריך לחג",
+      "rendered": "מה לעשות בשבועות 2025 בצפון — המדריך לחג"
+    }
+  },
+  {
+    "id": 130,
+    "slug": "tzfat-travel-guide",
+    "status": "publish",
+    "title": {
+      "raw": "מדריך לצפת — אמנות, היסטוריה ונוף הרים",
+      "rendered": "מדריך לצפת — אמנות, היסטוריה ונוף הרים"
+    }
+  },
+  {
+    "id": 128,
+    "slug": "akko-travel-guide",
+    "status": "publish",
+    "title": {
+      "raw": "מדריך לעכו — מה לראות, לאכול ולעשות בעיר הנמל",
+      "rendered": "מדריך לעכו — מה לראות, לאכול ולעשות בעיר הנמל"
+    }
+  },
+  {
+    "id": 120,
+    "slug": "nahariya-travel-guide",
+    "status": "publish",
+    "title": {
+      "raw": "מדריך לנהריה — חוף, טבע ומה לעשות בצפון הגליל",
+      "rendered": "מדריך לנהריה — חוף, טבע ומה לעשות בצפון הגליל"
+    }
+  },
+  {
+    "id": 84,
+    "slug": "%d7%9e%d7%93%d7%a8%d7%99%d7%9a-%d7%9c%d7%99%d7%a0%d7%94-%d7%91%d7%a8%d7%9e%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f-%d7%9e%d7%9c%d7%95%d7%a0%d7%95%d7%aa-%d7%a6%d7%99%d7%9e%d7%a8%d7%99%d7%9d-%d7%95%d7%a7",
+    "status": "publish",
+    "title": {
+      "raw": "מדריך לינה ברמת הגולן: מלונות, צימרים וקמפינג",
+      "rendered": "מדריך לינה ברמת הגולן: מלונות, צימרים וקמפינג"
+    }
+  },
+  {
+    "id": 127,
+    "slug": "north-israel-wineries-guide",
+    "status": "publish",
+    "title": {
+      "raw": "יקבים בצפון ישראל — מדריך ליקבי הגולן והגליל",
+      "rendered": "יקבים בצפון ישראל — מדריך ליקבי הגולן והגליל"
+    }
+  },
+  {
+    "id": 125,
+    "slug": "hermon-site-guide",
+    "status": "publish",
+    "title": {
+      "raw": "אתר החרמון — מדריך לביקור בהר",
+      "rendered": "אתר החרמון — מדריך לביקור בהר"
+    }
+  },
+  {
+    "id": 122,
+    "slug": "horshat-tal-guide",
+    "status": "publish",
+    "title": {
+      "raw": "חורשת טל — הפארק הלאומי בצפון הגולן",
+      "rendered": "חורשת טל — הפארק הלאומי בצפון הגולן"
+    }
+  },
+  {
+    "id": 121,
+    "slug": "hamat-gader-guide",
+    "status": "publish",
+    "title": {
+      "raw": "חמת גדר — מה יש שם, כרטיסים ואיך מגיעים",
+      "rendered": "חמת גדר — מה יש שם, כרטיסים ואיך מגיעים"
+    }
+  },
+  {
+    "id": 129,
+    "slug": "nahariya-travel-guide-2",
+    "status": "draft",
+    "title": {
+      "raw": "מדריך לנהריה — חוף, טבע ומה לעשות בצפון הגליל",
+      "rendered": "מדריך לנהריה — חוף, טבע ומה לעשות בצפון הגליל"
+    }
+  },
+  {
+    "id": 124,
+    "slug": "agamon-hahula-guide",
+    "status": "draft",
+    "title": {
+      "raw": "אגמון החולה — צפרות, עגורים ואיך לתכנן ביקור",
+      "rendered": "אגמון החולה — צפרות, עגורים ואיך לתכנן ביקור"
+    }
+  },
+  {
+    "id": 100,
+    "slug": "add-listing",
+    "status": "publish",
+    "title": {
+      "raw": "הוסף מקום",
+      "rendered": "הוסף מקום"
+    }
+  },
+  {
+    "id": 47,
+    "slug": "mediniyut-pratiyut",
+    "status": "publish",
+    "title": {
+      "raw": "מדיניות פרטיות",
+      "rendered": "מדיניות פרטיות"
+    }
+  },
+  {
+    "id": 46,
+    "slug": "negishot",
+    "status": "publish",
+    "title": {
+      "raw": "הצהרת נגישות",
+      "rendered": "הצהרת נגישות"
+    }
+  },
+  {
+    "id": 27,
+    "slug": "contact",
+    "status": "publish",
+    "title": {
+      "raw": "צור קשר עם כיוון צפון - שאלות, טעויות ועדכוני מידע על הצפון",
+      "rendered": "צור קשר עם כיוון צפון &#8211; שאלות, טעויות ועדכוני מידע על הצפון"
+    }
+  },
+  {
+    "id": 26,
+    "slug": "about",
+    "status": "publish",
+    "title": {
+      "raw": "אודות כיוון צפון - מדריך לטיול בצפון ישראל",
+      "rendered": "אודות כיוון צפון &#8211; מדריך לטיול בצפון ישראל"
+    }
+  },
+  {
+    "id": 25,
+    "slug": "blog",
+    "status": "publish",
+    "title": {
+      "raw": "blog",
+      "rendered": "blog"
+    }
+  },
+  {
+    "id": 24,
+    "slug": "places",
+    "status": "publish",
+    "title": {
+      "raw": "מאות מקומות מומלצים בצפון ישראל  -  אטרקציות, לינה, אוכל וסיורים בגליל, גולן וחרמון. כל המידע במקום אחד.",
+      "rendered": "מאות מקומות מומלצים בצפון ישראל  &#8211;  אטרקציות, לינה, אוכל וסיורים בגליל, גולן וחרמון. כל המידע במקום אחד."
+    }
+  },
+  {
+    "id": 23,
+    "slug": "home",
+    "status": "publish",
+    "title": {
+      "raw": "כיוון צפון | המדריך לצפון ישראל - אטרקציות, לינה וסיורים",
+      "rendered": "כיוון צפון | המדריך לצפון ישראל &#8211; אטרקציות, לינה וסיורים"
+    }
+  },
+  {
+    "id": 17,
+    "slug": "terms-and-conditions",
+    "status": "draft",
+    "title": {
+      "raw": "Terms and Conditions",
+      "rendered": "Terms and Conditions"
+    }
+  },
+  {
+    "id": 21,
+    "slug": "gd-details",
+    "status": "publish",
+    "title": {
+      "raw": "פרטי מקום",
+      "rendered": "פרטי מקום"
+    }
+  },
+  {
+    "id": 16,
+    "slug": "search",
+    "status": "publish",
+    "title": {
+      "raw": "חיפוש",
+      "rendered": "חיפוש"
+    }
+  },
+  {
+    "id": 18,
+    "slug": "location",
+    "status": "publish",
+    "title": {
+      "raw": "אזורים",
+      "rendered": "אזורים"
+    }
+  },
+  {
+    "id": 19,
+    "slug": "gd-archive",
+    "status": "publish",
+    "title": {
+      "raw": "ארכיון מקומות",
+      "rendered": "ארכיון מקומות"
+    }
+  },
+  {
+    "id": 20,
+    "slug": "gd-archive-item",
+    "status": "publish",
+    "title": {
+      "raw": "כרטיס מקום",
+      "rendered": "כרטיס מקום"
+    }
+  },
+  {
+    "id": 14,
+    "slug": "refund_returns",
+    "status": "draft",
+    "title": {
+      "raw": "Refund and Returns Policy",
+      "rendered": "Refund and Returns Policy"
+    }
+  },
+  {
+    "id": 13,
+    "slug": "my-account",
+    "status": "draft",
+    "title": {
+      "raw": "My account",
+      "rendered": "My account"
+    }
+  },
+  {
+    "id": 12,
+    "slug": "checkout",
+    "status": "draft",
+    "title": {
+      "raw": "Checkout",
+      "rendered": "Checkout"
+    }
+  },
+  {
+    "id": 11,
+    "slug": "cart",
+    "status": "draft",
+    "title": {
+      "raw": "Cart",
+      "rendered": "Cart"
+    }
+  },
+  {
+    "id": 10,
+    "slug": "shop",
+    "status": "draft",
+    "title": {
+      "raw": "Shop",
+      "rendered": "Shop"
+    }
+  },
+  {
+    "id": 2,
+    "slug": "sample-page",
+    "status": "draft",
+    "title": {
+      "raw": "Sample Page",
+      "rendered": "Sample Page"
+    }
+  },
+  {
+    "id": 3,
+    "slug": "privacy-policy",
+    "status": "draft",
+    "title": {
+      "raw": "Privacy Policy",
+      "rendered": "Privacy Policy"
+    }
+  }
+]

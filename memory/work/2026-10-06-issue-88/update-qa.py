@@ -1,0 +1,10 @@
+from pathlib import Path
+p=Path('memory/work/2026-10-06-issue-88/browser-qa.js')
+s=p.read_text(encoding='utf-8')
+start=s.index(" await page.goto(base+'/places/קיאק-כנרת/")
+end=s.index(" await page.goto(base+'/villas-israel-north-guide/",start)
+new=""" await page.goto(base+'/places/קיאק-כנרת/?gn_verify=issue88e',{waitUntil:'domcontentloaded'});s=await page.evaluate(()=>({shortcuts:[...document.querySelectorAll('.gn-place-overview__shortcuts a')].map(a=>({text:a.textContent.trim(),exists:!!document.querySelector(a.hash)})),primary:[...document.querySelectorAll('.gn-place-overview__primary a')].map(a=>({text:a.textContent.trim(),href:a.href})),secondary:[...document.querySelectorAll('.gn-place-overview__secondary a')].map(a=>({text:a.textContent.trim(),href:a.href})),width:document.documentElement.scrollWidth,view:innerWidth,position:getComputedStyle(document.querySelector('.gn-place-overview')).position}));check('Place shortcuts have valid targets',s.shortcuts.length===2&&s.shortcuts.every(x=>x.exists),JSON.stringify(s.shortcuts));check('Place primary and secondary actions',s.primary.some(x=>x.href.startsWith('tel:'))&&s.primary.some(x=>x.href.includes('waze.com'))&&s.secondary.some(x=>x.text==='לאתר הרשמי')&&s.secondary.some(x=>x.text==='Google Maps'),JSON.stringify({primary:s.primary,secondary:s.secondary}));check('Mobile actions no sticky overlay/reflow',s.position!=='fixed'&&s.position!=='sticky'&&s.width<=s.view,JSON.stringify({position:s.position,width:s.width,view:s.view}));
+ const closed=base+'/places/עגלת-קפה-מיכאל/?gn_verify=issue88e';await page.goto(closed,{waitUntil:'domcontentloaded'});s=await page.evaluate(()=>({notice:!!document.querySelector('.gn-place-overview__limit'),waze:[...document.querySelectorAll('.gn-place-overview__actions a')].some(a=>a.href.includes('waze.com')),phone:[...document.querySelectorAll('.gn-place-overview__actions a')].some(a=>a.href.startsWith('tel:'))}));check('Closed place retains notice without contact',s.notice&&!s.waze&&!s.phone,JSON.stringify(s));
+"""
+s=s[:start]+new+s[end:]
+p.write_text(s,encoding='utf-8')

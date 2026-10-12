@@ -1,0 +1,14 @@
+{
+  "name": "מלון האפנדי — עכו",
+  "official_directions": "https://efendi-hotel.co.il/דרכי-הגעה-למלון/",
+  "official_contact": "https://efendi-hotel.co.il/contact/",
+  "waze_url": "https://ul.waze.com/ul?ll=32.92259730%2C35.06819240&navigate=yes&place=ChIJQ4sIwUTIHRURNP0JZQOTIJI&utm_campaign=default&utm_medium=lm_share_location&utm_source=waze_website",
+  "latitude": 32.9225973,
+  "longitude": 35.0681924,
+  "route_semantics": "hotel Waze destination as linked by operator; not verified unloading/parking point",
+  "photo_source": "https://commons.wikimedia.org/wiki/File:Efendi_Hotel,_Acre,_Israel_-_01.jpg",
+  "photo_author": "Yuval Y",
+  "photo_date": "2012-09-28",
+  "photo_license": "CC BY-SA 3.0",
+  "photo_sha256": "97A8E7A6645F7116D6AAF3D199B600C3785B5D644B1CB2A0433A499B62ED03E4"
+}

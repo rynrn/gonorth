@@ -1,0 +1,5 @@
+<?php
+if(!defined('ABSPATH')){exit;}
+$ids=[470,471,476,477,480,481,484,485,488,54,490,491,494,495,191];$out=[];foreach($ids as $id){$p=get_post($id);if(!$p)continue;$t=get_post_thumbnail_id($id);$out[]=['ID'=>$id,'title'=>$p->post_title,'status'=>$p->post_status,'url'=>get_permalink($id),'thumbnail_id'=>$t,'thumbnail_url'=>wp_get_attachment_url($t),'image_role'=>get_post_meta($t,'_gonorth_image_role',true),'google_photo_name'=>get_post_meta($t,'_gonorth_google_photo_name',true),'place_id'=>get_post_meta($id,'google_place_id',true)];}
+$terms=['TRIO','טריו','שירי פסטה','קמפינג מטיילים דפנה','מלון מטיילים ארץ דפנה','קלומפוס','הטנק הסורי ההפוך','בניאס'];$posts=get_posts(['post_type'=>'gd_place','post_status'=>'any','posts_per_page'=>-1]);foreach($posts as $p){foreach($terms as $term){if(mb_stripos($p->post_title,$term)!==false){$out[]=['search_term'=>$term,'ID'=>$p->ID,'title'=>$p->post_title,'status'=>$p->post_status,'url'=>get_permalink($p->ID),'place_id'=>get_post_meta($p->ID,'google_place_id',true)];}}}
+echo wp_json_encode($out,JSON_UNESCAPED_UNICODE|JSON_UNESCAPED_SLASHES|JSON_PRETTY_PRINT).PHP_EOL;

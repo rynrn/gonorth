@@ -1,0 +1,10 @@
+{
+  "source_url": "https://www.waze.com/en-GB/live-map/directions/%D7%A9%D7%9E%D7%95%D7%A8%D7%AA-%D7%98%D7%91%D7%A2-%D7%A0%D7%97%D7%9C-%D7%94%D7%9E%D7%A2%D7%A8%D7%95%D7%AA?to=place.w.22937927.229117123.549523",
+  "checked_at": "2026-10-06T03:44:08.4913817Z",
+  "html_field": "routing.to.latLng",
+  "latitude": "32.67078183398377",
+  "longitude": "34.9655800201109",
+  "title": "שמורת טבע נחל המערות",
+  "interpretation": "Named navigation destination only; RTG warns Waze may route via Kerem Maharal, which is wrong; no reliable entrance point or route confirmed",
+  "raw_html_saved": false
+}

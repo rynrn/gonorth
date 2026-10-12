@@ -1,0 +1,369 @@
+{
+  "id": "534",
+  "title": {
+    "raw": "גן לאומי בית שערים",
+    "rendered": "גן לאומי בית שערים"
+  },
+  "slug": "",
+  "link": "https://gonorth.co.il/?post_type=gd_place&p=534",
+  "status": "pending",
+  "type": "gd_place",
+  "author": 1,
+  "date": "2026-10-06T03:05:35",
+  "date_gmt": "2026-10-06T03:05:35",
+  "modified": "2026-10-06T03:05:35",
+  "modified_gmt": "2026-10-06T03:05:35",
+  "content": {
+    "raw": "<p>גן לאומי בית שערים הוא אתר היסטורי וארכיאולוגי באזור קריית טבעון. בין מוקדי העניין שרידי בית הכנסת ומערות הקבורה, ובהן מערת רבי יהודה הנשיא ומערת הארונות.</p>\n<p>בגן עוברים שביל עליון באזור הגבעה ושביל תחתון בין מערות הקבורה. לפי רשות הטבע והגנים, ביקור במתחם מערות המנורה מחייב הדרכה ותיאום מראש.</p>\n<p>לפני ההגעה מומלץ לבדוק <a href=\"https://www.parks.org.il/reserve-park/%D7%92%D7%9F-%D7%9C%D7%90%D7%95%D7%9E%D7%99-%D7%91%D7%99%D7%AA-%D7%A9%D7%A2%D7%A8%D7%99%D7%9D/\">באתר רשות הטבע והגנים</a> שעות, הזמנת ביקור, גישה למערות והנחיות נגישות עדכניות. נקודת הניווט באתר הרשות מיועדת למבקרים בגן ואינה מזהה מערה מסוימת.</p>\n<p class=\"gn-image-credit\">צילום: <a href=\"https://commons.wikimedia.org/wiki/User:Davidbena\">Davidbena</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Catacomb_no._14,_The_Cave_of_Rabbi_Yehuda_HaNasi.jpg\">חזית מערת רבי יהודה הנשיא, 2019</a>, ברישיון <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. הצילום מייצג אחד ממוקדי הגן, ואינו מציג את שער הכניסה או מצב הגישה כיום.</p>\r\n",
+    "rendered": "<p>גן לאומי בית שערים הוא אתר היסטורי וארכיאולוגי באזור קריית טבעון. בין מוקדי העניין שרידי בית הכנסת ומערות הקבורה, ובהן מערת רבי יהודה הנשיא ומערת הארונות.</p>\n<p>בגן עוברים שביל עליון באזור הגבעה ושביל תחתון בין מערות הקבורה. לפי רשות הטבע והגנים, ביקור במתחם מערות המנורה מחייב הדרכה ותיאום מראש.</p>\n<p>לפני ההגעה מומלץ לבדוק <a href=\"https://www.parks.org.il/reserve-park/%D7%92%D7%9F-%D7%9C%D7%90%D7%95%D7%9E%D7%99-%D7%91%D7%99%D7%AA-%D7%A9%D7%A2%D7%A8%D7%99%D7%9D/\">באתר רשות הטבע והגנים</a> שעות, הזמנת ביקור, גישה למערות והנחיות נגישות עדכניות. נקודת הניווט באתר הרשות מיועדת למבקרים בגן ואינה מזהה מערה מסוימת.</p>\n<p class=\"gn-image-credit\">צילום: <a href=\"https://commons.wikimedia.org/wiki/User:Davidbena\">Davidbena</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Catacomb_no._14,_The_Cave_of_Rabbi_Yehuda_HaNasi.jpg\">חזית מערת רבי יהודה הנשיא, 2019</a>, ברישיון <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. הצילום מייצג אחד ממוקדי הגן, ואינו מציג את שער הכניסה או מצב הגישה כיום.</p>\n",
+    "protected": false
+  },
+  "default_category": null,
+  "post_category": [
+    {
+      "id": 17,
+      "name": "אטרקציות",
+      "slug": "atraktziot-main"
+    }
+  ],
+  "post_tags": [],
+  "street": null,
+  "country": "ישראל",
+  "region": "צפון",
+  "city": "צפון ישראל",
+  "zip": null,
+  "latitude": null,
+  "longitude": null,
+  "mapview": null,
+  "mapzoom": null,
+  "phone": null,
+  "website": null,
+  "business_hours": null,
+  "price_type": {
+    "raw": null,
+    "rendered": "בחר"
+  },
+  "open_saturday": {
+    "raw": null,
+    "rendered": "בחר"
+  },
+  "featured": false,
+  "rating": "0",
+  "rating_count": 0,
+  "featured_media": 0,
+  "featured_image": [],
+  "images": [],
+  "comment_status": "open",
+  "ping_status": "closed",
+  "meta": {
+    "site-sidebar-layout": "default",
+    "site-content-layout": "",
+    "ast-site-content-layout": "default",
+    "site-content-style": "default",
+    "site-sidebar-style": "default",
+    "ast-global-header-display": "",
+    "ast-banner-title-visibility": "",
+    "ast-main-header-display": "",
+    "ast-hfb-above-header-display": "",
+    "ast-hfb-below-header-display": "",
+    "ast-hfb-mobile-header-display": "",
+    "site-post-title": "",
+    "ast-breadcrumbs-content": "",
+    "ast-featured-img": "",
+    "footer-sml-layout": "",
+    "ast-disable-related-posts": "",
+    "theme-transparent-header-meta": "",
+    "adv-header-id-meta": "",
+    "stick-header-meta": "",
+    "header-above-stick-meta": "",
+    "header-main-stick-meta": "",
+    "header-below-stick-meta": "",
+    "astra-migrate-meta-layouts": "default",
+    "ast-page-background-enabled": "default",
+    "ast-page-background-meta": {
+      "desktop": {
+        "background-color": "var(--ast-global-color-5)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "tablet": {
+        "background-color": "",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "mobile": {
+        "background-color": "",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      }
+    },
+    "ast-content-background-meta": {
+      "desktop": {
+        "background-color": "var(--ast-global-color-4)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "tablet": {
+        "background-color": "var(--ast-global-color-4)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "mobile": {
+        "background-color": "var(--ast-global-color-4)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      }
+    },
+    "footnotes": ""
+  },
+  "guid": {
+    "rendered": "https://gonorth.co.il/?post_type=gd_place&p=534",
+    "raw": "https://gonorth.co.il/?post_type=gd_place&p=534"
+  },
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v27.5 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>גן לאומי בית שערים - כיוון צפון</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://gonorth.co.il/?post_type=gd_place&p=534\" />\n<meta property=\"og:locale\" content=\"he_IL\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"גן לאומי בית שערים - כיוון צפון\" />\n<meta property=\"og:description\" content=\"גן לאומי בית שערים ליד קריית טבעון משלב מערות קבורה, שרידי יישוב ושבילי ביקור. בדקו באתר רשות הטבע והגנים תנאי כניסה ותיאום לפני היציאה.\" />\n<meta property=\"og:url\" content=\"https://gonorth.co.il/?post_type=gd_place&amp;p=534\" />\n<meta property=\"og:site_name\" content=\"כיוון צפון\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/gonorth.co.il\\/?post_type=gd_place&p=534\",\"url\":\"https:\\/\\/gonorth.co.il\\/?post_type=gd_place&p=534\",\"name\":\"גן לאומי בית שערים - כיוון צפון\",\"isPartOf\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\"},\"datePublished\":\"-0001-11-30T00:00:00+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/?post_type=gd_place&p=534#breadcrumb\"},\"inLanguage\":\"he-IL\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/gonorth.co.il\\/?post_type=gd_place&p=534\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/gonorth.co.il\\/?post_type=gd_place&p=534#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/gonorth.co.il\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Places\",\"item\":\"https:\\/\\/gonorth.co.il\\/places\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"גן לאומי בית שערים\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"name\":\"כיוון צפון\",\"description\":\"גלה את הצפון כמו מקומי\",\"alternateName\":\"GoNorth\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/gonorth.co.il\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"he-IL\",\"publisher\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\",\"name\":\"כיוון צפון\",\"alternateName\":\"GoNorth\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization-logo\",\"url\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/themes\\/gonorth-child\\/assets\\/gonorth-organic-mark.svg\",\"width\":300,\"height\":130},\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"שירות לקוחות\",\"url\":\"https:\\/\\/gonorth.co.il\\/contact\\/\",\"availableLanguage\":[\"עברית\"]},\"sameAs\":[\"https:\\/\\/gonorth.co.il\\/about\\/\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "גן לאומי בית שערים - כיוון צפון",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://gonorth.co.il/?post_type=gd_place&p=534",
+    "og_locale": "he_IL",
+    "og_type": "article",
+    "og_title": "גן לאומי בית שערים - כיוון צפון",
+    "og_description": "גן לאומי בית שערים ליד קריית טבעון משלב מערות קבורה, שרידי יישוב ושבילי ביקור. בדקו באתר רשות הטבע והגנים תנאי כניסה ותיאום לפני היציאה.",
+    "og_url": "https://gonorth.co.il/?post_type=gd_place&p=534",
+    "og_site_name": "כיוון צפון",
+    "twitter_card": "summary_large_image",
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://gonorth.co.il/?post_type=gd_place&p=534",
+          "url": "https://gonorth.co.il/?post_type=gd_place&p=534",
+          "name": "גן לאומי בית שערים - כיוון צפון",
+          "isPartOf": {
+            "@id": "https://gonorth.co.il/#website"
+          },
+          "datePublished": "-0001-11-30T00:00:00+00:00",
+          "breadcrumb": {
+            "@id": "https://gonorth.co.il/?post_type=gd_place&p=534#breadcrumb"
+          },
+          "inLanguage": "he-IL",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://gonorth.co.il/?post_type=gd_place&p=534"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://gonorth.co.il/?post_type=gd_place&p=534#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://gonorth.co.il/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Places",
+              "item": "https://gonorth.co.il/places/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "גן לאומי בית שערים"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://gonorth.co.il/#website",
+          "url": "https://gonorth.co.il/",
+          "name": "כיוון צפון",
+          "description": "גלה את הצפון כמו מקומי",
+          "alternateName": "GoNorth",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://gonorth.co.il/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "he-IL",
+          "publisher": {
+            "@id": "https://gonorth.co.il/#organization"
+          }
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://gonorth.co.il/#organization",
+          "name": "כיוון צפון",
+          "alternateName": "GoNorth",
+          "url": "https://gonorth.co.il/",
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://gonorth.co.il/#organization-logo",
+            "url": "https://gonorth.co.il/wp-content/themes/gonorth-child/assets/gonorth-organic-mark.svg",
+            "width": 300,
+            "height": 130
+          },
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "contactType": "שירות לקוחות",
+            "url": "https://gonorth.co.il/contact/",
+            "availableLanguage": [
+              "עברית"
+            ]
+          },
+          "sameAs": [
+            "https://gonorth.co.il/about/"
+          ]
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://gonorth.co.il/wp-json/geodir/v2/places/534",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://gonorth.co.il/wp-json/geodir/v2/places"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://gonorth.co.il/wp-json/geodir/v2/types/gd_place"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://gonorth.co.il/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://gonorth.co.il/wp-json/geodir/v2/reviews?post=534"
+      }
+    ],
+    "version-history": [
+      {
+        "href": "https://gonorth.co.il/wp-json/geodir/v2/places/534/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://gonorth.co.il/wp-json/wp/v2/media?parent=534"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "gd_place_tags",
+        "embeddable": true,
+        "href": "https://gonorth.co.il/wp-json/geodir/v2/places/tags?post=534"
+      },
+      {
+        "taxonomy": "gd_placecategory",
+        "embeddable": true,
+        "href": "https://gonorth.co.il/wp-json/geodir/v2/places/categories?post=534"
+      },
+      {
+        "taxonomy": "gn_region",
+        "embeddable": true,
+        "href": "https://gonorth.co.il/wp-json/geodir/v2/?post=534"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

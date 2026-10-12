@@ -1,0 +1,46 @@
+[
+  {
+    "id": 202,
+    "source": "manual_review",
+    "source_url": "https://easy.co.il/page/10092130",
+    "checked_at": "2026-09-28T13:20:00Z",
+    "confidence": 0.95,
+    "facts": {
+      "business_status": "operational",
+      "phone": "058-4345278"
+    }
+  },
+  {
+    "id": 228,
+    "source": "manual_review",
+    "source_url": "https://coffeetrail.co.il/coffeecart/coffish/",
+    "checked_at": "2026-09-28T13:20:00Z",
+    "confidence": 0.9,
+    "facts": {
+      "business_status": "operational",
+      "phone": "054-493-9011"
+    }
+  },
+  {
+    "id": 357,
+    "source": "manual_review",
+    "source_url": "https://tourgolan.org.il/listing/f-ranch/",
+    "checked_at": "2026-09-28T13:20:00Z",
+    "confidence": 0.95,
+    "facts": {
+      "business_status": "operational",
+      "phone": "058-455-9312"
+    }
+  },
+  {
+    "id": 409,
+    "source": "manual_review",
+    "source_url": "https://tourgolan.org.il/listing/%D7%9E%D7%95%D7%A8%D7%A9%D7%AA-%D7%92%D7%95%D7%A9-%D7%A7%D7%98%D7%99%D7%A3-%D7%91%D7%92%D7%95%D7%9C%D7%9F/",
+    "checked_at": "2026-09-28T13:20:00Z",
+    "confidence": 0.9,
+    "facts": {
+      "business_status": "operational",
+      "phone": "04-676-3535"
+    }
+  }
+]

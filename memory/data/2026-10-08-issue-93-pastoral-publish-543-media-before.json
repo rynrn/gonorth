@@ -1,0 +1,467 @@
+{
+  "id": 543,
+  "date": "2026-10-06T04:43:20",
+  "date_gmt": "2026-10-06T04:43:20",
+  "guid": {
+    "rendered": "https://gonorth.co.il/?attachment_id=543",
+    "raw": "https://gonorth.co.il/?attachment_id=543"
+  },
+  "modified": "2026-10-06T04:43:20",
+  "modified_gmt": "2026-10-06T04:43:20",
+  "slug": "%d7%9e%d7%9c%d7%95%d7%9f-%d7%a4%d7%a1%d7%98%d7%95%d7%a8%d7%9c-%d7%9b%d7%a4%d7%a8-%d7%91%d7%9c%d7%95%d7%9d-%d7%a6%d7%99%d7%9c%d7%95%d7%9d-hanay-2025",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://gonorth.co.il/?attachment_id=543",
+  "title": {
+    "raw": "מלון פסטורל כפר בלום — צילום Hanay 2025",
+    "rendered": "מלון פסטורל כפר בלום — צילום Hanay 2025"
+  },
+  "author": 0,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "site-sidebar-layout": "default",
+    "site-content-layout": "",
+    "ast-site-content-layout": "default",
+    "site-content-style": "default",
+    "site-sidebar-style": "default",
+    "ast-global-header-display": "",
+    "ast-banner-title-visibility": "",
+    "ast-main-header-display": "",
+    "ast-hfb-above-header-display": "",
+    "ast-hfb-below-header-display": "",
+    "ast-hfb-mobile-header-display": "",
+    "site-post-title": "",
+    "ast-breadcrumbs-content": "",
+    "ast-featured-img": "",
+    "footer-sml-layout": "",
+    "ast-disable-related-posts": "",
+    "theme-transparent-header-meta": "",
+    "adv-header-id-meta": "",
+    "stick-header-meta": "",
+    "header-above-stick-meta": "",
+    "header-main-stick-meta": "",
+    "header-below-stick-meta": "",
+    "astra-migrate-meta-layouts": "default",
+    "ast-page-background-enabled": "default",
+    "ast-page-background-meta": {
+      "desktop": {
+        "background-color": "var(--ast-global-color-5)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "tablet": {
+        "background-color": "",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "mobile": {
+        "background-color": "",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      }
+    },
+    "ast-content-background-meta": {
+      "desktop": {
+        "background-color": "var(--ast-global-color-4)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "tablet": {
+        "background-color": "var(--ast-global-color-4)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "mobile": {
+        "background-color": "var(--ast-global-color-4)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      }
+    }
+  },
+  "permalink_template": "https://gonorth.co.il/?attachment_id=543",
+  "generated_slug": "מלון-פסטורל-כפר-בלום-צילום-hanay-2025",
+  "class_list": [
+    "post-543",
+    "attachment",
+    "type-attachment",
+    "status-inherit",
+    "hentry"
+  ],
+  "smush": {
+    "stats": {
+      "time": 1.19,
+      "bytes": 424517,
+      "percent": 7.76,
+      "size_before": 5472713,
+      "size_after": 5048196,
+      "lossy": 0,
+      "keep_exif": 0,
+      "api_version": "2.0",
+      "is_premium": false
+    },
+    "sizes": {
+      "thumbnail": {
+        "time": 0,
+        "bytes": 266,
+        "percent": 4.76,
+        "size_before": 5588,
+        "size_after": 5322
+      },
+      "woocommerce_gallery_thumbnail": {
+        "time": 0,
+        "bytes": 182,
+        "percent": 5.92,
+        "size_before": 3074,
+        "size_after": 2892
+      },
+      "woocommerce_single": {
+        "time": 0.04,
+        "bytes": 2491,
+        "percent": 5.16,
+        "size_before": 48298,
+        "size_after": 45807
+      },
+      "woocommerce_thumbnail": {
+        "time": 0.01,
+        "bytes": 825,
+        "percent": 4.68,
+        "size_before": 17615,
+        "size_after": 16790
+      },
+      "gonorth-thumb": {
+        "time": 0.01,
+        "bytes": 1039,
+        "percent": 4.63,
+        "size_before": 22434,
+        "size_after": 21395
+      },
+      "gonorth-card": {
+        "time": 0.01,
+        "bytes": 2448,
+        "percent": 5.05,
+        "size_before": 48430,
+        "size_after": 45982
+      },
+      "medium": {
+        "time": 0.01,
+        "bytes": 575,
+        "percent": 4.22,
+        "size_before": 13628,
+        "size_after": 13053
+      },
+      "gonorth-hero": {
+        "time": 0.04,
+        "bytes": 9287,
+        "percent": 5.12,
+        "size_before": 181388,
+        "size_after": 172101
+      },
+      "medium_large": {
+        "time": 0.03,
+        "bytes": 3964,
+        "percent": 5.14,
+        "size_before": 77142,
+        "size_after": 73178
+      },
+      "large": {
+        "time": 0.02,
+        "bytes": 6936,
+        "percent": 5.11,
+        "size_before": 135707,
+        "size_after": 128771
+      },
+      "1536x1536": {
+        "time": 0.06,
+        "bytes": 14644,
+        "percent": 4.93,
+        "size_before": 296960,
+        "size_after": 282316
+      },
+      "wp_scaled": {
+        "time": 0.11,
+        "bytes": 21024,
+        "percent": 4.67,
+        "size_before": 450458,
+        "size_after": 429434
+      },
+      "2048x2048": {
+        "time": 0.09,
+        "bytes": 23437,
+        "percent": 4.62,
+        "size_before": 507380,
+        "size_after": 483943
+      },
+      "full": {
+        "time": 0.76,
+        "bytes": 337399,
+        "percent": 9.21,
+        "size_before": 3664611,
+        "size_after": 3327212
+      }
+    }
+  },
+  "description": {
+    "raw": "צילום Hanay, 27.11.2025; מקור Wikimedia Commons; CC BY-SA 4.0; WordPress resized and compressed display variants.",
+    "rendered": "<p class=\"attachment\"><a href='https://gonorth.co.il/wp-content/uploads/issue93-licensed/pastoral-hanay-2025-scaled.jpg'><picture class=\"gonorth-nextgen-picture\"><source type=\"image/webp\" srcset=\"https://gonorth.co.il/wp-content/uploads/issue93-licensed/pastoral-hanay-2025-300x225.jpg.webp?ver=1791261804 300w, https://gonorth.co.il/wp-content/uploads/issue93-licensed/pastoral-hanay-2025-1024x768.jpg.webp?ver=1791261804 1024w, https://gonorth.co.il/wp-content/uploads/issue93-licensed/pastoral-hanay-2025-768x576.jpg.webp?ver=1791261804 768w, https://gonorth.co.il/wp-content/uploads/issue93-licensed/pastoral-hanay-2025-1536x1152.jpg.webp?ver=1791261805 1536w, https://gonorth.co.il/wp-content/uploads/issue93-licensed/pastoral-hanay-2025-2048x1536.jpg.webp?ver=1791261805 2048w, https://gonorth.co.il/wp-content/uploads/issue93-licensed/pastoral-hanay-2025-400x300.jpg.webp?ver=1791261805 400w, https://gonorth.co.il/wp-content/uploads/issue93-licensed/pastoral-hanay-2025-600x450.jpg.webp?ver=1791261805 600w, https://gonorth.co.il/wp-content/uploads/issue93-licensed/pastoral-hanay-2025-scaled.jpg.webp?ver=1791261804 1920w\" sizes=\"(max-width: 300px) 100vw, 300px\"><img fetchpriority=\"high\" decoding=\"async\" width=\"300\" height=\"225\" src=\"https://gonorth.co.il/wp-content/uploads/issue93-licensed/pastoral-hanay-2025-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"חזית חלקית של מלון פסטורל ושלט המלון בכפר בלום בצילום מ־2025\" srcset=\"https://gonorth.co.il/wp-content/uploads/issue93-licensed/pastoral-hanay-2025-300x225.jpg 300w, https://gonorth.co.il/wp-content/uploads/issue93-licensed/pastoral-hanay-2025-1024x768.jpg 1024w, https://gonorth.co.il/wp-content/uploads/issue93-licensed/pastoral-hanay-2025-768x576.jpg 768w, https://gonorth.co.il/wp-content/uploads/issue93-licensed/pastoral-hanay-2025-1536x1152.jpg 1536w, https://gonorth.co.il/wp-content/uploads/issue93-licensed/pastoral-hanay-2025-2048x1536.jpg 2048w, https://gonorth.co.il/wp-content/uploads/issue93-licensed/pastoral-hanay-2025-400x300.jpg 400w, https://gonorth.co.il/wp-content/uploads/issue93-licensed/pastoral-hanay-2025-600x450.jpg 600w, https://gonorth.co.il/wp-content/uploads/issue93-licensed/pastoral-hanay-2025-scaled.jpg 1920w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></picture></a></p>\n<p>צילום Hanay, 27.11.2025; מקור Wikimedia Commons; CC BY-SA 4.0; WordPress resized and compressed display variants.</p>\n"
+  },
+  "caption": {
+    "raw": "צילום: Hanay, 27.11.2025. מקור: https://commons.wikimedia.org/wiki/File:מלון_פסטורל_בכפר_בלום_26.jpg . רישיון CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/ . גרסאות התצוגה הוקטנו ונדחסו.",
+    "rendered": "<p>צילום: Hanay, 27.11.2025. מקור: https://commons.wikimedia.org/wiki/File:מלון_פסטורל_בכפר_בלום_26.jpg . רישיון CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/ . גרסאות התצוגה הוקטנו ונדחסו.</p>\n"
+  },
+  "alt_text": "חזית חלקית של מלון פסטורל ושלט המלון בכפר בלום בצילום מ־2025",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1440,
+    "file": "issue93-licensed/pastoral-hanay-2025-scaled.jpg",
+    "filesize": 429434,
+    "sizes": {
+      "medium": {
+        "file": "pastoral-hanay-2025-300x225.jpg",
+        "width": 300,
+        "height": 225,
+        "filesize": 13053,
+        "mime_type": "image/jpeg",
+        "source_url": "https://gonorth.co.il/wp-content/uploads/issue93-licensed/pastoral-hanay-2025-300x225.jpg"
+      },
+      "large": {
+        "file": "pastoral-hanay-2025-1024x768.jpg",
+        "width": 1024,
+        "height": 768,
+        "filesize": 128771,
+        "mime_type": "image/jpeg",
+        "source_url": "https://gonorth.co.il/wp-content/uploads/issue93-licensed/pastoral-hanay-2025-1024x768.jpg"
+      },
+      "thumbnail": {
+        "file": "pastoral-hanay-2025-150x150.jpg",
+        "width": 150,
+        "height": 150,
+        "filesize": 5322,
+        "mime_type": "image/jpeg",
+        "source_url": "https://gonorth.co.il/wp-content/uploads/issue93-licensed/pastoral-hanay-2025-150x150.jpg"
+      },
+      "medium_large": {
+        "file": "pastoral-hanay-2025-768x576.jpg",
+        "width": 768,
+        "height": 576,
+        "filesize": 73178,
+        "mime_type": "image/jpeg",
+        "source_url": "https://gonorth.co.il/wp-content/uploads/issue93-licensed/pastoral-hanay-2025-768x576.jpg"
+      },
+      "1536x1536": {
+        "file": "pastoral-hanay-2025-1536x1152.jpg",
+        "width": 1536,
+        "height": 1152,
+        "filesize": 282316,
+        "mime_type": "image/jpeg",
+        "source_url": "https://gonorth.co.il/wp-content/uploads/issue93-licensed/pastoral-hanay-2025-1536x1152.jpg"
+      },
+      "2048x2048": {
+        "file": "pastoral-hanay-2025-2048x1536.jpg",
+        "width": 2048,
+        "height": 1536,
+        "filesize": 483943,
+        "mime_type": "image/jpeg",
+        "source_url": "https://gonorth.co.il/wp-content/uploads/issue93-licensed/pastoral-hanay-2025-2048x1536.jpg"
+      },
+      "gonorth-card": {
+        "file": "pastoral-hanay-2025-640x400.jpg",
+        "width": 640,
+        "height": 400,
+        "filesize": 45982,
+        "mime_type": "image/jpeg",
+        "source_url": "https://gonorth.co.il/wp-content/uploads/issue93-licensed/pastoral-hanay-2025-640x400.jpg"
+      },
+      "gonorth-hero": {
+        "file": "pastoral-hanay-2025-1440x600.jpg",
+        "width": 1440,
+        "height": 600,
+        "filesize": 172101,
+        "mime_type": "image/jpeg",
+        "source_url": "https://gonorth.co.il/wp-content/uploads/issue93-licensed/pastoral-hanay-2025-1440x600.jpg"
+      },
+      "gonorth-thumb": {
+        "file": "pastoral-hanay-2025-400x300.jpg",
+        "width": 400,
+        "height": 300,
+        "filesize": 21395,
+        "mime_type": "image/jpeg",
+        "source_url": "https://gonorth.co.il/wp-content/uploads/issue93-licensed/pastoral-hanay-2025-400x300.jpg"
+      },
+      "woocommerce_thumbnail": {
+        "file": "pastoral-hanay-2025-300x300.jpg",
+        "width": 300,
+        "height": 300,
+        "filesize": 16790,
+        "mime_type": "image/jpeg",
+        "source_url": "https://gonorth.co.il/wp-content/uploads/issue93-licensed/pastoral-hanay-2025-300x300.jpg"
+      },
+      "woocommerce_single": {
+        "file": "pastoral-hanay-2025-600x450.jpg",
+        "width": 600,
+        "height": 450,
+        "filesize": 45807,
+        "mime_type": "image/jpeg",
+        "source_url": "https://gonorth.co.il/wp-content/uploads/issue93-licensed/pastoral-hanay-2025-600x450.jpg"
+      },
+      "woocommerce_gallery_thumbnail": {
+        "file": "pastoral-hanay-2025-100x100.jpg",
+        "width": 100,
+        "height": 100,
+        "filesize": 2892,
+        "mime_type": "image/jpeg",
+        "source_url": "https://gonorth.co.il/wp-content/uploads/issue93-licensed/pastoral-hanay-2025-100x100.jpg"
+      },
+      "full": {
+        "file": "pastoral-hanay-2025-scaled.jpg",
+        "width": 1920,
+        "height": 1440,
+        "mime_type": "image/jpeg",
+        "source_url": "https://gonorth.co.il/wp-content/uploads/issue93-licensed/pastoral-hanay-2025-scaled.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "1.8",
+      "credit": "",
+      "camera": "SM-S906B",
+      "caption": "",
+      "created_timestamp": "1764225598",
+      "copyright": "",
+      "focal_length": "5.4",
+      "iso": "50",
+      "shutter_speed": "0.002915451",
+      "title": "",
+      "orientation": "1",
+      "keywords": [],
+      "alt": ""
+    },
+    "original_image": "pastoral-hanay-2025.jpg"
+  },
+  "post": 542,
+  "source_url": "https://gonorth.co.il/wp-content/uploads/issue93-licensed/pastoral-hanay-2025-scaled.jpg",
+  "missing_image_sizes": [],
+  "filename": "pastoral-hanay-2025.jpg",
+  "filesize": 429434,
+  "exif_orientation": 1,
+  "image_output_format": null,
+  "image_save_progressive": false,
+  "image_quality": {
+    "default": 82,
+    "sizes": []
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://gonorth.co.il/wp-json/wp/v2/media/543",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://gonorth.co.il/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://gonorth.co.il/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://gonorth.co.il/wp-json/wp/v2/comments?post=543"
+      }
+    ],
+    "wp:attached-to": [
+      {
+        "embeddable": true,
+        "post_type": "gd_place",
+        "id": 542,
+        "href": "https://gonorth.co.il/wp-json/wp/v2/places/542"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://gonorth.co.il/wp-json/wp/v2/media/543"
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://gonorth.co.il/wp-json/wp/v2/media/543"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

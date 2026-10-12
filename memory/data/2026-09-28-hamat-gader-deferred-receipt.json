@@ -1,0 +1,11 @@
+{
+  "format": "gonorth-place-facts-wordpress-sync-receipt/v1",
+  "results": [
+    {
+      "change_ids": [534, 536, 539],
+      "status": "deferred",
+      "message": "Ledger-only business status, map URL, and verification timestamp; canonical Google bundle was applied to WordPress."
+    }
+  ],
+  "applied": false
+}

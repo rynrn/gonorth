@@ -1,0 +1,85 @@
+{
+  "checkedAt": "2026-10-05T21:53:21.152Z",
+  "checks": {
+    "all_no_overflow": true,
+    "accepted_sdk_present": true,
+    "rejected_sdk_absent": true,
+    "preferred_link_kept": true,
+    "css_busted": true,
+    "no_page_errors": true
+  },
+  "rows": [
+    {
+      "width": 375,
+      "consent": "1",
+      "scroll": 375,
+      "client": 375,
+      "iframe": true,
+      "overflow": "clip",
+      "sdkRequested": true,
+      "preferredLink": true,
+      "cssVersion": "2.9.8",
+      "errors": []
+    },
+    {
+      "width": 375,
+      "consent": "0",
+      "scroll": 375,
+      "client": 375,
+      "iframe": false,
+      "overflow": "visible",
+      "sdkRequested": false,
+      "preferredLink": true,
+      "cssVersion": "2.9.8",
+      "errors": []
+    },
+    {
+      "width": 390,
+      "consent": "1",
+      "scroll": 390,
+      "client": 390,
+      "iframe": true,
+      "overflow": "clip",
+      "sdkRequested": true,
+      "preferredLink": true,
+      "cssVersion": "2.9.8",
+      "errors": []
+    },
+    {
+      "width": 390,
+      "consent": "0",
+      "scroll": 390,
+      "client": 390,
+      "iframe": false,
+      "overflow": "visible",
+      "sdkRequested": false,
+      "preferredLink": true,
+      "cssVersion": "2.9.8",
+      "errors": []
+    },
+    {
+      "width": 768,
+      "consent": "1",
+      "scroll": 768,
+      "client": 768,
+      "iframe": true,
+      "overflow": "clip",
+      "sdkRequested": true,
+      "preferredLink": true,
+      "cssVersion": "2.9.8",
+      "errors": []
+    },
+    {
+      "width": 768,
+      "consent": "0",
+      "scroll": 768,
+      "client": 768,
+      "iframe": false,
+      "overflow": "visible",
+      "sdkRequested": false,
+      "preferredLink": true,
+      "cssVersion": "2.9.8",
+      "errors": []
+    }
+  ]
+}

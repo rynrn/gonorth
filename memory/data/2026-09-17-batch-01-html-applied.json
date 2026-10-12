@@ -1,0 +1,32 @@
+[
+  {
+    "id": 244,
+    "applied_at": "2026-09-17T07:42:53.1619140Z",
+    "method": "wp.editPost; post_content only"
+  },
+  {
+    "id": 246,
+    "applied_at": "2026-09-17T07:42:55.0610863Z",
+    "method": "wp.editPost; post_content only"
+  },
+  {
+    "id": 248,
+    "applied_at": "2026-09-17T07:42:57.0614670Z",
+    "method": "wp.editPost; post_content only"
+  },
+  {
+    "id": 268,
+    "applied_at": "2026-09-17T07:42:59.5640555Z",
+    "method": "wp.editPost; post_content only"
+  },
+  {
+    "id": 270,
+    "applied_at": "2026-09-17T07:43:01.6314991Z",
+    "method": "wp.editPost; post_content only"
+  },
+  {
+    "id": 95,
+    "applied_at": "2026-09-17T07:43:03.6021012Z",
+    "method": "wp.editPost; post_content only"
+  }
+]
