@@ -1,0 +1,28 @@
+{
+  "format": "gonorth-place-facts-wordpress-sync/v1",
+  "generated_at": "2026-09-26T19:22:56Z",
+  "changes": [],
+  "deferred": [
+    {
+      "change_id": 1,
+      "place_id": 219,
+      "wordpress_id": 219,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 2,
+      "place_id": 221,
+      "wordpress_id": 221,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    }
+  ],
+  "summary": {
+    "places": 0,
+    "change_count": 0,
+    "deferred_count": 2
+  }
+}

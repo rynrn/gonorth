@@ -135,6 +135,18 @@ Disallow: /search/
 Sitemap: https://gonorth.co.il/sitemap_index.xml
 ```
 
+## Closed or unavailable business listing policy
+
+A closure report is a content and SEO maintenance event. It is not permission to remove the URL.
+
+1. Classify the evidence as temporary closure, permanent closure, or uncertain, and record the source and last-checked date.
+2. Keep the existing URL published and indexable with HTTP 200. Add a prominent Hebrew status notice, use past tense where appropriate, and link to relevant active alternatives.
+3. Remove stale opening hours, phone and booking actions, Waze/Google Maps buttons, map coordinates, and structured data that presents the business as currently active. Set _gonorth_business_status to temporarily_closed or permanently_closed so generated recommendations exclude the listing; remove or change the marker to operational after a verified reopening.
+4. Preserve the slug, canonical URL, useful historical context, internal links, and any earned search value.
+5. Recheck temporary or uncertain closures periodically and restore current details if the business reopens.
+6. A 301 redirect is allowed only to a true successor or a closely matching replacement page. Never redirect a closed listing to the homepage merely to avoid a 404.
+7. Do not delete, trash, unpublish, set to draft/private, or intentionally return 404/410 solely because a business closed. Before any removal, review traffic, backlinks, indexing, legal or owner requests, and replacement options; document the decision and obtain explicit user instruction.
+8. Verify after the change that the URL returns 200, the status notice is visible, stale contact/navigation actions are absent, and alternative links work.
 ## Constraints
 
 ### MUST DO
@@ -149,3 +161,7 @@ Sitemap: https://gonorth.co.il/sitemap_index.xml
 - Set duplicate meta titles across multiple pages
 - Forget to verify sitemap after major content changes
 - Block important pages in robots.txt
+
+## Shared change contract
+
+Follow docs/agent-change-contract.md for every change. Classify risk and canonical writer first; record sources and dates; create a snapshot and rollback for live changes; run tools/validate-place-records.py for place data; verify the canonical record and public output; then write the dated report and issue evidence. Official non-Google sources are valid when documented. Existing dynamic business facts must use the place-facts review and sync workflow.

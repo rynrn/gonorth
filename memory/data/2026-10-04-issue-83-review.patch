@@ -1,0 +1,292 @@
+--- before/header.php
++++ after/header.php
+@@ -13,47 +13,43 @@
+ <!-- Favicons -->
+ <link rel="icon" type="image/svg+xml" href="<?php echo esc_url( $assets . '/gonorth-icon.svg' ); ?>">
+ <link rel="icon" type="image/png" sizes="32x32" href="<?php echo esc_url( $assets . '/gonorth-32.png' ); ?>">
+ <link rel="apple-touch-icon" sizes="192x192" href="<?php echo esc_url( $assets . '/gonorth-192.png' ); ?>">
+ <meta name="msapplication-TileImage" content="<?php echo esc_url( $assets . '/gonorth-192.png' ); ?>">
+-<!-- Google Tag Manager -->
+-<?php if ( is_front_page() ) : ?>
++<!-- Consent-gated Google Tag Manager: no Google analytics request before opt-in. -->
+ <script data-noptimize="1">
+-(function(w,d,s,l,i){
+-  w[l]=w[l]||[];
+-  w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
++(function(w,d){
+   var loaded=false;
++  function approved(){try{return w.localStorage.getItem('gn_cookie_ok')==='1';}catch(e){return false;}}
++  function safeUrl(value){
++    if(!value)return '';
++    try{var u=new URL(value,w.location.href);return /^https?:$/.test(u.protocol)?u.origin+u.pathname:'';}catch(e){return '';}
++  }
+   function loadGtm(){
+-    if(loaded){return;}
++    if(loaded||!approved())return;
+     loaded=true;
+-    var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+-    j.async=true;
+-    j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
+-    f.parentNode.insertBefore(j,f);
++    w.dataLayer=w.dataLayer||[];
++    w.gtag=w.gtag||function(){w.dataLayer.push(arguments);};
++    w.gtag('consent','default',{
++      analytics_storage:'granted',ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied'
++    });
++    w.gtag('set',{page_location:safeUrl(w.location.href),page_referrer:safeUrl(d.referrer)});
++    w.dataLayer.push({'gtm.start':new Date().getTime(),event:'gtm.js'});
++    var j=d.createElement('script');j.async=true;
++    j.src='https://www.googletagmanager.com/gtm.js?id=GTM-WM5VRDCR';
++    d.head.appendChild(j);
+   }
+-  ['pointerdown','keydown','touchstart','scroll'].forEach(function(eventName){
+-    w.addEventListener(eventName,loadGtm,{once:true,passive:true});
+-  });
+-  w.addEventListener('load',function(){w.setTimeout(loadGtm,20000);},{once:true});
+-})(window,document,'script','dataLayer','GTM-WM5VRDCR');
++  w.addEventListener('gn-consent-granted',loadGtm);
++  loadGtm();
++})(window,document);
+ </script>
+-<?php else : ?>
+-<script data-noptimize="1">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+-})(window,document,'script','dataLayer','GTM-WM5VRDCR');</script>
+-<?php endif; ?>
+-<!-- End Google Tag Manager -->
++<!-- End consent-gated Google Tag Manager -->
+ <?php wp_head(); ?>
+ </head>
+ <body <?php body_class(); ?>>
+ <?php wp_body_open(); ?>
+-<!-- Google Tag Manager (noscript) -->
+-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WM5VRDCR"
+-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+-<!-- End Google Tag Manager (noscript) -->
++
+ 
+ <a class="gn-skip-link screen-reader-text" href="#main-content">דלג לתוכן הראשי</a>
+ 
+ <header class="gn-header" id="gn-header">
+   <div class="gn-header__inner">
+--- before/functions.php
++++ after/functions.php
+@@ -49,11 +49,11 @@
+         [],
+         '1.0.0'
+     );
+     wp_enqueue_style( 'gonorth-main',
+         get_stylesheet_directory_uri() . '/assets/css/gonorth.css',
+-        $main_dependencies, '2.9.3'
++        $main_dependencies, '2.9.7'
+     );
+ }
+ 
+ // The homepage is a custom PHP template and does not render Gutenberg,
+ // WooCommerce, GeoDirectory widgets, Font Awesome, or Astra components.
+@@ -1178,30 +1178,51 @@
+     echo '<h1>הבלוג של GoNorth</h1>';
+     echo '<p>מדריכים, כתבות וטיפים לטיול בצפון ישראל</p>';
+     echo '</div></section>';
+ }
+ 
+-// ─── Cookie Consent Banner ───────────────────────────────────────────────────
++// ─── Optional measurement consent ─────────────────────────────────────────
+ add_action( 'wp_footer', 'gonorth_cookie_banner' );
+ function gonorth_cookie_banner() {
+     $privacy_url = esc_url( home_url( '/mediniyut-pratiyut/' ) );
+     echo <<<HTML
+-<div id="gn-cookie-banner" class="gn-cookie-banner" role="dialog" aria-live="polite" aria-label="הסכמה לשימוש בקוקיז" dir="rtl">
+-  <p>אתר זה משתמש בקוקיז לצורך שיפור חוויית הגלישה, שמירת העדפות והפעלה תקינה של האתר.
+-     <a href="{$privacy_url}">מדיניות פרטיות</a>
+-  </p>
+-  <button id="gn-cookie-accept" class="gn-cookie-accept">הבנתי, סגור</button>
++<button type="button" id="gn-cookie-settings" class="gn-cookie-settings" aria-controls="gn-cookie-banner" aria-expanded="false">העדפות פרטיות</button>
++<div id="gn-cookie-banner" class="gn-cookie-banner" role="dialog" aria-modal="false" aria-labelledby="gn-cookie-title" dir="rtl">
++  <div class="gn-cookie-copy">
++    <h2 id="gn-cookie-title" tabindex="-1">בחירת מדידה באתר</h2>
++    <p>קובצי עוגיות חיוניים מאפשרים את פעולת האתר. רק אם תאשרו נטען Google Analytics למדידת שימוש ואת רכיב Google Preferred Sources. אפשר לסרב ולשנות בחירה בכל עת. <a href="{$privacy_url}">מדיניות פרטיות</a></p>
++  </div>
++  <div class="gn-cookie-actions">
++    <button type="button" id="gn-cookie-accept" class="gn-cookie-accept">מאשר/ת מדידה</button>
++    <button type="button" id="gn-cookie-reject" class="gn-cookie-reject">ללא מדידה</button>
++  </div>
+ </div>
+-<script>
++<script data-noptimize="1">
+ (function(){
+-  var b = document.getElementById('gn-cookie-banner');
+-  if (!b) return;
+-  if (localStorage.getItem('gn_cookie_ok')) { b.style.display='none'; return; }
+-  b.style.display='flex';
+-  document.getElementById('gn-cookie-accept').addEventListener('click', function(){
+-    localStorage.setItem('gn_cookie_ok','1');
+-    b.style.display='none';
++  var b=document.getElementById('gn-cookie-banner');
++  var settings=document.getElementById('gn-cookie-settings');
++  if(!b||!settings)return;
++  function choice(){try{return localStorage.getItem('gn_cookie_ok');}catch(e){return null;}}
++  function show(){b.style.display='flex';settings.setAttribute('aria-expanded','true');document.getElementById('gn-cookie-title').focus();}
++  function hide(){b.style.display='none';settings.setAttribute('aria-expanded','false');settings.focus();}
++  function clearAnalyticsCookies(){
++    document.cookie.split(';').forEach(function(part){
++      var name=part.split('=')[0].trim();
++      if(!/^(_ga(?:_|$)|_gid$|_gat(?:_|$))/.test(name))return;
++      document.cookie=name+'=; Max-Age=0; path=/';
++      document.cookie=name+'=; Max-Age=0; path=/; domain=.gonorth.co.il';
++    });
++  }
++  if(choice()!=='1'&&choice()!=='0')show();
++  settings.addEventListener('click',show);
++  document.getElementById('gn-cookie-accept').addEventListener('click',function(){
++    try{localStorage.setItem('gn_cookie_ok','1');}catch(e){return;}
++    hide();window.dispatchEvent(new Event('gn-consent-granted'));
++  });
++  document.getElementById('gn-cookie-reject').addEventListener('click',function(){
++    try{localStorage.setItem('gn_cookie_ok','0');}catch(e){return;}
++    clearAnalyticsCookies();hide();window.location.reload();
+   });
+ })();
+ </script>
+ HTML;
+ }
+--- before/gonorth.css
++++ after/gonorth.css
+@@ -1548,61 +1548,33 @@
+   color: var(--gn-text); text-decoration: none; font-size: 0.9rem; font-weight: 600; transition: all .2s;
+ }
+ .gn-pagination .current { background: var(--gn-green); color: #fff; border-color: var(--gn-green); }
+ .gn-pagination a:hover { border-color: var(--gn-green); color: var(--gn-green); }
+ 
+-/* ── Cookie Consent Banner ───────────────────────────────────── v1.5.0 ── */
++/* Optional measurement choice, accessible in RTL and on mobile. */
+ .gn-cookie-banner {
+-  display: none;
+-  position: fixed;
+-  bottom: 0;
+-  right: 0;
+-  left: 0;
+-  z-index: 99999;
+-  background: #1a3a2a;
+-  color: #F8F5F0;
+-  padding: 14px 24px;
+-  flex-direction: row;
+-  align-items: center;
+-  justify-content: center;
+-  gap: 20px;
+-  font-family: 'Heebo', sans-serif;
+-  font-size: 14px;
+-  direction: rtl;
+-  box-shadow: 0 -2px 16px rgba(0,0,0,.25);
+-}
+-.gn-cookie-banner p {
+-  margin: 0;
+-  color: #F8F5F0;
+-}
+-.gn-cookie-banner a {
+-  color: #48CAE4;
+-  text-decoration: underline;
+-}
+-.gn-cookie-accept {
+-  background: #2D6A4F;
+-  color: #fff;
+-  border: none;
+-  border-radius: 6px;
+-  padding: 8px 20px;
+-  font-family: 'Heebo', sans-serif;
+-  font-size: 14px;
+-  font-weight: 600;
+-  cursor: pointer;
+-  white-space: nowrap;
+-  transition: background .2s;
+-}
+-.gn-cookie-accept:hover {
+-  background: #40916c;
+-}
+-@media (max-width: 600px) {
+-  .gn-cookie-banner {
+-    flex-direction: column;
+-    text-align: center;
+-    gap: 12px;
+-    padding: 16px;
+-  }
++  display:none;position:fixed;inset-inline:0;bottom:0;z-index:99999;
++  background:#1a3a2a;color:#fff;padding:16px 24px;
++  flex-direction:row;align-items:center;justify-content:center;gap:20px;
++  font-family:'Heebo',sans-serif;direction:rtl;text-align:right;
++  box-shadow:0 -2px 16px rgba(0,0,0,.25)
++}
++.gn-cookie-copy{max-width:720px}
++.gn-cookie-copy h2{margin:0 0 4px;color:#fff;font-size:1.05rem}
++.gn-cookie-copy p{margin:0;color:#fff;font-size:.9rem;line-height:1.5}
++.gn-cookie-copy a{color:#83e7ff;text-decoration:underline}
++.gn-cookie-actions{display:flex;flex-wrap:wrap;gap:8px;justify-content:center}
++.gn-cookie-actions button,.gn-cookie-settings{border:1px solid #fff;border-radius:6px;padding:9px 16px;font:600 .9rem 'Heebo',sans-serif;cursor:pointer}
++.gn-cookie-accept{background:#40916c;color:#fff}
++.gn-cookie-reject{background:#fff;color:#1a3a2a}
++.gn-cookie-settings{position:fixed;inset-inline-end:12px;bottom:12px;z-index:99998;background:#fff;color:#1a3a2a;border-color:#2d6a4f;box-shadow:0 2px 8px rgba(0,0,0,.2)}
++.gn-cookie-actions button:focus-visible,.gn-cookie-settings:focus-visible,.gn-cookie-banner a:focus-visible{outline:3px solid #e9c46a;outline-offset:2px}
++@media(max-width:600px){
++  .gn-cookie-banner{flex-direction:column;align-items:stretch;gap:12px;padding:16px;max-height:75vh;overflow:auto}
++  .gn-cookie-copy h2,.gn-cookie-copy p{text-align:right}
++  .gn-cookie-actions button{flex:1 1 120px}
++  .gn-cookie-settings{bottom:8px;inset-inline-end:8px;padding:7px 10px;font-size:.8rem}
+ }
+ 
+ /* ── Google Places Integration ─────────────────────────────────── */
+ .gn-google-rating {
+   display: flex;
+--- before/place-analytics.js
++++ after/place-analytics.js
+@@ -16,12 +16,15 @@
+ 			return result;
+ 		}, {} );
+ 	}
+ 
+ 	function send( eventName, parameters ) {
++		let consentGranted = false;
++		try { consentGranted = '1' === window.localStorage.getItem( 'gn_cookie_ok' ); } catch ( error ) {}
++		if ( ! consentGranted ) return;
+ 		const payload = clean( Object.assign( {}, parameters, {
+-			page_location: window.location.href,
++			page_location: window.location.origin + window.location.pathname,
+ 			debug_mode: config.debug ? true : undefined,
+ 		} ) );
+ 		try {
+ 			if ( typeof window.gtag === 'function' ) {
+ 				window.gtag( 'event', eventName, payload );
+@@ -33,10 +36,11 @@
+ 		}
+ 		if ( config.debug && window.console ) window.console.info( '[GoNorth analytics]', eventName, JSON.stringify( payload ) );
+ 	}
+ 
+ 	function sendOnce( key, eventName, parameters ) {
++		try { if ( '1' !== window.localStorage.getItem( 'gn_cookie_ok' ) ) return; } catch ( error ) { return; }
+ 		if ( sentOnce.has( key ) ) return;
+ 		sentOnce.add( key );
+ 		send( eventName, parameters );
+ 	}
+ 
+@@ -160,11 +164,14 @@
+ 			trackPlaceAction: function ( action, place, extra ) {
+ 				send( 'place_cta_click', Object.assign( {}, place || currentPlace(), extra || {}, { action: action } ) );
+ 			},
+ 		} );
+ 
+-		if ( config.currentPlace ) window.GoNorthAnalytics.trackPlaceView();
++		if ( config.currentPlace ) {
++			window.GoNorthAnalytics.trackPlaceView();
++			window.addEventListener( 'gn-consent-granted', function () { window.GoNorthAnalytics.trackPlaceView(); }, { once: true } );
++		}
+ 		if ( 'IntersectionObserver' in window ) {
+ 			observer = new IntersectionObserver( function ( entries ) {
+ 				entries.forEach( function ( entry ) {
+ 					if ( entry.isIntersecting && entry.intersectionRatio >= 0.35 && ! impressedCards.has( entry.target ) ) {
+ 						impressedCards.add( entry.target );
+--- before/privacy-post.html
++++ after/privacy-post.html
+@@ -1 +1 @@
+-<p>מדיניות פרטיות זו מסבירה בקצרה איזה מידע עשוי להיאסף בעת שימוש באתר כיוון צפון.</p><h2>מידע שנשלח אלינו ביוזמת המשתמש</h2><ul><li>פרטים שנשלחים בטופס יצירת קשר, אם נעשה בו שימוש.</li><li>פרטים שנשלחים לצורך הצעת מקום חדש או תיקון מידע.</li></ul><h2>מידע טכני בסיסי</h2><ul><li>השרת ומערכות האתר עשויים לשמור נתוני גישה טכניים כמו כתובת IP, סוג דפדפן ויומני מערכת לצורכי אבטחה ותחזוקה.</li><li>האתר משתמש בעוגיות טכניות הנדרשות להפעלה תקינה של וורדפרס, ווקומרס וכלי הנגישות.</li></ul><h2>שירותי צד שלישי</h2><ul><li>מפות ורכיבי מיקום עשויים להשתמש בשירותי Google כאשר הם פעילים בעמוד.</li><li>כלי הנגישות באתר מופעל על ידי OneTap.</li></ul><h2>מדידה ואנליטיקה</h2><p>נכון ליום 7 באפריל 2026 לא הופעלה באתר מערכת אנליטיקה לשיווק או מדידה. אם יתווספו שירותים כאלה, המדיניות תעודכן בהתאם.</p><h2>יצירת קשר</h2><p>לבירורים, בקשות תיקון או מחיקת מידע אפשר לפנות לכתובת <a href=mailto:info@gonorth.co.il>info@gonorth.co.il</a>.</p>
++<p>מדיניות פרטיות זו מסבירה בקצרה איזה מידע עשוי להיאסף בעת שימוש באתר כיוון צפון.</p><h2>מידע שנשלח אלינו ביוזמת המשתמש</h2><ul><li>פרטים שנשלחים בטופס יצירת קשר, אם נעשה בו שימוש.</li><li>פרטים שנשלחים לצורך הצעת מקום חדש או תיקון מידע.</li></ul><h2>מידע טכני בסיסי</h2><ul><li>השרת ומערכות האתר עשויים לשמור נתוני גישה טכניים כמו כתובת IP, סוג דפדפן ויומני מערכת לצורכי אבטחה ותחזוקה.</li><li>האתר משתמש בעוגיות טכניות הנדרשות להפעלה תקינה של וורדפרס, ווקומרס וכלי הנגישות.</li></ul><h2>שירותי צד שלישי</h2><ul><li>עמודי מקום עשויים לטעון מפה של OpenStreetMap ורכיבי מיקום נוספים כאשר הם מוצגים.</li><li>גופנים ומשאבי תצוגה עשויים להיטען מ־Google Fonts ומ־Font Awesome גם ללא אישור למדידה.</li><li>כלי הנגישות באתר מופעל על ידי OneTap.</li><li>תמונות אוואטר בתגובות עשויות להיטען מ־Gravatar.</li><li>רכיב Google Preferred Sources נטען רק לאחר אישור מדידה.</li></ul><h2>מדידה ואנליטיקה</h2><p>נכון ל־4 באוקטובר 2026 האתר משתמש ב־Google Tag Manager וב־Google Analytics 4 רק לאחר בחירה מפורשת ב״מאשר/ת מדידה״. בבחירה ״ללא מדידה״ או לפני בחירה, רכיבי מדידה אלה אינם נטענים. לאחר אישור נמדדים צפיות בדפים ואירועי שימוש כגון מעבר ממדריך למקום ולחיצה על פעולה בדף מקום. כתובת העמוד והמפנה הנשלחים דרך הגדרת המדידה מוסרים מפרמטרי השאילתה וממקטע ה־fragment. אפשר לשנות את הבחירה באמצעות הכפתור ״העדפות פרטיות״ המופיע באתר. הבחירה נשמרת בדפדפן; ביטול האישור עוצר טעינת מדידה בביקורים הבאים ומרענן את הדף הנוכחי.</p><h2>יצירת קשר</h2><p>לבירורים, בקשות תיקון או מחיקת מידע אפשר לפנות לכתובת <a href=mailto:info@gonorth.co.il>info@gonorth.co.il</a>.</p>

@@ -1,0 +1,43 @@
+{
+  "noConsent": {
+    "components": 1,
+    "localScripts": 3,
+    "sdkTags": 0,
+    "href": "https://www.google.com/preferences/source?q=gonorth.co.il",
+    "dir": "rtl",
+    "overflow": false,
+    "sdkRequests": 0,
+    "preferredEvents": 0
+  },
+  "consentPlace": {
+    "components": 1,
+    "sdkTags": 1,
+    "sdkControl": "manual",
+    "init": {
+      "theme": "light",
+      "lang": "he"
+    },
+    "addCalls": 1,
+    "preferredEvents": 1,
+    "payload": {
+      "placement": "footer",
+      "page_type": "place",
+      "place_id": "425",
+      "page_location": "https://gonorth.co.il/places/%d7%94%d7%9b%d7%a4%d7%a8-%d7%94%d7%90%d7%99%d7%a0%d7%93%d7%99%d7%90%d7%a0%d7%99-%d7%92%d7%9c%d7%9e%d7%a4%d7%99%d7%a0%d7%92-%d7%91%d7%a8%d7%9e%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f/"
+    },
+    "overflow": false,
+    "sdkRequests": 1,
+    "pageErrors": []
+  },
+  "blockedMobile": {
+    "components": 1,
+    "preferredEvents": 1,
+    "href": "https://www.google.com/preferences/source?q=gonorth.co.il",
+    "bodyPresent": true,
+    "overflow": false,
+    "componentWidth": 390,
+    "viewport": 390,
+    "sdkRequests": 1,
+    "pageErrors": []
+  }
+}

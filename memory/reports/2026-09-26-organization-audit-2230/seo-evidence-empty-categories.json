@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://gonorth.co.il/places/category/ochel/",
+    "robots_tags": [
+      "<meta name='robots' content='noindex, follow' />"
+    ],
+    "empty_message": [],
+    "listing_links": 0
+  },
+  {
+    "url": "https://gonorth.co.il/places/category/uncategorized/",
+    "robots_tags": [
+      "<meta name='robots' content='noindex, follow' />"
+    ],
+    "empty_message": [],
+    "listing_links": 0
+  },
+  {
+    "url": "https://gonorth.co.il/places/category/batei-kafe/",
+    "robots_tags": [
+      "<meta name='robots' content='noindex, follow' />"
+    ],
+    "empty_message": [],
+    "listing_links": 0
+  }
+]

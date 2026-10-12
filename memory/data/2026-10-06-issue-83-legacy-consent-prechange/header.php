@@ -1,0 +1,130 @@
+<?php
+/**
+ * GoNorth Custom Header
+ */
+if ( ! defined( 'ABSPATH' ) ) exit;
+
+$assets = get_stylesheet_directory_uri() . '/assets';
+?><!DOCTYPE html>
+<html <?php language_attributes(); ?>>
+<head>
+<meta charset="<?php bloginfo( 'charset' ); ?>">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Favicons -->
+<link rel="icon" type="image/svg+xml" href="<?php echo esc_url( $assets . '/gonorth-icon.svg' ); ?>">
+<link rel="icon" type="image/png" sizes="32x32" href="<?php echo esc_url( $assets . '/gonorth-32.png' ); ?>">
+<link rel="apple-touch-icon" sizes="192x192" href="<?php echo esc_url( $assets . '/gonorth-192.png' ); ?>">
+<meta name="msapplication-TileImage" content="<?php echo esc_url( $assets . '/gonorth-192.png' ); ?>">
+<!-- Consent-gated Google Tag Manager: no Google analytics request before opt-in. -->
+<script data-noptimize="1">
+(function(w,d){
+  var loaded=false;
+  function approved(){try{return w.localStorage.getItem('gn_cookie_ok')==='1';}catch(e){return false;}}
+  function safeUrl(value){
+    if(!value)return '';
+    try{var u=new URL(value,w.location.href);return /^https?:$/.test(u.protocol)?u.origin+u.pathname:'';}catch(e){return '';}
+  }
+  function loadGtm(){
+    if(loaded||!approved())return;
+    loaded=true;
+    w.dataLayer=w.dataLayer||[];
+    w.gtag=w.gtag||function(){w.dataLayer.push(arguments);};
+    w.gtag('consent','default',{
+      analytics_storage:'granted',ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied'
+    });
+    w.gtag('set',{page_location:safeUrl(w.location.href),page_referrer:safeUrl(d.referrer)});
+    w.dataLayer.push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+    var j=d.createElement('script');j.async=true;
+    j.src='https://www.googletagmanager.com/gtm.js?id=GTM-WM5VRDCR';
+    d.head.appendChild(j);
+  }
+  w.addEventListener('gn-consent-granted',loadGtm);
+  loadGtm();
+})(window,document);
+</script>
+<!-- End consent-gated Google Tag Manager -->
+<?php wp_head(); ?>
+</head>
+<body <?php body_class(); ?>>
+<?php wp_body_open(); ?>
+
+
+<a class="gn-skip-link screen-reader-text" href="#main-content">דלג לתוכן הראשי</a>
+
+<header class="gn-header" id="gn-header">
+  <div class="gn-header__inner">
+
+    <!-- Logo -->
+    <a href="<?php echo esc_url( home_url('/') ); ?>" class="gn-logo" aria-label="כיוון צפון — דף הבית">
+      <img
+        src="<?php echo esc_url( $assets . '/gonorth-organic-mark.svg?v=2' ); ?>"
+        alt=""
+        width="120"
+        height="52"
+        class="gn-logo__img"
+      >
+      <span class="gn-logo__copy">
+        <span class="gn-logo__name"><span>כיוון</span><span>צפון</span></span>
+        <span class="gn-logo__descriptor">צפון ישראל · סיפורים · מקומות · חוויות.</span>
+      </span>
+    </a>
+
+    <!-- Desktop Nav -->
+    <nav class="gn-nav" id="gn-nav" aria-label="ניווט ראשי">
+      <?php
+      wp_nav_menu([
+        'theme_location' => '',
+        'menu'           => 26,
+        'container'      => false,
+        'items_wrap'     => '<ul class="gn-nav__list">%3$s</ul>',
+        'fallback_cb'    => function() {
+          echo '<ul class="gn-nav__list">
+            <li><a href="' . home_url('/places/category/attractions/') . '">אטרקציות</a></li>
+            <li><a href="' . home_url('/places/category/accommodation/') . '">לינה</a></li>
+            <li><a href="' . home_url('/places/category/restaurants/') . '">אוכל</a></li>
+            <li><a href="' . home_url('/places/category/tours/') . '">סיורים</a></li>
+            <li><a href="' . home_url('/blog/') . '">בלוג</a></li>
+          </ul>';
+        },
+      ]);
+      ?>
+    </nav>
+
+    <!-- Mobile hamburger -->
+    <button class="gn-hamburger" id="gn-hamburger" aria-label="פתח תפריט" aria-expanded="false" aria-controls="gn-mobile-menu">
+      <span></span><span></span><span></span>
+    </button>
+
+  </div>
+
+  <!-- Mobile menu -->
+  <div class="gn-mobile-menu" id="gn-mobile-menu" aria-hidden="true">
+    <ul>
+      <li><a href="<?php echo home_url('/places/category/teva/'); ?>">טבע ומסלולים</a></li>
+      <li><a href="<?php echo home_url('/places/category/atraktziot-main/'); ?>">אטרקציות</a></li>
+      <li><a href="<?php echo home_url('/places/category/accommodation/'); ?>">לינה</a></li>
+      <li><a href="<?php echo home_url('/places/category/restaurants-sub/'); ?>">מסעדות</a></li>
+      <li><a href="<?php echo home_url('/places/category/yakavim/'); ?>">יקבים</a></li>
+      <li><a href="<?php echo home_url('/places/category/tours/'); ?>">סיורים</a></li>
+      <li><a href="<?php echo home_url('/blog/'); ?>">בלוג</a></li>
+    </ul>
+  </div>
+</header>
+
+<div id="main-content" tabindex="-1"></div>
+
+<script>
+document.getElementById('gn-hamburger').addEventListener('click', function() {
+  var menu = document.getElementById('gn-mobile-menu');
+  var isOpen = menu.classList.toggle('open');
+  this.classList.toggle('open');
+  this.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+  this.setAttribute('aria-label', isOpen ? 'סגור תפריט' : 'פתח תפריט');
+  menu.setAttribute('aria-hidden', isOpen ? 'false' : 'true');
+});
+</script>
+
+<?php
+// Allow Astra hooks to fire (astra_content_before etc.)
+if ( function_exists( 'astra_content_before' ) ) astra_content_before();
+?>

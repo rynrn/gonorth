@@ -1,0 +1,3 @@
+<?php
+if(!defined('ABSPATH')){exit;}$o=[];foreach([488,54] as $id){$p=get_post($id);$t=get_post_thumbnail_id($id);$o[]=['ID'=>$id,'title'=>$p->post_title,'status'=>get_post_status($id),'excerpt'=>$p->post_excerpt,'content'=>$p->post_content,'permalink'=>get_permalink($id),'thumbnail_id'=>$t,'thumbnail_url'=>wp_get_attachment_url($t),'categories'=>wp_get_post_terms($id,'gd_placecategory',['fields'=>'slugs']),'regions'=>wp_get_post_terms($id,'gn_region',['fields'=>'slugs']),'source'=>get_post_meta($id,'_gonorth_verification_source_url',true),'data'=>GoNorth_Place_Data::get($id)];}echo wp_json_encode($o,JSON_UNESCAPED_UNICODE|JSON_UNESCAPED_SLASHES|JSON_PRETTY_PRINT).PHP_EOL;
+

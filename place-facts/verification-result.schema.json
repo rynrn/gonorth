@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://gonorth.co.il/schemas/place-verification-result.json",
+  "title": "GoNorth place verification result",
+  "type": "object",
+  "required": ["id", "source", "checked_at"],
+  "properties": {
+    "id": {"type": "integer", "minimum": 1},
+    "source": {"type": "string", "minLength": 1},
+    "source_url": {"type": ["string", "null"], "format": "uri"},
+    "checked_at": {"type": "string", "format": "date-time"},
+    "confidence": {"type": ["number", "null"], "minimum": 0, "maximum": 1},
+    "error": {"type": ["string", "null"]},
+    "facts": {
+      "type": "object",
+      "properties": {
+        "business_status": {
+          "type": ["string", "null"],
+          "enum": ["operational", "temporarily_closed", "permanently_closed", "unknown", null]
+        },
+        "phone": {"type": ["string", "null"]},
+        "address": {"type": ["string", "null"]},
+        "city": {"type": ["string", "null"]},
+        "website_url": {"type": ["string", "null"], "format": "uri"},
+        "google_place_id": {"type": ["string", "null"]},
+        "google_maps_url": {"type": ["string", "null"], "format": "uri"},
+        "regular_hours_json": {"type": ["object", "array", "string", "null"]},
+        "current_hours_json": {"type": ["object", "array", "string", "null"]}
+      },
+      "additionalProperties": false
+    }
+  },
+  "anyOf": [
+    {"required": ["facts"]},
+    {"required": ["error"]}
+  ],
+  "additionalProperties": false
+}

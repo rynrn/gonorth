@@ -1,0 +1,33 @@
+No syntax errors detected in /tmp/issue100-media-finalize.php
+[
+    {
+        "post_id": 498,
+        "attachment_id": 504,
+        "url": "https://gonorth.co.il/wp-content/uploads/gonorth-listing-illustrations/issue100-trio-google.jpg"
+    },
+    {
+        "post_id": 499,
+        "attachment_id": 505,
+        "url": "https://gonorth.co.il/wp-content/uploads/gonorth-listing-illustrations/issue100-shiri-pasta-google-scaled.jpg"
+    },
+    {
+        "post_id": 500,
+        "attachment_id": 506,
+        "url": "https://gonorth.co.il/wp-content/uploads/gonorth-listing-illustrations/issue100-dafna-camping-google.jpg"
+    },
+    {
+        "post_id": 501,
+        "attachment_id": 507,
+        "url": "https://gonorth.co.il/wp-content/uploads/gonorth-listing-illustrations/issue100-eretz-dafna-hotel-google.jpg"
+    },
+    {
+        "post_id": 502,
+        "attachment_id": 508,
+        "url": "https://gonorth.co.il/wp-content/uploads/gonorth-listing-illustrations/issue100-klompus-google.jpg"
+    },
+    {
+        "post_id": 503,
+        "attachment_id": 509,
+        "url": "https://gonorth.co.il/wp-content/uploads/gonorth-listing-illustrations/issue100-overturned-syrian-tank-google.jpg"
+    }
+]

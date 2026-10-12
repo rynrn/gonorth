@@ -1,0 +1,50 @@
+[
+  {
+    "Role": "cfo-agent",
+    "Present": true
+  },
+  {
+    "Role": "content-agent",
+    "Present": true
+  },
+  {
+    "Role": "content-quality-agent",
+    "Present": true
+  },
+  {
+    "Role": "designer-agent",
+    "Present": true
+  },
+  {
+    "Role": "dev-agent",
+    "Present": true
+  },
+  {
+    "Role": "listings-agent",
+    "Present": true
+  },
+  {
+    "Role": "orchestrator",
+    "Present": true
+  },
+  {
+    "Role": "performance-agent",
+    "Present": true
+  },
+  {
+    "Role": "plugin-agent",
+    "Present": true
+  },
+  {
+    "Role": "security-agent",
+    "Present": true
+  },
+  {
+    "Role": "seo-agent",
+    "Present": true
+  },
+  {
+    "Role": "social-media-agent",
+    "Present": true
+  }
+]

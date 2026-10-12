@@ -1,0 +1,10 @@
+{
+  "source_url": "https://www.waze.com/live-map/directions/%D7%A9%D7%9E%D7%95%D7%A8%D7%AA-%D7%98%D7%91%D7%A2-%D7%A0%D7%97%D7%9C-%D7%AA%D7%A0%D7%99%D7%A0%D7%99%D7%9D?to=place.w.22872389.228854967.517961",
+  "checked_at": "2026-10-06T03:33:32.9700928Z",
+  "html_field": "routing.to.latLng",
+  "latitude": "32.547591853",
+  "longitude": "34.915458312",
+  "phone_matches_operator_page": true,
+  "interpretation": "named reserve navigation destination, not verified physical entrance",
+  "raw_html_saved": false
+}

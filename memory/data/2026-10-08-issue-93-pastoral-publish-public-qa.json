@@ -1,0 +1,22 @@
+{
+  "checked_at": "2026-10-08",
+  "listing_id": 542,
+  "listing_url": "https://gonorth.co.il/places/מלון-פסטורל-כפר-בלום/",
+  "listing_status": "publish",
+  "listing_http": 200,
+  "content_preserved": true,
+  "source_link": true,
+  "license_link": true,
+  "navigation_caveat": true,
+  "image_url": "https://gonorth.co.il/wp-content/uploads/issue93-licensed/pastoral-hanay-2025-scaled.jpg",
+  "image_http": 200,
+  "guide_id": 97,
+  "guide_url": "https://gonorth.co.il/לינה-בצפון-ישראל-המדריך-המלא-לצימרים-ו/",
+  "guide_http": 200,
+  "guide_links": {
+    "efendi": true,
+    "pastoral": true,
+    "elma": true
+  },
+  "geo_before_city": "כפר בלום"
+}

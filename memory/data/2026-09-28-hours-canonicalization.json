@@ -1,0 +1,29 @@
+[
+  {
+    "id": 202,
+    "source": "coffeetrail",
+    "checked_at": "2026-09-28T12:00:00+03:00",
+    "confidence": 0.95,
+    "facts": {
+      "regular_hours_json": "[\"Su 09:00-13:00\",\"Mo 09:00-13:00\",\"Tu 10:00-15:00\",\"We 09:00-13:00\",\"Th 10:00-15:00\",\"Fr 09:00-13:00\"],[\"UTC\":\"+0\",\"Timezone\":\"UTC\"]"
+    }
+  },
+  {
+    "id": 228,
+    "source": "coffeetrail",
+    "checked_at": "2026-09-28T12:00:00+03:00",
+    "confidence": 0.95,
+    "facts": {
+      "regular_hours_json": "[\"Tu 09:00-18:00\",\"We 09:00-18:00\",\"Th 09:00-18:00\",\"Fr 09:00-18:00\",\"Sa 09:00-18:00\"],[\"UTC\":\"+0\",\"Timezone\":\"UTC\"]"
+    }
+  },
+  {
+    "id": 357,
+    "source": "tourgolan",
+    "checked_at": "2026-09-28T12:00:00+03:00",
+    "confidence": 0.95,
+    "facts": {
+      "regular_hours_json": "[\"Su 09:00-19:00\",\"Mo 09:00-19:00\",\"Tu 09:00-19:00\",\"We 09:00-19:00\",\"Th 09:00-19:00\",\"Fr 09:00-15:00\"],[\"UTC\":\"+0\",\"Timezone\":\"UTC\"]"
+    }
+  }
+]

@@ -1,0 +1,1336 @@
+{
+    "generated_at_utc": "2026-09-26T07:58:38+00:00",
+    "total": 109,
+    "coverage": {
+        "free": {
+            "yes": 1,
+            "no": 4,
+            "unknown": 104
+        },
+        "open_saturday": {
+            "yes": 28,
+            "no": 24,
+            "unknown": 57
+        },
+        "children": {
+            "yes": 3,
+            "no": 0,
+            "unknown": 106
+        },
+        "accessible": {
+            "yes": 1,
+            "no": 0,
+            "unknown": 108
+        }
+    },
+    "places": [
+        {
+            "id": 48,
+            "title": "יקב הר אודם",
+            "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%94%d7%a8-%d7%90%d7%95%d7%93%d7%9d/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "no",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T19:28:05+00:00"
+        },
+        {
+            "id": 50,
+            "title": "כפר נופש &#8211; יער אודם",
+            "url": "https://gonorth.co.il/places/%d7%9b%d7%a4%d7%a8-%d7%a0%d7%95%d7%a4%d7%a9-%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d/",
+            "states": {
+                "free": "no",
+                "open_saturday": "unknown",
+                "children": "yes",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 52,
+            "title": "החווה ביער אודם",
+            "url": "https://gonorth.co.il/places/%d7%94%d7%97%d7%95%d7%95%d7%94-%d7%91%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "yes",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T19:28:05+00:00"
+        },
+        {
+            "id": 54,
+            "title": "שמורת טבע החולה",
+            "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%97%d7%95%d7%9c%d7%94/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "yes",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T20:32:06+00:00"
+        },
+        {
+            "id": 56,
+            "title": "נחל השופט",
+            "url": "https://gonorth.co.il/places/%d7%a0%d7%97%d7%9c-%d7%94%d7%a9%d7%95%d7%a4%d7%98/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 58,
+            "title": "שמורת טבע נחל עמוד",
+            "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%a2%d7%9e%d7%95%d7%93/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "yes",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T19:28:05+00:00"
+        },
+        {
+            "id": 61,
+            "title": "מלון פרא — Pereh Hotel",
+            "url": "https://gonorth.co.il/places/%d7%9e%d7%9c%d7%95%d7%9f-%d7%a4%d7%a8%d7%90-pereh-hotel/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 63,
+            "title": "כנען וילאג׳ &#8211; מלון בוטיק וספא בצפון",
+            "url": "https://gonorth.co.il/places/%d7%9b%d7%a0%d7%a2%d7%9f-%d7%95%d7%99%d7%9c%d7%90%d7%92%d7%b3-%d7%9e%d7%9c%d7%95%d7%9f-%d7%91%d7%95%d7%98%d7%99%d7%a7-%d7%95%d7%a1%d7%a4%d7%90-%d7%91%d7%a6%d7%a4%d7%95%d7%9f/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 86,
+            "title": "פארק המעיינות",
+            "url": "https://gonorth.co.il/places/%d7%a4%d7%90%d7%a8%d7%a7-%d7%94%d7%9e%d7%a2%d7%99%d7%99%d7%a0%d7%95%d7%aa/",
+            "states": {
+                "free": "yes",
+                "open_saturday": "yes",
+                "children": "yes",
+                "accessible": "yes"
+            },
+            "practical_checked_at": "2026-09-02T19:28:05+00:00"
+        },
+        {
+            "id": 87,
+            "title": "גן גורו — הפארק האוסטרלי",
+            "url": "https://gonorth.co.il/places/%d7%92%d7%9f-%d7%92%d7%95%d7%a8%d7%95-%d7%94%d7%a4%d7%90%d7%a8%d7%a7-%d7%94%d7%90%d7%95%d7%a1%d7%98%d7%a8%d7%9c%d7%99/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "yes",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T19:28:05+00:00"
+        },
+        {
+            "id": 88,
+            "title": "שמורת נחל הקיבוצים",
+            "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%a0%d7%97%d7%9c-%d7%94%d7%a7%d7%99%d7%91%d7%95%d7%a6%d7%99%d7%9d/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 89,
+            "title": "שמורת טבע נחל שניר (חצבאני)",
+            "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%a9%d7%a0%d7%99%d7%a8-%d7%97%d7%a6%d7%91%d7%90%d7%a0%d7%99/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "yes",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T19:28:05+00:00"
+        },
+        {
+            "id": 149,
+            "title": "דג על הדן",
+            "url": "https://gonorth.co.il/places/%d7%93%d7%92-%d7%a2%d7%9c-%d7%94%d7%93%d7%9f/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "yes",
+                "children": "yes",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T19:28:05+00:00"
+        },
+        {
+            "id": 157,
+            "title": "כפר החיות בכפר גלעדי",
+            "url": "https://gonorth.co.il/places/%d7%9b%d7%a4%d7%a8-%d7%94%d7%97%d7%99%d7%95%d7%aa-%d7%91%d7%9b%d7%a4%d7%a8-%d7%92%d7%9c%d7%a2%d7%93%d7%99/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "yes",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T19:28:05+00:00"
+        },
+        {
+            "id": 159,
+            "title": "לול ארט",
+            "url": "https://gonorth.co.il/places/%d7%9c%d7%95%d7%9c-%d7%90%d7%a8%d7%98/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "no",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T19:28:05+00:00"
+        },
+        {
+            "id": 161,
+            "title": "עזיזו — לבנדר מהגולן",
+            "url": "https://gonorth.co.il/places/%d7%a2%d7%96%d7%99%d7%96%d7%95-%d7%9c%d7%91%d7%a0%d7%93%d7%a8-%d7%9e%d7%94%d7%92%d7%95%d7%9c%d7%9f/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "yes",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T20:32:06+00:00"
+        },
+        {
+            "id": 165,
+            "title": "פיינטבול הגושרים",
+            "url": "https://gonorth.co.il/places/%d7%a4%d7%99%d7%99%d7%a0%d7%98%d7%91%d7%95%d7%9c-%d7%94%d7%92%d7%95%d7%a9%d7%a8%d7%99%d7%9d/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "no",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T19:28:05+00:00"
+        },
+        {
+            "id": 167,
+            "title": "קידס לנד — אתגר הנינג'ה לילדים",
+            "url": "https://gonorth.co.il/places/%d7%a7%d7%99%d7%93%d7%a1-%d7%9c%d7%a0%d7%93-%d7%90%d7%aa%d7%92%d7%a8-%d7%94%d7%a0%d7%99%d7%a0%d7%92%d7%94-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 169,
+            "title": "שמורת טבע הר מירון",
+            "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%a8-%d7%9e%d7%99%d7%a8%d7%95%d7%9f/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 171,
+            "title": "שמורת טבע נחל כזיב",
+            "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%9b%d7%96%d7%99%d7%91/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 173,
+            "title": "אגמון החולה",
+            "url": "https://gonorth.co.il/places/%d7%90%d7%92%d7%9e%d7%95%d7%9f-%d7%94%d7%97%d7%95%d7%9c%d7%94/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 175,
+            "title": "גן לאומי תל חצור",
+            "url": "https://gonorth.co.il/places/%d7%92%d7%9f-%d7%9c%d7%90%d7%95%d7%9e%d7%99-%d7%aa%d7%9c-%d7%97%d7%a6%d7%95%d7%a8/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "yes",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T19:28:05+00:00"
+        },
+        {
+            "id": 177,
+            "title": "עין תינה",
+            "url": "https://gonorth.co.il/places/%d7%a2%d7%99%d7%9f-%d7%aa%d7%99%d7%a0%d7%94/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 179,
+            "title": "עין דיבשה",
+            "url": "https://gonorth.co.il/places/%d7%a2%d7%99%d7%9f-%d7%93%d7%99%d7%91%d7%a9%d7%94/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 181,
+            "title": "חוות בת יער",
+            "url": "https://gonorth.co.il/places/%d7%97%d7%95%d7%95%d7%aa-%d7%91%d7%aa-%d7%99%d7%a2%d7%a8/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 183,
+            "title": "רוג'ום — קיר טיפוס בקריית שמונה",
+            "url": "https://gonorth.co.il/places/%d7%a8%d7%95%d7%92%d7%95%d7%9d-%d7%a7%d7%99%d7%a8-%d7%98%d7%99%d7%a4%d7%95%d7%a1-%d7%91%d7%a7%d7%a8%d7%99%d7%99%d7%aa-%d7%a9%d7%9e%d7%95%d7%a0%d7%94/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "yes",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T19:28:05+00:00"
+        },
+        {
+            "id": 185,
+            "title": "גן מורד הירדן",
+            "url": "https://gonorth.co.il/places/%d7%92%d7%9f-%d7%9e%d7%95%d7%a8%d7%93-%d7%94%d7%99%d7%a8%d7%93%d7%9f/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 187,
+            "title": "שמורת טבע נחל המשושים",
+            "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%94%d7%9e%d7%a9%d7%95%d7%a9%d7%99%d7%9d/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "yes",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T19:28:05+00:00"
+        },
+        {
+            "id": 189,
+            "title": "שמורת טבע יהודיה",
+            "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%99%d7%94%d7%95%d7%93%d7%99%d7%94/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "yes",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T20:32:07+00:00"
+        },
+        {
+            "id": 191,
+            "title": "שמורת טבע הבניאס",
+            "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%91%d7%a0%d7%99%d7%90%d7%a1/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "yes",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T20:32:07+00:00"
+        },
+        {
+            "id": 193,
+            "title": "יקב רמת הגולן",
+            "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%a8%d7%9e%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "no",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T19:28:05+00:00"
+        },
+        {
+            "id": 195,
+            "title": "מפגש היקב — עמיעד",
+            "url": "https://gonorth.co.il/places/%d7%9e%d7%a4%d7%92%d7%a9-%d7%94%d7%99%d7%a7%d7%91-%d7%a2%d7%9e%d7%99%d7%a2%d7%93/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 197,
+            "title": "יקב רמות נפתלי",
+            "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%a8%d7%9e%d7%95%d7%aa-%d7%a0%d7%a4%d7%aa%d7%9c%d7%99/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 198,
+            "title": "יקב דלתון",
+            "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%93%d7%9c%d7%aa%d7%95%d7%9f/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "no",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T19:28:05+00:00"
+        },
+        {
+            "id": 202,
+            "title": "חלהוולאוו",
+            "url": "https://gonorth.co.il/places/%d7%97%d7%9c%d7%94%d7%95%d7%95%d7%9c%d7%90%d7%95%d7%95/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 204,
+            "title": "קפה מוייז",
+            "url": "https://gonorth.co.il/places/%d7%a7%d7%a4%d7%94-%d7%9e%d7%95%d7%99%d7%99%d7%96/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "no",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T19:28:05+00:00"
+        },
+        {
+            "id": 207,
+            "title": "נינו עגלת קפה",
+            "url": "https://gonorth.co.il/places/%d7%a0%d7%99%d7%a0%d7%95-%d7%a2%d7%92%d7%9c%d7%aa-%d7%a7%d7%a4%d7%94/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 209,
+            "title": "דה פייפ קפה",
+            "url": "https://gonorth.co.il/places/%d7%93%d7%94-%d7%a4%d7%99%d7%99%d7%a4-%d7%a7%d7%a4%d7%94/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 212,
+            "title": "קפה חמה",
+            "url": "https://gonorth.co.il/places/%d7%a7%d7%a4%d7%94-%d7%97%d7%9e%d7%94/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 213,
+            "title": "דורא עגלת קפה",
+            "url": "https://gonorth.co.il/places/%d7%93%d7%95%d7%a8%d7%90-%d7%a2%d7%92%d7%9c%d7%aa-%d7%a7%d7%a4%d7%94/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "no",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T19:28:05+00:00"
+        },
+        {
+            "id": 215,
+            "title": "קפה קירשנר",
+            "url": "https://gonorth.co.il/places/%d7%a7%d7%a4%d7%94-%d7%a7%d7%99%d7%a8%d7%a9%d7%a0%d7%a8/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "yes",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T19:28:05+00:00"
+        },
+        {
+            "id": 217,
+            "title": "קפה התן",
+            "url": "https://gonorth.co.il/places/%d7%a7%d7%a4%d7%94-%d7%94%d7%aa%d7%9f/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 219,
+            "title": "עגלת קפה מיכאל",
+            "url": "https://gonorth.co.il/places/%d7%a2%d7%92%d7%9c%d7%aa-%d7%a7%d7%a4%d7%94-%d7%9e%d7%99%d7%9b%d7%90%d7%9c/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 221,
+            "title": "אסתר — קפה ובישולים לדרך",
+            "url": "https://gonorth.co.il/places/%d7%90%d7%a1%d7%aa%d7%a8-%d7%a7%d7%a4%d7%94-%d7%95%d7%91%d7%99%d7%a9%d7%95%d7%9c%d7%99%d7%9d-%d7%9c%d7%93%d7%a8%d7%9a/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 223,
+            "title": "מיקה",
+            "url": "https://gonorth.co.il/places/%d7%9e%d7%99%d7%a7%d7%94/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 225,
+            "title": "עגלת קפה החלוצים",
+            "url": "https://gonorth.co.il/places/%d7%a2%d7%92%d7%9c%d7%aa-%d7%a7%d7%a4%d7%94-%d7%94%d7%97%d7%9c%d7%95%d7%a6%d7%99%d7%9d/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "yes",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T19:28:05+00:00"
+        },
+        {
+            "id": 228,
+            "title": "קופיש Coffish",
+            "url": "https://gonorth.co.il/places/%d7%a7%d7%95%d7%a4%d7%99%d7%a9-coffish/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 229,
+            "title": "שישו קפה",
+            "url": "https://gonorth.co.il/places/%d7%a9%d7%99%d7%a9%d7%95-%d7%a7%d7%a4%d7%94/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "no",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T19:28:05+00:00"
+        },
+        {
+            "id": 231,
+            "title": "עספורה",
+            "url": "https://gonorth.co.il/places/%d7%a2%d7%a1%d7%a4%d7%95%d7%a8%d7%94/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "yes",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T19:28:05+00:00"
+        },
+        {
+            "id": 233,
+            "title": "הקרון בכפר יהושוע",
+            "url": "https://gonorth.co.il/places/%d7%94%d7%a7%d7%a8%d7%95%d7%9f-%d7%91%d7%9b%d7%a4%d7%a8-%d7%99%d7%94%d7%95%d7%a9%d7%95%d7%a2/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 235,
+            "title": "יקב תל שיפון",
+            "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%aa%d7%9c-%d7%a9%d7%99%d7%a4%d7%95%d7%9f/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "yes",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T19:28:05+00:00"
+        },
+        {
+            "id": 237,
+            "title": "יקב שאטו גולן",
+            "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%a9%d7%90%d7%98%d7%95-%d7%92%d7%95%d7%9c%d7%9f/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "yes",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T19:28:05+00:00"
+        },
+        {
+            "id": 240,
+            "title": "יקב הרי גליל",
+            "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%94%d7%a8%d7%99-%d7%92%d7%9c%d7%99%d7%9c/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "no",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T19:28:05+00:00"
+        },
+        {
+            "id": 242,
+            "title": "יקב אדיר",
+            "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%90%d7%93%d7%99%d7%a8/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "no",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-17T12:34:47Z"
+        },
+        {
+            "id": 244,
+            "title": "יקב בן זמרה",
+            "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%91%d7%9f-%d7%96%d7%9e%d7%a8%d7%94/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 246,
+            "title": "אינדי פארק",
+            "url": "https://gonorth.co.il/places/%d7%90%d7%99%d7%a0%d7%93%d7%99-%d7%a4%d7%90%d7%a8%d7%a7/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "no",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T19:28:05+00:00"
+        },
+        {
+            "id": 248,
+            "title": "מטאור — תצפיות כוכבים",
+            "url": "https://gonorth.co.il/places/%d7%9e%d7%98%d7%90%d7%95%d7%a8-%d7%aa%d7%a6%d7%a4%d7%99%d7%95%d7%aa-%d7%9b%d7%95%d7%9b%d7%91%d7%99%d7%9d/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "no",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T19:28:05+00:00"
+        },
+        {
+            "id": 323,
+            "title": "קייקי כפר בלום",
+            "url": "https://gonorth.co.il/places/%d7%a7%d7%99%d7%99%d7%a7%d7%99-%d7%9b%d7%a4%d7%a8-%d7%91%d7%9c%d7%95%d7%9d/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "yes",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T20:32:07+00:00"
+        },
+        {
+            "id": 325,
+            "title": "רפטינג נהר הירדן",
+            "url": "https://gonorth.co.il/places/%d7%a8%d7%a4%d7%98%d7%99%d7%a0%d7%92-%d7%a0%d7%94%d7%a8-%d7%94%d7%99%d7%a8%d7%93%d7%9f/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "no",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T19:28:06+00:00"
+        },
+        {
+            "id": 327,
+            "title": "חמי טבריה",
+            "url": "https://gonorth.co.il/places/%d7%97%d7%9e%d7%99-%d7%98%d7%91%d7%a8%d7%99%d7%94/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 329,
+            "title": "חוות האושר — רכיבה על סוסים",
+            "url": "https://gonorth.co.il/places/%d7%97%d7%95%d7%95%d7%aa-%d7%94%d7%90%d7%95%d7%a9%d7%a8-%d7%a8%d7%9b%d7%99%d7%91%d7%94-%d7%a2%d7%9c-%d7%a1%d7%95%d7%a1%d7%99%d7%9d/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 331,
+            "title": "ורד הגליל",
+            "url": "https://gonorth.co.il/places/%d7%95%d7%a8%d7%93-%d7%94%d7%92%d7%9c%d7%99%d7%9c/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 333,
+            "title": "חוות הבוקרים — מרום גולן",
+            "url": "https://gonorth.co.il/places/%d7%97%d7%95%d7%95%d7%aa-%d7%94%d7%91%d7%95%d7%a7%d7%a8%d7%99%d7%9d-%d7%9e%d7%a8%d7%95%d7%9d-%d7%92%d7%95%d7%9c%d7%9f/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "yes",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T19:28:06+00:00"
+        },
+        {
+            "id": 335,
+            "title": "גיל גולן — מרכז רכיבה",
+            "url": "https://gonorth.co.il/places/%d7%92%d7%99%d7%9c-%d7%92%d7%95%d7%9c%d7%9f-%d7%9e%d7%a8%d7%9b%d7%96-%d7%a8%d7%9b%d7%99%d7%91%d7%94/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 337,
+            "title": "חוות סוסים — קיבוץ אורטל",
+            "url": "https://gonorth.co.il/places/%d7%97%d7%95%d7%95%d7%aa-%d7%a1%d7%95%d7%a1%d7%99%d7%9d-%d7%a7%d7%99%d7%91%d7%95%d7%a5-%d7%90%d7%95%d7%a8%d7%98%d7%9c/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 339,
+            "title": "גלמפינג קיבוץ אורטל",
+            "url": "https://gonorth.co.il/places/%d7%92%d7%9c%d7%9e%d7%a4%d7%99%d7%a0%d7%92-%d7%a7%d7%99%d7%91%d7%95%d7%a5-%d7%90%d7%95%d7%a8%d7%98%d7%9c/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 341,
+            "title": "גלמפינג על הצוק — עין קיניא",
+            "url": "https://gonorth.co.il/places/%d7%92%d7%9c%d7%9e%d7%a4%d7%99%d7%a0%d7%92-%d7%a2%d7%9c-%d7%94%d7%a6%d7%95%d7%a7-%d7%a2%d7%99%d7%9f-%d7%a7%d7%99%d7%a0%d7%99%d7%90/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 343,
+            "title": "גלמפינג עין תאנה",
+            "url": "https://gonorth.co.il/places/%d7%92%d7%9c%d7%9e%d7%a4%d7%99%d7%a0%d7%92-%d7%a2%d7%99%d7%9f-%d7%aa%d7%90%d7%a0%d7%94/",
+            "states": {
+                "free": "no",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 345,
+            "title": "בלום וילג׳ — כפר בלום",
+            "url": "https://gonorth.co.il/places/%d7%91%d7%9c%d7%95%d7%9d-%d7%95%d7%99%d7%9c%d7%92%d7%b3-%d7%9b%d7%a4%d7%a8-%d7%91%d7%9c%d7%95%d7%9d/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 347,
+            "title": "קטיף עצמי אל-רום",
+            "url": "https://gonorth.co.il/places/%d7%a7%d7%98%d7%99%d7%a3-%d7%a2%d7%a6%d7%9e%d7%99-%d7%90%d7%9c-%d7%a8%d7%95%d7%9d/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 349,
+            "title": "מרכז מורשת שמן הזית — משק טוייסטר",
+            "url": "https://gonorth.co.il/places/%d7%9e%d7%a8%d7%9b%d7%96-%d7%9e%d7%95%d7%a8%d7%a9%d7%aa-%d7%a9%d7%9e%d7%9f-%d7%94%d7%96%d7%99%d7%aa-%d7%9e%d7%a9%d7%a7-%d7%98%d7%95%d7%99%d7%99%d7%a1%d7%98%d7%a8/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 351,
+            "title": "ג׳ימי ג׳יפ — טיולי ג׳יפים",
+            "url": "https://gonorth.co.il/places/%d7%92%d7%b3%d7%99%d7%9e%d7%99-%d7%92%d7%b3%d7%99%d7%a4-%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%92%d7%b3%d7%99%d7%a4%d7%99%d7%9d/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 353,
+            "title": "סאונדטראק — טיולי אוזניות בטבע",
+            "url": "https://gonorth.co.il/places/%d7%a1%d7%90%d7%95%d7%a0%d7%93%d7%98%d7%a8%d7%90%d7%a7-%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%90%d7%95%d7%96%d7%a0%d7%99%d7%95%d7%aa-%d7%91%d7%98%d7%91%d7%a2/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 355,
+            "title": "קול שופר — מרכז מבקרים",
+            "url": "https://gonorth.co.il/places/%d7%a7%d7%95%d7%9c-%d7%a9%d7%95%d7%a4%d7%a8-%d7%9e%d7%a8%d7%9b%d7%96-%d7%9e%d7%91%d7%a7%d7%a8%d7%99%d7%9d/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "no",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T20:32:07+00:00"
+        },
+        {
+            "id": 357,
+            "title": "F Ranch",
+            "url": "https://gonorth.co.il/places/f-ranch/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 359,
+            "title": "מחלבת נטור — אוכל גבינות וחוויה כפרית בגולן",
+            "url": "https://gonorth.co.il/places/%d7%9e%d7%97%d7%9c%d7%91%d7%aa-%d7%a0%d7%98%d7%95%d7%a8-%d7%90%d7%95%d7%9b%d7%9c-%d7%92%d7%91%d7%99%d7%a0%d7%95%d7%aa-%d7%95%d7%97%d7%95%d7%95%d7%99%d7%94-%d7%9b%d7%a4%d7%a8%d7%99%d7%aa/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "no",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T20:32:07+00:00"
+        },
+        {
+            "id": 361,
+            "title": "העדי שבמטבח — סדנאות שוקולד",
+            "url": "https://gonorth.co.il/places/%d7%94%d7%a2%d7%93%d7%99-%d7%a9%d7%91%d7%9e%d7%98%d7%91%d7%97-%d7%a1%d7%93%d7%a0%d7%90%d7%95%d7%aa-%d7%a9%d7%95%d7%a7%d7%95%d7%9c%d7%93/",
+            "states": {
+                "free": "no",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 363,
+            "title": "יקב פלטר",
+            "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%a4%d7%9c%d7%98%d7%a8/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "yes",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T19:28:06+00:00"
+        },
+        {
+            "id": 365,
+            "title": "ג׳י.פי.אס טיולי ג׳יפים",
+            "url": "https://gonorth.co.il/places/%d7%92%d7%b3%d7%99-%d7%a4%d7%99-%d7%90%d7%a1-%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%92%d7%b3%d7%99%d7%a4%d7%99%d7%9d/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 367,
+            "title": "מזקקת גולני",
+            "url": "https://gonorth.co.il/places/%d7%9e%d7%96%d7%a7%d7%a7%d7%aa-%d7%92%d7%95%d7%9c%d7%a0%d7%99/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "no",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T20:27:20+00:00"
+        },
+        {
+            "id": 369,
+            "title": "רייזר סטאר חד-נס",
+            "url": "https://gonorth.co.il/places/%d7%a8%d7%99%d7%99%d7%96%d7%a8-%d7%a1%d7%98%d7%90%d7%a8-%d7%97%d7%93-%d7%a0%d7%a1/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "yes",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T20:27:20+00:00"
+        },
+        {
+            "id": 371,
+            "title": "החווה התיירותית — בל עפרי",
+            "url": "https://gonorth.co.il/places/%d7%94%d7%97%d7%95%d7%95%d7%94-%d7%94%d7%aa%d7%99%d7%99%d7%a8%d7%95%d7%aa%d7%99%d7%aa-%d7%91%d7%9c-%d7%a2%d7%a4%d7%a8%d7%99/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 373,
+            "title": "טיולי עששיות בפארק הירדן",
+            "url": "https://gonorth.co.il/places/%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%a2%d7%a9%d7%a9%d7%99%d7%95%d7%aa-%d7%91%d7%a4%d7%90%d7%a8%d7%a7-%d7%94%d7%99%d7%a8%d7%93%d7%9f/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 375,
+            "title": "הרפת הרובוטית",
+            "url": "https://gonorth.co.il/places/%d7%94%d7%a8%d7%a4%d7%aa-%d7%94%d7%a8%d7%95%d7%91%d7%95%d7%98%d7%99%d7%aa/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "no",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T20:27:20+00:00"
+        },
+        {
+            "id": 377,
+            "title": "בירה בזלת — מבשלת הגולן",
+            "url": "https://gonorth.co.il/places/%d7%91%d7%99%d7%a8%d7%94-%d7%91%d7%96%d7%9c%d7%aa-%d7%9e%d7%91%d7%a9%d7%9c%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 379,
+            "title": "לימונטו — מרכז מבקרים",
+            "url": "https://gonorth.co.il/places/%d7%9c%d7%99%d7%9e%d7%95%d7%a0%d7%98%d7%95-%d7%9e%d7%a8%d7%9b%d7%96-%d7%9e%d7%91%d7%a7%d7%a8%d7%99%d7%9d/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "yes",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T20:27:20+00:00"
+        },
+        {
+            "id": 381,
+            "title": "חוויית ג׳יפים ורייזרים בגולן",
+            "url": "https://gonorth.co.il/places/%d7%97%d7%95%d7%95%d7%99%d7%99%d7%aa-%d7%92%d7%b3%d7%99%d7%a4%d7%99%d7%9d-%d7%95%d7%a8%d7%99%d7%99%d7%96%d7%a8%d7%99%d7%9d-%d7%91%d7%92%d7%95%d7%9c%d7%9f/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "no",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T20:27:20+00:00"
+        },
+        {
+            "id": 383,
+            "title": "סנאבל — המרכז התיירותי הדרוזי",
+            "url": "https://gonorth.co.il/places/%d7%a1%d7%a0%d7%90%d7%91%d7%9c-%d7%94%d7%9e%d7%a8%d7%9b%d7%96-%d7%94%d7%aa%d7%99%d7%99%d7%a8%d7%95%d7%aa%d7%99-%d7%94%d7%93%d7%a8%d7%95%d7%96%d7%99/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 385,
+            "title": "טיולי אתגר — Wild Adventures",
+            "url": "https://gonorth.co.il/places/%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%90%d7%aa%d7%92%d7%a8-wild-adventures/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "no",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T20:32:07+00:00"
+        },
+        {
+            "id": 387,
+            "title": "קטיף עצמי רוני",
+            "url": "https://gonorth.co.il/places/%d7%a7%d7%98%d7%99%d7%a3-%d7%a2%d7%a6%d7%9e%d7%99-%d7%a8%d7%95%d7%a0%d7%99/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 389,
+            "title": "חוות שביט — כנף",
+            "url": "https://gonorth.co.il/places/%d7%97%d7%95%d7%95%d7%aa-%d7%a9%d7%91%d7%99%d7%98-%d7%9b%d7%a0%d7%a3/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "no",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T20:27:20+00:00"
+        },
+        {
+            "id": 391,
+            "title": "War Zone Paintball",
+            "url": "https://gonorth.co.il/places/war-zone-paintball/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "yes",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T20:27:20+00:00"
+        },
+        {
+            "id": 393,
+            "title": "קטיף עצמי נווה אטיב",
+            "url": "https://gonorth.co.il/places/%d7%a7%d7%98%d7%99%d7%a3-%d7%a2%d7%a6%d7%9e%d7%99-%d7%a0%d7%95%d7%95%d7%94-%d7%90%d7%98%d7%99%d7%91/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 395,
+            "title": "דיר עזיז — טבע עיזים גבינות",
+            "url": "https://gonorth.co.il/places/%d7%93%d7%99%d7%a8-%d7%a2%d7%96%d7%99%d7%96-%d7%98%d7%91%d7%a2-%d7%a2%d7%99%d7%96%d7%99%d7%9d-%d7%92%d7%91%d7%99%d7%a0%d7%95%d7%aa/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 397,
+            "title": "אתגר הבונקר",
+            "url": "https://gonorth.co.il/places/%d7%90%d7%aa%d7%92%d7%a8-%d7%94%d7%91%d7%95%d7%a0%d7%a7%d7%a8/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 399,
+            "title": "דה קרינה — שוקולד בוטיק",
+            "url": "https://gonorth.co.il/places/%d7%93%d7%94-%d7%a7%d7%a8%d7%99%d7%a0%d7%94-%d7%a9%d7%95%d7%a7%d7%95%d7%9c%d7%93-%d7%91%d7%95%d7%98%d7%99%d7%a7/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "no",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T20:27:20+00:00"
+        },
+        {
+            "id": 401,
+            "title": "Go Golan — טיולי ריינג׳רים",
+            "url": "https://gonorth.co.il/places/go-golan-%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%a8%d7%99%d7%99%d7%a0%d7%92%d7%b3%d7%a8%d7%99%d7%9d/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "yes",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T20:27:20+00:00"
+        },
+        {
+            "id": 403,
+            "title": "קטיף עצמי הדובדבן שבגולן",
+            "url": "https://gonorth.co.il/places/%d7%a7%d7%98%d7%99%d7%a3-%d7%a2%d7%a6%d7%9e%d7%99-%d7%94%d7%93%d7%95%d7%91%d7%93%d7%91%d7%9f-%d7%a9%d7%91%d7%92%d7%95%d7%9c%d7%9f/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 405,
+            "title": "חמת גדר",
+            "url": "https://gonorth.co.il/places/%d7%97%d7%9e%d7%aa-%d7%92%d7%93%d7%a8/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "yes",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T20:27:20+00:00"
+        },
+        {
+            "id": 407,
+            "title": "אתר החרמון",
+            "url": "https://gonorth.co.il/places/%d7%90%d7%aa%d7%a8-%d7%94%d7%97%d7%a8%d7%9e%d7%95%d7%9f/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 409,
+            "title": "מורשת גוש קטיף בגולן",
+            "url": "https://gonorth.co.il/places/%d7%9e%d7%95%d7%a8%d7%a9%d7%aa-%d7%92%d7%95%d7%a9-%d7%a7%d7%98%d7%99%d7%a3-%d7%91%d7%92%d7%95%d7%9c%d7%9f/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 411,
+            "title": "מרכבות הבשן",
+            "url": "https://gonorth.co.il/places/%d7%9e%d7%a8%d7%9b%d7%91%d7%95%d7%aa-%d7%94%d7%91%d7%a9%d7%9f/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 413,
+            "title": "בית הבד של הגולן — Olea Essence",
+            "url": "https://gonorth.co.il/places/%d7%91%d7%99%d7%aa-%d7%94%d7%91%d7%93-%d7%a9%d7%9c-%d7%94%d7%92%d7%95%d7%9c%d7%9f-olea-essence/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "no",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T20:32:07+00:00"
+        },
+        {
+            "id": 415,
+            "title": "אבו קיאק",
+            "url": "https://gonorth.co.il/places/%d7%90%d7%91%d7%95-%d7%a7%d7%99%d7%90%d7%a7/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "no",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T20:27:20+00:00"
+        },
+        {
+            "id": 417,
+            "title": "יקב בזלת הגולן",
+            "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%91%d7%96%d7%9c%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "no",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T20:27:20+00:00"
+        },
+        {
+            "id": 419,
+            "title": "טריפונל באולינג",
+            "url": "https://gonorth.co.il/places/%d7%98%d7%a8%d7%99%d7%a4%d7%95%d7%a0%d7%9c-%d7%91%d7%90%d7%95%d7%9c%d7%99%d7%a0%d7%92/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 421,
+            "title": "הבוסתן של מוטי",
+            "url": "https://gonorth.co.il/places/%d7%94%d7%91%d7%95%d7%a1%d7%aa%d7%9f-%d7%a9%d7%9c-%d7%9e%d7%95%d7%98%d7%99/",
+            "states": {
+                "free": "no",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        },
+        {
+            "id": 423,
+            "title": "קיאק-כנרת",
+            "url": "https://gonorth.co.il/places/%d7%a7%d7%99%d7%90%d7%a7-%d7%9b%d7%a0%d7%a8%d7%aa/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "yes",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": "2026-09-02T20:27:20+00:00"
+        },
+        {
+            "id": 425,
+            "title": "הכפר האינדיאני — גלמפינג ברמת הגולן",
+            "url": "https://gonorth.co.il/places/%d7%94%d7%9b%d7%a4%d7%a8-%d7%94%d7%90%d7%99%d7%a0%d7%93%d7%99%d7%90%d7%a0%d7%99-%d7%92%d7%9c%d7%9e%d7%a4%d7%99%d7%a0%d7%92-%d7%91%d7%a8%d7%9e%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f/",
+            "states": {
+                "free": "unknown",
+                "open_saturday": "unknown",
+                "children": "unknown",
+                "accessible": "unknown"
+            },
+            "practical_checked_at": ""
+        }
+    ]
+}

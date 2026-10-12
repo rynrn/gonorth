@@ -1,0 +1,35 @@
+[
+  {
+    "path": "/hanukkah-north-israel/",
+    "width": 320,
+    "view": 320,
+    "dir": "rtl",
+    "actions": [],
+    "focus": {
+      "outline": "3px",
+      "color": "rgb(43, 101, 75)"
+    },
+    "pass": true
+  },
+  {
+    "path": "/places/קיאק-כנרת/",
+    "width": 320,
+    "view": 320,
+    "dir": "rtl",
+    "actions": [
+      {
+        "width": 132,
+        "height": 42
+      },
+      {
+        "width": 132,
+        "height": 42
+      }
+    ],
+    "focus": {
+      "outline": "3px",
+      "color": "rgb(255, 255, 255)"
+    },
+    "pass": true
+  }
+]

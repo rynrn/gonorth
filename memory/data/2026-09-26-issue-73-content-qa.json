@@ -1,0 +1,53 @@
+{
+  "targets": [
+    {
+      "ID": "268",
+      "status": "200",
+      "text_present": true,
+      "noindex": false
+    },
+    {
+      "ID": "433",
+      "status": "200",
+      "text_present": true,
+      "noindex": false
+    },
+    {
+      "ID": "270",
+      "status": "200",
+      "text_present": true,
+      "noindex": false
+    },
+    {
+      "ID": "262",
+      "status": "200",
+      "text_present": true,
+      "noindex": false
+    },
+    {
+      "ID": "429",
+      "status": "200",
+      "text_present": true,
+      "noindex": false
+    },
+    {
+      "ID": "147",
+      "status": "200",
+      "text_present": true,
+      "noindex": false
+    },
+    {
+      "ID": "126",
+      "status": "200",
+      "text_present": true,
+      "noindex": false
+    },
+    {
+      "ID": "131",
+      "status": "200",
+      "text_present": true,
+      "noindex": true
+    }
+  ],
+  "footer_accessibility": true
+}

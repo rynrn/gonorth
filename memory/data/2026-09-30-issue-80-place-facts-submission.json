@@ -1,0 +1,15 @@
+[
+  {
+    "id": 173,
+    "source": "official_website",
+    "source_url": "https://www.kkl.org.il/travel/hula_lake/",
+    "checked_at": "2026-09-30T09:45:00Z",
+    "confidence": 0.98,
+    "facts": {
+      "business_status": "operational",
+      "phone": "04-681-7137",
+      "website_url": "https://agamon-hula.co.il/",
+      "address": "כביש 90, עמק החולה, ליד יסוד המעלה"
+    }
+  }
+]

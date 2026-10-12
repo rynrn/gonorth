@@ -1,0 +1,71 @@
+{
+  "passed": 13,
+  "total": 13,
+  "results": [
+    {
+      "name": "Hanukkah category and Hebrew reading time",
+      "pass": true,
+      "detail": "{\"badge\":\"מדריכים\",\"meta\":\"צוות כיוון צפון 26 בספטמבר 2026 5 דקות קריאה\"}"
+    },
+    {
+      "name": "One hero photo no duplicate body photo",
+      "pass": true,
+      "detail": "{\"hero\":1,\"body\":0}"
+    },
+    {
+      "name": "Editorial identity and summary",
+      "pass": true,
+      "detail": "{\"author\":\"צוות כיוון צפון\",\"summary\":\"בקצרה: מדריך חנוכה בצפון 2026 עם תאריכים מאומתים, פעילויות למשפחות, מסלולי יום בגליל ובגולן וטיפים למזג אוויר חורפי.\"}"
+    },
+    {
+      "name": "TOC anchors all resolve",
+      "pass": true,
+      "detail": "{\"toc\":8,\"missing\":0}"
+    },
+    {
+      "name": "Article mobile RTL/reflow",
+      "pass": true,
+      "detail": "{\"width\":390,\"view\":390}"
+    },
+    {
+      "name": "Keyboard TOC jump clears header",
+      "pass": true,
+      "detail": "{\"hash\":\"#gn-toc-464-1\",\"top\":229.546875,\"active\":\"BODY\"}"
+    },
+    {
+      "name": "320px reflow for 200% equivalent",
+      "pass": true,
+      "detail": "{\"width\":320,\"view\":320,\"tocCols\":\"1\"}"
+    },
+    {
+      "name": "Place shortcuts have valid targets",
+      "pass": true,
+      "detail": "[{\"text\":\"על המקום\",\"exists\":true},{\"text\":\"מיקום ומפה\",\"exists\":true}]"
+    },
+    {
+      "name": "Place primary and secondary actions",
+      "pass": true,
+      "detail": "{\"primary\":[{\"text\":\"ניווט ב-Waze\",\"href\":\"https://waze.com/ul?ll=32.711232,35.576669&navigate=yes\"},{\"text\":\"התקשרו\",\"href\":\"tel:052-800-0277\"}],\"secondary\":[{\"text\":\"לאתר הרשמי\",\"href\":\"https://www.kayakineret.co.il/\"},{\"text\":\"Google Maps\",\"href\":\"https://www.google.com/maps?q=32.711232,35.576669\"},{\"text\":\"שיתוף\",\"href\":\"https://wa.me/?text=%D7%A7%D7%99%D7%90%D7%A7-%D7%9B%D7%A0%D7%A8%D7%AA%20%E2%80%94%20https%3A%2F%2Fgonorth.co.il%2Fplaces%2F%25d7%25a7%25d7%2599%25d7%2590%25d7%25a7-%25d7%259b%25d7%25a0%25d7%25a8%25d7%25aa%2F\"}]}"
+    },
+    {
+      "name": "Mobile actions no sticky overlay/reflow",
+      "pass": true,
+      "detail": "{\"position\":\"relative\",\"width\":320,\"view\":320}"
+    },
+    {
+      "name": "Closed place retains notice without contact",
+      "pass": true,
+      "detail": "{\"notice\":true,\"waze\":false,\"phone\":false}"
+    },
+    {
+      "name": "Second long guide TOC and reading time",
+      "pass": true,
+      "detail": "{\"toc\":5,\"missing\":0,\"reading\":\"צוות כיוון צפון 19 באוגוסט 2026 3 דקות קריאה\"}"
+    },
+    {
+      "name": "TOC link contrast on summary background",
+      "pass": true,
+      "detail": "5.88"
+    }
+  ]
+}

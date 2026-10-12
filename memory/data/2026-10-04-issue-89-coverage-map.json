@@ -1,0 +1,1810 @@
+[
+  {
+    "id": 48,
+    "title": "יקב הר אודם",
+    "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%94%d7%a8-%d7%90%d7%95%d7%93%d7%9d/",
+    "city": "מושב אודם",
+    "latitude": "33.191991",
+    "longitude": "35.751795",
+    "region": "golan",
+    "categories": [
+      "yakavim"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 50,
+    "title": "כפר נופש &#8211; יער אודם",
+    "url": "https://gonorth.co.il/places/%d7%9b%d7%a4%d7%a8-%d7%a0%d7%95%d7%a4%d7%a9-%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d/",
+    "city": "אודם",
+    "latitude": "33.1919804",
+    "longitude": "35.7509705",
+    "region": "golan",
+    "categories": [
+      "accommodation"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 52,
+    "title": "החווה ביער אודם",
+    "url": "https://gonorth.co.il/places/%d7%94%d7%97%d7%95%d7%95%d7%94-%d7%91%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d/",
+    "city": "אודם",
+    "latitude": "33.1904869",
+    "longitude": "35.7497005",
+    "region": "golan",
+    "categories": [
+      "atraktziot-main"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 54,
+    "title": "שמורת טבע החולה",
+    "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%97%d7%95%d7%9c%d7%94/",
+    "city": "יסוד המעלה",
+    "latitude": "33.0674266",
+    "longitude": "35.6033203",
+    "region": "galil",
+    "categories": [
+      "teva"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 56,
+    "title": "נחל השופט",
+    "url": "https://gonorth.co.il/places/%d7%a0%d7%97%d7%9c-%d7%94%d7%a9%d7%95%d7%a4%d7%98/",
+    "city": "עין השופט",
+    "latitude": "32.628333",
+    "longitude": "35.105822",
+    "region": "carmel",
+    "categories": [
+      "teva"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 58,
+    "title": "שמורת טבע נחל עמוד",
+    "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%a2%d7%9e%d7%95%d7%93/",
+    "city": "כפר שמאי",
+    "latitude": "32.8866575",
+    "longitude": "35.5005401",
+    "region": "galil",
+    "categories": [
+      "teva"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 61,
+    "title": "מלון פרא — Pereh Hotel",
+    "url": "https://gonorth.co.il/places/%d7%9e%d7%9c%d7%95%d7%9f-%d7%a4%d7%a8%d7%90-pereh-hotel/",
+    "city": "גדות",
+    "latitude": "33.0120264",
+    "longitude": "35.6511751",
+    "region": "galil",
+    "categories": [
+      "accommodation"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 63,
+    "title": "כנען וילאג׳ &#8211; מלון בוטיק וספא בצפון",
+    "url": "https://gonorth.co.il/places/%d7%9b%d7%a0%d7%a2%d7%9f-%d7%95%d7%99%d7%9c%d7%90%d7%92%d7%b3-%d7%9e%d7%9c%d7%95%d7%9f-%d7%91%d7%95%d7%98%d7%99%d7%a7-%d7%95%d7%a1%d7%a4%d7%90-%d7%91%d7%a6%d7%a4%d7%95%d7%9f/",
+    "city": "חד נס",
+    "latitude": "32.9253878",
+    "longitude": "35.6424809",
+    "region": "golan",
+    "categories": [
+      "accommodation"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 86,
+    "title": "פארק המעיינות",
+    "url": "https://gonorth.co.il/places/%d7%a4%d7%90%d7%a8%d7%a7-%d7%94%d7%9e%d7%a2%d7%99%d7%99%d7%a0%d7%95%d7%aa/",
+    "city": "ניר דוד",
+    "latitude": "32.50354",
+    "longitude": "35.448704",
+    "region": null,
+    "categories": [
+      "atraktziot-main"
+    ],
+    "exception": "עמק המעיינות — מחוץ לשלושת אזורי התוכן הקיימים; לא לשייך לכרמל/גליל ללא הרחבת כיסוי",
+    "location_note": null
+  },
+  {
+    "id": 87,
+    "title": "גן גורו — הפארק האוסטרלי",
+    "url": "https://gonorth.co.il/places/%d7%92%d7%9f-%d7%92%d7%95%d7%a8%d7%95-%d7%94%d7%a4%d7%90%d7%a8%d7%a7-%d7%94%d7%90%d7%95%d7%a1%d7%98%d7%a8%d7%9c%d7%99/",
+    "city": "ניר דוד",
+    "latitude": "32.50776",
+    "longitude": "35.44827",
+    "region": null,
+    "categories": [
+      "atraktziot-main"
+    ],
+    "exception": "עמק המעיינות — מחוץ לשלושת אזורי התוכן הקיימים; לא לשייך לכרמל/גליל ללא הרחבת כיסוי",
+    "location_note": null
+  },
+  {
+    "id": 88,
+    "title": "שמורת נחל הקיבוצים",
+    "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%a0%d7%97%d7%9c-%d7%94%d7%a7%d7%99%d7%91%d7%95%d7%a6%d7%99%d7%9d/",
+    "city": "ניר דוד",
+    "latitude": "32.49615",
+    "longitude": "35.45116",
+    "region": null,
+    "categories": [
+      "teva"
+    ],
+    "exception": "עמק המעיינות — מחוץ לשלושת אזורי התוכן הקיימים; לא לשייך לכרמל/גליל ללא הרחבת כיסוי",
+    "location_note": null
+  },
+  {
+    "id": 89,
+    "title": "שמורת טבע נחל שניר (חצבאני)",
+    "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%a9%d7%a0%d7%99%d7%a8-%d7%97%d7%a6%d7%91%d7%90%d7%a0%d7%99/",
+    "city": "הגושרים",
+    "latitude": "33.23133",
+    "longitude": "35.62556",
+    "region": "galil",
+    "categories": [
+      "teva"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 149,
+    "title": "דג על הדן",
+    "url": "https://gonorth.co.il/places/%d7%93%d7%92-%d7%a2%d7%9c-%d7%94%d7%93%d7%9f/",
+    "city": "הגושרים",
+    "latitude": "33.228241",
+    "longitude": "35.62389",
+    "region": "galil",
+    "categories": [
+      "restaurants-sub"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 157,
+    "title": "כפר החיות בכפר גלעדי",
+    "url": "https://gonorth.co.il/places/%d7%9b%d7%a4%d7%a8-%d7%94%d7%97%d7%99%d7%95%d7%aa-%d7%91%d7%9b%d7%a4%d7%a8-%d7%92%d7%9c%d7%a2%d7%93%d7%99/",
+    "city": "כפר גלעדי",
+    "latitude": "33.2425",
+    "longitude": "35.575",
+    "region": "galil",
+    "categories": [
+      "atraktziot-main"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 159,
+    "title": "לול ארט",
+    "url": "https://gonorth.co.il/places/%d7%9c%d7%95%d7%9c-%d7%90%d7%a8%d7%98/",
+    "city": "רמות",
+    "latitude": "32.8494",
+    "longitude": "35.6675",
+    "region": "golan",
+    "categories": [
+      "atraktziot-main"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 161,
+    "title": "עזיזו — לבנדר מהגולן",
+    "url": "https://gonorth.co.il/places/%d7%a2%d7%96%d7%99%d7%96%d7%95-%d7%9c%d7%91%d7%a0%d7%93%d7%a8-%d7%9e%d7%94%d7%92%d7%95%d7%9c%d7%9f/",
+    "city": "כנף",
+    "latitude": "32.8682",
+    "longitude": "35.70143",
+    "region": "golan",
+    "categories": [
+      "atraktziot-main"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 165,
+    "title": "פיינטבול הגושרים",
+    "url": "https://gonorth.co.il/places/%d7%a4%d7%99%d7%99%d7%a0%d7%98%d7%91%d7%95%d7%9c-%d7%94%d7%92%d7%95%d7%a9%d7%a8%d7%99%d7%9d/",
+    "city": "הגושרים",
+    "latitude": "33.217",
+    "longitude": "35.627",
+    "region": "galil",
+    "categories": [
+      "tours"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 167,
+    "title": "קידס לנד — אתגר הנינג'ה לילדים",
+    "url": "https://gonorth.co.il/places/%d7%a7%d7%99%d7%93%d7%a1-%d7%9c%d7%a0%d7%93-%d7%90%d7%aa%d7%92%d7%a8-%d7%94%d7%a0%d7%99%d7%a0%d7%92%d7%94-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d/",
+    "city": "מג'ד אל-כרום",
+    "latitude": "32.924",
+    "longitude": "35.24",
+    "region": "galil",
+    "categories": [
+      "tours"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 169,
+    "title": "שמורת טבע הר מירון",
+    "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%a8-%d7%9e%d7%99%d7%a8%d7%95%d7%9f/",
+    "city": "מירון",
+    "latitude": "32.99025",
+    "longitude": "35.40499",
+    "region": "galil",
+    "categories": [
+      "teva"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 171,
+    "title": "שמורת טבע נחל כזיב",
+    "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%9b%d7%96%d7%99%d7%91/",
+    "city": "הילה",
+    "latitude": "33.04378",
+    "longitude": "35.25647",
+    "region": "galil",
+    "categories": [
+      "teva"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 173,
+    "title": "אגמון החולה",
+    "url": "https://gonorth.co.il/places/%d7%90%d7%92%d7%9e%d7%95%d7%9f-%d7%94%d7%97%d7%95%d7%9c%d7%94/",
+    "city": "יסוד המעלה",
+    "latitude": "33.11107",
+    "longitude": "35.58494",
+    "region": "galil",
+    "categories": [
+      "teva"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 175,
+    "title": "גן לאומי תל חצור",
+    "url": "https://gonorth.co.il/places/%d7%92%d7%9f-%d7%9c%d7%90%d7%95%d7%9e%d7%99-%d7%aa%d7%9c-%d7%97%d7%a6%d7%95%d7%a8/",
+    "city": "איילת השחר",
+    "latitude": "33.01749",
+    "longitude": "35.56817",
+    "region": "galil",
+    "categories": [
+      "atraktziot-main"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 177,
+    "title": "עין תינה",
+    "url": "https://gonorth.co.il/places/%d7%a2%d7%99%d7%9f-%d7%aa%d7%99%d7%a0%d7%94/",
+    "city": "גונן",
+    "latitude": "33.07866",
+    "longitude": "35.64322",
+    "region": "golan",
+    "categories": [
+      "teva"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 179,
+    "title": "עין דיבשה",
+    "url": "https://gonorth.co.il/places/%d7%a2%d7%99%d7%9f-%d7%93%d7%99%d7%91%d7%a9%d7%94/",
+    "city": "גונן",
+    "latitude": "33.069",
+    "longitude": "35.63",
+    "region": "golan",
+    "categories": [
+      "teva"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 181,
+    "title": "חוות בת יער",
+    "url": "https://gonorth.co.il/places/%d7%97%d7%95%d7%95%d7%aa-%d7%91%d7%aa-%d7%99%d7%a2%d7%a8/",
+    "city": "עמוקה",
+    "latitude": "32.9969",
+    "longitude": "35.5174",
+    "region": "galil",
+    "categories": [
+      "atraktziot-main",
+      "restaurants-sub"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 183,
+    "title": "רוג'ום — קיר טיפוס בקריית שמונה",
+    "url": "https://gonorth.co.il/places/%d7%a8%d7%95%d7%92%d7%95%d7%9d-%d7%a7%d7%99%d7%a8-%d7%98%d7%99%d7%a4%d7%95%d7%a1-%d7%91%d7%a7%d7%a8%d7%99%d7%99%d7%aa-%d7%a9%d7%9e%d7%95%d7%a0%d7%94/",
+    "city": "קריית שמונה",
+    "latitude": "33.207",
+    "longitude": "35.569",
+    "region": "galil",
+    "categories": [
+      "tours"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 185,
+    "title": "גן מורד הירדן",
+    "url": "https://gonorth.co.il/places/%d7%92%d7%9f-%d7%9e%d7%95%d7%a8%d7%93-%d7%94%d7%99%d7%a8%d7%93%d7%9f/",
+    "city": "מנחמיה",
+    "latitude": "32.675939",
+    "longitude": "35.558367",
+    "region": "galil",
+    "categories": [
+      "teva"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 187,
+    "title": "שמורת טבע נחל המשושים",
+    "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%94%d7%9e%d7%a9%d7%95%d7%a9%d7%99%d7%9d/",
+    "city": "חד נס",
+    "latitude": "32.938867",
+    "longitude": "35.665318",
+    "region": "golan",
+    "categories": [
+      "teva"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 189,
+    "title": "שמורת טבע יהודיה",
+    "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%99%d7%94%d7%95%d7%93%d7%99%d7%94/",
+    "city": "",
+    "latitude": "32.941991",
+    "longitude": "35.701102",
+    "region": "golan",
+    "categories": [
+      "teva"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 191,
+    "title": "שמורת טבע הבניאס",
+    "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%91%d7%a0%d7%99%d7%90%d7%a1/",
+    "city": "שניר",
+    "latitude": "33.247485",
+    "longitude": "35.693717",
+    "region": "golan",
+    "categories": [
+      "teva"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 193,
+    "title": "יקב רמת הגולן",
+    "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%a8%d7%9e%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f/",
+    "city": "קצרין",
+    "latitude": "32.988575",
+    "longitude": "35.708596",
+    "region": "golan",
+    "categories": [
+      "yakavim"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 195,
+    "title": "מפגש היקב — עמיעד",
+    "url": "https://gonorth.co.il/places/%d7%9e%d7%a4%d7%92%d7%a9-%d7%94%d7%99%d7%a7%d7%91-%d7%a2%d7%9e%d7%99%d7%a2%d7%93/",
+    "city": "עמיעד",
+    "latitude": "32.917",
+    "longitude": "35.571",
+    "region": "galil",
+    "categories": [
+      "yakavim"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 197,
+    "title": "יקב רמות נפתלי",
+    "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%a8%d7%9e%d7%95%d7%aa-%d7%a0%d7%a4%d7%aa%d7%9c%d7%99/",
+    "city": "רמות נפתלי",
+    "latitude": "33.094",
+    "longitude": "35.529",
+    "region": "galil",
+    "categories": [
+      "yakavim"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 198,
+    "title": "יקב דלתון",
+    "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%93%d7%9c%d7%aa%d7%95%d7%9f/",
+    "city": "דלתון",
+    "latitude": "33.027853",
+    "longitude": "35.47685",
+    "region": "galil",
+    "categories": [
+      "yakavim"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 202,
+    "title": "חלהוולאוו",
+    "url": "https://gonorth.co.il/places/%d7%97%d7%9c%d7%94%d7%95%d7%95%d7%9c%d7%90%d7%95%d7%95/",
+    "city": "אודם",
+    "latitude": "33.192",
+    "longitude": "35.7518",
+    "region": "golan",
+    "categories": [
+      "agalot-kafe"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 204,
+    "title": "קפה מוייז",
+    "url": "https://gonorth.co.il/places/%d7%a7%d7%a4%d7%94-%d7%9e%d7%95%d7%99%d7%99%d7%96/",
+    "city": "רמות",
+    "latitude": "32.8506",
+    "longitude": "35.6666",
+    "region": "golan",
+    "categories": [
+      "agalot-kafe"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 207,
+    "title": "נינו עגלת קפה",
+    "url": "https://gonorth.co.il/places/%d7%a0%d7%99%d7%a0%d7%95-%d7%a2%d7%92%d7%9c%d7%aa-%d7%a7%d7%a4%d7%94/",
+    "city": "מעלה גמלא",
+    "latitude": "32.8904543",
+    "longitude": "35.6833482",
+    "region": "golan",
+    "categories": [
+      "agalot-kafe"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 209,
+    "title": "דה פייפ קפה",
+    "url": "https://gonorth.co.il/places/%d7%93%d7%94-%d7%a4%d7%99%d7%99%d7%a4-%d7%a7%d7%a4%d7%94/",
+    "city": "רמות",
+    "latitude": "32.8506",
+    "longitude": "35.6666",
+    "region": "golan",
+    "categories": [
+      "agalot-kafe"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 212,
+    "title": "קפה חמה",
+    "url": "https://gonorth.co.il/places/%d7%a7%d7%a4%d7%94-%d7%97%d7%9e%d7%94/",
+    "city": "מבוא חמה",
+    "latitude": "32.73085",
+    "longitude": "35.65236",
+    "region": "golan",
+    "categories": [
+      "agalot-kafe"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 213,
+    "title": "דורא עגלת קפה",
+    "url": "https://gonorth.co.il/places/%d7%93%d7%95%d7%a8%d7%90-%d7%a2%d7%92%d7%9c%d7%aa-%d7%a7%d7%a4%d7%94/",
+    "city": "נוב",
+    "latitude": "32.786",
+    "longitude": "35.692",
+    "region": "golan",
+    "categories": [
+      "agalot-kafe"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 215,
+    "title": "קפה קירשנר",
+    "url": "https://gonorth.co.il/places/%d7%a7%d7%a4%d7%94-%d7%a7%d7%99%d7%a8%d7%a9%d7%a0%d7%a8/",
+    "city": "בית לחם הגלילית",
+    "latitude": "32.6931",
+    "longitude": "35.2008",
+    "region": "carmel",
+    "categories": [
+      "agalot-kafe"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 217,
+    "title": "קפה התן",
+    "url": "https://gonorth.co.il/places/%d7%a7%d7%a4%d7%94-%d7%94%d7%aa%d7%9f/",
+    "city": "בית הלל",
+    "latitude": "",
+    "longitude": "",
+    "region": "galil",
+    "categories": [
+      "agalot-kafe"
+    ],
+    "exception": null,
+    "location_note": "אין קואורדינטות קנוניות; המיפוי מבוסס על יישוב מתועד"
+  },
+  {
+    "id": 219,
+    "title": "עגלת קפה מיכאל",
+    "url": "https://gonorth.co.il/places/%d7%a2%d7%92%d7%9c%d7%aa-%d7%a7%d7%a4%d7%94-%d7%9e%d7%99%d7%9b%d7%90%d7%9c/",
+    "city": "שדה נחמיה",
+    "latitude": "",
+    "longitude": "",
+    "region": "galil",
+    "categories": [
+      "agalot-kafe"
+    ],
+    "exception": null,
+    "location_note": "אין קואורדינטות קנוניות; המיפוי מבוסס על יישוב מתועד"
+  },
+  {
+    "id": 221,
+    "title": "אסתר — קפה ובישולים לדרך",
+    "url": "https://gonorth.co.il/places/%d7%90%d7%a1%d7%aa%d7%a8-%d7%a7%d7%a4%d7%94-%d7%95%d7%91%d7%99%d7%a9%d7%95%d7%9c%d7%99%d7%9d-%d7%9c%d7%93%d7%a8%d7%9a/",
+    "city": "שתולה",
+    "latitude": "",
+    "longitude": "",
+    "region": "galil",
+    "categories": [
+      "agalot-kafe"
+    ],
+    "exception": null,
+    "location_note": "אין קואורדינטות קנוניות; המיפוי מבוסס על יישוב מתועד"
+  },
+  {
+    "id": 223,
+    "title": "מיקה",
+    "url": "https://gonorth.co.il/places/%d7%9e%d7%99%d7%a7%d7%94/",
+    "city": "אילון",
+    "latitude": "",
+    "longitude": "",
+    "region": "galil",
+    "categories": [
+      "agalot-kafe"
+    ],
+    "exception": null,
+    "location_note": "אין קואורדינטות קנוניות; המיפוי מבוסס על יישוב מתועד"
+  },
+  {
+    "id": 225,
+    "title": "עגלת קפה החלוצים",
+    "url": "https://gonorth.co.il/places/%d7%a2%d7%92%d7%9c%d7%aa-%d7%a7%d7%a4%d7%94-%d7%94%d7%97%d7%9c%d7%95%d7%a6%d7%99%d7%9d/",
+    "city": "ראש פינה",
+    "latitude": "32.9659",
+    "longitude": "35.54",
+    "region": "galil",
+    "categories": [
+      "agalot-kafe"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 228,
+    "title": "קופיש Coffish",
+    "url": "https://gonorth.co.il/places/%d7%a7%d7%95%d7%a4%d7%99%d7%a9-coffish/",
+    "city": "עין גב",
+    "latitude": "32.7833",
+    "longitude": "35.64",
+    "region": "golan",
+    "categories": [
+      "agalot-kafe"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 229,
+    "title": "שישו קפה",
+    "url": "https://gonorth.co.il/places/%d7%a9%d7%99%d7%a9%d7%95-%d7%a7%d7%a4%d7%94/",
+    "city": "הזורעים",
+    "latitude": "32.7003",
+    "longitude": "35.3717",
+    "region": "galil",
+    "categories": [
+      "agalot-kafe"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 231,
+    "title": "עספורה",
+    "url": "https://gonorth.co.il/places/%d7%a2%d7%a1%d7%a4%d7%95%d7%a8%d7%94/",
+    "city": "הרדוף",
+    "latitude": "32.762018",
+    "longitude": "35.176081",
+    "region": "carmel",
+    "categories": [
+      "agalot-kafe"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 233,
+    "title": "הקרון בכפר יהושוע",
+    "url": "https://gonorth.co.il/places/%d7%94%d7%a7%d7%a8%d7%95%d7%9f-%d7%91%d7%9b%d7%a4%d7%a8-%d7%99%d7%94%d7%95%d7%a9%d7%95%d7%a2/",
+    "city": "כפר יהושע",
+    "latitude": "32.7186",
+    "longitude": "35.1378",
+    "region": "carmel",
+    "categories": [
+      "agalot-kafe"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 235,
+    "title": "יקב תל שיפון",
+    "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%aa%d7%9c-%d7%a9%d7%99%d7%a4%d7%95%d7%9f/",
+    "city": "אורטל",
+    "latitude": "33.2507",
+    "longitude": "35.7764",
+    "region": "golan",
+    "categories": [
+      "yakavim",
+      "restaurants-sub"
+    ],
+    "exception": null,
+    "location_note": "קואורדינטות GeoDirectory מרוחקות כ-18 ק״מ מצבר אורטל; היישוב/האזור אומתו מול אתר היקב, נקודת GPS דורשת אימות נפרד"
+  },
+  {
+    "id": 237,
+    "title": "יקב שאטו גולן",
+    "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%a9%d7%90%d7%98%d7%95-%d7%92%d7%95%d7%9c%d7%9f/",
+    "city": "אליעד",
+    "latitude": "32.773",
+    "longitude": "35.73",
+    "region": "golan",
+    "categories": [
+      "yakavim"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 240,
+    "title": "יקב הרי גליל",
+    "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%94%d7%a8%d7%99-%d7%92%d7%9c%d7%99%d7%9c/",
+    "city": "יראון",
+    "latitude": "33.078434",
+    "longitude": "35.448469",
+    "region": "galil",
+    "categories": [
+      "yakavim"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 242,
+    "title": "יקב אדיר",
+    "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%90%d7%93%d7%99%d7%a8/",
+    "city": "דלתון",
+    "latitude": "32.9946",
+    "longitude": "35.4333",
+    "region": "galil",
+    "categories": [
+      "yakavim"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 244,
+    "title": "יקב בן זמרה",
+    "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%91%d7%9f-%d7%96%d7%9e%d7%a8%d7%94/",
+    "city": "כרם בן זמרה",
+    "latitude": "33.002",
+    "longitude": "35.25",
+    "region": "galil",
+    "categories": [
+      "yakavim"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 246,
+    "title": "אינדי פארק",
+    "url": "https://gonorth.co.il/places/%d7%90%d7%99%d7%a0%d7%93%d7%99-%d7%a4%d7%90%d7%a8%d7%a7/",
+    "city": "יסוד המעלה",
+    "latitude": "33.0718",
+    "longitude": "35.6206",
+    "region": "galil",
+    "categories": [
+      "atraktziot-main"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 248,
+    "title": "מטאור — תצפיות כוכבים",
+    "url": "https://gonorth.co.il/places/%d7%9e%d7%98%d7%90%d7%95%d7%a8-%d7%aa%d7%a6%d7%a4%d7%99%d7%95%d7%aa-%d7%9b%d7%95%d7%9b%d7%91%d7%99%d7%9d/",
+    "city": "שעל",
+    "latitude": "33.17",
+    "longitude": "35.76",
+    "region": "golan",
+    "categories": [
+      "atraktziot-main"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 323,
+    "title": "קייקי כפר בלום",
+    "url": "https://gonorth.co.il/places/%d7%a7%d7%99%d7%99%d7%a7%d7%99-%d7%9b%d7%a4%d7%a8-%d7%91%d7%9c%d7%95%d7%9d/",
+    "city": "כפר בלום",
+    "latitude": "33.176154",
+    "longitude": "35.614267",
+    "region": "galil",
+    "categories": [
+      "tours"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 325,
+    "title": "רפטינג נהר הירדן",
+    "url": "https://gonorth.co.il/places/%d7%a8%d7%a4%d7%98%d7%99%d7%a0%d7%92-%d7%a0%d7%94%d7%a8-%d7%94%d7%99%d7%a8%d7%93%d7%9f/",
+    "city": "גדות",
+    "latitude": "33.025279",
+    "longitude": "35.627449",
+    "region": "galil",
+    "categories": [
+      "tours"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 327,
+    "title": "חמי טבריה",
+    "url": "https://gonorth.co.il/places/%d7%97%d7%9e%d7%99-%d7%98%d7%91%d7%a8%d7%99%d7%94/",
+    "city": "טבריה",
+    "latitude": "32.767735",
+    "longitude": "35.550377",
+    "region": "galil",
+    "categories": [
+      "atraktziot-main"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 329,
+    "title": "חוות האושר — רכיבה על סוסים",
+    "url": "https://gonorth.co.il/places/%d7%97%d7%95%d7%95%d7%aa-%d7%94%d7%90%d7%95%d7%a9%d7%a8-%d7%a8%d7%9b%d7%99%d7%91%d7%94-%d7%a2%d7%9c-%d7%a1%d7%95%d7%a1%d7%99%d7%9d/",
+    "city": "קצרין",
+    "latitude": "32.988456",
+    "longitude": "35.690872",
+    "region": "golan",
+    "categories": [
+      "tours"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 331,
+    "title": "ורד הגליל",
+    "url": "https://gonorth.co.il/places/%d7%95%d7%a8%d7%93-%d7%94%d7%92%d7%9c%d7%99%d7%9c/",
+    "city": "כורזים",
+    "latitude": "32.90416",
+    "longitude": "35.550785",
+    "region": "galil",
+    "categories": [
+      "accommodation",
+      "tours"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 333,
+    "title": "חוות הבוקרים — מרום גולן",
+    "url": "https://gonorth.co.il/places/%d7%97%d7%95%d7%95%d7%aa-%d7%94%d7%91%d7%95%d7%a7%d7%a8%d7%99%d7%9d-%d7%9e%d7%a8%d7%95%d7%9d-%d7%92%d7%95%d7%9c%d7%9f/",
+    "city": "מרום גולן",
+    "latitude": "33.130282",
+    "longitude": "35.779734",
+    "region": "golan",
+    "categories": [
+      "tours"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 335,
+    "title": "גיל גולן — מרכז רכיבה",
+    "url": "https://gonorth.co.il/places/%d7%92%d7%99%d7%9c-%d7%92%d7%95%d7%9c%d7%9f-%d7%9e%d7%a8%d7%9b%d7%96-%d7%a8%d7%9b%d7%99%d7%91%d7%94/",
+    "city": "אלוני הבשן",
+    "latitude": "33.041329",
+    "longitude": "35.836342",
+    "region": "golan",
+    "categories": [
+      "tours"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 337,
+    "title": "חוות סוסים — קיבוץ אורטל",
+    "url": "https://gonorth.co.il/places/%d7%97%d7%95%d7%95%d7%aa-%d7%a1%d7%95%d7%a1%d7%99%d7%9d-%d7%a7%d7%99%d7%91%d7%95%d7%a5-%d7%90%d7%95%d7%a8%d7%98%d7%9c/",
+    "city": "אורטל",
+    "latitude": "33.089668",
+    "longitude": "35.762899",
+    "region": "golan",
+    "categories": [
+      "tours"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 339,
+    "title": "גלמפינג קיבוץ אורטל",
+    "url": "https://gonorth.co.il/places/%d7%92%d7%9c%d7%9e%d7%a4%d7%99%d7%a0%d7%92-%d7%a7%d7%99%d7%91%d7%95%d7%a5-%d7%90%d7%95%d7%a8%d7%98%d7%9c/",
+    "city": "אורטל",
+    "latitude": "33.086301",
+    "longitude": "35.758384",
+    "region": "golan",
+    "categories": [
+      "accommodation"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 341,
+    "title": "גלמפינג על הצוק — עין קיניא",
+    "url": "https://gonorth.co.il/places/%d7%92%d7%9c%d7%9e%d7%a4%d7%99%d7%a0%d7%92-%d7%a2%d7%9c-%d7%94%d7%a6%d7%95%d7%a7-%d7%a2%d7%99%d7%9f-%d7%a7%d7%99%d7%a0%d7%99%d7%90/",
+    "city": "עין קנייא",
+    "latitude": "33.236764",
+    "longitude": "35.731347",
+    "region": "golan",
+    "categories": [
+      "accommodation"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 343,
+    "title": "גלמפינג עין תאנה",
+    "url": "https://gonorth.co.il/places/%d7%92%d7%9c%d7%9e%d7%a4%d7%99%d7%a0%d7%92-%d7%a2%d7%99%d7%9f-%d7%aa%d7%90%d7%a0%d7%94/",
+    "city": "גבעת יואב",
+    "latitude": "32.810609",
+    "longitude": "35.679909",
+    "region": "golan",
+    "categories": [
+      "accommodation"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 345,
+    "title": "בלום וילג׳ — כפר בלום",
+    "url": "https://gonorth.co.il/places/%d7%91%d7%9c%d7%95%d7%9d-%d7%95%d7%99%d7%9c%d7%92%d7%b3-%d7%9b%d7%a4%d7%a8-%d7%91%d7%9c%d7%95%d7%9d/",
+    "city": "כפר בלום",
+    "latitude": "33.177315",
+    "longitude": "35.614566",
+    "region": "galil",
+    "categories": [
+      "accommodation"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 347,
+    "title": "קטיף עצמי אל-רום",
+    "url": "https://gonorth.co.il/places/%d7%a7%d7%98%d7%99%d7%a3-%d7%a2%d7%a6%d7%9e%d7%99-%d7%90%d7%9c-%d7%a8%d7%95%d7%9d/",
+    "city": "אל-רום",
+    "latitude": "33.173565",
+    "longitude": "35.804159",
+    "region": "golan",
+    "categories": [
+      "atraktziot-main"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 349,
+    "title": "מרכז מורשת שמן הזית — משק טוייסטר",
+    "url": "https://gonorth.co.il/places/%d7%9e%d7%a8%d7%9b%d7%96-%d7%9e%d7%95%d7%a8%d7%a9%d7%aa-%d7%a9%d7%9e%d7%9f-%d7%94%d7%96%d7%99%d7%aa-%d7%9e%d7%a9%d7%a7-%d7%98%d7%95%d7%99%d7%99%d7%a1%d7%98%d7%a8/",
+    "city": "גבעת יואב",
+    "latitude": "32.801217",
+    "longitude": "35.680911",
+    "region": "golan",
+    "categories": [
+      "atraktziot-main"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 351,
+    "title": "ג׳ימי ג׳יפ — טיולי ג׳יפים",
+    "url": "https://gonorth.co.il/places/%d7%92%d7%b3%d7%99%d7%9e%d7%99-%d7%92%d7%b3%d7%99%d7%a4-%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%92%d7%b3%d7%99%d7%a4%d7%99%d7%9d/",
+    "city": "גבעת יואב",
+    "latitude": "32.801127",
+    "longitude": "35.68444",
+    "region": "golan",
+    "categories": [
+      "tours"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 353,
+    "title": "סאונדטראק — טיולי אוזניות בטבע",
+    "url": "https://gonorth.co.il/places/%d7%a1%d7%90%d7%95%d7%a0%d7%93%d7%98%d7%a8%d7%90%d7%a7-%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%90%d7%95%d7%96%d7%a0%d7%99%d7%95%d7%aa-%d7%91%d7%98%d7%91%d7%a2/",
+    "city": "מיצר",
+    "latitude": "32.76976",
+    "longitude": "35.736485",
+    "region": "golan",
+    "categories": [
+      "tours"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 355,
+    "title": "קול שופר — מרכז מבקרים",
+    "url": "https://gonorth.co.il/places/%d7%a7%d7%95%d7%9c-%d7%a9%d7%95%d7%a4%d7%a8-%d7%9e%d7%a8%d7%9b%d7%96-%d7%9e%d7%91%d7%a7%d7%a8%d7%99%d7%9d/",
+    "city": "גבעת יואב",
+    "latitude": "32.800199",
+    "longitude": "35.684042",
+    "region": "golan",
+    "categories": [
+      "atraktziot-main"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 357,
+    "title": "F Ranch",
+    "url": "https://gonorth.co.il/places/f-ranch/",
+    "city": "נטור",
+    "latitude": "32.854068",
+    "longitude": "35.752574",
+    "region": "golan",
+    "categories": [
+      "tours"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 359,
+    "title": "מחלבת נטור — אוכל גבינות וחוויה כפרית בגולן",
+    "url": "https://gonorth.co.il/places/%d7%9e%d7%97%d7%9c%d7%91%d7%aa-%d7%a0%d7%98%d7%95%d7%a8-%d7%90%d7%95%d7%9b%d7%9c-%d7%92%d7%91%d7%99%d7%a0%d7%95%d7%aa-%d7%95%d7%97%d7%95%d7%95%d7%99%d7%94-%d7%9b%d7%a4%d7%a8%d7%99%d7%aa/",
+    "city": "נטור",
+    "latitude": "32.849141",
+    "longitude": "35.757777",
+    "region": "golan",
+    "categories": [
+      "atraktziot-main",
+      "restaurants-sub"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 361,
+    "title": "העדי שבמטבח — סדנאות שוקולד",
+    "url": "https://gonorth.co.il/places/%d7%94%d7%a2%d7%93%d7%99-%d7%a9%d7%91%d7%9e%d7%98%d7%91%d7%97-%d7%a1%d7%93%d7%a0%d7%90%d7%95%d7%aa-%d7%a9%d7%95%d7%a7%d7%95%d7%9c%d7%93/",
+    "city": "חיספין",
+    "latitude": "32.848356",
+    "longitude": "35.795228",
+    "region": "golan",
+    "categories": [
+      "restaurants-sub",
+      "tours"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 363,
+    "title": "יקב פלטר",
+    "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%a4%d7%9c%d7%98%d7%a8/",
+    "city": "עין זיוון",
+    "latitude": "33.097034",
+    "longitude": "35.799596",
+    "region": "golan",
+    "categories": [
+      "yakavim"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 365,
+    "title": "ג׳י.פי.אס טיולי ג׳יפים",
+    "url": "https://gonorth.co.il/places/%d7%92%d7%b3%d7%99-%d7%a4%d7%99-%d7%90%d7%a1-%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%92%d7%b3%d7%99%d7%a4%d7%99%d7%9d/",
+    "city": "עין זיוון",
+    "latitude": "33.096656",
+    "longitude": "35.798246",
+    "region": "golan",
+    "categories": [
+      "tours"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 367,
+    "title": "מזקקת גולני",
+    "url": "https://gonorth.co.il/places/%d7%9e%d7%96%d7%a7%d7%a7%d7%aa-%d7%92%d7%95%d7%9c%d7%a0%d7%99/",
+    "city": "קצרין",
+    "latitude": "32.993674",
+    "longitude": "35.71102",
+    "region": "golan",
+    "categories": [
+      "atraktziot-main",
+      "restaurants-sub"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 369,
+    "title": "רייזר סטאר חד-נס",
+    "url": "https://gonorth.co.il/places/%d7%a8%d7%99%d7%99%d7%96%d7%a8-%d7%a1%d7%98%d7%90%d7%a8-%d7%97%d7%93-%d7%a0%d7%a1/",
+    "city": "חד נס",
+    "latitude": "32.926106",
+    "longitude": "35.642177",
+    "region": "golan",
+    "categories": [
+      "tours"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 371,
+    "title": "החווה התיירותית — בל עפרי",
+    "url": "https://gonorth.co.il/places/%d7%94%d7%97%d7%95%d7%95%d7%94-%d7%94%d7%aa%d7%99%d7%99%d7%a8%d7%95%d7%aa%d7%99%d7%aa-%d7%91%d7%9c-%d7%a2%d7%a4%d7%a8%d7%99/",
+    "city": "קדמת צבי",
+    "latitude": "33.030466",
+    "longitude": "35.699016",
+    "region": "golan",
+    "categories": [
+      "atraktziot-main",
+      "restaurants-sub"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 373,
+    "title": "טיולי עששיות בפארק הירדן",
+    "url": "https://gonorth.co.il/places/%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%a2%d7%a9%d7%a9%d7%99%d7%95%d7%aa-%d7%91%d7%a4%d7%90%d7%a8%d7%a7-%d7%94%d7%99%d7%a8%d7%93%d7%9f/",
+    "city": "חד נס",
+    "latitude": "32.915945",
+    "longitude": "35.630958",
+    "region": "golan",
+    "categories": [
+      "tours"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 375,
+    "title": "הרפת הרובוטית",
+    "url": "https://gonorth.co.il/places/%d7%94%d7%a8%d7%a4%d7%aa-%d7%94%d7%a8%d7%95%d7%91%d7%95%d7%98%d7%99%d7%aa/",
+    "city": "אבני איתן",
+    "latitude": "32.823149",
+    "longitude": "35.764073",
+    "region": "golan",
+    "categories": [
+      "atraktziot-main"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 377,
+    "title": "בירה בזלת — מבשלת הגולן",
+    "url": "https://gonorth.co.il/places/%d7%91%d7%99%d7%a8%d7%94-%d7%91%d7%96%d7%9c%d7%aa-%d7%9e%d7%91%d7%a9%d7%9c%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f/",
+    "city": "קצרין",
+    "latitude": "32.987058",
+    "longitude": "35.707579",
+    "region": "golan",
+    "categories": [
+      "atraktziot-main",
+      "restaurants-sub"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 379,
+    "title": "לימונטו — מרכז מבקרים",
+    "url": "https://gonorth.co.il/places/%d7%9c%d7%99%d7%9e%d7%95%d7%a0%d7%98%d7%95-%d7%9e%d7%a8%d7%9b%d7%96-%d7%9e%d7%91%d7%a7%d7%a8%d7%99%d7%9d/",
+    "city": "גבעת יואב",
+    "latitude": "32.796832",
+    "longitude": "35.685411",
+    "region": "golan",
+    "categories": [
+      "atraktziot-main",
+      "restaurants-sub"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 381,
+    "title": "חוויית ג׳יפים ורייזרים בגולן",
+    "url": "https://gonorth.co.il/places/%d7%97%d7%95%d7%95%d7%99%d7%99%d7%aa-%d7%92%d7%b3%d7%99%d7%a4%d7%99%d7%9d-%d7%95%d7%a8%d7%99%d7%99%d7%96%d7%a8%d7%99%d7%9d-%d7%91%d7%92%d7%95%d7%9c%d7%9f/",
+    "city": "חד נס",
+    "latitude": "32.935269",
+    "longitude": "35.636017",
+    "region": "golan",
+    "categories": [
+      "tours"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 383,
+    "title": "סנאבל — המרכז התיירותי הדרוזי",
+    "url": "https://gonorth.co.il/places/%d7%a1%d7%a0%d7%90%d7%91%d7%9c-%d7%94%d7%9e%d7%a8%d7%9b%d7%96-%d7%94%d7%aa%d7%99%d7%99%d7%a8%d7%95%d7%aa%d7%99-%d7%94%d7%93%d7%a8%d7%95%d7%96%d7%99/",
+    "city": "עין קנייא",
+    "latitude": "33.239984",
+    "longitude": "35.731978",
+    "region": "golan",
+    "categories": [
+      "restaurants-sub",
+      "tours"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 385,
+    "title": "טיולי אתגר — Wild Adventures",
+    "url": "https://gonorth.co.il/places/%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%90%d7%aa%d7%92%d7%a8-wild-adventures/",
+    "city": "בית אורן",
+    "latitude": "32.727648",
+    "longitude": "35.015139",
+    "region": "carmel",
+    "categories": [
+      "tours"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 387,
+    "title": "קטיף עצמי רוני",
+    "url": "https://gonorth.co.il/places/%d7%a7%d7%98%d7%99%d7%a3-%d7%a2%d7%a6%d7%9e%d7%99-%d7%a8%d7%95%d7%a0%d7%99/",
+    "city": "בוקעאתא",
+    "latitude": "33.197303",
+    "longitude": "35.773971",
+    "region": "golan",
+    "categories": [
+      "atraktziot-main"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 389,
+    "title": "חוות שביט — כנף",
+    "url": "https://gonorth.co.il/places/%d7%97%d7%95%d7%95%d7%aa-%d7%a9%d7%91%d7%99%d7%98-%d7%9b%d7%a0%d7%a3/",
+    "city": "כנף",
+    "latitude": "32.870279",
+    "longitude": "35.706865",
+    "region": "golan",
+    "categories": [
+      "tours"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 391,
+    "title": "War Zone Paintball",
+    "url": "https://gonorth.co.il/places/war-zone-paintball/",
+    "city": "עין קנייא",
+    "latitude": "33.238892",
+    "longitude": "35.724096",
+    "region": "golan",
+    "categories": [
+      "tours"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 393,
+    "title": "קטיף עצמי נווה אטיב",
+    "url": "https://gonorth.co.il/places/%d7%a7%d7%98%d7%99%d7%a3-%d7%a2%d7%a6%d7%9e%d7%99-%d7%a0%d7%95%d7%95%d7%94-%d7%90%d7%98%d7%99%d7%91/",
+    "city": "נווה אטי\"ב",
+    "latitude": "33.26582",
+    "longitude": "35.745051",
+    "region": "golan",
+    "categories": [
+      "atraktziot-main"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 395,
+    "title": "דיר עזיז — טבע עיזים גבינות",
+    "url": "https://gonorth.co.il/places/%d7%93%d7%99%d7%a8-%d7%a2%d7%96%d7%99%d7%96-%d7%98%d7%91%d7%a2-%d7%a2%d7%99%d7%96%d7%99%d7%9d-%d7%92%d7%91%d7%99%d7%a0%d7%95%d7%aa/",
+    "city": "כנף",
+    "latitude": "32.871532",
+    "longitude": "35.697041",
+    "region": "golan",
+    "categories": [
+      "atraktziot-main",
+      "restaurants-sub"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 397,
+    "title": "אתגר הבונקר",
+    "url": "https://gonorth.co.il/places/%d7%90%d7%aa%d7%92%d7%a8-%d7%94%d7%91%d7%95%d7%a0%d7%a7%d7%a8/",
+    "city": "",
+    "latitude": "32.865863",
+    "longitude": "35.829789",
+    "region": "golan",
+    "categories": [
+      "tours"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 399,
+    "title": "דה קרינה — שוקולד בוטיק",
+    "url": "https://gonorth.co.il/places/%d7%93%d7%94-%d7%a7%d7%a8%d7%99%d7%a0%d7%94-%d7%a9%d7%95%d7%a7%d7%95%d7%9c%d7%93-%d7%91%d7%95%d7%98%d7%99%d7%a7/",
+    "city": "עין זיוון",
+    "latitude": "33.096705",
+    "longitude": "35.798676",
+    "region": "golan",
+    "categories": [
+      "atraktziot-main",
+      "restaurants-sub"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 401,
+    "title": "Go Golan — טיולי ריינג׳רים",
+    "url": "https://gonorth.co.il/places/go-golan-%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%a8%d7%99%d7%99%d7%a0%d7%92%d7%b3%d7%a8%d7%99%d7%9d/",
+    "city": "גבעת יואב",
+    "latitude": "32.797159",
+    "longitude": "35.685204",
+    "region": "golan",
+    "categories": [
+      "tours"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 403,
+    "title": "קטיף עצמי הדובדבן שבגולן",
+    "url": "https://gonorth.co.il/places/%d7%a7%d7%98%d7%99%d7%a3-%d7%a2%d7%a6%d7%9e%d7%99-%d7%94%d7%93%d7%95%d7%91%d7%93%d7%91%d7%9f-%d7%a9%d7%91%d7%92%d7%95%d7%9c%d7%9f/",
+    "city": "שעל",
+    "latitude": "33.163946",
+    "longitude": "35.718634",
+    "region": "golan",
+    "categories": [
+      "atraktziot-main"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 405,
+    "title": "חמת גדר",
+    "url": "https://gonorth.co.il/places/%d7%97%d7%9e%d7%aa-%d7%92%d7%93%d7%a8/",
+    "city": "חמת גדר",
+    "latitude": "32.683056",
+    "longitude": "35.663056",
+    "region": "golan",
+    "categories": [
+      "atraktziot-main"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 407,
+    "title": "אתר החרמון",
+    "url": "https://gonorth.co.il/places/%d7%90%d7%aa%d7%a8-%d7%94%d7%97%d7%a8%d7%9e%d7%95%d7%9f/",
+    "city": "נווה אטי\"ב",
+    "latitude": "33.30799",
+    "longitude": "35.772672",
+    "region": "golan",
+    "categories": [
+      "atraktziot-main"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 409,
+    "title": "מורשת גוש קטיף בגולן",
+    "url": "https://gonorth.co.il/places/%d7%9e%d7%95%d7%a8%d7%a9%d7%aa-%d7%92%d7%95%d7%a9-%d7%a7%d7%98%d7%99%d7%a3-%d7%91%d7%92%d7%95%d7%9c%d7%9f/",
+    "city": "אבני איתן",
+    "latitude": "32.824808",
+    "longitude": "35.765777",
+    "region": "golan",
+    "categories": [
+      "atraktziot-main"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 411,
+    "title": "מרכבות הבשן",
+    "url": "https://gonorth.co.il/places/%d7%9e%d7%a8%d7%9b%d7%91%d7%95%d7%aa-%d7%94%d7%91%d7%a9%d7%9f/",
+    "city": "אבני איתן",
+    "latitude": "32.820853",
+    "longitude": "35.771014",
+    "region": "golan",
+    "categories": [
+      "atraktziot-main",
+      "tours"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 413,
+    "title": "בית הבד של הגולן — Olea Essence",
+    "url": "https://gonorth.co.il/places/%d7%91%d7%99%d7%aa-%d7%94%d7%91%d7%93-%d7%a9%d7%9c-%d7%94%d7%92%d7%95%d7%9c%d7%9f-olea-essence/",
+    "city": "קצרין",
+    "latitude": "32.986548",
+    "longitude": "35.708759",
+    "region": "golan",
+    "categories": [
+      "atraktziot-main",
+      "restaurants-sub"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 415,
+    "title": "אבו קיאק",
+    "url": "https://gonorth.co.il/places/%d7%90%d7%91%d7%95-%d7%a7%d7%99%d7%90%d7%a7/",
+    "city": "חד נס",
+    "latitude": "32.907982",
+    "longitude": "35.623964",
+    "region": "golan",
+    "categories": [
+      "tours"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 417,
+    "title": "יקב בזלת הגולן",
+    "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%91%d7%96%d7%9c%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f/",
+    "city": "קדמת צבי",
+    "latitude": "33.026335",
+    "longitude": "35.69845",
+    "region": "golan",
+    "categories": [
+      "yakavim"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 419,
+    "title": "טריפונל באולינג",
+    "url": "https://gonorth.co.il/places/%d7%98%d7%a8%d7%99%d7%a4%d7%95%d7%a0%d7%9c-%d7%91%d7%90%d7%95%d7%9c%d7%99%d7%a0%d7%92/",
+    "city": "מג'דל שמס",
+    "latitude": "33.259872",
+    "longitude": "35.769863",
+    "region": "golan",
+    "categories": [
+      "atraktziot-main"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 421,
+    "title": "הבוסתן של מוטי",
+    "url": "https://gonorth.co.il/places/%d7%94%d7%91%d7%95%d7%a1%d7%aa%d7%9f-%d7%a9%d7%9c-%d7%9e%d7%95%d7%98%d7%99/",
+    "city": "אל-רום",
+    "latitude": "33.171452",
+    "longitude": "35.782969",
+    "region": "golan",
+    "categories": [
+      "atraktziot-main"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 423,
+    "title": "קיאק-כנרת",
+    "url": "https://gonorth.co.il/places/%d7%a7%d7%99%d7%90%d7%a7-%d7%9b%d7%a0%d7%a8%d7%aa/",
+    "city": "דגניה א׳",
+    "latitude": "32.711232",
+    "longitude": "35.576669",
+    "region": "galil",
+    "categories": [
+      "tours"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 425,
+    "title": "הכפר האינדיאני — גלמפינג ברמת הגולן",
+    "url": "https://gonorth.co.il/places/%d7%94%d7%9b%d7%a4%d7%a8-%d7%94%d7%90%d7%99%d7%a0%d7%93%d7%99%d7%90%d7%a0%d7%99-%d7%92%d7%9c%d7%9e%d7%a4%d7%99%d7%a0%d7%92-%d7%91%d7%a8%d7%9e%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f/",
+    "city": "אבני איתן",
+    "latitude": "32.828811",
+    "longitude": "35.763073",
+    "region": "golan",
+    "categories": [
+      "accommodation"
+    ],
+    "exception": null,
+    "location_note": null
+  },
+  {
+    "id": 470,
+    "title": "המקום של ארנון",
+    "url": "https://gonorth.co.il/places/%d7%94%d7%9e%d7%a7%d7%95%d7%9d-%d7%a9%d7%9c-%d7%90%d7%a8%d7%a0%d7%95%d7%9f/",
+    "city": "יסוד המעלה",
+    "latitude": null,
+    "longitude": null,
+    "region": "galil",
+    "categories": [
+      "batei-kafe"
+    ],
+    "exception": null,
+    "location_note": "אין קואורדינטות קנוניות; המיפוי מבוסס על יישוב מתועד"
+  },
+  {
+    "id": 471,
+    "title": "רנטו בר יין ומעדנייה",
+    "url": "https://gonorth.co.il/places/%d7%a8%d7%a0%d7%98%d7%95-%d7%91%d7%a8-%d7%99%d7%99%d7%9f-%d7%95%d7%9e%d7%a2%d7%93%d7%a0%d7%99%d7%99%d7%94/",
+    "city": "יסוד המעלה",
+    "latitude": null,
+    "longitude": null,
+    "region": "galil",
+    "categories": [
+      "restaurants-sub"
+    ],
+    "exception": null,
+    "location_note": "אין קואורדינטות קנוניות; המיפוי מבוסס על יישוב מתועד"
+  },
+  {
+    "id": 476,
+    "title": "פאן ריידר בצפון",
+    "url": "https://gonorth.co.il/places/%d7%a4%d7%90%d7%9f-%d7%a8%d7%99%d7%99%d7%93%d7%a8-%d7%91%d7%a6%d7%a4%d7%95%d7%9f/",
+    "city": "חולתה",
+    "latitude": null,
+    "longitude": null,
+    "region": "galil",
+    "categories": [
+      "tours"
+    ],
+    "exception": null,
+    "location_note": "אין קואורדינטות קנוניות; המיפוי מבוסס על יישוב מתועד"
+  },
+  {
+    "id": 477,
+    "title": "Nice to Meat",
+    "url": "https://gonorth.co.il/places/nice-to-meat/",
+    "city": "יסוד המעלה",
+    "latitude": null,
+    "longitude": null,
+    "region": "galil",
+    "categories": [
+      "restaurants-sub"
+    ],
+    "exception": null,
+    "location_note": "אין קואורדינטות קנוניות; המיפוי מבוסס על יישוב מתועד"
+  },
+  {
+    "id": 480,
+    "title": "שוורצע (משק שוורץ)",
+    "url": "https://gonorth.co.il/places/%d7%a9%d7%95%d7%95%d7%a8%d7%a6%d7%a2-%d7%9e%d7%a9%d7%a7-%d7%a9%d7%95%d7%95%d7%a8%d7%a5/",
+    "city": "שדה אליעזר",
+    "latitude": null,
+    "longitude": null,
+    "region": "galil",
+    "categories": [
+      "ochel"
+    ],
+    "exception": null,
+    "location_note": "אין קואורדינטות קנוניות; המיפוי מבוסס על יישוב מתועד"
+  },
+  {
+    "id": 481,
+    "title": "Peti Peti — פטי פטי",
+    "url": "https://gonorth.co.il/places/peti-peti-%d7%a4%d7%98%d7%99-%d7%a4%d7%98%d7%99/",
+    "city": "שדה אליעזר",
+    "latitude": null,
+    "longitude": null,
+    "region": "galil",
+    "categories": [
+      "restaurants-sub"
+    ],
+    "exception": null,
+    "location_note": "אין קואורדינטות קנוניות; המיפוי מבוסס על יישוב מתועד"
+  },
+  {
+    "id": 484,
+    "title": "מלון אחוזת הירדן — לשעבר סביוני הגליל",
+    "url": "https://gonorth.co.il/places/%d7%9e%d7%9c%d7%95%d7%9f-%d7%90%d7%97%d7%95%d7%96%d7%aa-%d7%94%d7%99%d7%a8%d7%93%d7%9f-%d7%9c%d7%a9%d7%a2%d7%91%d7%a8-%d7%a1%d7%91%d7%99%d7%95%d7%a0%d7%99-%d7%94%d7%92%d7%9c%d7%99%d7%9c/",
+    "city": "יסוד המעלה",
+    "latitude": null,
+    "longitude": null,
+    "region": "galil",
+    "categories": [
+      "accommodation"
+    ],
+    "exception": null,
+    "location_note": "אין קואורדינטות קנוניות; המיפוי מבוסס על יישוב מתועד"
+  },
+  {
+    "id": 485,
+    "title": "Norah Café — קפה נורה",
+    "url": "https://gonorth.co.il/places/norah-cafe-%d7%a7%d7%a4%d7%94-%d7%a0%d7%95%d7%a8%d7%94/",
+    "city": "יסוד המעלה",
+    "latitude": null,
+    "longitude": null,
+    "region": "galil",
+    "categories": [
+      "batei-kafe"
+    ],
+    "exception": null,
+    "location_note": "אין קואורדינטות קנוניות; המיפוי מבוסס על יישוב מתועד"
+  },
+  {
+    "id": 488,
+    "title": "עין עלומים — עין הדייג",
+    "url": "https://gonorth.co.il/places/%d7%a2%d7%99%d7%9f-%d7%a2%d7%9c%d7%95%d7%9e%d7%99%d7%9d-%d7%a2%d7%99%d7%9f-%d7%94%d7%93%d7%99%d7%99%d7%92/",
+    "city": "יסוד המעלה",
+    "latitude": null,
+    "longitude": null,
+    "region": "galil",
+    "categories": [
+      "teva"
+    ],
+    "exception": null,
+    "location_note": "אין קואורדינטות קנוניות; המיפוי מבוסס על יישוב מתועד"
+  },
+  {
+    "id": 490,
+    "title": "מלון גליליון",
+    "url": "https://gonorth.co.il/places/%d7%9e%d7%9c%d7%95%d7%9f-%d7%92%d7%9c%d7%99%d7%9c%d7%99%d7%95%d7%9f/",
+    "city": "עמק החולה",
+    "latitude": null,
+    "longitude": null,
+    "region": "galil",
+    "categories": [
+      "accommodation"
+    ],
+    "exception": null,
+    "location_note": "אין קואורדינטות קנוניות; המיפוי מבוסס על יישוב מתועד"
+  },
+  {
+    "id": 491,
+    "title": "שמורת עין תאו",
+    "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%a2%d7%99%d7%9f-%d7%aa%d7%90%d7%95/",
+    "city": "עמק החולה",
+    "latitude": null,
+    "longitude": null,
+    "region": "galil",
+    "categories": [
+      "teva"
+    ],
+    "exception": null,
+    "location_note": "אין קואורדינטות קנוניות; המיפוי מבוסס על יישוב מתועד"
+  },
+  {
+    "id": 494,
+    "title": "מוזיאון האדם הקדמון",
+    "url": "https://gonorth.co.il/places/%d7%9e%d7%95%d7%96%d7%99%d7%90%d7%95%d7%9f-%d7%94%d7%90%d7%93%d7%9d-%d7%94%d7%a7%d7%93%d7%9e%d7%95%d7%9f/",
+    "city": "מעיין ברוך",
+    "latitude": null,
+    "longitude": null,
+    "region": "galil",
+    "categories": [
+      "atraktziot-main"
+    ],
+    "exception": null,
+    "location_note": "אין קואורדינטות קנוניות; המיפוי מבוסס על יישוב מתועד"
+  },
+  {
+    "id": 495,
+    "title": "פארק דפנה",
+    "url": "https://gonorth.co.il/places/%d7%a4%d7%90%d7%a8%d7%a7-%d7%93%d7%a4%d7%a0%d7%94/",
+    "city": "דפנה",
+    "latitude": null,
+    "longitude": null,
+    "region": "galil",
+    "categories": [
+      "atraktziot-main",
+      "teva"
+    ],
+    "exception": null,
+    "location_note": "אין קואורדינטות קנוניות; המיפוי מבוסס על יישוב מתועד"
+  },
+  {
+    "id": 498,
+    "title": "TRIO — טריו קפה",
+    "url": "https://gonorth.co.il/places/trio-%d7%98%d7%a8%d7%99%d7%95-%d7%a7%d7%a4%d7%94/",
+    "city": "שאר ישוב",
+    "latitude": null,
+    "longitude": null,
+    "region": "galil",
+    "categories": [
+      "batei-kafe"
+    ],
+    "exception": null,
+    "location_note": "אין קואורדינטות קנוניות; המיפוי מבוסס על יישוב מתועד"
+  },
+  {
+    "id": 499,
+    "title": "שירי פסטה",
+    "url": "https://gonorth.co.il/places/%d7%a9%d7%99%d7%a8%d7%99-%d7%a4%d7%a1%d7%98%d7%94/",
+    "city": "דפנה",
+    "latitude": null,
+    "longitude": null,
+    "region": "galil",
+    "categories": [
+      "restaurants-sub"
+    ],
+    "exception": null,
+    "location_note": "אין קואורדינטות קנוניות; המיפוי מבוסס על יישוב מתועד"
+  },
+  {
+    "id": 500,
+    "title": "קמפינג מטיילים דפנה",
+    "url": "https://gonorth.co.il/places/%d7%a7%d7%9e%d7%a4%d7%99%d7%a0%d7%92-%d7%9e%d7%98%d7%99%d7%99%d7%9c%d7%99%d7%9d-%d7%93%d7%a4%d7%a0%d7%94/",
+    "city": "דפנה",
+    "latitude": null,
+    "longitude": null,
+    "region": "galil",
+    "categories": [
+      "accommodation"
+    ],
+    "exception": null,
+    "location_note": "אין קואורדינטות קנוניות; המיפוי מבוסס על יישוב מתועד"
+  },
+  {
+    "id": 501,
+    "title": "מלון מטיילים ארץ דפנה",
+    "url": "https://gonorth.co.il/places/%d7%9e%d7%9c%d7%95%d7%9f-%d7%9e%d7%98%d7%99%d7%99%d7%9c%d7%99%d7%9d-%d7%90%d7%a8%d7%a5-%d7%93%d7%a4%d7%a0%d7%94/",
+    "city": "דפנה",
+    "latitude": null,
+    "longitude": null,
+    "region": "galil",
+    "categories": [
+      "accommodation"
+    ],
+    "exception": null,
+    "location_note": "אין קואורדינטות קנוניות; המיפוי מבוסס על יישוב מתועד"
+  },
+  {
+    "id": 502,
+    "title": "קלומפוס",
+    "url": "https://gonorth.co.il/places/%d7%a7%d7%9c%d7%95%d7%9e%d7%a4%d7%95%d7%a1/",
+    "city": "דפנה",
+    "latitude": null,
+    "longitude": null,
+    "region": "galil",
+    "categories": [
+      "restaurants-sub"
+    ],
+    "exception": null,
+    "location_note": "אין קואורדינטות קנוניות; המיפוי מבוסס על יישוב מתועד"
+  },
+  {
+    "id": 503,
+    "title": "הטנק הסורי ההפוך",
+    "url": "https://gonorth.co.il/places/%d7%94%d7%98%d7%a0%d7%a7-%d7%94%d7%a1%d7%95%d7%a8%d7%99-%d7%94%d7%94%d7%a4%d7%95%d7%9a/",
+    "city": "שאר ישוב",
+    "latitude": null,
+    "longitude": null,
+    "region": "galil",
+    "categories": [
+      "atraktziot-main",
+      "teva"
+    ],
+    "exception": null,
+    "location_note": "אין קואורדינטות קנוניות; המיפוי מבוסס על יישוב מתועד"
+  }
+]

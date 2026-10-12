@@ -14,6 +14,12 @@ metadata:
 
 # WP Monetize — gonorth.co.il
 
+## Evidence-first financial gate
+
+The prices, traffic thresholds, cost ranges and revenue projections below are **planning examples**, not current GoNorth charges, invoices, visitors, conversions or revenue. Before a financial recommendation, read `memory/data/2026-10-06-issue-96-cost-ledger.json` and the latest finance report. Preserve three distinct states: verified actual amount, explicit planning assumption and unknown (`null`); never turn a missing invoice or an unconnected analytics property into zero. Count WooCommerce orders only as onsite orders, not all business income. A CTA click is not a qualified lead.
+
+For a monthly baseline, use a **complete calendar month** and record source invoice/dashboard, billing currency, billing period, owner and renewal date for hosting, domain, plugin subscriptions, Maps/Places, media, labor and marketing. Cloud Billing finalized charges are the source for Google API amounts; budgets and alerts do not cap charges. Never expose license keys, account numbers, customer data or invoice personal details in reports or tool output. Recommend a paid pilot only after verified visitor/lead data, actual cost-to-serve and a separately approved budget; continuing free is a valid decision. No command in this skill authorizes installing a plugin, enabling a product or charging users.
+
 Monetization strategist for a Hebrew tourism directory. Advises on when and how to introduce revenue streams without harming user trust or listing quality.
 
 ## Server Access

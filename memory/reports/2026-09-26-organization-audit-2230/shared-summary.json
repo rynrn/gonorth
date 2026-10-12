@@ -1,0 +1,106 @@
+{
+  "collected_at": "2026-09-26T19:33:06.0802375Z",
+  "places": 109,
+  "posts": 21,
+  "place_featured_media": 109,
+  "place_images": 73,
+  "post_featured_media": 19,
+  "categories": [
+    {
+      "id": 32,
+      "name": "ochel",
+      "slug": "ochel",
+      "count": 0,
+      "link": "https://gonorth.co.il/places/category/ochel/"
+    },
+    {
+      "id": 16,
+      "name": "Uncategorized",
+      "slug": "uncategorized",
+      "count": 0,
+      "link": "https://gonorth.co.il/places/category/uncategorized/"
+    },
+    {
+      "id": 17,
+      "name": "אטרקציות",
+      "slug": "atraktziot-main",
+      "count": 32,
+      "link": "https://gonorth.co.il/places/category/atraktziot-main/"
+    },
+    {
+      "id": 37,
+      "name": "בתי קפה",
+      "slug": "batei-kafe",
+      "count": 0,
+      "link": "https://gonorth.co.il/places/category/batei-kafe/"
+    },
+    {
+      "id": 35,
+      "name": "טבע ומסלולים",
+      "slug": "teva",
+      "count": 14,
+      "link": "https://gonorth.co.il/places/category/teva/"
+    },
+    {
+      "id": 36,
+      "name": "יקבים",
+      "slug": "yakavim",
+      "count": 12,
+      "link": "https://gonorth.co.il/places/category/yakavim/"
+    },
+    {
+      "id": 18,
+      "name": "לינה",
+      "slug": "accommodation",
+      "count": 9,
+      "link": "https://gonorth.co.il/places/category/accommodation/"
+    },
+    {
+      "id": 33,
+      "name": "מסעדות",
+      "slug": "restaurants-sub",
+      "count": 13,
+      "link": "https://gonorth.co.il/places/category/restaurants-sub/"
+    },
+    {
+      "id": 20,
+      "name": "סיורים ופעילויות",
+      "slug": "tours",
+      "count": 27,
+      "link": "https://gonorth.co.il/places/category/tours/"
+    },
+    {
+      "id": 38,
+      "name": "עגלות קפה",
+      "slug": "agalot-kafe",
+      "count": 16,
+      "link": "https://gonorth.co.il/places/category/agalot-kafe/"
+    }
+  ],
+  "regions": [
+    {
+      "Name": "Pennsylvania",
+      "Count": 8
+    },
+    {
+      "Name": "צפון",
+      "Count": 101
+    }
+  ],
+  "missing_post_images": [
+    {
+      "id": 432,
+      "link": "https://gonorth.co.il/agamon-hahula-guide/",
+      "title": {
+        "rendered": "אגמון החולה — מדריך לביקור: מסלולים, עגלות ותצפיות על הציפורים"
+      }
+    },
+    {
+      "id": 431,
+      "link": "https://gonorth.co.il/villas-israel-north-guide/",
+      "title": {
+        "rendered": "וילות להשכרה בצפון ישראל: המדריך לחופשה בבית פרטי"
+      }
+    }
+  ]
+}

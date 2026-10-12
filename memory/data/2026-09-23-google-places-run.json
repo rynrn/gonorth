@@ -1,0 +1,572 @@
+{
+  "run_at": "2026-09-23T16:15:41+00:00",
+  "request_cap": 164,
+  "requests": {
+    "search": 109,
+    "details": 0,
+    "total": 109
+  },
+  "mapping": {
+    "mapped": 0,
+    "ambiguous": 0,
+    "errors": 109
+  },
+  "verification": {
+    "successful": 0,
+    "errors": 0,
+    "submit": {}
+  },
+  "pending_changes": 0,
+  "database_integrity": "ok",
+  "mapped_places": [],
+  "ambiguous_places": [],
+  "search_errors": [
+    {
+      "id": 48,
+      "name": "יקב הר אודם",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 50,
+      "name": "כפר נופש – יער אודם",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 52,
+      "name": "החווה ביער אודם",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"consumer\": \"projects/678403840703\",\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 54,
+      "name": "שמורת טבע החולה",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\",\n          \"service\": \"places.googleapis.com\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 56,
+      "name": "נחל השופט",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 58,
+      "name": "שמורת טבע נחל עמוד",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 61,
+      "name": "מלון פרא — Pereh Hotel",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 63,
+      "name": "כנען וילאג׳ – מלון בוטיק וספא בצפון",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 86,
+      "name": "פארק המעיינות",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"consumer\": \"projects/678403840703\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 87,
+      "name": "גן גורו — הפארק האוסטרלי",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\",\n          \"service\": \"places.googleapis.com\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 88,
+      "name": "שמורת נחל הקיבוצים",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"consumer\": \"projects/678403840703\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"service\": \"places.googleapis.com\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 89,
+      "name": "שמורת טבע נחל שניר (חצבאני)",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 149,
+      "name": "דג על הדן",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"consumer\": \"projects/678403840703\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"service\": \"places.googleapis.com\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 157,
+      "name": "כפר החיות בכפר גלעדי",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"service\": \"places.googleapis.com\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 159,
+      "name": "לול ארט",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"consumer\": \"projects/678403840703\",\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 161,
+      "name": "עזיזו — לבנדר מהגולן",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"consumer\": \"projects/678403840703\",\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 165,
+      "name": "פיינטבול הגושרים",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 167,
+      "name": "קידס לנד — אתגר הנינג'ה לילדים",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\",\n          \"service\": \"places.googleapis.com\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 169,
+      "name": "שמורת טבע הר מירון",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 171,
+      "name": "שמורת טבע נחל כזיב",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"service\": \"places.googleapis.com\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 173,
+      "name": "אגמון החולה",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"consumer\": \"projects/678403840703\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 175,
+      "name": "גן לאומי תל חצור",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"consumer\": \"projects/678403840703\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 177,
+      "name": "עין תינה",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"consumer\": \"projects/678403840703\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 179,
+      "name": "עין דיבשה",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 181,
+      "name": "חוות בת יער",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"consumer\": \"projects/678403840703\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 183,
+      "name": "רוג'ום — קיר טיפוס בקריית שמונה",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 185,
+      "name": "גן מורד הירדן",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"consumer\": \"projects/678403840703\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"service\": \"places.googleapis.com\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 187,
+      "name": "שמורת טבע נחל המשושים",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"consumer\": \"projects/678403840703\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"service\": \"places.googleapis.com\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 189,
+      "name": "שמורת טבע יהודיה",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"service\": \"places.googleapis.com\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 191,
+      "name": "שמורת טבע הבניאס",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\",\n          \"service\": \"places.googleapis.com\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 193,
+      "name": "יקב רמת הגולן",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"consumer\": \"projects/678403840703\",\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 195,
+      "name": "מפגש היקב — עמיעד",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"service\": \"places.googleapis.com\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 197,
+      "name": "יקב רמות נפתלי",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"consumer\": \"projects/678403840703\",\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 198,
+      "name": "יקב דלתון",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"consumer\": \"projects/678403840703\",\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 202,
+      "name": "חלהוולאוו",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 204,
+      "name": "קפה מוייז",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"consumer\": \"projects/678403840703\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"service\": \"places.googleapis.com\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 207,
+      "name": "נינו עגלת קפה",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"consumer\": \"projects/678403840703\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 209,
+      "name": "דה פייפ קפה",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"service\": \"places.googleapis.com\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 212,
+      "name": "קפה חמה",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"consumer\": \"projects/678403840703\",\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 213,
+      "name": "דורא עגלת קפה",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 215,
+      "name": "קפה קירשנר",
+      "error": "RemoteDisconnected: Remote end closed connection without response"
+    },
+    {
+      "id": 217,
+      "name": "קפה התן",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"service\": \"places.googleapis.com\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 219,
+      "name": "עגלת קפה מיכאל",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 221,
+      "name": "אסתר — קפה ובישולים לדרך",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"service\": \"places.googleapis.com\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 223,
+      "name": "מיקה",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"consumer\": \"projects/678403840703\",\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 225,
+      "name": "עגלת קפה החלוצים",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"service\": \"places.googleapis.com\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 228,
+      "name": "קופיש Coffish",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"consumer\": \"projects/678403840703\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"service\": \"places.googleapis.com\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 229,
+      "name": "שישו קפה",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 231,
+      "name": "עספורה",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 233,
+      "name": "הקרון בכפר יהושוע",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 235,
+      "name": "יקב תל שיפון",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 237,
+      "name": "יקב שאטו גולן",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"consumer\": \"projects/678403840703\",\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 240,
+      "name": "יקב הרי גליל",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 242,
+      "name": "יקב אדיר",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"consumer\": \"projects/678403840703\",\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 244,
+      "name": "יקב בן זמרה",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 246,
+      "name": "אינדי פארק",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 248,
+      "name": "מטאור — תצפיות כוכבים",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"service\": \"places.googleapis.com\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 323,
+      "name": "קייקי כפר בלום",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"consumer\": \"projects/678403840703\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"service\": \"places.googleapis.com\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 325,
+      "name": "רפטינג נהר הירדן",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 327,
+      "name": "חמי טבריה",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 329,
+      "name": "חוות האושר — רכיבה על סוסים",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 331,
+      "name": "ורד הגליל",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"consumer\": \"projects/678403840703\",\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 333,
+      "name": "חוות הבוקרים — מרום גולן",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 335,
+      "name": "גיל גולן — מרכז רכיבה",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 337,
+      "name": "חוות סוסים — קיבוץ אורטל",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\",\n          \"service\": \"places.googleapis.com\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 339,
+      "name": "גלמפינג קיבוץ אורטל",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 341,
+      "name": "גלמפינג על הצוק — עין קיניא",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 343,
+      "name": "גלמפינג עין תאנה",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"consumer\": \"projects/678403840703\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"service\": \"places.googleapis.com\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 345,
+      "name": "בלום וילג׳ — כפר בלום",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 347,
+      "name": "קטיף עצמי אל-רום",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 349,
+      "name": "מרכז מורשת שמן הזית — משק טוייסטר",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"service\": \"places.googleapis.com\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 351,
+      "name": "ג׳ימי ג׳יפ — טיולי ג׳יפים",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"consumer\": \"projects/678403840703\",\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 353,
+      "name": "סאונדטראק — טיולי אוזניות בטבע",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 355,
+      "name": "קול שופר — מרכז מבקרים",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"consumer\": \"projects/678403840703\",\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 357,
+      "name": "F Ranch",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"service\": \"places.googleapis.com\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 359,
+      "name": "מחלבת נטור — אוכל גבינות וחוויה כפרית בגולן",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 361,
+      "name": "העדי שבמטבח — סדנאות שוקולד",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"service\": \"places.googleapis.com\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 363,
+      "name": "יקב פלטר",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"service\": \"places.googleapis.com\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 365,
+      "name": "ג׳י.פי.אס טיולי ג׳יפים",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"consumer\": \"projects/678403840703\",\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 367,
+      "name": "מזקקת גולני",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 369,
+      "name": "רייזר סטאר חד-נס",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"service\": \"places.googleapis.com\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 371,
+      "name": "החווה התיירותית — בל עפרי",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"consumer\": \"projects/678403840703\",\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 373,
+      "name": "טיולי עששיות בפארק הירדן",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 375,
+      "name": "הרפת הרובוטית",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"consumer\": \"projects/678403840703\",\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 377,
+      "name": "בירה בזלת — מבשלת הגולן",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\",\n          \"service\": \"places.googleapis.com\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 379,
+      "name": "לימונטו — מרכז מבקרים",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"consumer\": \"projects/678403840703\",\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 381,
+      "name": "חוויית ג׳יפים ורייזרים בגולן",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"consumer\": \"projects/678403840703\",\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 383,
+      "name": "סנאבל — המרכז התיירותי הדרוזי",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\",\n          \"service\": \"places.googleapis.com\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 385,
+      "name": "טיולי אתגר — Wild Adventures",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"service\": \"places.googleapis.com\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 387,
+      "name": "קטיף עצמי רוני",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"consumer\": \"projects/678403840703\",\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 389,
+      "name": "חוות שביט — כנף",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 391,
+      "name": "War Zone Paintball",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"service\": \"places.googleapis.com\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 393,
+      "name": "קטיף עצמי נווה אטיב",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"service\": \"places.googleapis.com\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 395,
+      "name": "דיר עזיז — טבע עיזים גבינות",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\",\n          \"service\": \"places.googleapis.com\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 397,
+      "name": "אתגר הבונקר",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"service\": \"places.googleapis.com\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 399,
+      "name": "דה קרינה — שוקולד בוטיק",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"service\": \"places.googleapis.com\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 401,
+      "name": "Go Golan — טיולי ריינג׳רים",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 403,
+      "name": "קטיף עצמי הדובדבן שבגולן",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"consumer\": \"projects/678403840703\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 405,
+      "name": "חמת גדר",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"service\": \"places.googleapis.com\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 407,
+      "name": "אתר החרמון",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 409,
+      "name": "מורשת גוש קטיף בגולן",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"consumer\": \"projects/678403840703\",\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 411,
+      "name": "מרכבות הבשן",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"consumer\": \"projects/678403840703\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 413,
+      "name": "בית הבד של הגולן — Olea Essence",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"consumer\": \"projects/678403840703\",\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 415,
+      "name": "אבו קיאק",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 417,
+      "name": "יקב בזלת הגולן",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"consumer\": \"projects/678403840703\",\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 419,
+      "name": "טריפונל באולינג",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"consumer\": \"projects/678403840703\",\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 421,
+      "name": "הבוסתן של מוטי",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"places.googleapis.com\",\n          \"consumer\": \"projects/678403840703\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 423,
+      "name": "קיאק-כנרת",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"httpReferrer\": \"\\u003cempty\\u003e\",\n          \"consumer\": \"projects/678403840703\",\n          \"service\": \"places.googleapis.com\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    },
+    {
+      "id": 425,
+      "name": "הכפר האינדיאני — גלמפינג ברמת הגולן",
+      "error": "HTTP 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Requests from referer \\u003cempty\\u003e are blocked.\",\n    \"status\": \"PERMISSION_DENIED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"API_KEY_HTTP_REFERRER_BLOCKED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"consumer\": \"projects/678403840703\",\n          \"service\": \"places.googleapis.com\",\n          \"httpReferrer\": \"\\u003cempty\\u003e\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.LocalizedMessage\",\n        \"locale\": \"en-US\",\n      "
+    }
+  ],
+  "detail_errors": [],
+  "backup": "C:\\dev\\gonorth\\memory\\data\\2026-09-23-place-facts-before-google.sqlite3"
+}

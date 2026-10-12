@@ -1,0 +1,22 @@
+{
+  "checked_at": "2026-10-06T11:17:28.4354695+03:00",
+  "listing_url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a2%d7%99%d7%9f-%d7%90%d7%a4%d7%a7/",
+  "listing_http": 200,
+  "canonical_status": "publish",
+  "city": "",
+  "latitude": "32.847661",
+  "longitude": "35.111361",
+  "public_official_link": true,
+  "public_commons_link": true,
+  "public_license_link": true,
+  "public_author": true,
+  "public_navigation_disclaimer": true,
+  "guide_url": "https://gonorth.co.il/atrakziot-leyeladim-batzafon/",
+  "guide_http": 200,
+  "guide_internal_link": true,
+  "guide_zippori_link": true,
+  "image_url": "https://gonorth.co.il/wp-content/uploads/issue93-licensed/ein-afek-floating-bridge-roni250b-scaled.jpg",
+  "image_http": 200,
+  "anon_api_http": 200,
+  "guide_link_note": "Public guide uses readable Hebrew URL; GeoDirectory API returns percent-encoded equivalent"
+}

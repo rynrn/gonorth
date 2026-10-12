@@ -1,0 +1,112 @@
+[
+  {
+    "url": "https://gonorth.co.il/atrakziot-leyeladim-batzafon/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/atrakziot-leyeladim-batzafon/"
+  },
+  {
+    "url": "https://gonorth.co.il/maayanot-batzafon/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/maayanot-batzafon/"
+  },
+  {
+    "url": "https://gonorth.co.il/maslulei-mayim-batzafon/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/maslulei-mayim-batzafon/"
+  },
+  {
+    "url": "https://gonorth.co.il/places/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/places/"
+  },
+  {
+    "url": "https://gonorth.co.il/places/category/accommodation/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/places/category/accommodation/"
+  },
+  {
+    "url": "https://gonorth.co.il/places/category/agalot-kafe/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/places/category/agalot-kafe/"
+  },
+  {
+    "url": "https://gonorth.co.il/places/category/atraktziot-main/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/places/category/atraktziot-main/"
+  },
+  {
+    "url": "https://gonorth.co.il/places/category/restaurants-sub/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/places/category/restaurants-sub/"
+  },
+  {
+    "url": "https://gonorth.co.il/places/category/teva/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/places/category/teva/"
+  },
+  {
+    "url": "https://gonorth.co.il/places/category/tours/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/places/category/tours/"
+  },
+  {
+    "url": "https://gonorth.co.il/places/category/yakavim/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/places/category/yakavim/"
+  },
+  {
+    "url": "https://gonorth.co.il/places/אינדי-פארק/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/places/%D7%90%D7%99%D7%A0%D7%93%D7%99-%D7%A4%D7%90%D7%A8%D7%A7/"
+  },
+  {
+    "url": "https://gonorth.co.il/places/יקב-אדיר/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/places/%D7%99%D7%A7%D7%91-%D7%90%D7%93%D7%99%D7%A8/"
+  },
+  {
+    "url": "https://gonorth.co.il/region/carmel/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/region/carmel/"
+  },
+  {
+    "url": "https://gonorth.co.il/region/galil/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/region/galil/"
+  },
+  {
+    "url": "https://gonorth.co.il/region/golan/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/region/golan/"
+  },
+  {
+    "url": "https://gonorth.co.il/weekend-trip-north-israel/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/weekend-trip-north-israel/"
+  },
+  {
+    "url": "https://gonorth.co.il/yekavim-batzafon/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/yekavim-batzafon/"
+  },
+  {
+    "url": "https://www.adir-winery.co.il/מרכז-המבקרים/",
+    "status": 200,
+    "final_url": "https://www.adir-winery.co.il/%D7%9E%D7%A8%D7%9B%D7%96-%D7%94%D7%9E%D7%91%D7%A7%D7%A8%D7%99%D7%9D/"
+  },
+  {
+    "url": "https://www.hebcal.com/holidays/2026?i=on",
+    "status": 200,
+    "final_url": "https://www.hebcal.com/holidays/2026?i=on"
+  },
+  {
+    "url": "https://www.indipark.co.il/",
+    "status": 200,
+    "final_url": "https://www.indipark.co.il/"
+  },
+  {
+    "url": "https://www.indipark.co.il/הפנינגסוכות",
+    "status": 200,
+    "final_url": "https://www.indipark.co.il/%D7%94%D7%A4%D7%A0%D7%99%D7%A0%D7%92%D7%A1%D7%95%D7%9B%D7%95%D7%AA"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "id": 242,
+  "fields_checked": [
+    "phone",
+    "website",
+    "street",
+    "city",
+    "business_hours"
+  ],
+  "price": "Unknown left unknown; no numeric price verified",
+  "source": "https://www.adir-winery.co.il/צרו-קשר/",
+  "content_change": "Friday 12:30 corrected to 15:00 to match official site and existing canonical hours",
+  "before_content": "יקב אדיר ממוקם בפארק תעשיות דלתון בגליל העליון, ומייצר יינות פרמיום מהחלקות המובחרות של אזור כרם בן זימרה בגליל.\n\nהיקב מציע מגוון קווי יין מהוקצעים, ביניהם קו כרם בן זימרה, מהדורת יוצר, חלקה 98 ועוד. במרכז המבקרים ניתן לטעום ולרכוש יינות ישירות.\n\nשעות פתיחה: ראשון–חמישי 09:00–15:00, שישי 09:00–12:30, שבת סגור.\n\nניווט: https://waze.com/ul?ll=32.9946,35.4333&navigate=yes",
+  "after_content": "יקב אדיר ממוקם בפארק תעשיות דלתון בגליל העליון, ומייצר יינות פרמיום מהחלקות המובחרות של אזור כרם בן זימרה בגליל.\n\nהיקב מציע מגוון קווי יין מהוקצעים, ביניהם קו כרם בן זימרה, מהדורת יוצר, חלקה 98 ועוד. במרכז המבקרים ניתן לטעום ולרכוש יינות ישירות.\n\nשעות פתיחה: ראשון–חמישי 09:00–15:00, שישי 09:00–15:00, שבת סגור.\n\nניווט: https://waze.com/ul?ll=32.9946,35.4333&navigate=yes",
+  "before_checked_at": "2026-09-02T22:28:05+03:00",
+  "after_checked_at": "2026-09-17T12:34:47Z",
+  "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%90%d7%93%d7%99%d7%a8/"
+}

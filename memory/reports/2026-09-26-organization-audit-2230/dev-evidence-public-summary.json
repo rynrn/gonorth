@@ -1,0 +1,40 @@
+[
+  {
+    "url": "https://gonorth.co.il/",
+    "status": 200,
+    "h1": 1,
+    "scripts": 24,
+    "placeVersions": null,
+    "forms": [
+      "<form class=\"gn-hero__search\" action=\"https://gonorth.co.il/places/\" method=\"GET\">",
+      "<form>"
+    ],
+    "searchInputs": [
+      "<select name=\"category\" class=\"gn-search__cat\">",
+      "<input type=\"text\" name=\"s\" placeholder=\"חפש מקום, עיר, פעילות...\" class=\"gn-search__input\" />",
+      "<input type=\"radio\" id=\"only-for-24-hours\" name=\"hide_toolbar_duration\" tabindex=\"-1\">"
+    ]
+  },
+  {
+    "url": "https://gonorth.co.il/places/",
+    "status": 200,
+    "h1": 1,
+    "scripts": 37,
+    "placeVersions": null,
+    "forms": "<form>",
+    "searchInputs": [
+      "<select class=\"gn-filter-select\" id=\"gn-cat-select\">",
+      "<input type=\"text\" id=\"gn-search-input\" placeholder=\"חיפוש מקום, עיר...\" class=\"gn-filter-input\">",
+      "<input type=\"radio\" id=\"only-for-24-hours\" name=\"hide_toolbar_duration\" tabindex=\"-1\">"
+    ]
+  },
+  {
+    "url": "https://gonorth.co.il/open-saturday/",
+    "status": 200,
+    "h1": 1,
+    "scripts": 36,
+    "placeVersions": "gonorth-place-data-css",
+    "forms": "<form>",
+    "searchInputs": "<input type=\"radio\" id=\"only-for-24-hours\" name=\"hide_toolbar_duration\" tabindex=\"-1\">"
+  }
+]

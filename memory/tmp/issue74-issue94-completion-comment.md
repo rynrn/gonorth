@@ -1,0 +1,1 @@
+#94 הושלם ונסגר ב־04.10.2026. פורסמו [מסלול עמק יזרעאל](https://gonorth.co.il/yizreel-valley-day-trip/) ו[מסלול דרום הכנרת](https://gonorth.co.il/south-kinneret-day-trip/), עם מקורות, תרשימי סדר תחנות, קישורים חוזרים לארבעה דפי מקום ובדיקות מובייל/קישורים/SEO. דוח: `memory/reports/2026-10-04-issue-94-two-day-routes.md`. קליטת נתוני שימוש ב־GA4 נשארת ב־#84.

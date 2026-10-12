@@ -4,16 +4,19 @@ description: יוצר או עורך ליסטינג מקום בגונורת'. כ�
 license: MIT
 metadata:
   author: gonorth
-  version: "1.0.0"
   domain: directory
   triggers: הוסף מקום, עדכן מקום, ליסטינג חדש, listing, gd_place, place, attraction, hotel, restaurant, tour
   role: expert
   scope: research + content + media + publishing
   output-format: approval card → wp-cli → public place URL
-  version: "1.1.0"
+  version: "1.3.0"
 ---
 
 # GN Place — יצירת / עריכת מקום ב-gonorth.co.il
+
+## כלל קדימות הפרויקט
+
+לפי AGENTS.md, רשומה חדשה מסוג gd_place נוצרת תמיד בסטטוס pending לביקורת מנהל. אין להשתמש ב-post_status=publish ביצירה, גם אם המשתמש אישר פרסום ישיר של כתבות. אין להציג URL של pending כדף ציבורי עובד. פרסום לאחר ביקורת נעשה רק בממשק הקנוני ובהרשאה המתאימה.
 
 ## סדר עבודה (חובה לפי הסדר)
 
@@ -71,8 +74,8 @@ ssh gonorth "wp post list --post_type=gd_place --post_status=any \
 
 ## שלב 2 — Google Places API
 
-**API Key:** `AIzaSyArHd6QyrA753zJcbNjQbKWGPPHUeFdhSM`
-**חשוב:** הפעל את ה-curl **מהשרת** בלבד (המפתח מוגבל ל-IP של השרת).
+**API Key:** `${GOOGLE_PLACES_API_KEY}`
+**חשוב:** בדוק תחילה היכן המפתח המאושר זמין ומה מגבלותיו; אין להניח שהשרת או הדפדפן מורשים. אל תדפיס את ערכו ואל תנסה לעקוף הגבלות.
 
 ### 2א — שליפת place_id + דירוג
 
@@ -81,7 +84,7 @@ ssh gonorth "curl -s 'https://maps.googleapis.com/maps/api/place/findplacefromte
 input=PLACE_NAME_URL_ENCODED\
 &inputtype=textquery\
 &fields=place_id,name,rating,user_ratings_total\
-&key=AIzaSyArHd6QyrA753zJcbNjQbKWGPPHUeFdhSM'"
+&key=${GOOGLE_PLACES_API_KEY}'"
 ```
 
 תוצאה לדוגמה:
@@ -98,35 +101,30 @@ input=PLACE_NAME_URL_ENCODED\
 
 שמור: `PLACE_ID`, `rating`, `user_ratings_total`
 
-### 2ב — שליפת photo_reference
+### מדיניות תמונת מקום — חובה
 
-```bash
-ssh gonorth "curl -s 'https://maps.googleapis.com/maps/api/place/details/json?\
-place_id=PLACE_ID\
-&fields=photos\
-&key=AIzaSyArHd6QyrA753zJcbNjQbKWGPPHUeFdhSM' \
-| python3 -c \"import sys,json; photos=json.load(sys.stdin)['result']['photos']; print(photos[0]['photo_reference'])\""
-```
+כאשר קיים פרופיל Google Places מזוהה, תמונה אמיתית מאותו פרופיל היא ברירת המחדל לתמונת הנושא.
 
-### 2ג — הורדת התמונה לשרת
+1. שלוף לפחות 3 תמונות מועמדות, כאשר קיימות.
+2. בדוק אותן חזותית לפני בחירה. אין לבחור אוטומטית את התמונה הראשונה.
+3. העדף תמונה שממחישה את המקום עצמו: חזית, חלל, אזור ישיבה או חוויה מרכזית. העדף תמונה שהועלתה מחשבון העסק.
+4. ודא שה־Place ID ושם העסק תואמים לליסטינג. אין להשתמש בתמונה מתוצאת חיפוש דומה.
+5. תעד את ייחוס היוצר וקישור תמונת המקור לפי מדיניות Places העדכנית. קרדיט או העלאה של העסק ל־Google אינם רישיון להעתקת הקובץ לשרת.
+6. כתוב ALT עובדתי המתאר את מה שנראה בתמונה, בלי מילות מפתח מיותרות.
+7. אסור ליצור או להשתמש באיור AI עבור מקום אמיתי, אלא אם המשתמש ביקש זאת במפורש לאחר שנאמר לו שאין תמונה אמיתית מתאימה.
+8. אם אין תמונת Google מתאימה, השתמש בתמונה מהאתר הרשמי רק לאחר תיעוד המקור וזכות השימוש. אם גם זו אינה זמינה, עצור את פרסום הליסטינג ודווח שחסרה תמונה מאומתת.
 
-```bash
-ssh gonorth "curl -s -L 'https://maps.googleapis.com/maps/api/place/photo?\
-maxwidth=1200\
-&photo_reference=PHOTO_REFERENCE\
-&key=AIzaSyArHd6QyrA753zJcbNjQbKWGPPHUeFdhSM' \
--o /tmp/place_photo.jpg"
-```
+### 2ב — שליפת תמונות וייחוס מ־Places API (New)
 
-### 2ד — העלאת התמונה כ-featured image
+שלוף את שדה photos דרך Place Details API. כל פריט כולל name, מידות ו־authorAttributions.
 
-```bash
-ssh gonorth "wp media import /tmp/place_photo.jpg \
-  --post_id=POST_ID \
-  --featured_image \
-  --title='PLACE_NAME' \
-  --path=/var/www/gonorth --allow-root"
-```
+המפתח חייב להיקרא מהאפשרות המאובטחת בשרת. אין להדפיס אותו ואין לשמור אותו בסקריפט או בדוח.
+
+### 2ג — בדיקת זכות שימוש ואופן התצוגה
+
+תמונת Google Places היא מועמדת לבדיקה, בהתאם להעדפת בעל האתר לתצלום אמיתי של המקום. אין להוריד, לשמור ב־uploads, להעלות ל־WordPress או לרשתות צילום שהתקבל רק מ־Places API. לפי תנאי Google Maps Platform ומדיניות Places, אחסון/אירוח מחדש מוגבלים ויש דרישות לייחוס היוצר וקישור ישיר לתמונת המקור. בדוק את התנאים המעודכנים לפני כל יישום: https://cloud.google.com/maps-platform/terms וכן https://developers.google.com/maps/documentation/places/web-service/policies .
+
+להצגה יש שתי דרכים: תצוגת API שמתעדכנת דרך השירות וממלאת את דרישות הייחוס וקישור המקור, רק אם קיים רכיב מאומת לכך; או קובץ מקורי שהצלם/המפעיל סיפק בנפרד, עם הרשאה מפורשת לשימוש באתר, לחיתוך ולהפצה הנדרשת. תמונה באתר הרשמי או בחשבון העסק ב־Google אינה מעניקה כשלעצמה הרשאה להעתיק אותה. שמור מקור, בעל זכויות, היקף הרשאה, תאריך ואופן ייחוס במרשם המדיה. אם אף דרך אינה מוכחת, רשום unknown והשאר את המקום ממתין בלי תמונה חדשה.
 
 ---
 
@@ -147,7 +145,7 @@ ssh gonorth "wp media import /tmp/place_photo.jpg \
 | אוכל ושתייה | `restaurants` | 19 | (קטגוריה ראשית — עדיף תת-קטגוריה) |
 | סיורים ופעילויות | `tours` | 20 | טיולים מודרכים, ספורט אתגרי, סדנאות |
 
-#### תתי-קטגוריות של אוכל ושתייה (parent=19)
+#### סוגי אוכל ושתייה (כולם parent=0 במצב האתר הנוכחי)
 
 | עברית | Slug | term_id | מתי להשתמש |
 |-------|------|---------|------------|
@@ -160,9 +158,11 @@ ssh gonorth "wp media import /tmp/place_photo.jpg \
 
 | עברית | Slug | term_id | כולל |
 |-------|------|---------|------|
-| גליל | `galil` | 28 | גליל עליון, גליל תחתון, עמק החולה, עמק יזרעאל |
+| גליל | `galil` | 28 | גליל עליון, גליל תחתון ומערבי, אצבע הגליל ועמק החולה |
 | גולן | `golan` | 29 | רמת הגולן, הרמון |
 | כרמל ועמק יזרעאל | `carmel` | 30 | הכרמל, עמק יזרעאל, חוף הכרמל |
+
+גבולות האזורים וחריגי עמק המעיינות מתועדים ב־docs/region-and-category-taxonomy.md. אל תשייך מקום לאזור לא נכון רק כדי להשלים שדה; מקום חדש מחוץ לכיסוי הקיים מחייב החלטת אזור לפני פרסום.
 
 ### תבנית תוכן — Approval Card
 
@@ -184,9 +184,9 @@ GPS:        [lat], [lng]
 
 ⭐ דירוג גוגל: [rating] ([total] ביקורות)
 
-🗺️ ויז: https://waze.com/ul?ll=[lat],[lng]&navigate=yes
+🗺️ ניווט ברכב: [יעד מאומת ב־Waze / אין יעד רכב מאומת — להסתיר קישורי ניווט]
 
-📸 תמונה: מגוגל עסקים ✓
+📸 תמונה: [מקור, בעל זכויות, הרשאה, ייחוס ואופן הצגה מאומתים / unknown]
 
 ─────────────────────────────
 תיאור קצר (excerpt):
@@ -210,7 +210,7 @@ GPS:        [lat], [lng]
 
 ---
 
-## שלב 5 — פרסום
+## שלב 5 — יצירת רשומה ממתינה
 
 ### יצירת listing חדש
 
@@ -221,7 +221,7 @@ ID=$(ssh gonorth "wp post create \
   --post_title='PLACE_NAME' \
   --post_excerpt='SHORT_DESC' \
   --post_content='FULL_CONTENT' \
-  --post_status=publish \
+  --post_status=pending \
   --path=/var/www/gonorth --allow-root --porcelain 2>/dev/null")
 
 # 2. קטגוריה ראשית (חובה — ראה טבלת קטגוריות בשלב 3)
@@ -250,10 +250,8 @@ ssh gonorth "wp post meta add $ID geodir_post_website 'WEBSITE' --path=/var/www/
 ssh gonorth "wp post meta add $ID geodir_post_rating 'RATING' --path=/var/www/gonorth --allow-root 2>/dev/null"
 ssh gonorth "wp post meta add $ID geodir_featured '1' --path=/var/www/gonorth --allow-root 2>/dev/null"
 
-# 4. תמונה (לאחר הורדה מגוגל — ראה שלב 2ג-2ד)
-ssh gonorth "wp media import /tmp/place_photo.jpg \
-  --post_id=$ID --featured_image --title='PLACE_NAME' \
-  --path=/var/www/gonorth --allow-root 2>/dev/null"
+# 4. תמונה: ייבוא מותר רק מקובץ מקורי שהתקבל בנפרד עם הרשאת שימוש מתועדת.
+# אין לייבא קובץ שהורד מ־Google Places API. אם אין קובץ מורשה, השאר pending.
 ```
 
 ### עריכת listing קיים
@@ -371,20 +369,21 @@ URL=$(ssh gonorth "wp post get $ID --field=url --path=/var/www/gonorth --allow-r
 
 ---
 
-## לינק ויז
+## ניווט ומיקום מקום
 
-פורמט קבוע לכל מקום:
+GPS של המקום אינו בהכרח יעד להגעה ברכב. לפני הצגת Waze יש לאמת יעד הגעה מתאים ממקור מפעיל או ממקור ניווט מזוהה, ולכתוב אם זה יעד מתחם, חניה או כניסה פיזית. אל תציג נקודת מקום או שביל הולכי רגל ככניסה לרכב.
+
+כשאין יעד נהיגה מאומת, השאר את נקודת המקום המדויקת במפה רק אם היא אכן מתארת את המקום, והגדר לרשומה דרך WordPress את מטא `_gonorth_hide_driving_navigation=1`. הדגל מסתיר את קישורי Waze ו־Google Maps שבתבנית ומציג הודעת הגעה. לפני הגדרת הדגל סרוק גם את תוכן הרשומה לקישורי Waze/Maps ידניים: הדגל אינו מסיר קישורים שנכתבו בתוך התוכן. כתוב בתוכן את הוראות ההגעה המאומתות, כולל ההבדל בין חניה לכניסת המבקרים. אמת בדף הציבורי שאין בו קישורי ניווט מטעים; אם הרשומה pending, בדוק בתצוגה מאומתת לפני פרסום. אין להפעיל דגל רק כדי לעקוף בדיקת מיקום.
+
+כאשר יעד נהיגה אומת, אפשר ליצור קישור בפורמט:
+
 ```
 https://waze.com/ul?ll={lat},{lng}&navigate=yes
 ```
 
-דוגמה:
-```
-https://waze.com/ul?ll=33.191991,35.751795&navigate=yes
-```
+הדגל הוא אפשרות תצוגה בלבד ואינו מחליף את ממשק GeoDirectory REST לעדכון קואורדינטות. כל שינוי ברשומה מחייב בדיקת כפילות, מקור, validator, שחזור ואימות לפי `docs/agent-change-contract.md`.
 
 ---
-
 ## GPS — נקודות ייחוס בצפון
 
 | מקום | lat | lng |
@@ -408,29 +407,22 @@ https://waze.com/ul?ll=33.191991,35.751795&navigate=yes
 | לחכות לאישור משתמש לפני פרסום | להמציא כתובת, טלפון, שעות |
 | **לשייך קטגוריה (gd_placecategory) — חובה** | לפרסם בלי קטגוריה |
 | **לשייך אזור (gn_region) — חובה** | לפרסם בלי אזור |
-| לשלוף תמונה מגוגל עסקים או מאתר רשמי | להשתמש ב-TripAdvisor כמקור דירוג |
-| לכלול לינק ויז בכל מקום | לשכוח לרוץ מהשרת על ה-Places API |
+| לבדוק תמונה אמיתית ב-Google Places ולאמת דרך תצוגה או הרשאה מותרת | להוריד ולהעלות מחדש צילום API בלי זכות שימוש |
+| לאמת כתובת ניווט וכניסה ממקור מתאים | להניח שהמפתח זמין מהשרת בלי בדיקה |
 | לכתוב תוכן בעברית RTL בלבד | לפרסם בלי GPS |
 | לסמן `geodir_featured=1` | ליצור כפילות לאותו מקום |
 | **אסור להשתמש באימוג'י** — לא בתוכן, לא בתיאורים, לא בכרטיס האישור | שימוש באימוג'י בכל שדה |
+| להעדיף תמונה שהועלתה מחשבון העסק | ליצור איור AI למקום אמיתי ללא בקשה מפורשת |
 
-### הערה על העלאת תמונות
+### הערה על מפתח ועל תמונות
 
-מפתח ה-Google Places API מוגבל לדפדפן (HTTP Referer restriction) — קריאות מהשרת נכשלות.
-**חלופה:** הורד תמונה מאתר רשמי של המקום דרך curl, ואז העלה דרך REST API:
+הגבלת המפתח עשויה להיות IP, HTTP Referer או תצורה אחרת; אימת אותה בחנות האישורים המאושרת לפני קריאה. מפתח שאינו זמין אינו סיבה לנחש או להדפיס אישור. Google Places הוא מקור לזיהוי מועמד לתצלום אמיתי, אך אין להוריד ולהעלות צילום API ל־WordPress ללא בסיס שימוש נפרד ותואם לתנאים. חלופה להעלאה היא קובץ שנמסר ישירות מבעל הזכויות עם הרשאה מתועדת. אין להכניס שם משתמש, סיסמה, Application Password או כותרת Authorization לקובץ סקיל, לפקודת shell או לדוח. אם אין דרך תצוגה תואמת או קובץ מורשה, תעד את החסם והשאר את הליסטינג ממתין.
 
-```bash
-# הורדת תמונה מאתר רשמי:
-ssh gonorth "curl -s -L 'IMAGE_URL' -o /tmp/place_photo.jpg"
+## מקום ללא Google Places
 
-# העלאה דרך REST API (עוקף בעיית הרשאות uploads):
-ssh gonorth "curl -s -X POST \
-  -H 'Authorization: Basic $(echo -n rynrn:fALc6wqzQTvwxVKAD4ng3mGU | base64)' \
-  -H 'Content-Disposition: attachment; filename=place_photo.jpg' \
-  -H 'Content-Type: image/jpeg' \
-  --data-binary @/tmp/place_photo.jpg \
-  'https://gonorth.co.il/wp-json/wp/v2/media' | python3 -c \"import sys,json; d=json.load(sys.stdin); print(d['id'])\""
+אם לא נמצא פרופיל Google Places מזוהה, אין לעצור את עדכון המקום ואין להמציא נתוני Google. אפשר להשתמש באתר הרשמי או במדריך מקצועי אמין כמקור חלופי. שמור את המקור ותאריך הבדיקה ב־place-facts, הוסף בדף גילוי מקור קצר, וציין שאין דירוג או מספר ביקורות של Google. בדוחות הצג בנפרד כיסוי מקורות כולל וכיסוי Google.
 
-# לאחר קבלת MEDIA_ID — הגדרה כ-featured image:
-ssh gonorth "wp post meta update POST_ID _thumbnail_id MEDIA_ID --path=/var/www/gonorth --allow-root"
-```
+## Shared change contract
+
+Follow docs/agent-change-contract.md for every change. Classify risk and canonical writer first; record sources and dates; create a snapshot and rollback for live changes; run tools/validate-place-records.py for place data; verify the canonical record and public output; then write the dated report and issue evidence. Official non-Google sources are valid when documented. Existing dynamic business facts must use the place-facts review and sync workflow.
+

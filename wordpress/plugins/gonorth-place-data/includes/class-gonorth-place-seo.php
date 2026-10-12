@@ -15,12 +15,286 @@ final class GoNorth_Place_SEO {
 	 */
 	public static function init(): void {
 		add_filter( 'geodir_details_schema', array( __CLASS__, 'filter_place_schema' ), 20, 2 );
+		add_filter( 'wpseo_schema_graph', array( __CLASS__, 'filter_schema_graph' ), 20, 2 );
+		add_filter( 'wpseo_title', array( __CLASS__, 'filter_place_title' ), 20 );
+		add_filter( 'wpseo_opengraph_title', array( __CLASS__, 'filter_place_title' ), 20 );
+		add_filter( 'wpseo_twitter_title', array( __CLASS__, 'filter_place_title' ), 20 );
+		add_filter( 'wpseo_opengraph_image', array( __CLASS__, 'filter_social_image' ), 20 );
+		add_filter( 'wpseo_twitter_image', array( __CLASS__, 'filter_social_image' ), 20 );
+		add_filter( 'pre_get_document_title', array( __CLASS__, 'filter_place_title' ), 20 );
 		add_filter( 'wpseo_metadesc', array( __CLASS__, 'filter_meta_description' ) );
 		add_filter( 'wpseo_opengraph_desc', array( __CLASS__, 'filter_meta_description' ) );
 		add_filter( 'wpseo_twitter_description', array( __CLASS__, 'filter_meta_description' ) );
 		add_filter( 'wpseo_schema_webpage', array( __CLASS__, 'filter_webpage_schema' ) );
+		add_filter( 'wpseo_robots_array', array( __CLASS__, 'filter_empty_category_robots' ), 20 );
+		add_action( 'template_redirect', array( __CLASS__, 'redirect_legacy_category_url' ), 1 );
 		add_action( 'wp_head', array( __CLASS__, 'output_faq_schema' ), 30 );
 		add_action( 'geodir_single_tab_content_after', array( __CLASS__, 'render_page_sections' ), 30 );
+	}
+
+	/**
+	 * Build the local-search title for the current place page.
+	 *
+	 * @param mixed $title Existing title.
+	 */
+	public static function filter_place_title( $title ): string {
+		$title = is_string( $title ) ? $title : '';
+		if ( ! is_singular( 'gd_place' ) ) {
+			return $title;
+		}
+
+		return self::get_place_seo_title( get_queried_object_id() );
+	}
+
+	/**
+	 * Return a verified locality, then a region, then the honest site-wide fallback.
+	 *
+	 * @param int $post_id Place ID.
+	 */
+	public static function get_place_location_label( int $post_id ): string {
+		$data = GoNorth_Place_Data::get( $post_id );
+		$city = trim( (string) ( $data['city'] ?? '' ) );
+		if ( $city ) {
+			return $city;
+		}
+
+		$regions = wp_get_post_terms(
+			$post_id,
+			'gn_region',
+			array(
+				'fields'  => 'names',
+				'orderby' => 'term_id',
+				'order'   => 'ASC',
+			)
+		);
+		if ( ! is_wp_error( $regions ) && $regions ) {
+			return trim( (string) reset( $regions ) );
+		}
+
+		return 'צפון ישראל';
+	}
+
+	/**
+	 * Create a unique, location-aware title without repeating a location already
+	 * present in the place name. Preserve the location and brand when shortening.
+	 *
+	 * @param int $post_id Place ID.
+	 */
+	public static function get_place_seo_title( int $post_id ): string {
+		$name     = html_entity_decode( get_the_title( $post_id ), ENT_QUOTES | ENT_HTML5, 'UTF-8' );
+		$location = self::get_place_location_label( $post_id );
+		return self::build_place_title( $name, $location );
+	}
+
+	/**
+	 * Pure title formatter, exposed for deterministic regression tests.
+	 *
+	 * @param string $name Place name.
+	 * @param string $location Verified locality or region.
+	 * @param string $brand Brand label.
+	 * @param int    $max_length Preferred maximum title length.
+	 */
+	public static function build_place_title( string $name, string $location, string $brand = 'כיוון צפון', int $max_length = 60 ): string {
+		$name     = trim( preg_replace( '/\s+/u', ' ', wp_strip_all_tags( $name ) ) );
+		$name     = str_replace( array( '–', '—' ), '-', $name );
+		$location = trim( preg_replace( '/\s+/u', ' ', wp_strip_all_tags( $location ) ) );
+		$brand    = trim( preg_replace( '/\s+/u', ' ', wp_strip_all_tags( $brand ) ) );
+		$normalize = static function ( string $value ): string {
+			return (string) preg_replace( '/[^\p{L}\p{N}]+/u', '', mb_strtolower( $value, 'UTF-8' ) );
+		};
+
+		$name_key     = $normalize( $name );
+		$location_key = $normalize( $location );
+		$location_is_in_name = $location_key && false !== mb_strpos( $name_key, $location_key, 0, 'UTF-8' );
+
+		$parts = array( $name );
+		if ( $location && ! $location_is_in_name ) {
+			$parts[] = $location;
+		}
+		if ( $brand ) {
+			$parts[] = $brand;
+		}
+		$full = implode( ' | ', array_filter( $parts, static fn( $part ) => '' !== $part ) );
+		if ( mb_strlen( $full, 'UTF-8' ) <= $max_length ) {
+			return $full;
+		}
+
+		$suffix_parts = array();
+		if ( $location && ! $location_is_in_name ) {
+			$suffix_parts[] = $location;
+		}
+		if ( $brand ) {
+			$suffix_parts[] = $brand;
+		}
+		$suffix = $suffix_parts ? ' | ' . implode( ' | ', $suffix_parts ) : '';
+		$budget = $max_length - mb_strlen( $suffix, 'UTF-8' ) - 1;
+		if ( $budget < 1 ) {
+			return mb_substr( $full, 0, $max_length, 'UTF-8' );
+		}
+
+		$short_name = mb_substr( $name, 0, $budget, 'UTF-8' );
+		if ( mb_strlen( $name, 'UTF-8' ) > $budget && ! preg_match( '/\s/u', mb_substr( $name, $budget, 1, 'UTF-8' ) ) ) {
+			$short_name = preg_replace( '/\s+\S*$/u', '', $short_name );
+		}
+		$short_name = rtrim( (string) $short_name, " \t\n\r\0\x0B,.;:|–—-" );
+		if ( '' === $short_name ) {
+			$short_name = mb_substr( $name, 0, $budget, 'UTF-8' );
+		}
+
+		return $short_name . '…' . $suffix;
+	}
+
+	/**
+	 * Return the canonical featured-image contract shared by Yoast and the place graph.
+	 *
+	 * @param int $post_id Place ID.
+	 * @return array{id:string,url:string,width:int,height:int,caption:string,alt:string}|array{}
+	 */
+	public static function get_place_image_data( int $post_id ): array {
+		$attachment_id = get_post_thumbnail_id( $post_id );
+		$image         = $attachment_id ? wp_get_attachment_image_src( $attachment_id, 'full' ) : false;
+		if ( ! $attachment_id || ! $image || empty( $image[0] ) ) {
+			return array();
+		}
+
+		return array(
+			'id'      => get_permalink( $post_id ) . '#primaryimage',
+			'url'     => (string) $image[0],
+			'width'   => (int) ( $image[1] ?? 0 ),
+			'height'  => (int) ( $image[2] ?? 0 ),
+			'caption' => trim( (string) wp_get_attachment_caption( $attachment_id ) ),
+			'alt'     => trim( (string) get_post_meta( $attachment_id, '_wp_attachment_image_alt', true ) ),
+		);
+	}
+
+	/**
+	 * Keep Open Graph and Twitter on the same canonical featured image.
+	 *
+	 * @param mixed $image Existing image URL.
+	 */
+	public static function filter_social_image( $image ): string {
+		$image = is_string( $image ) ? $image : '';
+		if ( ! is_singular( 'gd_place' ) ) {
+			return $image;
+		}
+
+		$canonical = self::get_place_image_data( get_queried_object_id() );
+		return $canonical ? $canonical['url'] : $image;
+	}
+
+	/**
+	 * Enrich Yoast's one primary ImageObject with attachment metadata.
+	 *
+	 * The attachment alt is represented by the schema.org `name` property;
+	 * ImageObject has no dedicated `alt` property.
+	 *
+	 * @param array<int,array<string,mixed>> $graph Yoast graph.
+	 * @param mixed                          $context Yoast context.
+	 * @return array<int,array<string,mixed>>
+	 */
+	public static function filter_schema_graph( array $graph, $context ): array {
+		unset( $context );
+		if ( ! is_singular( 'gd_place' ) ) {
+			return $graph;
+		}
+
+		$image = self::get_place_image_data( get_queried_object_id() );
+		if ( ! $image ) {
+			return $graph;
+		}
+
+		foreach ( $graph as &$piece ) {
+			$types = isset( $piece['@type'] ) ? (array) $piece['@type'] : array();
+			if ( ! in_array( 'ImageObject', $types, true ) || ( $piece['@id'] ?? '' ) !== $image['id'] ) {
+				continue;
+			}
+			$piece['url']        = $image['url'];
+			$piece['contentUrl'] = $image['url'];
+			if ( $image['width'] ) {
+				$piece['width'] = $image['width'];
+			}
+			if ( $image['height'] ) {
+				$piece['height'] = $image['height'];
+			}
+			if ( $image['caption'] ) {
+				$piece['caption'] = $image['caption'];
+			}
+			if ( $image['alt'] ) {
+				$piece['name'] = $image['alt'];
+			}
+			break;
+		}
+		unset( $piece );
+
+		return $graph;
+	}
+
+	/**
+	 * Keep empty place-category archives out of the search index.
+	 *
+	 * @param array<string,string> $robots Existing Yoast robots directives.
+	 * @return array<string,string>
+	 */
+	public static function filter_empty_category_robots( array $robots ): array {
+		if ( ! is_tax( 'gd_placecategory' ) ) {
+			return $robots;
+		}
+
+		$term = get_queried_object();
+		if ( $term instanceof WP_Term && $term->count < 1 ) {
+			$robots['index']  = 'noindex';
+			$robots['follow'] = 'follow';
+		}
+
+		return $robots;
+	}
+
+	/**
+	 * Redirect retired GeoDirectory category paths to their canonical archive.
+	 */
+	public static function redirect_legacy_category_url(): void {
+		global $wp;
+
+		$request_path = isset( $wp->request ) ? (string) $wp->request : '';
+		$redirect_url = self::get_legacy_category_redirect_url( $request_path );
+		if ( ! $redirect_url ) {
+			return;
+		}
+
+		wp_safe_redirect( $redirect_url, 301, 'GoNorth Place Data' );
+		exit;
+	}
+
+	/**
+	 * Resolve a legacy category request path without redirect side effects.
+	 *
+	 * Pagination and feed suffixes are retained beneath the canonical term.
+	 *
+	 * @param string $request_path Request path or URL.
+	 */
+	public static function get_legacy_category_redirect_url( string $request_path ): string {
+		$path = wp_parse_url( $request_path, PHP_URL_PATH );
+		$path = is_string( $path ) ? trim( $path, '/' ) : '';
+		if ( ! $path ) {
+			return '';
+		}
+
+		$redirects = array(
+			'places/category/atraktziot'   => 'places/category/atraktziot-main',
+			'places/category/restaurants'  => 'places/category/restaurants-sub',
+			'places/category/agalot-kafe-2' => 'places/category/agalot-kafe',
+		);
+
+		foreach ( $redirects as $legacy_path => $canonical_path ) {
+			if ( $path !== $legacy_path && ! str_starts_with( $path, $legacy_path . '/' ) ) {
+				continue;
+			}
+
+			$suffix = substr( $path, strlen( $legacy_path ) );
+			return home_url( trailingslashit( $canonical_path . $suffix ) );
+		}
+
+		return '';
 	}
 
 	/**
@@ -70,7 +344,7 @@ final class GoNorth_Place_SEO {
 			);
 		}
 
-		$location = implode( ', ', array_unique( array_filter( array( $data['address'], $data['city'] ) ) ) );
+		$location = GoNorth_Place_Data::format_location( $data['address'], $data['city'] );
 		if ( $location ) {
 			$items[] = array(
 				'id'       => 'location',
@@ -238,6 +512,12 @@ final class GoNorth_Place_SEO {
 		$schema['@id']              = $permalink . '#place';
 		$schema['url']              = $permalink;
 		$schema['mainEntityOfPage'] = array( '@id' => $permalink );
+		$image = self::get_place_image_data( $post_id );
+		if ( $image ) {
+			$schema['image'] = array( '@id' => $image['id'] );
+		} else {
+			unset( $schema['image'] );
+		}
 		if ( empty( $schema['description'] ) ) {
 			$schema['description'] = self::get_generated_description( $post_id );
 		}
@@ -248,15 +528,6 @@ final class GoNorth_Place_SEO {
 			} elseif ( 'paid' === $data['price_type'] && empty( $schema['priceRange'] ) ) {
 				$schema['priceRange'] = 'בתשלום';
 			}
-		}
-		if ( ! empty( $data['google']['rating'] ) && ! empty( $data['google']['review_count'] ) ) {
-			$schema['aggregateRating'] = array(
-				'@type'       => 'AggregateRating',
-				'ratingValue' => (float) $data['google']['rating'],
-				'bestRating'  => 5,
-				'worstRating' => 1,
-				'ratingCount' => (int) $data['google']['review_count'],
-			);
 		}
 
 		return array_filter( $schema, static fn( $value ) => '' !== $value && null !== $value && array() !== $value );
@@ -272,7 +543,9 @@ final class GoNorth_Place_SEO {
 		if ( ! is_singular( 'gd_place' ) ) {
 			return $schema;
 		}
-		$freshness = self::get_freshness( get_queried_object_id() );
+		$post_id        = get_queried_object_id();
+		$schema['name'] = self::get_place_seo_title( $post_id );
+		$freshness     = self::get_freshness( $post_id );
 		if ( $freshness ) {
 			$schema['dateModified'] = $freshness['iso'];
 		}

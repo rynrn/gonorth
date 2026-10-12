@@ -1,0 +1,122 @@
+[
+    {
+        "path": "accessibility-onetap\/accessibility-onetap.php",
+        "name": "Accessibility Widget by OneTap – Easy One-Click Accessibility Toolbar",
+        "license": "",
+        "requires_plugins": "",
+        "requires_wp": "",
+        "requires_php": ""
+    },
+    {
+        "path": "ameliabooking\/ameliabooking.php",
+        "name": "Amelia",
+        "license": "",
+        "requires_plugins": "",
+        "requires_wp": "",
+        "requires_php": ""
+    },
+    {
+        "path": "autoptimize\/autoptimize.php",
+        "name": "Autoptimize",
+        "license": "",
+        "requires_plugins": "",
+        "requires_wp": "",
+        "requires_php": ""
+    },
+    {
+        "path": "elementor\/elementor.php",
+        "name": "Elementor",
+        "license": "",
+        "requires_plugins": "",
+        "requires_wp": "6.6",
+        "requires_php": "7.4"
+    },
+    {
+        "path": "geodirectory\/geodirectory.php",
+        "name": "GeoDirectory",
+        "license": "",
+        "requires_plugins": "",
+        "requires_wp": "6.0",
+        "requires_php": ""
+    },
+    {
+        "path": "gonorth-place-data\/gonorth-place-data.php",
+        "name": "GoNorth Place Data",
+        "license": "",
+        "requires_plugins": "",
+        "requires_wp": "",
+        "requires_php": ""
+    },
+    {
+        "path": "mcp-adapter\/mcp-adapter.php",
+        "name": "MCP Adapter",
+        "license": "",
+        "requires_plugins": "",
+        "requires_wp": "6.8",
+        "requires_php": "7.4"
+    },
+    {
+        "path": "sassy-social-share\/sassy-social-share.php",
+        "name": "Sassy Social Share",
+        "license": "",
+        "requires_plugins": "",
+        "requires_wp": "",
+        "requires_php": ""
+    },
+    {
+        "path": "scaup-seo\/scaup-seo.php",
+        "name": "Scaup SEO",
+        "license": "",
+        "requires_plugins": "",
+        "requires_wp": "5.0",
+        "requires_php": "7.2"
+    },
+    {
+        "path": "wp-smushit\/wp-smush.php",
+        "name": "Smush",
+        "license": "",
+        "requires_plugins": "",
+        "requires_wp": "6.4",
+        "requires_php": "7.4"
+    },
+    {
+        "path": "updraftplus\/updraftplus.php",
+        "name": "UpdraftPlus - Backup\/Restore",
+        "license": "",
+        "requires_plugins": "",
+        "requires_wp": "",
+        "requires_php": ""
+    },
+    {
+        "path": "woocommerce\/woocommerce.php",
+        "name": "WooCommerce",
+        "license": "",
+        "requires_plugins": "",
+        "requires_wp": "6.8",
+        "requires_php": "7.4"
+    },
+    {
+        "path": "wordfence\/wordfence.php",
+        "name": "Wordfence Security",
+        "license": "",
+        "requires_plugins": "",
+        "requires_wp": "4.7",
+        "requires_php": "7.0"
+    },
+    {
+        "path": "wp-super-cache\/wp-cache.php",
+        "name": "WP Super Cache",
+        "license": "",
+        "requires_plugins": "",
+        "requires_wp": "",
+        "requires_php": ""
+    },
+    {
+        "path": "wordpress-seo\/wp-seo.php",
+        "name": "Yoast SEO",
+        "license": "",
+        "requires_plugins": "",
+        "requires_wp": "6.8",
+        "requires_php": "7.4"
+    }
+]

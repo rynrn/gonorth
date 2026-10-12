@@ -1,0 +1,6 @@
+{
+  "places": [
+    {"name":"שוורצע (משק שוורץ)","country":"ישראל","region":"צפון","latitude":33.047803,"longitude":35.5612092,"google_place_id":"ChIJM5EjMbQhHBURl3TFbMs_-PE","source_url":"https://easy.co.il/page/26550011","address":"הזית 47","city":"שדה אליעזר","phone":"054-800-7606","category":"ochel","google_rating":4.9,"google_review_count":87},
+    {"name":"Peti Peti — פטי פטי","country":"ישראל","region":"צפון","latitude":33.0463051,"longitude":35.5706815,"google_place_id":"ChIJmeF0nmUfHBURwC8gAyBgeJg","source_url":"https://www.bordo100.co.il/מסעדה/Peti+Peti+|+פטי+פטי.html","address":"תחנת דלק סונול","city":"שדה אליעזר","phone":"04-681-7855","website":"https://tabitisrael.co.il/tabit-order?siteName=petipeti&step=enter","category":"restaurants-sub","google_rating":4.3,"google_review_count":190}
+  ]
+}

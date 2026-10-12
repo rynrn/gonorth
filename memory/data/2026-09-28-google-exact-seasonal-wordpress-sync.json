@@ -1,0 +1,277 @@
+{
+  "format": "gonorth-place-facts-wordpress-sync/v1",
+  "generated_at": "2026-09-28T12:46:21Z",
+  "changes": [
+    {
+      "place_id": 207,
+      "wordpress_id": 207,
+      "name": "נינו עגלת קפה",
+      "url": "https://gonorth.co.il/places/%d7%a0%d7%99%d7%a0%d7%95-%d7%a2%d7%92%d7%9c%d7%aa-%d7%a7%d7%a4%d7%94/",
+      "change_ids": [
+        540,
+        542,
+        543
+      ],
+      "expected": {
+        "google_place_id": null,
+        "google_rating": null,
+        "google_review_count": null
+      },
+      "updates": {
+        "google_place_id": "ChIJlyY2kNQbHBUR9WiKd0hv3p8",
+        "google_rating": 4.7,
+        "google_review_count": 325
+      },
+      "verification": {
+        "source": "google_places",
+        "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJlyY2kNQbHBUR9WiKd0hv3p8",
+        "checked_at": "2026-09-28T12:45:00Z",
+        "practical_verified": false,
+        "google_verified": true
+      }
+    },
+    {
+      "place_id": 209,
+      "wordpress_id": 209,
+      "name": "דה פייפ קפה",
+      "url": "https://gonorth.co.il/places/%d7%93%d7%94-%d7%a4%d7%99%d7%99%d7%a4-%d7%a7%d7%a4%d7%94/",
+      "change_ids": [
+        545,
+        547,
+        548
+      ],
+      "expected": {
+        "google_place_id": null,
+        "google_rating": null,
+        "google_review_count": null
+      },
+      "updates": {
+        "google_place_id": "ChIJ11OD0dsRHBURRq5VRETC9mk",
+        "google_rating": 4.7,
+        "google_review_count": 113
+      },
+      "verification": {
+        "source": "google_places",
+        "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJ11OD0dsRHBURRq5VRETC9mk",
+        "checked_at": "2026-09-28T12:45:00Z",
+        "practical_verified": false,
+        "google_verified": true
+      }
+    },
+    {
+      "place_id": 329,
+      "wordpress_id": 329,
+      "name": "חוות האושר — רכיבה על סוסים",
+      "url": "https://gonorth.co.il/places/%d7%97%d7%95%d7%95%d7%aa-%d7%94%d7%90%d7%95%d7%a9%d7%a8-%d7%a8%d7%9b%d7%99%d7%91%d7%94-%d7%a2%d7%9c-%d7%a1%d7%95%d7%a1%d7%99%d7%9d/",
+      "change_ids": [
+        550,
+        552,
+        553
+      ],
+      "expected": {
+        "google_place_id": null,
+        "google_rating": null,
+        "google_review_count": null
+      },
+      "updates": {
+        "google_place_id": "ChIJV3vFGhAeHBURuLts5-WYcJs",
+        "google_rating": 4.8,
+        "google_review_count": 470
+      },
+      "verification": {
+        "source": "google_places",
+        "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJV3vFGhAeHBURuLts5-WYcJs",
+        "checked_at": "2026-09-28T12:45:00Z",
+        "practical_verified": false,
+        "google_verified": true
+      }
+    },
+    {
+      "place_id": 347,
+      "wordpress_id": 347,
+      "name": "קטיף עצמי אל-רום",
+      "url": "https://gonorth.co.il/places/%d7%a7%d7%98%d7%99%d7%a3-%d7%a2%d7%a6%d7%9e%d7%99-%d7%90%d7%9c-%d7%a8%d7%95%d7%9d/",
+      "change_ids": [
+        555,
+        557,
+        558
+      ],
+      "expected": {
+        "google_place_id": null,
+        "google_rating": null,
+        "google_review_count": null
+      },
+      "updates": {
+        "google_place_id": "ChIJZ2IcrjqxHhURxCy1Zhy3RHI",
+        "google_rating": 4.4,
+        "google_review_count": 234
+      },
+      "verification": {
+        "source": "google_places",
+        "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ2IcrjqxHhURxCy1Zhy3RHI",
+        "checked_at": "2026-09-28T12:45:00Z",
+        "practical_verified": false,
+        "google_verified": true
+      }
+    },
+    {
+      "place_id": 393,
+      "wordpress_id": 393,
+      "name": "קטיף עצמי נווה אטיב",
+      "url": "https://gonorth.co.il/places/%d7%a7%d7%98%d7%99%d7%a3-%d7%a2%d7%a6%d7%9e%d7%99-%d7%a0%d7%95%d7%95%d7%94-%d7%90%d7%98%d7%99%d7%91/",
+      "change_ids": [
+        560,
+        562,
+        563
+      ],
+      "expected": {
+        "google_place_id": null,
+        "google_rating": null,
+        "google_review_count": null
+      },
+      "updates": {
+        "google_place_id": "ChIJzWr_-4G3HhURaGZ5zgveRFo",
+        "google_rating": 4.7,
+        "google_review_count": 126
+      },
+      "verification": {
+        "source": "google_places",
+        "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJzWr_-4G3HhURaGZ5zgveRFo",
+        "checked_at": "2026-09-28T12:45:00Z",
+        "practical_verified": false,
+        "google_verified": true
+      }
+    },
+    {
+      "place_id": 421,
+      "wordpress_id": 421,
+      "name": "הבוסתן של מוטי",
+      "url": "https://gonorth.co.il/places/%d7%94%d7%91%d7%95%d7%a1%d7%aa%d7%9f-%d7%a9%d7%9c-%d7%9e%d7%95%d7%98%d7%99/",
+      "change_ids": [
+        565,
+        567,
+        568
+      ],
+      "expected": {
+        "google_place_id": null,
+        "google_rating": null,
+        "google_review_count": null
+      },
+      "updates": {
+        "google_place_id": "ChIJK9f4If-wHhURSKB71JETick",
+        "google_rating": 4.6,
+        "google_review_count": 214
+      },
+      "verification": {
+        "source": "google_places",
+        "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJK9f4If-wHhURSKB71JETick",
+        "checked_at": "2026-09-28T12:45:00Z",
+        "practical_verified": false,
+        "google_verified": true
+      }
+    }
+  ],
+  "deferred": [
+    {
+      "change_id": 541,
+      "place_id": 207,
+      "wordpress_id": 207,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 544,
+      "place_id": 207,
+      "wordpress_id": 207,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 546,
+      "place_id": 209,
+      "wordpress_id": 209,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 549,
+      "place_id": 209,
+      "wordpress_id": 209,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 551,
+      "place_id": 329,
+      "wordpress_id": 329,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 554,
+      "place_id": 329,
+      "wordpress_id": 329,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 556,
+      "place_id": 347,
+      "wordpress_id": 347,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 559,
+      "place_id": 347,
+      "wordpress_id": 347,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 561,
+      "place_id": 393,
+      "wordpress_id": 393,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 564,
+      "place_id": 393,
+      "wordpress_id": 393,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 566,
+      "place_id": 421,
+      "wordpress_id": 421,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 569,
+      "place_id": 421,
+      "wordpress_id": 421,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    }
+  ],
+  "summary": {
+    "places": 6,
+    "change_count": 18,
+    "deferred_count": 12
+  }
+}

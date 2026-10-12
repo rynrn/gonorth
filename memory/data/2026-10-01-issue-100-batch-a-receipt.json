@@ -1,0 +1,76 @@
+[
+    {
+        "ID": 470,
+        "title": "המקום של ארנון",
+        "status": "pending",
+        "slug": "",
+        "permalink": "https://gonorth.co.il/?post_type=gd_place&p=470",
+        "thumbnail_id": 472,
+        "categories": [
+            "batei-kafe"
+        ],
+        "regions": [
+            "galil"
+        ],
+        "coordinates": [
+            "33.0596945",
+            "35.6125568"
+        ],
+        "data": {
+            "address": "רחוב השזיף פינת המגדל",
+            "city": "יסוד המעלה",
+            "latitude": "33.0596945",
+            "longitude": "35.6125568",
+            "phone": "050-277-0613",
+            "website": "https://arnons-place.co.il/",
+            "business_hours": null,
+            "price_type": null,
+            "open_saturday": null,
+            "practical_checked_at": "2026-10-01T13:38:53+00:00",
+            "google": {
+                "place_id": "ChIJd1H9FQChHhURr33cM2c8b38",
+                "rating": "4.9",
+                "review_count": "41",
+                "checked_at": "2026-10-01T13:38:53+00:00",
+                "complete": true
+            }
+        }
+    },
+    {
+        "ID": 471,
+        "title": "רנטו בר יין ומעדנייה",
+        "status": "pending",
+        "slug": "",
+        "permalink": "https://gonorth.co.il/?post_type=gd_place&p=471",
+        "thumbnail_id": 473,
+        "categories": [
+            "restaurants-sub"
+        ],
+        "regions": [
+            "galil"
+        ],
+        "coordinates": [
+            "33.0573462",
+            "35.6090588"
+        ],
+        "data": {
+            "address": "כיכר המושבה, המייסדים 130",
+            "city": "יסוד המעלה",
+            "latitude": "33.0573462",
+            "longitude": "35.6090588",
+            "phone": "054-670-0937",
+            "website": "https://renatodeli.co.il/",
+            "business_hours": null,
+            "price_type": null,
+            "open_saturday": null,
+            "practical_checked_at": "2026-10-01T13:38:53+00:00",
+            "google": {
+                "place_id": "ChIJ0853nvohHBURd5AEOnjKy_A",
+                "rating": "4.7",
+                "review_count": "72",
+                "checked_at": "2026-10-01T13:38:53+00:00",
+                "complete": true
+            }
+        }
+    }
+]

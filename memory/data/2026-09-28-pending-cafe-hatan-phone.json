@@ -1,0 +1,16 @@
+[
+  {
+    "id": 515,
+    "place_id": 217,
+    "name": "קפה התן",
+    "url": "https://gonorth.co.il/places/%d7%a7%d7%a4%d7%94-%d7%94%d7%aa%d7%9f/",
+    "field": "phone",
+    "old_value": "052-470-8383",
+    "new_value": null,
+    "detected_at": "2026-09-28T11:50:00Z",
+    "confidence": null,
+    "source": "manual_web_verification",
+    "source_url": "https://de.restaurantguru.com/htn-Hatan-Cafe-Beit-Hillel-Beit-Hillel",
+    "seo_action": "review_change"
+  }
+]

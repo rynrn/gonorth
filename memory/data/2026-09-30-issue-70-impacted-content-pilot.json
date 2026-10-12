@@ -1,0 +1,29 @@
+{
+  "changes": 1,
+  "impacts": [
+    {
+      "wordpress_id": 173,
+      "field": "business_hours",
+      "content_id": 206,
+      "content_type": "page",
+      "title": "גשר הזיו — מה לעשות, לאן לאכול ואיפה ללון באזור",
+      "url": "https://gonorth.co.il/gesher-haziv-guide/"
+    },
+    {
+      "wordpress_id": 173,
+      "field": "business_hours",
+      "content_id": 432,
+      "content_type": "post",
+      "title": "אגמון החולה — מדריך לביקור: מסלולים, עגלות ותצפיות על הציפורים",
+      "url": "https://gonorth.co.il/agamon-hahula-guide/"
+    },
+    {
+      "wordpress_id": 173,
+      "field": "business_hours",
+      "content_id": 448,
+      "content_type": "post",
+      "title": "מדריך לטיול בגליל העליון: מסלולים, כפרים ומה לעשות ביום אחד",
+      "url": "https://gonorth.co.il/upper-galilee-day-trip-guide/"
+    }
+  ]
+}

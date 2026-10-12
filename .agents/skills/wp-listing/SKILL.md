@@ -218,6 +218,15 @@ ssh gonorth "rm /tmp/place-name.jpg"
 2. Unsplash / Pixabay — free for commercial use
 3. Always verify license before using
 
+## Dynamic facts workflow
+
+For an existing listing's business status, opening hours, phone, website or address:
+
+1. Read a JSON or Markdown view from `place-facts/scripts/place-facts.py`; do not query or write SQLite directly.
+2. Submit source-backed results through the CLI `submit` command. Omit fields that were not checked; `null` means an explicit removal.
+3. Review detected differences through `pending` and `review` before syncing approved values to WordPress.
+4. A closure result never authorizes draft, private, trash, deletion or 404. Keep the URL live and follow the SEO closure policy.
+5. After creating a new pending WordPress listing, map its stable WordPress ID into place-facts through the next snapshot import.
 ## Constraints
 
 ### MUST DO
@@ -234,3 +243,7 @@ ssh gonorth "rm /tmp/place-name.jpg"
 - Create duplicate listings for the same place
 - Leave latitude/longitude empty — map pins are essential
 - **Submit a listing without a featured image**
+
+## Shared change contract
+
+Follow docs/agent-change-contract.md for every change. Classify risk and canonical writer first; record sources and dates; create a snapshot and rollback for live changes; run tools/validate-place-records.py for place data; verify the canonical record and public output; then write the dated report and issue evidence. Official non-Google sources are valid when documented. Existing dynamic business facts must use the place-facts review and sync workflow.

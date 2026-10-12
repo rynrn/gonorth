@@ -1,0 +1,330 @@
+{
+  "generated_at_utc": "2026-09-26T11:24:21.9399792Z",
+  "count": 30,
+  "rows": [
+    {
+      "id": 50,
+      "title": "כפר נופש – יער אודם",
+      "source_url": "https://www.yayalim.co.il",
+      "listed_phone": "050-522-9450",
+      "http_status": 200,
+      "final_url": null,
+      "reachable": true,
+      "phone_found": true,
+      "page_title": "עמוד ראשי - כפר נופש יער אודם"
+    },
+    {
+      "id": 61,
+      "title": "מלון פרא — Pereh Hotel",
+      "source_url": "https://pereh.co.il",
+      "listed_phone": "077-331-1222",
+      "http_status": 200,
+      "final_url": null,
+      "reachable": true,
+      "phone_found": true,
+      "page_title": "מלון פרא - Pereh Hotel"
+    },
+    {
+      "id": 63,
+      "title": "כנען וילאג׳ – מלון בוטיק וספא בצפון",
+      "source_url": "https://www.cnaan-village.co.il",
+      "listed_phone": "04-682-2128",
+      "http_status": 200,
+      "final_url": null,
+      "reachable": true,
+      "phone_found": true,
+      "page_title": "מלון בוטיק בצפון | ספא עם סוויטה פרטית ובריכה מפנקת | כנען וילאג'"
+    },
+    {
+      "id": 88,
+      "title": "שמורת נחל הקיבוצים",
+      "source_url": "https://www.parks.org.il",
+      "listed_phone": "*3639",
+      "http_status": 200,
+      "final_url": null,
+      "reachable": true,
+      "phone_found": true,
+      "page_title": "דף הבית - רשות הטבע והגנים"
+    },
+    {
+      "id": 173,
+      "title": "אגמון החולה",
+      "source_url": "https://agamon-hula.co.il/",
+      "listed_phone": "04-681-7137",
+      "http_status": 200,
+      "final_url": null,
+      "reachable": true,
+      "phone_found": false,
+      "page_title": "דף הבית - אגמון החולה"
+    },
+    {
+      "id": 177,
+      "title": "עין תינה",
+      "source_url": "https://www.parks.org.il/trip/ein-tina/",
+      "listed_phone": "*3639",
+      "http_status": 200,
+      "final_url": null,
+      "reachable": true,
+      "phone_found": true,
+      "page_title": "עין תינה - המלצה למסלול טיול בשמורת טבע מורדות הגולן - רשות הטבע והגנים"
+    },
+    {
+      "id": 181,
+      "title": "חוות בת יער",
+      "source_url": "https://www.batyaar.co.il/",
+      "listed_phone": "04-692-1788",
+      "http_status": 200,
+      "final_url": null,
+      "reachable": true,
+      "phone_found": true,
+      "page_title": "חוות בת יער | מסעדת בשרים, אירועים וטיולי סוסים ביער ביריה"
+    },
+    {
+      "id": 195,
+      "title": "מפגש היקב — עמיעד",
+      "source_url": "https://liqueur-amiad.co.il/",
+      "listed_phone": "04-690-9333",
+      "http_status": 200,
+      "final_url": null,
+      "reachable": true,
+      "phone_found": true,
+      "page_title": "ליקר עמיעד &#8211; בכניסה לקיבוץ"
+    },
+    {
+      "id": 197,
+      "title": "יקב רמות נפתלי",
+      "source_url": "https://ramotnaftaly.com/",
+      "listed_phone": "04-694-0371",
+      "reachable": false,
+      "error": "Response status code does not indicate success: 403 (Forbidden)."
+    },
+    {
+      "id": 207,
+      "title": "נינו עגלת קפה",
+      "source_url": "https://www.facebook.com/ninocoffeecart",
+      "listed_phone": "054-2474134",
+      "http_status": 200,
+      "final_url": null,
+      "reachable": true,
+      "phone_found": false,
+      "page_title": "נינו עגלת קפה - Nino coffee cart | Ma&#039;ale Gamla"
+    },
+    {
+      "id": 212,
+      "title": "קפה חמה",
+      "source_url": "https://www.facebook.com/cafehamma",
+      "listed_phone": "050-7250101",
+      "http_status": 200,
+      "final_url": null,
+      "reachable": true,
+      "phone_found": false,
+      "page_title": "קפה חמה - עגלת קפה בגולן | Mevo Hama"
+    },
+    {
+      "id": 244,
+      "title": "יקב בן זמרה",
+      "source_url": "https://www.benzimrawinery.com",
+      "listed_phone": "055-5570829",
+      "http_status": 200,
+      "final_url": null,
+      "reachable": true,
+      "phone_found": true,
+      "page_title": "יקב בן זמרה | יין בוטיק מהגליל העליון"
+    },
+    {
+      "id": 327,
+      "title": "חמי טבריה",
+      "source_url": "https://brownhotels.co.il/hamei-tiberius",
+      "listed_phone": "04-6123600",
+      "http_status": 200,
+      "final_url": null,
+      "reachable": true,
+      "phone_found": true,
+      "page_title": "מעיינות חמי טבריה - מלון לייקהאוס כנרת"
+    },
+    {
+      "id": 329,
+      "title": "חוות האושר — רכיבה על סוסים",
+      "source_url": "http://www.katzrin-ranch.co.il/",
+      "listed_phone": "072-392-5652",
+      "http_status": 200,
+      "final_url": null,
+      "reachable": true,
+      "phone_found": false,
+      "page_title": "חוות סוסים בצפון, טיולי רכיבה על סוסים בצפון - חוות האושר"
+    },
+    {
+      "id": 331,
+      "title": "ורד הגליל",
+      "source_url": "https://brownhotels.co.il/vered-hagalil-guest-farm",
+      "listed_phone": "04-693-5785",
+      "http_status": 200,
+      "final_url": null,
+      "reachable": true,
+      "phone_found": true,
+      "page_title": "חוות נופש ורד הגליל (מלונות בראון) - נופש בצפון"
+    },
+    {
+      "id": 335,
+      "title": "גיל גולן — מרכז רכיבה",
+      "source_url": "https://gil-golan.weebly.com/",
+      "listed_phone": "052-811-9505",
+      "http_status": 200,
+      "final_url": null,
+      "reachable": true,
+      "phone_found": true,
+      "page_title": "GIL GOLAN RIDING CENTER &#1490;&#1497;&#1500; &#1490;&#1493;&#1500;&#1503;- &#1502;&#1512;&#1499;&#1494; &#1512;&#1499;&#1497;&#1489;&#1492; &#1493;&#1488;&#1497;&#1500;&#1493;&#1507; &#1505;&#1493;&#1505;&#1497;&#1501;Phone 0528119505 - Home"
+    },
+    {
+      "id": 337,
+      "title": "חוות סוסים — קיבוץ אורטל",
+      "source_url": "https://www.ortal.net/%D7%97%D7%95%D7%95%D7%AA-%D7%A1%D7%95%D7%A1%D7%99%D7%9D/",
+      "listed_phone": "053-736-4750",
+      "http_status": 200,
+      "final_url": null,
+      "reachable": true,
+      "phone_found": false,
+      "page_title": "חוות סוסים - רכיבה על סוסים בצפון | תיירות קיבוץ אורטל"
+    },
+    {
+      "id": 339,
+      "title": "גלמפינג קיבוץ אורטל",
+      "source_url": "https://www.ortal.net/glamping-ortal/",
+      "listed_phone": "04-648-8095",
+      "http_status": 200,
+      "final_url": null,
+      "reachable": true,
+      "phone_found": true,
+      "page_title": "גלמפינג ברמת הגולן בקיבוץ אורטל | תיירות קיבוץ אורטל"
+    },
+    {
+      "id": 343,
+      "title": "גלמפינג עין תאנה",
+      "source_url": "https://www.ein-teina.com/",
+      "listed_phone": "054-478-4677",
+      "http_status": 200,
+      "final_url": null,
+      "reachable": true,
+      "phone_found": false,
+      "page_title": "home - עין תאנה"
+    },
+    {
+      "id": 345,
+      "title": "בלום וילג׳ — כפר בלום",
+      "source_url": "https://blumvillage.co.il/",
+      "listed_phone": "04-690-2616",
+      "http_status": 200,
+      "final_url": null,
+      "reachable": true,
+      "phone_found": true,
+      "page_title": "גלמפינג בצפון - בלום וילג&#039;"
+    },
+    {
+      "id": 347,
+      "title": "קטיף עצמי אל-רום",
+      "source_url": "https://katif-elrom.co.il/",
+      "listed_phone": "04-683-8016",
+      "reachable": false,
+      "error": "Operation is not valid due to the current state of the object."
+    },
+    {
+      "id": 353,
+      "title": "סאונדטראק — טיולי אוזניות בטבע",
+      "source_url": "https://www.soundtrackbateva.com/",
+      "listed_phone": "050-832-4990",
+      "http_status": 200,
+      "final_url": null,
+      "reachable": true,
+      "phone_found": true,
+      "page_title": "סאונדטרק - מסע מוזיקלי בטבע | מחברים אותך לטבע"
+    },
+    {
+      "id": 361,
+      "title": "העדי שבמטבח — סדנאות שוקולד",
+      "source_url": "https://theadi.co.il/",
+      "listed_phone": "054-977-2524",
+      "http_status": 200,
+      "final_url": null,
+      "reachable": true,
+      "phone_found": true,
+      "page_title": "סדנת שוקולד - שוקולדי"
+    },
+    {
+      "id": 373,
+      "title": "טיולי עששיות בפארק הירדן",
+      "source_url": "https://www.parkyarden.co.il/",
+      "listed_phone": "04-692-3422",
+      "http_status": 200,
+      "final_url": null,
+      "reachable": true,
+      "phone_found": true,
+      "page_title": "פארק הירדן"
+    },
+    {
+      "id": 377,
+      "title": "בירה בזלת — מבשלת הגולן",
+      "source_url": "https://bazeletbeer.co.il/",
+      "listed_phone": "04-696-1311",
+      "http_status": 200,
+      "final_url": null,
+      "reachable": true,
+      "phone_found": false,
+      "page_title": "בזלת – בירה טרייה תוצרת הגולן"
+    },
+    {
+      "id": 397,
+      "title": "אתגר הבונקר",
+      "source_url": "https://tel-saki.org/",
+      "listed_phone": "050-843-2379",
+      "http_status": 200,
+      "final_url": null,
+      "reachable": true,
+      "phone_found": false,
+      "page_title": "תל סאקי - קרב תל סאקי מלחמת יום כיפור"
+    },
+    {
+      "id": 403,
+      "title": "קטיף עצמי הדובדבן שבגולן",
+      "source_url": "https://camping-ido.co.il/",
+      "listed_phone": "054-751-5166",
+      "http_status": 200,
+      "final_url": null,
+      "reachable": true,
+      "phone_found": true,
+      "page_title": "הדובדבן שבגולן &#8211; חאן וקטיף עצמי"
+    },
+    {
+      "id": 407,
+      "title": "אתר החרמון",
+      "source_url": "https://skihermon.co.il/",
+      "listed_phone": "1599-550560",
+      "http_status": 200,
+      "final_url": null,
+      "reachable": true,
+      "phone_found": true,
+      "page_title": "ראשי - קיץ - אתר חרמון"
+    },
+    {
+      "id": 421,
+      "title": "הבוסתן של מוטי",
+      "source_url": "https://www.habustan-moti.co.il/",
+      "listed_phone": "054-260-0160",
+      "http_status": 200,
+      "final_url": null,
+      "reachable": true,
+      "phone_found": true,
+      "page_title": "הבוסתן של מוטי - קטיף דובדבנים ופירות יער רמת הגולן"
+    },
+    {
+      "id": 425,
+      "title": "הכפר האינדיאני — גלמפינג ברמת הגולן",
+      "source_url": "https://tipi.co.il/",
+      "listed_phone": "04-676-2151",
+      "http_status": 200,
+      "final_url": null,
+      "reachable": true,
+      "phone_found": true,
+      "page_title": "הכפר האינדיאני | קמפינג בגולן | אוהלים בצפון"
+    }
+  ]
+}

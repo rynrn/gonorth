@@ -1,0 +1,72 @@
+[
+  {
+    "id": 16,
+    "type": "page",
+    "title": "חיפוש",
+    "url": "https://gonorth.co.il/search/",
+    "status": 200
+  },
+  {
+    "id": 18,
+    "type": "page",
+    "title": "אזורים",
+    "url": "https://gonorth.co.il/location/",
+    "status": 200
+  },
+  {
+    "id": 19,
+    "type": "page",
+    "title": "ארכיון מקומות",
+    "url": "https://gonorth.co.il/gd-archive/",
+    "status": 200
+  },
+  {
+    "id": 20,
+    "type": "page",
+    "title": "כרטיס מקום",
+    "url": "https://gonorth.co.il/gd-archive-item/",
+    "status": 200
+  },
+  {
+    "id": 21,
+    "type": "page",
+    "title": "פרטי מקום",
+    "url": "https://gonorth.co.il/gd-details/",
+    "status": 200
+  },
+  {
+    "id": 46,
+    "type": "page",
+    "title": "הצהרת נגישות",
+    "url": "https://gonorth.co.il/negishot/",
+    "status": 200
+  },
+  {
+    "id": 84,
+    "type": "page",
+    "title": "מדריך לינה ברמת הגולן: מלונות, צימרים וקמפינג",
+    "url": "https://gonorth.co.il/%d7%9e%d7%93%d7%a8%d7%99%d7%9a-%d7%9c%d7%99%d7%a0%d7%94-%d7%91%d7%a8%d7%9e%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f-%d7%9e%d7%9c%d7%95%d7%a0%d7%95%d7%aa-%d7%a6%d7%99%d7%9e%d7%a8%d7%99%d7%9d-%d7%95%d7%a7/",
+    "status": 200
+  },
+  {
+    "id": 100,
+    "type": "page",
+    "title": "הוסף מקום",
+    "url": "https://gonorth.co.il/add-listing/",
+    "status": 200
+  },
+  {
+    "id": 126,
+    "type": "page",
+    "title": "מה לעשות בשבועות 2025 בצפון — המדריך לחג",
+    "url": "https://gonorth.co.il/shavuot-2025-north-israel/",
+    "status": 200
+  },
+  {
+    "id": 131,
+    "type": "page",
+    "title": "מצוקי דרגות — מסלול הטיול, קושי ואיך מגיעים",
+    "url": "https://gonorth.co.il/metzukei-dragot-guide/",
+    "status": 200
+  }
+]

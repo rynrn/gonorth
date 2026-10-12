@@ -1,0 +1,27 @@
+[
+  {
+    "id": 490,
+    "url": "https://gonorth.co.il/places/%d7%9e%d7%9c%d7%95%d7%9f-%d7%92%d7%9c%d7%99%d7%9c%d7%99%d7%95%d7%9f/",
+    "http": 200,
+    "bytes": 493106,
+    "markers": {
+      "title": true,
+      "image": true,
+      "rtl": true,
+      "canonical": true
+    }
+  },
+  {
+    "id": 491,
+    "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%a2%d7%99%d7%9f-%d7%aa%d7%90%d7%95/",
+    "http": 200,
+    "bytes": 494241,
+    "markers": {
+      "title": true,
+      "image": true,
+      "rtl": true,
+      "canonical": true,
+      "safety": true
+    }
+  }
+]

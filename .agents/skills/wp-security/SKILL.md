@@ -62,8 +62,8 @@ ssh gonorth "wp user list --role=administrator --path=/var/www/gonorth --allow-r
 # Check for default 'admin' username (must not exist)
 ssh gonorth "wp user get admin --path=/var/www/gonorth --allow-root 2>&1 || echo 'OK: no admin user'"
 
-# Force strong password for user
-ssh gonorth "wp user update {user_id} --user_pass='{strong_password}' --path=/var/www/gonorth --allow-root"
+# Rotate user passwords through the approved credential store and admin workflow.
+# Never put a password on a command line, in shell history, or in agent output.
 ```
 
 ### 4. File Permissions
@@ -118,7 +118,8 @@ Options -Indexes
 
 ### 6. wp-config.php Hardening
 ```bash
-ssh gonorth "cat /var/www/gonorth/wp-config.php | grep -E 'DEBUG|DISALLOW|AUTH_KEY|SECURE_AUTH'"
+# Inspect only non-secret configuration flags. Never print wp-config.php or auth keys.
+ssh gonorth "wp config get WP_DEBUG --path=/var/www/gonorth --allow-root"
 ```
 
 Ensure these are set:

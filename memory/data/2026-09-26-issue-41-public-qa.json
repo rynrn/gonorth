@@ -1,0 +1,140 @@
+{
+  "checked_at_utc": "2026-09-26T07:10:40.6573175Z",
+  "hub": {
+    "url": "https://gonorth.co.il/tours-kayaks-north-israel/",
+    "status": 200,
+    "title": "סיורים בצפון וקיאקים בנחל הירדן | כיוון צפון",
+    "title_matches": true,
+    "meta_description": "מדריך לסיורים בצפון ולקיאקים בנחל הירדן: השוואה לפי אזור, גיל, עונה וסוג פעילות, עם קישורים למפעילים בגליל, בגולן ובכינרת.",
+    "meta_matches": true,
+    "canonical": "https://gonorth.co.il/tours-kayaks-north-israel/",
+    "canonical_matches": true,
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "noindex": false,
+    "h1_count": 1,
+    "internal_content_links": 37,
+    "sitemap_contains": true
+  },
+  "links": [
+    {
+      "direction": "hub_to_place",
+      "source_id": 436,
+      "target_id": 323,
+      "found": true
+    },
+    {
+      "direction": "hub_to_place",
+      "source_id": 436,
+      "target_id": 325,
+      "found": true
+    },
+    {
+      "direction": "hub_to_place",
+      "source_id": 436,
+      "target_id": 335,
+      "found": true
+    },
+    {
+      "direction": "hub_to_place",
+      "source_id": 436,
+      "target_id": 361,
+      "found": true
+    },
+    {
+      "direction": "hub_to_place",
+      "source_id": 436,
+      "target_id": 373,
+      "found": true
+    },
+    {
+      "direction": "hub_to_place",
+      "source_id": 436,
+      "target_id": 401,
+      "found": true
+    },
+    {
+      "direction": "hub_to_place",
+      "source_id": 436,
+      "target_id": 415,
+      "found": true
+    },
+    {
+      "direction": "hub_to_place",
+      "source_id": 436,
+      "target_id": 423,
+      "found": true
+    },
+    {
+      "direction": "hub_to_archive",
+      "source_id": 436,
+      "target_id": null,
+      "found": true
+    },
+    {
+      "direction": "place_to_hub",
+      "source_id": 323,
+      "target_id": 436,
+      "found": true,
+      "status": 200,
+      "h1_count": 1
+    },
+    {
+      "direction": "place_to_hub",
+      "source_id": 325,
+      "target_id": 436,
+      "found": true,
+      "status": 200,
+      "h1_count": 1
+    },
+    {
+      "direction": "place_to_hub",
+      "source_id": 335,
+      "target_id": 436,
+      "found": true,
+      "status": 200,
+      "h1_count": 1
+    },
+    {
+      "direction": "place_to_hub",
+      "source_id": 361,
+      "target_id": 436,
+      "found": true,
+      "status": 200,
+      "h1_count": 1
+    },
+    {
+      "direction": "place_to_hub",
+      "source_id": 373,
+      "target_id": 436,
+      "found": true,
+      "status": 200,
+      "h1_count": 1
+    },
+    {
+      "direction": "place_to_hub",
+      "source_id": 401,
+      "target_id": 436,
+      "found": true,
+      "status": 200,
+      "h1_count": 1
+    },
+    {
+      "direction": "place_to_hub",
+      "source_id": 415,
+      "target_id": 436,
+      "found": true,
+      "status": 200,
+      "h1_count": 1
+    },
+    {
+      "direction": "place_to_hub",
+      "source_id": 423,
+      "target_id": 436,
+      "found": true,
+      "status": 200,
+      "h1_count": 1
+    }
+  ],
+  "all_links_found": true,
+  "all_pages_200": true
+}

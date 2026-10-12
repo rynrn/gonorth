@@ -1,0 +1,58 @@
+[
+  {
+    "id": 323,
+    "url": "https://gonorth.co.il/places/%d7%a7%d7%99%d7%99%d7%a7%d7%99-%d7%9b%d7%a4%d7%a8-%d7%91%d7%9c%d7%95%d7%9d/",
+    "status": 200,
+    "h1": 1,
+    "error": null
+  },
+  {
+    "id": 325,
+    "url": "https://gonorth.co.il/places/%d7%a8%d7%a4%d7%98%d7%99%d7%a0%d7%92-%d7%a0%d7%94%d7%a8-%d7%94%d7%99%d7%a8%d7%93%d7%9f/",
+    "status": 200,
+    "h1": 1,
+    "error": null
+  },
+  {
+    "id": 335,
+    "url": "https://gonorth.co.il/places/%d7%92%d7%99%d7%9c-%d7%92%d7%95%d7%9c%d7%9f-%d7%9e%d7%a8%d7%9b%d7%96-%d7%a8%d7%9b%d7%99%d7%91%d7%94/",
+    "status": 200,
+    "h1": 1,
+    "error": null
+  },
+  {
+    "id": 361,
+    "url": "https://gonorth.co.il/places/%d7%94%d7%a2%d7%93%d7%99-%d7%a9%d7%91%d7%9e%d7%98%d7%91%d7%97-%d7%a1%d7%93%d7%a0%d7%90%d7%95%d7%aa-%d7%a9%d7%95%d7%a7%d7%95%d7%9c%d7%93/",
+    "status": 200,
+    "h1": 1,
+    "error": null
+  },
+  {
+    "id": 373,
+    "url": "https://gonorth.co.il/places/%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%a2%d7%a9%d7%a9%d7%99%d7%95%d7%aa-%d7%91%d7%a4%d7%90%d7%a8%d7%a7-%d7%94%d7%99%d7%a8%d7%93%d7%9f/",
+    "status": 200,
+    "h1": 1,
+    "error": null
+  },
+  {
+    "id": 401,
+    "url": "https://gonorth.co.il/places/go-golan-%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%a8%d7%99%d7%99%d7%a0%d7%92%d7%b3%d7%a8%d7%99%d7%9d/",
+    "status": 200,
+    "h1": 1,
+    "error": null
+  },
+  {
+    "id": 415,
+    "url": "https://gonorth.co.il/places/%d7%90%d7%91%d7%95-%d7%a7%d7%99%d7%90%d7%a7/",
+    "status": 200,
+    "h1": 1,
+    "error": null
+  },
+  {
+    "id": 423,
+    "url": "https://gonorth.co.il/places/%d7%a7%d7%99%d7%90%d7%a7-%d7%9b%d7%a0%d7%a8%d7%aa/",
+    "status": 200,
+    "h1": 1,
+    "error": null
+  }
+]

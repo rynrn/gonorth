@@ -1,0 +1,349 @@
+{
+  "id": 23,
+  "date": "2026-04-05T21:31:54",
+  "date_gmt": "2026-04-05T21:31:54",
+  "guid": {
+    "rendered": "https://gonorth.co.il/home/",
+    "raw": "https://gonorth.co.il/home/"
+  },
+  "modified": "2026-06-18T18:04:47",
+  "modified_gmt": "2026-06-18T18:04:47",
+  "password": "",
+  "slug": "home",
+  "status": "publish",
+  "type": "page",
+  "link": "https://gonorth.co.il/",
+  "title": {
+    "raw": "כיוון צפון | המדריך לצפון ישראל - אטרקציות, לינה וסיורים",
+    "rendered": "כיוון צפון | המדריך לצפון ישראל &#8211; אטרקציות, לינה וסיורים"
+  },
+  "content": {
+    "raw": "",
+    "rendered": "",
+    "protected": false,
+    "block_version": 0
+  },
+  "excerpt": {
+    "raw": "",
+    "rendered": "",
+    "protected": false
+  },
+  "author": 0,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "site-sidebar-layout": "default",
+    "site-content-layout": "",
+    "ast-site-content-layout": "default",
+    "site-content-style": "default",
+    "site-sidebar-style": "default",
+    "ast-global-header-display": "",
+    "ast-banner-title-visibility": "",
+    "ast-main-header-display": "",
+    "ast-hfb-above-header-display": "",
+    "ast-hfb-below-header-display": "",
+    "ast-hfb-mobile-header-display": "",
+    "site-post-title": "",
+    "ast-breadcrumbs-content": "",
+    "ast-featured-img": "",
+    "footer-sml-layout": "",
+    "ast-disable-related-posts": "",
+    "theme-transparent-header-meta": "",
+    "adv-header-id-meta": "",
+    "stick-header-meta": "",
+    "header-above-stick-meta": "",
+    "header-main-stick-meta": "",
+    "header-below-stick-meta": "",
+    "astra-migrate-meta-layouts": "default",
+    "ast-page-background-enabled": "default",
+    "ast-page-background-meta": {
+      "desktop": {
+        "background-color": "var(--ast-global-color-5)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "tablet": {
+        "background-color": "",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "mobile": {
+        "background-color": "",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      }
+    },
+    "ast-content-background-meta": {
+      "desktop": {
+        "background-color": "var(--ast-global-color-4)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "tablet": {
+        "background-color": "var(--ast-global-color-4)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "mobile": {
+        "background-color": "var(--ast-global-color-4)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      }
+    },
+    "footnotes": "",
+    "_elementor_edit_mode": "",
+    "_elementor_template_type": "",
+    "_elementor_data": "",
+    "_elementor_page_settings": null
+  },
+  "permalink_template": "https://gonorth.co.il/",
+  "generated_slug": "כיוון-צפון-המדריך-לצפון-ישראל-אטרקצי",
+  "class_list": [
+    "post-23",
+    "page",
+    "type-page",
+    "status-publish",
+    "hentry"
+  ],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v27.5 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>כיוון צפון | המדריך לצפון ישראל</title>\n<meta name=\"description\" content=\"כיוון צפון - אטרקציות, לינה וסיורים בצפון ישראל\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://gonorth.co.il/\" />\n<meta property=\"og:locale\" content=\"he_IL\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"כיוון צפון | המדריך לצפון ישראל\" />\n<meta property=\"og:description\" content=\"כיוון צפון - אטרקציות, לינה וסיורים בצפון ישראל\" />\n<meta property=\"og:url\" content=\"https://gonorth.co.il/\" />\n<meta property=\"og:site_name\" content=\"כיוון צפון\" />\n<meta property=\"article:modified_time\" content=\"2026-06-18T18:04:47+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/gonorth.co.il\\/\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"name\":\"כיוון צפון | המדריך לצפון ישראל\",\"isPartOf\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\"},\"datePublished\":\"2026-04-05T21:31:54+00:00\",\"dateModified\":\"2026-06-18T18:04:47+00:00\",\"description\":\"כיוון צפון - אטרקציות, לינה וסיורים בצפון ישראל\",\"breadcrumb\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#breadcrumb\"},\"inLanguage\":\"he-IL\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/gonorth.co.il\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/gonorth.co.il\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"כיוון צפון | המדריך לצפון ישראל &#8211; אטרקציות, לינה וסיורים\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"name\":\"כיוון צפון\",\"description\":\"גלה את הצפון כמו מקומי\",\"alternateName\":\"GoNorth\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/gonorth.co.il\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"he-IL\",\"publisher\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\",\"name\":\"כיוון צפון\",\"alternateName\":\"GoNorth\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization-logo\",\"url\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/themes\\/gonorth-child\\/assets\\/gonorth-organic-mark.svg\",\"width\":300,\"height\":130},\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"שירות לקוחות\",\"url\":\"https:\\/\\/gonorth.co.il\\/contact\\/\",\"availableLanguage\":[\"עברית\"]},\"sameAs\":[\"https:\\/\\/gonorth.co.il\\/about\\/\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "כיוון צפון | המדריך לצפון ישראל",
+    "description": "כיוון צפון - אטרקציות, לינה וסיורים בצפון ישראל",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://gonorth.co.il/",
+    "og_locale": "he_IL",
+    "og_type": "article",
+    "og_title": "כיוון צפון | המדריך לצפון ישראל",
+    "og_description": "כיוון צפון - אטרקציות, לינה וסיורים בצפון ישראל",
+    "og_url": "https://gonorth.co.il/",
+    "og_site_name": "כיוון צפון",
+    "article_modified_time": "2026-06-18T21:04:47+03:00",
+    "twitter_card": "summary_large_image",
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://gonorth.co.il/",
+          "url": "https://gonorth.co.il/",
+          "name": "כיוון צפון | המדריך לצפון ישראל",
+          "isPartOf": {
+            "@id": "https://gonorth.co.il/#website"
+          },
+          "datePublished": "2026-04-06T00:31:54+03:00",
+          "dateModified": "2026-06-18T21:04:47+03:00",
+          "description": "כיוון צפון - אטרקציות, לינה וסיורים בצפון ישראל",
+          "breadcrumb": {
+            "@id": "https://gonorth.co.il/#breadcrumb"
+          },
+          "inLanguage": "he-IL",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://gonorth.co.il/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://gonorth.co.il/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://gonorth.co.il/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "כיוון צפון | המדריך לצפון ישראל &#8211; אטרקציות, לינה וסיורים"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://gonorth.co.il/#website",
+          "url": "https://gonorth.co.il/",
+          "name": "כיוון צפון",
+          "description": "גלה את הצפון כמו מקומי",
+          "alternateName": "GoNorth",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://gonorth.co.il/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "he-IL",
+          "publisher": {
+            "@id": "https://gonorth.co.il/#organization"
+          }
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://gonorth.co.il/#organization",
+          "name": "כיוון צפון",
+          "alternateName": "GoNorth",
+          "url": "https://gonorth.co.il/",
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://gonorth.co.il/#organization-logo",
+            "url": "https://gonorth.co.il/wp-content/themes/gonorth-child/assets/gonorth-organic-mark.svg",
+            "width": 300,
+            "height": 130
+          },
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "contactType": "שירות לקוחות",
+            "url": "https://gonorth.co.il/contact/",
+            "availableLanguage": [
+              "עברית"
+            ]
+          },
+          "sameAs": [
+            "https://gonorth.co.il/about/"
+          ]
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://gonorth.co.il/wp-json/wp/v2/pages/23",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://gonorth.co.il/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://gonorth.co.il/wp-json/wp/v2/types/page"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://gonorth.co.il/wp-json/wp/v2/comments?post=23"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://gonorth.co.il/wp-json/wp/v2/pages/23/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://gonorth.co.il/wp-json/wp/v2/media?parent=23"
+      }
+    ],
+    "wp:action-publish": [
+      {
+        "href": "https://gonorth.co.il/wp-json/wp/v2/pages/23"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://gonorth.co.il/wp-json/wp/v2/pages/23"
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://gonorth.co.il/wp-json/wp/v2/pages/23"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

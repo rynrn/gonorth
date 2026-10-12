@@ -1,0 +1,356 @@
+{
+  "id": "554",
+  "title": {
+    "raw": "שמורת טבע נחל המערות",
+    "rendered": "שמורת טבע נחל המערות"
+  },
+  "slug": "",
+  "link": "https://gonorth.co.il/?post_type=gd_place&p=554",
+  "status": "pending",
+  "type": "gd_place",
+  "author": 0,
+  "date": "2026-10-06T07:16:48",
+  "date_gmt": "2026-10-06T07:16:48",
+  "modified": "2026-10-06T07:16:48",
+  "modified_gmt": "2026-10-06T07:16:48",
+  "content": {
+    "raw": "",
+    "rendered": "",
+    "protected": false
+  },
+  "default_category": null,
+  "post_category": [],
+  "post_tags": [],
+  "street": null,
+  "country": "ישראל",
+  "region": "צפון",
+  "city": "צפון ישראל",
+  "zip": null,
+  "latitude": null,
+  "longitude": null,
+  "mapview": null,
+  "mapzoom": null,
+  "phone": null,
+  "website": null,
+  "business_hours": null,
+  "price_type": {
+    "raw": null,
+    "rendered": "בחר"
+  },
+  "open_saturday": {
+    "raw": null,
+    "rendered": "בחר"
+  },
+  "featured": false,
+  "rating": "0",
+  "rating_count": 0,
+  "featured_media": 0,
+  "featured_image": [],
+  "images": [],
+  "comment_status": "open",
+  "ping_status": "closed",
+  "meta": {
+    "site-sidebar-layout": "default",
+    "site-content-layout": "",
+    "ast-site-content-layout": "default",
+    "site-content-style": "default",
+    "site-sidebar-style": "default",
+    "ast-global-header-display": "",
+    "ast-banner-title-visibility": "",
+    "ast-main-header-display": "",
+    "ast-hfb-above-header-display": "",
+    "ast-hfb-below-header-display": "",
+    "ast-hfb-mobile-header-display": "",
+    "site-post-title": "",
+    "ast-breadcrumbs-content": "",
+    "ast-featured-img": "",
+    "footer-sml-layout": "",
+    "ast-disable-related-posts": "",
+    "theme-transparent-header-meta": "",
+    "adv-header-id-meta": "",
+    "stick-header-meta": "",
+    "header-above-stick-meta": "",
+    "header-main-stick-meta": "",
+    "header-below-stick-meta": "",
+    "astra-migrate-meta-layouts": "default",
+    "ast-page-background-enabled": "default",
+    "ast-page-background-meta": {
+      "desktop": {
+        "background-color": "var(--ast-global-color-5)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "tablet": {
+        "background-color": "",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "mobile": {
+        "background-color": "",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      }
+    },
+    "ast-content-background-meta": {
+      "desktop": {
+        "background-color": "var(--ast-global-color-4)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "tablet": {
+        "background-color": "var(--ast-global-color-4)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "mobile": {
+        "background-color": "var(--ast-global-color-4)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      }
+    },
+    "footnotes": ""
+  },
+  "guid": {
+    "rendered": "https://gonorth.co.il/?post_type=gd_place&p=554",
+    "raw": "https://gonorth.co.il/?post_type=gd_place&p=554"
+  },
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v27.5 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>שמורת טבע נחל המערות - כיוון צפון</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://gonorth.co.il/?post_type=gd_place&p=554\" />\n<meta property=\"og:locale\" content=\"he_IL\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"שמורת טבע נחל המערות - כיוון צפון\" />\n<meta property=\"og:url\" content=\"https://gonorth.co.il/?post_type=gd_place&amp;p=554\" />\n<meta property=\"og:site_name\" content=\"כיוון צפון\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/gonorth.co.il\\/?post_type=gd_place&p=554\",\"url\":\"https:\\/\\/gonorth.co.il\\/?post_type=gd_place&p=554\",\"name\":\"שמורת טבע נחל המערות - כיוון צפון\",\"isPartOf\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\"},\"datePublished\":\"-0001-11-30T00:00:00+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/?post_type=gd_place&p=554#breadcrumb\"},\"inLanguage\":\"he-IL\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/gonorth.co.il\\/?post_type=gd_place&p=554\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/gonorth.co.il\\/?post_type=gd_place&p=554#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/gonorth.co.il\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Places\",\"item\":\"https:\\/\\/gonorth.co.il\\/places\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"שמורת טבע נחל המערות\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"name\":\"כיוון צפון\",\"description\":\"גלה את הצפון כמו מקומי\",\"alternateName\":\"GoNorth\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/gonorth.co.il\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"he-IL\",\"publisher\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\",\"name\":\"כיוון צפון\",\"alternateName\":\"GoNorth\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization-logo\",\"url\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/themes\\/gonorth-child\\/assets\\/gonorth-organic-mark.svg\",\"width\":300,\"height\":130},\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"שירות לקוחות\",\"url\":\"https:\\/\\/gonorth.co.il\\/contact\\/\",\"availableLanguage\":[\"עברית\"]},\"sameAs\":[\"https:\\/\\/gonorth.co.il\\/about\\/\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "שמורת טבע נחל המערות - כיוון צפון",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://gonorth.co.il/?post_type=gd_place&p=554",
+    "og_locale": "he_IL",
+    "og_type": "article",
+    "og_title": "שמורת טבע נחל המערות - כיוון צפון",
+    "og_url": "https://gonorth.co.il/?post_type=gd_place&p=554",
+    "og_site_name": "כיוון צפון",
+    "twitter_card": "summary_large_image",
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://gonorth.co.il/?post_type=gd_place&p=554",
+          "url": "https://gonorth.co.il/?post_type=gd_place&p=554",
+          "name": "שמורת טבע נחל המערות - כיוון צפון",
+          "isPartOf": {
+            "@id": "https://gonorth.co.il/#website"
+          },
+          "datePublished": "-0001-11-30T00:00:00+00:00",
+          "breadcrumb": {
+            "@id": "https://gonorth.co.il/?post_type=gd_place&p=554#breadcrumb"
+          },
+          "inLanguage": "he-IL",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://gonorth.co.il/?post_type=gd_place&p=554"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://gonorth.co.il/?post_type=gd_place&p=554#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://gonorth.co.il/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Places",
+              "item": "https://gonorth.co.il/places/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "שמורת טבע נחל המערות"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://gonorth.co.il/#website",
+          "url": "https://gonorth.co.il/",
+          "name": "כיוון צפון",
+          "description": "גלה את הצפון כמו מקומי",
+          "alternateName": "GoNorth",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://gonorth.co.il/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "he-IL",
+          "publisher": {
+            "@id": "https://gonorth.co.il/#organization"
+          }
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://gonorth.co.il/#organization",
+          "name": "כיוון צפון",
+          "alternateName": "GoNorth",
+          "url": "https://gonorth.co.il/",
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://gonorth.co.il/#organization-logo",
+            "url": "https://gonorth.co.il/wp-content/themes/gonorth-child/assets/gonorth-organic-mark.svg",
+            "width": 300,
+            "height": 130
+          },
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "contactType": "שירות לקוחות",
+            "url": "https://gonorth.co.il/contact/",
+            "availableLanguage": [
+              "עברית"
+            ]
+          },
+          "sameAs": [
+            "https://gonorth.co.il/about/"
+          ]
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://gonorth.co.il/wp-json/geodir/v2/places/554",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://gonorth.co.il/wp-json/geodir/v2/places"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://gonorth.co.il/wp-json/geodir/v2/types/gd_place"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://gonorth.co.il/wp-json/geodir/v2/reviews?post=554"
+      }
+    ],
+    "version-history": [
+      {
+        "href": "https://gonorth.co.il/wp-json/geodir/v2/places/554/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://gonorth.co.il/wp-json/wp/v2/media?parent=554"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "gd_place_tags",
+        "embeddable": true,
+        "href": "https://gonorth.co.il/wp-json/geodir/v2/places/tags?post=554"
+      },
+      {
+        "taxonomy": "gd_placecategory",
+        "embeddable": true,
+        "href": "https://gonorth.co.il/wp-json/geodir/v2/places/categories?post=554"
+      },
+      {
+        "taxonomy": "gn_region",
+        "embeddable": true,
+        "href": "https://gonorth.co.il/wp-json/geodir/v2/?post=554"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

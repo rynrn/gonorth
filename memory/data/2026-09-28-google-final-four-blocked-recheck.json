@@ -1,0 +1,2607 @@
+[
+    {
+        "post_id": 202,
+        "queries": [
+            {
+                "query": "ג׳חנון ברמה אודם",
+                "http_status": 200,
+                "candidates": [
+                    {
+                        "id": "ChIJ25IBjTi9HhUR2yG_MsYiCDE",
+                        "name": "ג'חנון וחצי - גחנון (ניתן לבצע הזמנות מראש)",
+                        "address": "חניון, מעיין ברוך, 12200",
+                        "latitude": 33.227269899999996,
+                        "longitude": 35.6144874,
+                        "rating": 4.8,
+                        "review_count": 125,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://easy.co.il/page/26305001",
+                        "phone": "052-443-5093",
+                        "types": [
+                            "fast_food_restaurant",
+                            "restaurant",
+                            "food",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJXcdxZaEZHBUR9WAX1UAR9PM",
+                        "name": "ג'חנון סובב כנרת והגולן (קריטי)",
+                        "address": "הפרח בגני 240, צומת כורסי ( עמדת מכירה ). להתקשר לפני, צומת כורסי - פודטראק / חד נס - איסוף, חד נס 1925000",
+                        "latitude": 32.9375505,
+                        "longitude": 35.6380929,
+                        "rating": 5,
+                        "review_count": 90,
+                        "business_status": "OPERATIONAL",
+                        "website": null,
+                        "phone": "053-220-6943",
+                        "types": [
+                            "food_court",
+                            "food",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJ4VnfGWlJHRURgV30OWFmgMg",
+                        "name": "ג'חנון ברמה רמת השרון | הג'חנון של דניאל",
+                        "address": "בועז 7, רמת השרון",
+                        "latitude": 32.141317199999996,
+                        "longitude": 34.840429199999996,
+                        "rating": 4.5,
+                        "review_count": 44,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://api.whatsapp.com/message/6JBMSBASGIFTN1?autoload=1&app_absent=0",
+                        "phone": "051-231-2211",
+                        "types": [
+                            "fast_food_restaurant",
+                            "restaurant",
+                            "food",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJJUfvr7a9HhURT5XXBE2JDW4",
+                        "name": "ג'חנון ג'חנון",
+                        "address": "דרך הפרדס 126, שדה נחמיה",
+                        "latitude": 33.185952,
+                        "longitude": 35.6261735,
+                        "rating": 5,
+                        "review_count": 16,
+                        "business_status": "OPERATIONAL",
+                        "website": null,
+                        "phone": "052-222-2711",
+                        "types": [
+                            "restaurant",
+                            "food",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJtd1Gml0jHBURGSsS5wW3wRs",
+                        "name": "ג'חנון תענוג",
+                        "address": "נוף הגולן 8, צפת, 1305023",
+                        "latitude": 32.9534897,
+                        "longitude": 35.531607699999995,
+                        "rating": 5,
+                        "review_count": 95,
+                        "business_status": "OPERATIONAL",
+                        "website": null,
+                        "phone": "052-425-0720",
+                        "types": [
+                            "guest_house",
+                            "lodging",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJY5mWWuShHhURZcpFi4xJvXk",
+                        "name": "ג'חנון בגליל",
+                        "address": "11632, קרית שמונה",
+                        "latitude": 33.1110632,
+                        "longitude": 35.573817999999996,
+                        "rating": 4.7,
+                        "review_count": 61,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://taxi8.co.il/%D7%92%D7%97%D7%A0%D7%95%D7%9F-%D7%91%D7%92%D7%9C%D7%99%D7%9C/",
+                        "phone": "050-859-9420",
+                        "types": [
+                            "diner",
+                            "restaurant",
+                            "food",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJ0cAALa7PHRUR_qfRuPl6o_w",
+                        "name": "ג'חנון האופה מלאווח ומאפים על בסיס חמאה",
+                        "address": "חאמד סנטר, מזרעה",
+                        "latitude": 32.9873887,
+                        "longitude": 35.095731,
+                        "rating": 5,
+                        "review_count": 101,
+                        "business_status": "OPERATIONAL",
+                        "website": null,
+                        "phone": "054-971-9814",
+                        "types": [
+                            "bakery",
+                            "food_store",
+                            "store",
+                            "food",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJ32T4k5IXHBURJIrG5v38dOs",
+                        "name": "ג'חנון קריטי Critical Jahnun",
+                        "address": "צומת קורסי",
+                        "latitude": 32.8278216,
+                        "longitude": 35.649808,
+                        "rating": 5,
+                        "review_count": 17,
+                        "business_status": "OPERATIONAL",
+                        "website": null,
+                        "phone": "053-220-6943",
+                        "types": [
+                            "restaurant",
+                            "food",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJdfN7viUQHBURiU_UJlkAuos",
+                        "name": "פרויליך - הג'חנון של הגולן",
+                        "address": "אליעד 12927",
+                        "latitude": 32.8033156,
+                        "longitude": 35.7327655,
+                        "rating": 4.3,
+                        "review_count": 13,
+                        "business_status": "OPERATIONAL",
+                        "website": null,
+                        "phone": "052-845-4594",
+                        "types": [
+                            "deli",
+                            "food_store",
+                            "manufacturer",
+                            "store",
+                            "food",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJdYJN2AZVHBURoStskLBnyEs",
+                        "name": "ג'חנון בעמק",
+                        "address": "כביש 65 (כביש הסרגל מנחת, מגידו",
+                        "latitude": 32.5906212,
+                        "longitude": 35.2366592,
+                        "rating": 4.5,
+                        "review_count": 39,
+                        "business_status": "OPERATIONAL",
+                        "website": null,
+                        "phone": "052-892-4700",
+                        "types": [
+                            "fast_food_restaurant",
+                            "restaurant",
+                            "food",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    }
+                ]
+            },
+            {
+                "query": "ג'חנון ברמה אודם",
+                "http_status": 200,
+                "candidates": [
+                    {
+                        "id": "ChIJ25IBjTi9HhUR2yG_MsYiCDE",
+                        "name": "ג'חנון וחצי - גחנון (ניתן לבצע הזמנות מראש)",
+                        "address": "חניון, מעיין ברוך, 12200",
+                        "latitude": 33.227269899999996,
+                        "longitude": 35.6144874,
+                        "rating": 4.8,
+                        "review_count": 125,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://easy.co.il/page/26305001",
+                        "phone": "052-443-5093",
+                        "types": [
+                            "fast_food_restaurant",
+                            "restaurant",
+                            "point_of_interest",
+                            "food",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJXcdxZaEZHBUR9WAX1UAR9PM",
+                        "name": "ג'חנון סובב כנרת והגולן (קריטי)",
+                        "address": "הפרח בגני 240, צומת כורסי ( עמדת מכירה ). להתקשר לפני, צומת כורסי - פודטראק / חד נס - איסוף, חד נס 1925000",
+                        "latitude": 32.9375505,
+                        "longitude": 35.6380929,
+                        "rating": 5,
+                        "review_count": 90,
+                        "business_status": "OPERATIONAL",
+                        "website": null,
+                        "phone": "053-220-6943",
+                        "types": [
+                            "food_court",
+                            "point_of_interest",
+                            "food",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJ4VnfGWlJHRURgV30OWFmgMg",
+                        "name": "ג'חנון ברמה רמת השרון | הג'חנון של דניאל",
+                        "address": "בועז 7, רמת השרון",
+                        "latitude": 32.141317199999996,
+                        "longitude": 34.840429199999996,
+                        "rating": 4.5,
+                        "review_count": 44,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://api.whatsapp.com/message/6JBMSBASGIFTN1?autoload=1&app_absent=0",
+                        "phone": "051-231-2211",
+                        "types": [
+                            "fast_food_restaurant",
+                            "restaurant",
+                            "point_of_interest",
+                            "food",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJJUfvr7a9HhURT5XXBE2JDW4",
+                        "name": "ג'חנון ג'חנון",
+                        "address": "דרך הפרדס 126, שדה נחמיה",
+                        "latitude": 33.185952,
+                        "longitude": 35.6261735,
+                        "rating": 5,
+                        "review_count": 16,
+                        "business_status": "OPERATIONAL",
+                        "website": null,
+                        "phone": "052-222-2711",
+                        "types": [
+                            "restaurant",
+                            "point_of_interest",
+                            "food",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJY5mWWuShHhURZcpFi4xJvXk",
+                        "name": "ג'חנון בגליל",
+                        "address": "11632, קרית שמונה",
+                        "latitude": 33.1110632,
+                        "longitude": 35.573817999999996,
+                        "rating": 4.7,
+                        "review_count": 61,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://taxi8.co.il/%D7%92%D7%97%D7%A0%D7%95%D7%9F-%D7%91%D7%92%D7%9C%D7%99%D7%9C/",
+                        "phone": "050-859-9420",
+                        "types": [
+                            "diner",
+                            "restaurant",
+                            "point_of_interest",
+                            "food",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJtd1Gml0jHBURGSsS5wW3wRs",
+                        "name": "ג'חנון תענוג",
+                        "address": "נוף הגולן 8, צפת, 1305023",
+                        "latitude": 32.9534897,
+                        "longitude": 35.531607699999995,
+                        "rating": 5,
+                        "review_count": 95,
+                        "business_status": "OPERATIONAL",
+                        "website": null,
+                        "phone": "052-425-0720",
+                        "types": [
+                            "guest_house",
+                            "lodging",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJ0cAALa7PHRUR_qfRuPl6o_w",
+                        "name": "ג'חנון האופה מלאווח ומאפים על בסיס חמאה",
+                        "address": "חאמד סנטר, מזרעה",
+                        "latitude": 32.9873887,
+                        "longitude": 35.095731,
+                        "rating": 5,
+                        "review_count": 101,
+                        "business_status": "OPERATIONAL",
+                        "website": null,
+                        "phone": "054-971-9814",
+                        "types": [
+                            "bakery",
+                            "food_store",
+                            "store",
+                            "point_of_interest",
+                            "food",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJ32T4k5IXHBURJIrG5v38dOs",
+                        "name": "ג'חנון קריטי Critical Jahnun",
+                        "address": "צומת קורסי",
+                        "latitude": 32.8278216,
+                        "longitude": 35.649808,
+                        "rating": 5,
+                        "review_count": 17,
+                        "business_status": "OPERATIONAL",
+                        "website": null,
+                        "phone": "053-220-6943",
+                        "types": [
+                            "restaurant",
+                            "point_of_interest",
+                            "food",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJdYJN2AZVHBURoStskLBnyEs",
+                        "name": "ג'חנון בעמק",
+                        "address": "כביש 65 (כביש הסרגל מנחת, מגידו",
+                        "latitude": 32.5906212,
+                        "longitude": 35.2366592,
+                        "rating": 4.5,
+                        "review_count": 39,
+                        "business_status": "OPERATIONAL",
+                        "website": null,
+                        "phone": "052-892-4700",
+                        "types": [
+                            "fast_food_restaurant",
+                            "restaurant",
+                            "point_of_interest",
+                            "food",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJs_xX0J0_HRURD9Cyem45b-M",
+                        "name": "ג'חנון ביתי",
+                        "address": "הבנים 73, אבן יהודה",
+                        "latitude": 32.2814841,
+                        "longitude": 34.8787349,
+                        "rating": 4.5,
+                        "review_count": 152,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://www.facebook.com/HomeMadeJahnon",
+                        "phone": "09-899-5557",
+                        "types": [
+                            "restaurant",
+                            "point_of_interest",
+                            "food",
+                            "establishment"
+                        ]
+                    }
+                ]
+            },
+            {
+                "query": "Jachnun Barama Odem",
+                "http_status": 200,
+                "candidates": [
+                    {
+                        "id": "ChIJT26-2oVMHRUR87LxfJnpfuE",
+                        "name": "ג’חנון מול הים",
+                        "address": "הירקון 22, תל אביב-יפו",
+                        "latitude": 32.0705866,
+                        "longitude": 34.765048,
+                        "rating": 4.2,
+                        "review_count": 273,
+                        "business_status": "OPERATIONAL",
+                        "website": "http://jachnunsea.co.il/",
+                        "phone": "03-516-3408",
+                        "types": [
+                            "restaurant",
+                            "meal_takeaway",
+                            "point_of_interest",
+                            "food",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJ0cAALa7PHRUR_qfRuPl6o_w",
+                        "name": "ג'חנון האופה מלאווח ומאפים על בסיס חמאה",
+                        "address": "חאמד סנטר, מזרעה",
+                        "latitude": 32.9873887,
+                        "longitude": 35.095731,
+                        "rating": 5,
+                        "review_count": 101,
+                        "business_status": "OPERATIONAL",
+                        "website": null,
+                        "phone": "054-971-9814",
+                        "types": [
+                            "bakery",
+                            "food_store",
+                            "store",
+                            "point_of_interest",
+                            "food",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJ25IBjTi9HhUR2yG_MsYiCDE",
+                        "name": "ג'חנון וחצי - גחנון (ניתן לבצע הזמנות מראש)",
+                        "address": "חניון, מעיין ברוך, 12200",
+                        "latitude": 33.227269899999996,
+                        "longitude": 35.6144874,
+                        "rating": 4.8,
+                        "review_count": 125,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://easy.co.il/page/26305001",
+                        "phone": "052-443-5093",
+                        "types": [
+                            "fast_food_restaurant",
+                            "restaurant",
+                            "point_of_interest",
+                            "food",
+                            "establishment"
+                        ]
+                    }
+                ]
+            },
+            {
+                "query": "Jachnun Odem",
+                "http_status": 200,
+                "candidates": [
+                    {
+                        "id": "ChIJT26-2oVMHRUR87LxfJnpfuE",
+                        "name": "ג’חנון מול הים",
+                        "address": "הירקון 22, תל אביב-יפו",
+                        "latitude": 32.0705866,
+                        "longitude": 34.765048,
+                        "rating": 4.2,
+                        "review_count": 273,
+                        "business_status": "OPERATIONAL",
+                        "website": "http://jachnunsea.co.il/",
+                        "phone": "03-516-3408",
+                        "types": [
+                            "restaurant",
+                            "meal_takeaway",
+                            "food",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJ25IBjTi9HhUR2yG_MsYiCDE",
+                        "name": "ג'חנון וחצי - גחנון (ניתן לבצע הזמנות מראש)",
+                        "address": "חניון, מעיין ברוך, 12200",
+                        "latitude": 33.227269899999996,
+                        "longitude": 35.6144874,
+                        "rating": 4.8,
+                        "review_count": 125,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://easy.co.il/page/26305001",
+                        "phone": "052-443-5093",
+                        "types": [
+                            "fast_food_restaurant",
+                            "restaurant",
+                            "food",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    }
+                ]
+            },
+            {
+                "query": "חלהוולאוו עגלת קפה אודם",
+                "http_status": 200,
+                "candidates": [
+                    {
+                        "id": "ChIJqcIqxlCxHhUReHA1ZEMVQEk",
+                        "name": "החווה ביער אודם",
+                        "address": "רמת הגולן אודם, 1247300",
+                        "latitude": 33.190486899999996,
+                        "longitude": 35.749700499999996,
+                        "rating": 4.9,
+                        "review_count": 179,
+                        "business_status": "OPERATIONAL",
+                        "website": "http://www.odemfarm.com/",
+                        "phone": "054-765-3123",
+                        "types": [
+                            "wildlife_refuge",
+                            "tourist_attraction",
+                            "pet_care",
+                            "park",
+                            "farm",
+                            "service",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJbfnEO5uwHhURtCHNBI96eik",
+                        "name": "יקב הר אודם",
+                        "address": "אודם 1247300",
+                        "latitude": 33.1919714,
+                        "longitude": 35.7517966,
+                        "rating": 4.6,
+                        "review_count": 512,
+                        "business_status": "OPERATIONAL",
+                        "website": "http://www.harodem.co.il/",
+                        "phone": "052-688-1110",
+                        "types": [
+                            "winery",
+                            "wine_bar",
+                            "visitor_center",
+                            "tourist_information_center",
+                            "liquor_store",
+                            "bar",
+                            "tour_agency",
+                            "travel_agency",
+                            "manufacturer",
+                            "store",
+                            "farm",
+                            "service",
+                            "food",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJMcHaBukFHBURfyE3C7N8ZJw",
+                        "name": "דורא עגלת קפה",
+                        "address": "משתלת הגולן, נוב",
+                        "latitude": 32.8302838,
+                        "longitude": 35.7889242,
+                        "rating": 4.7,
+                        "review_count": 153,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://www.instagram.com/p/CencKhJIGZ2/?igshid=NWRhNmQxMjQ=",
+                        "phone": "055-881-3646",
+                        "types": [
+                            "cafe",
+                            "food",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJwaKhqI-xHhURRskwhq8tbwY",
+                        "name": "בקתות יער אודם",
+                        "address": "226, אודם 1247300",
+                        "latitude": 33.1961045,
+                        "longitude": 35.7470396,
+                        "rating": 4.9,
+                        "review_count": 72,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://www.odem-rustic-cabins.com/",
+                        "phone": "054-455-5329",
+                        "types": [
+                            "lodging",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJq6p61ISwHhURTuov-kzlvdo",
+                        "name": "כפר נופש - יער אודם",
+                        "address": "אודם, רמת הגולן 12473",
+                        "latitude": 33.1919804,
+                        "longitude": 35.7509705,
+                        "rating": 4.5,
+                        "review_count": 2847,
+                        "business_status": "OPERATIONAL",
+                        "website": "http://www.yayalim.co.il/",
+                        "phone": "050-522-9450",
+                        "types": [
+                            "resort_hotel",
+                            "tourist_attraction",
+                            "hotel",
+                            "campground",
+                            "lodging",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJxxlOLZuwHhURE_6e2Dycflg",
+                        "name": "Odem Guest House",
+                        "address": "51, אודם",
+                        "latitude": 33.194207,
+                        "longitude": 35.748239999999996,
+                        "rating": 4.8,
+                        "review_count": 337,
+                        "business_status": "OPERATIONAL",
+                        "website": "http://www.thegolanheightshostel.com/",
+                        "phone": "054-260-0334",
+                        "types": [
+                            "hostel",
+                            "lodging",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJF_V4XWcRHBURYZnmaBdB0Fo",
+                        "name": "קפה מוייז - עגלת קפה בארץ הגולן",
+                        "address": "44 יהודיה, רמות 1294800",
+                        "latitude": 32.8503809,
+                        "longitude": 35.6632343,
+                        "rating": 4.7,
+                        "review_count": 1013,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://www.lol-art.com/cafemoize",
+                        "phone": "053-450-4335",
+                        "types": [
+                            "cafe",
+                            "food",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJtVudV4WwHhURMkwRzIaUSXw",
+                        "name": "בשביל היער עששיות ביער אודם",
+                        "address": "1 אודם",
+                        "latitude": 33.2071332,
+                        "longitude": 35.7355217,
+                        "rating": 4.9,
+                        "review_count": 192,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://odemforest.com/",
+                        "phone": "050-689-4560",
+                        "types": [
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    }
+                ]
+            },
+            {
+                "query": "רעות עגלת קפה אודם",
+                "http_status": 200,
+                "candidates": [
+                    {
+                        "id": "ChIJqcIqxlCxHhUReHA1ZEMVQEk",
+                        "name": "החווה ביער אודם",
+                        "address": "רמת הגולן אודם, 1247300",
+                        "latitude": 33.190486899999996,
+                        "longitude": 35.749700499999996,
+                        "rating": 4.9,
+                        "review_count": 179,
+                        "business_status": "OPERATIONAL",
+                        "website": "http://www.odemfarm.com/",
+                        "phone": "054-765-3123",
+                        "types": [
+                            "tourist_attraction",
+                            "wildlife_refuge",
+                            "park",
+                            "farm",
+                            "pet_care",
+                            "service",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJR5ZZwOfNAhURfaTwT2cAhhc",
+                        "name": "אוּדי ויָפ - עגלת קפה כפר רות",
+                        "address": "כפר רות",
+                        "latitude": 31.9134449,
+                        "longitude": 35.0317961,
+                        "rating": 4.2,
+                        "review_count": 391,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://www.instagram.com/invites/contact/?i=17iy8x83hb9ar&utm_content=sd84bhd",
+                        "phone": "052-207-1905",
+                        "types": [
+                            "coffee_shop",
+                            "cafe",
+                            "food_store",
+                            "store",
+                            "point_of_interest",
+                            "food",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJw2OcTN6xHhURG42OXXqmhM0",
+                        "name": "Crema Cafe",
+                        "address": "boqata - golan heights BOQATA, 1243700",
+                        "latitude": 33.2028896,
+                        "longitude": 35.7733261,
+                        "rating": 4.9,
+                        "review_count": 107,
+                        "business_status": "OPERATIONAL",
+                        "website": null,
+                        "phone": "054-309-5265",
+                        "types": [
+                            "coffee_shop",
+                            "cafe",
+                            "food_store",
+                            "store",
+                            "point_of_interest",
+                            "food",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJMcHaBukFHBURfyE3C7N8ZJw",
+                        "name": "דורא עגלת קפה",
+                        "address": "משתלת הגולן, נוב",
+                        "latitude": 32.8302838,
+                        "longitude": 35.7889242,
+                        "rating": 4.7,
+                        "review_count": 153,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://www.instagram.com/p/CencKhJIGZ2/?igshid=NWRhNmQxMjQ=",
+                        "phone": "055-881-3646",
+                        "types": [
+                            "cafe",
+                            "point_of_interest",
+                            "food",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJ78M3AgC9HhUR0KGu_YsLygc",
+                        "name": "עגלת קפה | Bread Sheri",
+                        "address": "כביש היקפי, שאר ישוב, 1224000",
+                        "latitude": 33.2274141,
+                        "longitude": 35.649506599999995,
+                        "rating": 5,
+                        "review_count": 17,
+                        "business_status": "OPERATIONAL",
+                        "website": null,
+                        "phone": "054-523-9145",
+                        "types": [
+                            "coffee_shop",
+                            "cafe",
+                            "food_store",
+                            "store",
+                            "point_of_interest",
+                            "food",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJF_V4XWcRHBURYZnmaBdB0Fo",
+                        "name": "קפה מוייז - עגלת קפה בארץ הגולן",
+                        "address": "44 יהודיה, רמות 1294800",
+                        "latitude": 32.8503809,
+                        "longitude": 35.6632343,
+                        "rating": 4.7,
+                        "review_count": 1013,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://www.lol-art.com/cafemoize",
+                        "phone": "053-450-4335",
+                        "types": [
+                            "cafe",
+                            "point_of_interest",
+                            "food",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJXUe54UUVHBURfW6mZc9GIRg",
+                        "name": "קפה חמה עגלת קפה",
+                        "address": "קפה חמה, מבוא חמה",
+                        "latitude": 32.7306391,
+                        "longitude": 35.6525496,
+                        "rating": 4.6,
+                        "review_count": 252,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://www.facebook.com/cafehamma",
+                        "phone": "050-725-0101",
+                        "types": [
+                            "cafe",
+                            "coffee_shop",
+                            "food_store",
+                            "store",
+                            "point_of_interest",
+                            "food",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJq6p61ISwHhURTuov-kzlvdo",
+                        "name": "כפר נופש - יער אודם",
+                        "address": "אודם, רמת הגולן 12473",
+                        "latitude": 33.1919804,
+                        "longitude": 35.7509705,
+                        "rating": 4.5,
+                        "review_count": 2847,
+                        "business_status": "OPERATIONAL",
+                        "website": "http://www.yayalim.co.il/",
+                        "phone": "050-522-9450",
+                        "types": [
+                            "resort_hotel",
+                            "tourist_attraction",
+                            "hotel",
+                            "campground",
+                            "lodging",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "post_id": 228,
+        "queries": [
+            {
+                "query": "קופיש עין גב",
+                "http_status": 200,
+                "candidates": [
+                    {
+                        "id": "ChIJ79d-jxwUHBURbDj5BxTTPcI",
+                        "name": "עין גב",
+                        "address": "עין גב 1494000",
+                        "latitude": 32.783393,
+                        "longitude": 35.6401191,
+                        "rating": 4.2,
+                        "review_count": 61,
+                        "business_status": "OPERATIONAL",
+                        "website": "http://eingev.com/",
+                        "phone": null,
+                        "types": [
+                            "restaurant",
+                            "food",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJ79d-jxwUHBUR4LV_Uij9ujg",
+                        "name": "מרינדו עין גב",
+                        "address": "קבוץ, עין גב 14940",
+                        "latitude": 32.7839485,
+                        "longitude": 35.6420373,
+                        "rating": 4.2,
+                        "review_count": 4416,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://www.marinado.co.il/restaurant",
+                        "phone": "04-665-8555",
+                        "types": [
+                            "restaurant",
+                            "food",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJrXx20lcVHBURGd9OMbrq9jA",
+                        "name": "הבית בנמל",
+                        "address": "נמל, עין גב",
+                        "latitude": 32.784827899999996,
+                        "longitude": 35.636620199999996,
+                        "rating": 4.8,
+                        "review_count": 54,
+                        "business_status": "OPERATIONAL",
+                        "website": null,
+                        "phone": "050-780-4776",
+                        "types": [
+                            "amusement_center",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJy0LpyP1oAhUR1SqCLpUz6Cc",
+                        "name": "כפר הנופש עין גב",
+                        "address": "Ein Gev 14940, Ein Gev",
+                        "latitude": 32.768096799999995,
+                        "longitude": 35.639343,
+                        "rating": 4.5,
+                        "review_count": 3040,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://hebrew.eingev.com/?reffrom=gmb&utm_source=google_my_business&utm_medium=organic&utm_campaign=googlemybusiness",
+                        "phone": "04-665-9800",
+                        "types": [
+                            "resort_hotel",
+                            "hotel",
+                            "lodging",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    }
+                ]
+            },
+            {
+                "query": "Coffish Ein Gev",
+                "http_status": 200,
+                "candidates": [
+                    {
+                        "id": "ChIJ79d-jxwUHBURbDj5BxTTPcI",
+                        "name": "עין גב",
+                        "address": "עין גב 1494000",
+                        "latitude": 32.783393,
+                        "longitude": 35.6401191,
+                        "rating": 4.2,
+                        "review_count": 61,
+                        "business_status": "OPERATIONAL",
+                        "website": "http://eingev.com/",
+                        "phone": null,
+                        "types": [
+                            "restaurant",
+                            "food",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJ79d-jxwUHBUR4LV_Uij9ujg",
+                        "name": "מרינדו עין גב",
+                        "address": "קבוץ, עין גב 14940",
+                        "latitude": 32.7839485,
+                        "longitude": 35.6420373,
+                        "rating": 4.2,
+                        "review_count": 4416,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://www.marinado.co.il/restaurant",
+                        "phone": "04-665-8555",
+                        "types": [
+                            "restaurant",
+                            "food",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJy0LpyP1oAhUR1SqCLpUz6Cc",
+                        "name": "כפר הנופש עין גב",
+                        "address": "Ein Gev 14940, Ein Gev",
+                        "latitude": 32.768096799999995,
+                        "longitude": 35.639343,
+                        "rating": 4.5,
+                        "review_count": 3040,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://hebrew.eingev.com/?reffrom=gmb&utm_source=google_my_business&utm_medium=organic&utm_campaign=googlemybusiness",
+                        "phone": "04-665-9800",
+                        "types": [
+                            "resort_hotel",
+                            "hotel",
+                            "lodging",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    }
+                ]
+            },
+            {
+                "query": "Coffish נמל עין גב",
+                "http_status": 200,
+                "candidates": [
+                    {
+                        "id": "ChIJb-niB9QVHBURtvStca1NypY",
+                        "name": "מסעדת הדייגים",
+                        "address": "1, עין גב",
+                        "latitude": 32.783393,
+                        "longitude": 35.640119,
+                        "rating": 4.3,
+                        "review_count": 203,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://tbit.be/840hyd",
+                        "phone": "04-665-8835",
+                        "types": [
+                            "restaurant",
+                            "food",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJL-toa74VHBURo6ZlBV4MLpc",
+                        "name": "נמל עין גב",
+                        "address": "ים",
+                        "latitude": 32.7846405,
+                        "longitude": 35.6363215,
+                        "rating": 4.4,
+                        "review_count": 275,
+                        "business_status": "OPERATIONAL",
+                        "website": null,
+                        "phone": null,
+                        "types": [
+                            "tourist_attraction",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJrXx20lcVHBURGd9OMbrq9jA",
+                        "name": "הבית בנמל",
+                        "address": "נמל, עין גב",
+                        "latitude": 32.784827899999996,
+                        "longitude": 35.636620199999996,
+                        "rating": 4.8,
+                        "review_count": 54,
+                        "business_status": "OPERATIONAL",
+                        "website": null,
+                        "phone": "050-780-4776",
+                        "types": [
+                            "amusement_center",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJ79d-jxwUHBURbDj5BxTTPcI",
+                        "name": "עין גב",
+                        "address": "עין גב 1494000",
+                        "latitude": 32.783393,
+                        "longitude": 35.6401191,
+                        "rating": 4.2,
+                        "review_count": 61,
+                        "business_status": "OPERATIONAL",
+                        "website": "http://eingev.com/",
+                        "phone": null,
+                        "types": [
+                            "restaurant",
+                            "food",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJ79d-jxwUHBURo8vjG562WlY",
+                        "name": "הנגרייה של סבא יוסי",
+                        "address": "נמל עין גב, עין גב 1494000",
+                        "latitude": 32.7844657,
+                        "longitude": 35.636577599999995,
+                        "rating": 4.4,
+                        "review_count": 73,
+                        "business_status": "OPERATIONAL",
+                        "website": "http://eingev.co.il/%D7%90%D7%98%D7%A8%D7%A7%D7%A6%D7%99%D7%95%D7%AA-%D7%91%D7%A2%D7%99%D7%9F-%D7%92%D7%91/%D7%94%D7%A0%D7%92%D7%A8%D7%99%D7%94-%D7%A9%D7%9C-%D7%A1%D7%91%D7%90-%D7%99%D7%95%D7%A1%D7%99/",
+                        "phone": "04-665-8195",
+                        "types": [
+                            "manufacturer",
+                            "service",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJy0LpyP1oAhUR1SqCLpUz6Cc",
+                        "name": "כפר הנופש עין גב",
+                        "address": "Ein Gev 14940, Ein Gev",
+                        "latitude": 32.768096799999995,
+                        "longitude": 35.639343,
+                        "rating": 4.5,
+                        "review_count": 3040,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://hebrew.eingev.com/?reffrom=gmb&utm_source=google_my_business&utm_medium=organic&utm_campaign=googlemybusiness",
+                        "phone": "04-665-9800",
+                        "types": [
+                            "resort_hotel",
+                            "hotel",
+                            "lodging",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    }
+                ]
+            },
+            {
+                "query": "קופי פיש עין גב",
+                "http_status": 200,
+                "candidates": [
+                    {
+                        "id": "ChIJb-niB9QVHBURtvStca1NypY",
+                        "name": "מסעדת הדייגים",
+                        "address": "1, עין גב",
+                        "latitude": 32.783393,
+                        "longitude": 35.640119,
+                        "rating": 4.3,
+                        "review_count": 203,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://tbit.be/840hyd",
+                        "phone": "04-665-8835",
+                        "types": [
+                            "restaurant",
+                            "point_of_interest",
+                            "food",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJrSF5jxwUHBURZlNZz2vEP7A",
+                        "name": "Lagos",
+                        "address": "עין גב 1494000",
+                        "latitude": 32.7833987,
+                        "longitude": 35.6401205,
+                        "rating": 4.7,
+                        "review_count": 36,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://www.lagos1.co.il/",
+                        "phone": "054-894-3144",
+                        "types": [
+                            "restaurant",
+                            "point_of_interest",
+                            "food",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJ79d-jxwUHBURbDj5BxTTPcI",
+                        "name": "עין גב",
+                        "address": "עין גב 1494000",
+                        "latitude": 32.783393,
+                        "longitude": 35.6401191,
+                        "rating": 4.2,
+                        "review_count": 61,
+                        "business_status": "OPERATIONAL",
+                        "website": "http://eingev.com/",
+                        "phone": null,
+                        "types": [
+                            "restaurant",
+                            "point_of_interest",
+                            "food",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJy0LpyP1oAhUR1SqCLpUz6Cc",
+                        "name": "כפר הנופש עין גב",
+                        "address": "Ein Gev 14940, Ein Gev",
+                        "latitude": 32.768096799999995,
+                        "longitude": 35.639343,
+                        "rating": 4.5,
+                        "review_count": 3040,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://hebrew.eingev.com/?reffrom=gmb&utm_source=google_my_business&utm_medium=organic&utm_campaign=googlemybusiness",
+                        "phone": "04-665-9800",
+                        "types": [
+                            "resort_hotel",
+                            "hotel",
+                            "lodging",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    }
+                ]
+            },
+            {
+                "query": "עגלת קפה עין גב 0544939011",
+                "http_status": 200,
+                "candidates": [
+                    {
+                        "id": "ChIJD_BHQCURHBURGkBOl2BJ61o",
+                        "name": "עגלת קפה יואבה Yoava",
+                        "address": "65, גבעת יואב 1294600",
+                        "latitude": 32.811272699999996,
+                        "longitude": 35.663119099999996,
+                        "rating": 4.8,
+                        "review_count": 155,
+                        "business_status": "OPERATIONAL",
+                        "website": null,
+                        "phone": "054-695-1122",
+                        "types": [
+                            "coffee_shop",
+                            "cafe",
+                            "food_store",
+                            "store",
+                            "point_of_interest",
+                            "food",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJXUe54UUVHBURfW6mZc9GIRg",
+                        "name": "קפה חמה עגלת קפה",
+                        "address": "קפה חמה, מבוא חמה",
+                        "latitude": 32.7306391,
+                        "longitude": 35.6525496,
+                        "rating": 4.6,
+                        "review_count": 252,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://www.facebook.com/cafehamma",
+                        "phone": "050-725-0101",
+                        "types": [
+                            "cafe",
+                            "coffee_shop",
+                            "food_store",
+                            "store",
+                            "point_of_interest",
+                            "food",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJA8GRAQA9HBUR6OjxvYM87nY",
+                        "name": "שאקה עגלת קפה על הכנרת",
+                        "address": "מרחב ימי, גינוסר",
+                        "latitude": 32.8486997,
+                        "longitude": 35.5267021,
+                        "rating": 4.4,
+                        "review_count": 127,
+                        "business_status": "OPERATIONAL",
+                        "website": null,
+                        "phone": "052-343-8934",
+                        "types": [
+                            "coffee_shop",
+                            "cafe",
+                            "food_store",
+                            "store",
+                            "point_of_interest",
+                            "food",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJF_V4XWcRHBURYZnmaBdB0Fo",
+                        "name": "קפה מוייז - עגלת קפה בארץ הגולן",
+                        "address": "44 יהודיה, רמות 1294800",
+                        "latitude": 32.8503809,
+                        "longitude": 35.6632343,
+                        "rating": 4.7,
+                        "review_count": 1013,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://www.lol-art.com/cafemoize",
+                        "phone": "053-450-4335",
+                        "types": [
+                            "cafe",
+                            "point_of_interest",
+                            "food",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJ79d-jxwUHBURbDj5BxTTPcI",
+                        "name": "עין גב",
+                        "address": "עין גב 1494000",
+                        "latitude": 32.783393,
+                        "longitude": 35.6401191,
+                        "rating": 4.2,
+                        "review_count": 61,
+                        "business_status": "OPERATIONAL",
+                        "website": "http://eingev.com/",
+                        "phone": null,
+                        "types": [
+                            "restaurant",
+                            "point_of_interest",
+                            "food",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJRUfY4TBrHBURjWt3quxAC94",
+                        "name": "ארתור קפה - Arthur Cafe - עגלת קפה בכנרת",
+                        "address": "חצר כינרת, כינרת, 1510500",
+                        "latitude": 32.7217408,
+                        "longitude": 35.5683982,
+                        "rating": 4.5,
+                        "review_count": 1259,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://www.instagram.com/arthurcafe_kinneret",
+                        "phone": "050-233-3316",
+                        "types": [
+                            "cafe",
+                            "point_of_interest",
+                            "food",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJc90ZGWJfHBURLjbNRUflZQs",
+                        "name": "עגלת קפה עיינה",
+                        "address": "מעיין, עין הנצי\"ב",
+                        "latitude": 32.4723216,
+                        "longitude": 35.5031475,
+                        "rating": 4.6,
+                        "review_count": 143,
+                        "business_status": "OPERATIONAL",
+                        "website": null,
+                        "phone": "052-566-5989",
+                        "types": [
+                            "coffee_shop",
+                            "cafe",
+                            "food_store",
+                            "store",
+                            "point_of_interest",
+                            "food",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJ5-Kt2ERFHBURr0Wl79SMoHA",
+                        "name": "גולי קפה - עגלת קפה",
+                        "address": "מוזיאון, עין דור, 1933500",
+                        "latitude": 32.6570588,
+                        "longitude": 35.4171152,
+                        "rating": 4.8,
+                        "review_count": 61,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://guli-coffe.base44.app/",
+                        "phone": "050-460-6354",
+                        "types": [
+                            "coffee_shop",
+                            "cafe",
+                            "food_store",
+                            "store",
+                            "point_of_interest",
+                            "food",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJy8KC3TNrHBUR3JtbT4hpwo0",
+                        "name": "מול׳ה קפה",
+                        "address": "תל קציר",
+                        "latitude": 32.7060689,
+                        "longitude": 35.616268,
+                        "rating": 4.5,
+                        "review_count": 136,
+                        "business_status": "OPERATIONAL",
+                        "website": null,
+                        "phone": "052-636-2194",
+                        "types": [
+                            "coffee_shop",
+                            "cafe",
+                            "food_store",
+                            "store",
+                            "point_of_interest",
+                            "food",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJx2S1UOcZHBURhuPUmNNo5sA",
+                        "name": "עגלת קפה - אמיצ׳י",
+                        "address": "ירידה, ירדן הררי, כרכום, 1292600",
+                        "latitude": 32.9249059,
+                        "longitude": 35.6075254,
+                        "rating": 4.9,
+                        "review_count": 225,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://www.instagram.com/amici_coffee_?igsh=ZnN3dWp0NWtyNmd0",
+                        "phone": "050-693-9255",
+                        "types": [
+                            "coffee_shop",
+                            "cafe",
+                            "food_store",
+                            "store",
+                            "point_of_interest",
+                            "food",
+                            "establishment"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "post_id": 357,
+        "queries": [
+            {
+                "query": "F Ranch נטור",
+                "http_status": 200,
+                "candidates": [
+                    {
+                        "id": "ChIJ7bcbmhkFHBURbzXe09zfWw4",
+                        "name": "חוות נטור natur farm",
+                        "address": null,
+                        "latitude": 32.848146199999995,
+                        "longitude": 35.7539446,
+                        "rating": 4.8,
+                        "review_count": 94,
+                        "business_status": "OPERATIONAL",
+                        "website": "http://www.natur.co.il/",
+                        "phone": "052-489-3016",
+                        "types": [
+                            "lodging",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJ04B3NToFHBUR_Iqw3bT__KU",
+                        "name": "נטורה חווה אקולוגית Natura Ecological farm",
+                        "address": "נטור 1291500",
+                        "latitude": 32.8549693,
+                        "longitude": 35.7542906,
+                        "rating": 4.8,
+                        "review_count": 268,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://www.simplebooking.it/ibe2/hotel/8403?lang=HE&cur=ILS",
+                        "phone": "054-830-4876",
+                        "types": [
+                            "farmstay",
+                            "camping_cabin",
+                            "lodging",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJHwxbuK4FHBUR5xiYKnFObIc",
+                        "name": "עין כפית",
+                        "address": "נטור 1291500",
+                        "latitude": 32.848555399999995,
+                        "longitude": 35.753969999999995,
+                        "rating": 4.9,
+                        "review_count": 41,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://mandarina.org.il/ein-kapit/",
+                        "phone": "050-999-6484",
+                        "types": [
+                            "coffee_shop",
+                            "cafe",
+                            "food_store",
+                            "store",
+                            "point_of_interest",
+                            "food",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJT5__TRgRHBURinLIv1e7UnY",
+                        "name": "חוות הפיטאיה-משק גור - קמפינג ברמת הגולן",
+                        "address": "65, גבעת יואב 1294600",
+                        "latitude": 32.8107128,
+                        "longitude": 35.6658677,
+                        "rating": 4.9,
+                        "review_count": 400,
+                        "business_status": "OPERATIONAL",
+                        "website": "http://pitayafarm.co.il/",
+                        "phone": null,
+                        "types": [
+                            "camping_cabin",
+                            "lodging",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJSevDr3ERHBUR6jTx1WgbzZ8",
+                        "name": "הכפר בקצה ההר, Village on the Cliff",
+                        "address": "גבעת יואב",
+                        "latitude": 32.7935332,
+                        "longitude": 35.6777782,
+                        "rating": 4.9,
+                        "review_count": 431,
+                        "business_status": "OPERATIONAL",
+                        "website": "http://www.kfarbashvil.com/",
+                        "phone": "054-447-9978",
+                        "types": [
+                            "hotel",
+                            "bed_and_breakfast",
+                            "lodging",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJFV-PrUMZHBUR5YGD2JmDYBI",
+                        "name": "זכרונות מאפריקה- צימר בחד נס",
+                        "address": "Hofim 44 חופים 44 Had Nes Golan-Hights, חד נס 1295000",
+                        "latitude": 32.92668,
+                        "longitude": 35.642571,
+                        "rating": 4.7,
+                        "review_count": 153,
+                        "business_status": "OPERATIONAL",
+                        "website": "http://outofafricaresort.net/",
+                        "phone": null,
+                        "types": [
+                            "hotel",
+                            "lodging",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    }
+                ]
+            },
+            {
+                "query": "אף ראנץ נטור",
+                "http_status": 200,
+                "candidates": [
+                    {
+                        "id": "ChIJ7bcbmhkFHBURbzXe09zfWw4",
+                        "name": "חוות נטור natur farm",
+                        "address": null,
+                        "latitude": 32.848146199999995,
+                        "longitude": 35.7539446,
+                        "rating": 4.8,
+                        "review_count": 94,
+                        "business_status": "OPERATIONAL",
+                        "website": "http://www.natur.co.il/",
+                        "phone": "052-489-3016",
+                        "types": [
+                            "lodging",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJk2u2odAFHBURl6Op9to_gjk",
+                        "name": "מחלבת נטור המסעדה הכפרית של קרינה הקובנית",
+                        "address": "golan hights, נטור 1291500",
+                        "latitude": 32.8491406,
+                        "longitude": 35.7577766,
+                        "rating": 4.5,
+                        "review_count": 545,
+                        "business_status": "OPERATIONAL",
+                        "website": "http://natur-cheese.co.il/",
+                        "phone": "04-660-0325",
+                        "types": [
+                            "restaurant",
+                            "deli",
+                            "cafe",
+                            "food_store",
+                            "store",
+                            "food",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJ04B3NToFHBUR_Iqw3bT__KU",
+                        "name": "נטורה חווה אקולוגית Natura Ecological farm",
+                        "address": "נטור 1291500",
+                        "latitude": 32.8549693,
+                        "longitude": 35.7542906,
+                        "rating": 4.8,
+                        "review_count": 268,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://www.simplebooking.it/ibe2/hotel/8403?lang=HE&cur=ILS",
+                        "phone": "054-830-4876",
+                        "types": [
+                            "farmstay",
+                            "camping_cabin",
+                            "lodging",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJHwxbuK4FHBUR5xiYKnFObIc",
+                        "name": "עין כפית",
+                        "address": "נטור 1291500",
+                        "latitude": 32.848555399999995,
+                        "longitude": 35.753969999999995,
+                        "rating": 4.9,
+                        "review_count": 41,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://mandarina.org.il/ein-kapit/",
+                        "phone": "050-999-6484",
+                        "types": [
+                            "coffee_shop",
+                            "cafe",
+                            "food_store",
+                            "store",
+                            "food",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJ2XhDezkFHBURJ5iMUVOGtT0",
+                        "name": "סטודיו מנדרינה",
+                        "address": "מושב נטור רמת הגולן, נטור 1291500",
+                        "latitude": 32.848585299999996,
+                        "longitude": 35.7539252,
+                        "rating": 4.9,
+                        "review_count": 742,
+                        "business_status": "OPERATIONAL",
+                        "website": "http://www.mandarina.org.il/",
+                        "phone": "04-676-3619",
+                        "types": [
+                            "store",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJMcHaBukFHBURfyE3C7N8ZJw",
+                        "name": "דורא עגלת קפה",
+                        "address": "משתלת הגולן, נוב",
+                        "latitude": 32.8302838,
+                        "longitude": 35.7889242,
+                        "rating": 4.7,
+                        "review_count": 153,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://www.instagram.com/p/CencKhJIGZ2/?igshid=NWRhNmQxMjQ=",
+                        "phone": "055-881-3646",
+                        "types": [
+                            "cafe",
+                            "food",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJ738N0bEFHBURcfa6g3Dfl5k",
+                        "name": "סופר דידי",
+                        "address": "נטור 1291500",
+                        "latitude": 32.8539733,
+                        "longitude": 35.7525775,
+                        "rating": 4.2,
+                        "review_count": 108,
+                        "business_status": "OPERATIONAL",
+                        "website": null,
+                        "phone": "050-374-2125",
+                        "types": [
+                            "grocery_store",
+                            "food_store",
+                            "store",
+                            "food",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJawt9h7QaHBURej5ZUU2Rezw",
+                        "name": "עין קשתות",
+                        "address": "רמת הגולן, נטור",
+                        "latitude": 32.849608499999995,
+                        "longitude": 35.7398508,
+                        "rating": 4.7,
+                        "review_count": 2615,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://einkeshatot.org.il/",
+                        "phone": "04-685-1002",
+                        "types": [
+                            "historical_landmark",
+                            "historical_place",
+                            "event_venue",
+                            "museum",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJSevDr3ERHBUR6jTx1WgbzZ8",
+                        "name": "הכפר בקצה ההר, Village on the Cliff",
+                        "address": "גבעת יואב",
+                        "latitude": 32.7935332,
+                        "longitude": 35.6777782,
+                        "rating": 4.9,
+                        "review_count": 431,
+                        "business_status": "OPERATIONAL",
+                        "website": "http://www.kfarbashvil.com/",
+                        "phone": "054-447-9978",
+                        "types": [
+                            "hotel",
+                            "bed_and_breakfast",
+                            "lodging",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJ6VNbYSoFHBURkxIsW-NvpTY",
+                        "name": "מוזנסון/Mozenson Falafel",
+                        "address": "נטור",
+                        "latitude": 32.852948000000005,
+                        "longitude": 35.753487,
+                        "rating": 4.9,
+                        "review_count": 129,
+                        "business_status": "OPERATIONAL",
+                        "website": null,
+                        "phone": "058-454-4511",
+                        "types": [
+                            "vegetarian_restaurant",
+                            "restaurant",
+                            "food",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    }
+                ]
+            },
+            {
+                "query": "חוות F נטור",
+                "http_status": 200,
+                "candidates": [
+                    {
+                        "id": "ChIJ7bcbmhkFHBURbzXe09zfWw4",
+                        "name": "חוות נטור natur farm",
+                        "address": null,
+                        "latitude": 32.848146199999995,
+                        "longitude": 35.7539446,
+                        "rating": 4.8,
+                        "review_count": 94,
+                        "business_status": "OPERATIONAL",
+                        "website": "http://www.natur.co.il/",
+                        "phone": "052-489-3016",
+                        "types": [
+                            "lodging",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJ04B3NToFHBUR_Iqw3bT__KU",
+                        "name": "נטורה חווה אקולוגית Natura Ecological farm",
+                        "address": "נטור 1291500",
+                        "latitude": 32.8549693,
+                        "longitude": 35.7542906,
+                        "rating": 4.8,
+                        "review_count": 268,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://www.simplebooking.it/ibe2/hotel/8403?lang=HE&cur=ILS",
+                        "phone": "054-830-4876",
+                        "types": [
+                            "farmstay",
+                            "camping_cabin",
+                            "lodging",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJk2u2odAFHBURl6Op9to_gjk",
+                        "name": "מחלבת נטור המסעדה הכפרית של קרינה הקובנית",
+                        "address": "golan hights, נטור 1291500",
+                        "latitude": 32.8491406,
+                        "longitude": 35.7577766,
+                        "rating": 4.5,
+                        "review_count": 545,
+                        "business_status": "OPERATIONAL",
+                        "website": "http://natur-cheese.co.il/",
+                        "phone": "04-660-0325",
+                        "types": [
+                            "restaurant",
+                            "deli",
+                            "cafe",
+                            "food_store",
+                            "store",
+                            "food",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    }
+                ]
+            },
+            {
+                "query": "חוות סוסים נטור 0584559312",
+                "http_status": 200,
+                "candidates": [
+                    {
+                        "id": "ChIJ7bcbmhkFHBURbzXe09zfWw4",
+                        "name": "חוות נטור natur farm",
+                        "address": null,
+                        "latitude": 32.848146199999995,
+                        "longitude": 35.7539446,
+                        "rating": 4.8,
+                        "review_count": 94,
+                        "business_status": "OPERATIONAL",
+                        "website": "http://www.natur.co.il/",
+                        "phone": "052-489-3016",
+                        "types": [
+                            "lodging",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJnaPusF8bHBURgQfATHr52dQ",
+                        "name": "חוות שביט",
+                        "address": "כנף",
+                        "latitude": 32.8702786,
+                        "longitude": 35.706865300000004,
+                        "rating": 4.9,
+                        "review_count": 161,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://www.facebook.com/ShavitHorsemanship",
+                        "phone": "050-340-2220",
+                        "types": [
+                            "off_roading_area",
+                            "tour_agency",
+                            "travel_agency",
+                            "sports_school",
+                            "sports_activity_location",
+                            "sports_coaching",
+                            "service",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJ04B3NToFHBUR_Iqw3bT__KU",
+                        "name": "נטורה חווה אקולוגית Natura Ecological farm",
+                        "address": "נטור 1291500",
+                        "latitude": 32.8549693,
+                        "longitude": 35.7542906,
+                        "rating": 4.8,
+                        "review_count": 268,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://www.simplebooking.it/ibe2/hotel/8403?lang=HE&cur=ILS",
+                        "phone": "054-830-4876",
+                        "types": [
+                            "farmstay",
+                            "camping_cabin",
+                            "lodging",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJq5XrP6QQHBURDAm8PtTzh2Y",
+                        "name": "חוות רמות רכיבה על סוסים",
+                        "address": "חוות רמות, רמות",
+                        "latitude": 32.8465433,
+                        "longitude": 35.6817245,
+                        "rating": 4.7,
+                        "review_count": 252,
+                        "business_status": "OPERATIONAL",
+                        "website": null,
+                        "phone": "053-736-4750",
+                        "types": [
+                            "tour_agency",
+                            "travel_agency",
+                            "sports_school",
+                            "sports_activity_location",
+                            "sports_coaching",
+                            "service",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJSY62s54dHBURHcu2EEq8dfg",
+                        "name": "חוות האושר -אורטל , רכיבה על סוסים -קיבוץ אורטל",
+                        "address": "אורטל, 1243000",
+                        "latitude": 33.089667999999996,
+                        "longitude": 35.762899,
+                        "rating": 4.8,
+                        "review_count": 45,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://www.instagram.com/odelia_smotrich?igsh=MXVwMzV6YjF3c2E0cA%3D%3D&utm_source=qr",
+                        "phone": "053-736-4750",
+                        "types": [
+                            "tour_agency",
+                            "travel_agency",
+                            "service",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJNRKFpwI_HBURG1zKRWCP1UQ",
+                        "name": "חוות לב הגליל - טיולי רכיבה על סוסים - Heart of Galilee Ranch - Horseback Riding",
+                        "address": "חוות לב הגליל, Kfar Hittim, 1528000",
+                        "latitude": 32.7982665,
+                        "longitude": 35.50471230000001,
+                        "rating": 4.9,
+                        "review_count": 74,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://www.instagram.com/heart.of.galilee.ranch/",
+                        "phone": "054-873-2441",
+                        "types": [
+                            "tour_agency",
+                            "travel_agency",
+                            "service",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJryE6IDUZHBURTs3wqQiM_ag",
+                        "name": "רוכבי הירדן - רכיבת סוסים ברמת הגולן",
+                        "address": "חד נס 15000",
+                        "latitude": 32.927582099999995,
+                        "longitude": 35.6376646,
+                        "rating": 4.6,
+                        "review_count": 60,
+                        "business_status": "OPERATIONAL",
+                        "website": null,
+                        "phone": "052-373-6735",
+                        "types": [
+                            "tour_agency",
+                            "travel_agency",
+                            "service",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJPRYfD9SvHhURT8H9SACtg7U",
+                        "name": "חוות הבוקרים מרום גולן - רכיבת סוסים בצפון",
+                        "address": "קיבוץ מרום גולן, Merom Golan",
+                        "latitude": 33.130282,
+                        "longitude": 35.779734,
+                        "rating": 4.4,
+                        "review_count": 99,
+                        "business_status": "OPERATIONAL",
+                        "website": null,
+                        "phone": "052-851-4434",
+                        "types": [
+                            "tour_agency",
+                            "travel_agency",
+                            "sports_school",
+                            "sports_activity_location",
+                            "sports_coaching",
+                            "service",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJiXFMXQasHhURsqlZZeX2dcA",
+                        "name": "רכיבה על סוסים לכל המשפחה מגיל 4",
+                        "address": "אלוני הבשן רמת הגולן, 1241200",
+                        "latitude": 33.0413287,
+                        "longitude": 35.8363418,
+                        "rating": 4.1,
+                        "review_count": 54,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://www.facebook.com/Gil-Golan-Riding-Center-%D7%9E%D7%A8%D7%9B%D7%96-%D7%94%D7%A8%D7%9B%D7%99%D7%91%D7%94-%D7%92%D7%99%D7%9C-%D7%92%D7%95%D7%9C%D7%9F-138817206184249",
+                        "phone": "052-811-9505",
+                        "types": [
+                            "tourist_attraction",
+                            "service",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJme9SY-gjHBURKjXZl0u3r4I",
+                        "name": "חוות נוף הרים בגליל",
+                        "address": "דרך השוקולד 1, צפת",
+                        "latitude": 32.9590719,
+                        "longitude": 35.4868842,
+                        "rating": 4.7,
+                        "review_count": 83,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://nofharim-center.co.il/",
+                        "phone": "050-657-7646",
+                        "types": [
+                            "sports_school",
+                            "sports_activity_location",
+                            "sports_coaching",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    }
+                ]
+            },
+            {
+                "query": "רכיבה על סוסים נטור",
+                "http_status": 200,
+                "candidates": [
+                    {
+                        "id": "ChIJnaPusF8bHBURgQfATHr52dQ",
+                        "name": "חוות שביט",
+                        "address": "כנף",
+                        "latitude": 32.8702786,
+                        "longitude": 35.706865300000004,
+                        "rating": 4.9,
+                        "review_count": 161,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://www.facebook.com/ShavitHorsemanship",
+                        "phone": "050-340-2220",
+                        "types": [
+                            "off_roading_area",
+                            "tour_agency",
+                            "travel_agency",
+                            "sports_school",
+                            "sports_activity_location",
+                            "sports_coaching",
+                            "service",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJq5XrP6QQHBURDAm8PtTzh2Y",
+                        "name": "חוות רמות רכיבה על סוסים",
+                        "address": "חוות רמות, רמות",
+                        "latitude": 32.8465433,
+                        "longitude": 35.6817245,
+                        "rating": 4.7,
+                        "review_count": 252,
+                        "business_status": "OPERATIONAL",
+                        "website": null,
+                        "phone": "053-736-4750",
+                        "types": [
+                            "tour_agency",
+                            "travel_agency",
+                            "sports_school",
+                            "sports_activity_location",
+                            "sports_coaching",
+                            "service",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJryE6IDUZHBURTs3wqQiM_ag",
+                        "name": "רוכבי הירדן - רכיבת סוסים ברמת הגולן",
+                        "address": "חד נס 15000",
+                        "latitude": 32.927582099999995,
+                        "longitude": 35.6376646,
+                        "rating": 4.6,
+                        "review_count": 60,
+                        "business_status": "OPERATIONAL",
+                        "website": null,
+                        "phone": "052-373-6735",
+                        "types": [
+                            "tour_agency",
+                            "travel_agency",
+                            "service",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJKfwJAGkPHBURCKy9hra4PTw",
+                        "name": "מרכבות הבשן",
+                        "address": "20, אבני איתן",
+                        "latitude": 32.8208529,
+                        "longitude": 35.7710139,
+                        "rating": 4.8,
+                        "review_count": 75,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://bliss-media.co.il/mekavot-habashan/",
+                        "phone": "050-400-9286",
+                        "types": [
+                            "tourist_attraction",
+                            "sports_club",
+                            "sports_activity_location",
+                            "association_or_organization",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJNRKFpwI_HBURG1zKRWCP1UQ",
+                        "name": "חוות לב הגליל - טיולי רכיבה על סוסים - Heart of Galilee Ranch - Horseback Riding",
+                        "address": "חוות לב הגליל, Kfar Hittim, 1528000",
+                        "latitude": 32.7982665,
+                        "longitude": 35.50471230000001,
+                        "rating": 4.9,
+                        "review_count": 74,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://www.instagram.com/heart.of.galilee.ranch/",
+                        "phone": "054-873-2441",
+                        "types": [
+                            "tour_agency",
+                            "travel_agency",
+                            "service",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJSY62s54dHBURHcu2EEq8dfg",
+                        "name": "חוות האושר -אורטל , רכיבה על סוסים -קיבוץ אורטל",
+                        "address": "אורטל, 1243000",
+                        "latitude": 33.089667999999996,
+                        "longitude": 35.762899,
+                        "rating": 4.8,
+                        "review_count": 45,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://www.instagram.com/odelia_smotrich?igsh=MXVwMzV6YjF3c2E0cA%3D%3D&utm_source=qr",
+                        "phone": "053-736-4750",
+                        "types": [
+                            "tour_agency",
+                            "travel_agency",
+                            "service",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJiXFMXQasHhURsqlZZeX2dcA",
+                        "name": "רכיבה על סוסים לכל המשפחה מגיל 4",
+                        "address": "אלוני הבשן רמת הגולן, 1241200",
+                        "latitude": 33.0413287,
+                        "longitude": 35.8363418,
+                        "rating": 4.1,
+                        "review_count": 54,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://www.facebook.com/Gil-Golan-Riding-Center-%D7%9E%D7%A8%D7%9B%D7%96-%D7%94%D7%A8%D7%9B%D7%99%D7%91%D7%94-%D7%92%D7%99%D7%9C-%D7%92%D7%95%D7%9C%D7%9F-138817206184249",
+                        "phone": "052-811-9505",
+                        "types": [
+                            "tourist_attraction",
+                            "service",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJPRYfD9SvHhURT8H9SACtg7U",
+                        "name": "חוות הבוקרים מרום גולן - רכיבת סוסים בצפון",
+                        "address": "קיבוץ מרום גולן, Merom Golan",
+                        "latitude": 33.130282,
+                        "longitude": 35.779734,
+                        "rating": 4.4,
+                        "review_count": 99,
+                        "business_status": "OPERATIONAL",
+                        "website": null,
+                        "phone": "052-851-4434",
+                        "types": [
+                            "tour_agency",
+                            "travel_agency",
+                            "sports_school",
+                            "sports_activity_location",
+                            "sports_coaching",
+                            "service",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJA0fbWzsfHBURRZAL82ivetQ",
+                        "name": "חוות אלהייב",
+                        "address": "אלביאדר, טובא זנגריה",
+                        "latitude": 32.970877200000004,
+                        "longitude": 35.5981704,
+                        "rating": 5,
+                        "review_count": 88,
+                        "business_status": "OPERATIONAL",
+                        "website": null,
+                        "phone": "052-284-1042",
+                        "types": [
+                            "sports_school",
+                            "sports_activity_location",
+                            "sports_coaching",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJ-2LGIaBWHBURYjWBTH4cAro",
+                        "name": "חוות גזית מושב אביטל",
+                        "address": "1, Avital",
+                        "latitude": 32.561219,
+                        "longitude": 35.303917,
+                        "rating": 4.7,
+                        "review_count": 335,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://gazit-ranch.co.il/",
+                        "phone": "050-331-4443",
+                        "types": [
+                            "tour_agency",
+                            "travel_agency",
+                            "sports_school",
+                            "sports_activity_location",
+                            "sports_coaching",
+                            "service",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "post_id": 409,
+        "queries": [
+            {
+                "query": "מרכז מורשת גוש קטיף אבני איתן",
+                "http_status": 200,
+                "candidates": [
+                    {
+                        "id": "ChIJ0fEekPOYAhURvD1Kvfe2__c",
+                        "name": "מרכז מורשת קטיף",
+                        "address": "שדרת החורש, ניצן ב'",
+                        "latitude": 31.733836999999998,
+                        "longitude": 34.635014999999996,
+                        "rating": 4.5,
+                        "review_count": 418,
+                        "business_status": "OPERATIONAL",
+                        "website": "http://www.mkatif.org/",
+                        "phone": "077-432-4101",
+                        "types": [
+                            "museum",
+                            "tourist_attraction",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJE9CGM83dAhURFDBvJYpaAco",
+                        "name": "מרכז מורשת גוש עציון",
+                        "address": "כפר עציון",
+                        "latitude": 31.6480911,
+                        "longitude": 35.1153402,
+                        "rating": 4.7,
+                        "review_count": 1594,
+                        "business_status": "OPERATIONAL",
+                        "website": "http://www.etzion-bloc.org.il/",
+                        "phone": "02-993-5160",
+                        "types": [
+                            "cultural_center",
+                            "museum",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJKfwJAGkPHBURCKy9hra4PTw",
+                        "name": "מרכבות הבשן",
+                        "address": "20, אבני איתן",
+                        "latitude": 32.8208529,
+                        "longitude": 35.7710139,
+                        "rating": 4.8,
+                        "review_count": 75,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://bliss-media.co.il/mekavot-habashan/",
+                        "phone": "050-400-9286",
+                        "types": [
+                            "tourist_attraction",
+                            "sports_club",
+                            "sports_activity_location",
+                            "association_or_organization",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    }
+                ]
+            },
+            {
+                "query": "גוש קטיף בגולן ע״ר",
+                "http_status": 200,
+                "candidates": [
+                    {
+                        "id": "ChIJKfwJAGkPHBURCKy9hra4PTw",
+                        "name": "מרכבות הבשן",
+                        "address": "20, אבני איתן",
+                        "latitude": 32.8208529,
+                        "longitude": 35.7710139,
+                        "rating": 4.8,
+                        "review_count": 75,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://bliss-media.co.il/mekavot-habashan/",
+                        "phone": "050-400-9286",
+                        "types": [
+                            "tourist_attraction",
+                            "sports_club",
+                            "sports_activity_location",
+                            "association_or_organization",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJ1aaOa1quHhUR3xteO8sTmBg",
+                        "name": "בוסתן בראשית בגולן",
+                        "address": "עין זיוון",
+                        "latitude": 33.1184407,
+                        "longitude": 35.8051084,
+                        "rating": 4.4,
+                        "review_count": 1727,
+                        "business_status": "OPERATIONAL",
+                        "website": "http://www.enzivan.co.il/",
+                        "phone": null,
+                        "types": [
+                            "tourist_attraction",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJoU8aeAe6HhUR8lCMoxP1PMA",
+                        "name": "פארק הבוסתן - קטיף עצמי",
+                        "address": "בין צומת אודם וכפר מסעדה בצפון מסעדה, 0012435",
+                        "latitude": 33.218984999999996,
+                        "longitude": 35.74004,
+                        "rating": 4.6,
+                        "review_count": 36,
+                        "business_status": "OPERATIONAL",
+                        "website": null,
+                        "phone": "050-765-1273",
+                        "types": [
+                            "park",
+                            "wholesaler",
+                            "service",
+                            "point_of_interest",
+                            "food",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJA2bgsRelHhUR6nEgSGIZ0r8",
+                        "name": "הדובדבן שבגולן - חאן וקטיף עצמי",
+                        "address": "שעל",
+                        "latitude": 33.1639456,
+                        "longitude": 35.7186336,
+                        "rating": 4.9,
+                        "review_count": 595,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://camping-ido.co.il/",
+                        "phone": "054-751-5166",
+                        "types": [
+                            "camping_cabin",
+                            "lodging",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJgTEvPZO3HhURY5PerCLmQfI",
+                        "name": "קטיף עצמי ברמת הגולן חוות חווארית",
+                        "address": "נביא אליהו רמת הגולן, 12437",
+                        "latitude": 33.235778599999996,
+                        "longitude": 35.7443435,
+                        "rating": 4.2,
+                        "review_count": 5,
+                        "business_status": "OPERATIONAL",
+                        "website": null,
+                        "phone": "050-843-1485",
+                        "types": [
+                            "food_store",
+                            "store",
+                            "point_of_interest",
+                            "food",
+                            "establishment"
+                        ]
+                    }
+                ]
+            },
+            {
+                "query": "גוש קטיף בגולן אבני איתן",
+                "http_status": 200,
+                "candidates": [
+                    {
+                        "id": "ChIJKfwJAGkPHBURCKy9hra4PTw",
+                        "name": "מרכבות הבשן",
+                        "address": "20, אבני איתן",
+                        "latitude": 32.8208529,
+                        "longitude": 35.7710139,
+                        "rating": 4.8,
+                        "review_count": 75,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://bliss-media.co.il/mekavot-habashan/",
+                        "phone": "050-400-9286",
+                        "types": [
+                            "tourist_attraction",
+                            "sports_club",
+                            "sports_activity_location",
+                            "association_or_organization",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJ1aaOa1quHhUR3xteO8sTmBg",
+                        "name": "בוסתן בראשית בגולן",
+                        "address": "עין זיוון",
+                        "latitude": 33.1184407,
+                        "longitude": 35.8051084,
+                        "rating": 4.4,
+                        "review_count": 1727,
+                        "business_status": "OPERATIONAL",
+                        "website": "http://www.enzivan.co.il/",
+                        "phone": null,
+                        "types": [
+                            "tourist_attraction",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJuw9hU766HhUR_91UaarPpnw",
+                        "name": "משק לוי - קטיף עצמי",
+                        "address": "שעל",
+                        "latitude": 33.171403999999995,
+                        "longitude": 35.721674,
+                        "rating": 4.3,
+                        "review_count": 1393,
+                        "business_status": "OPERATIONAL",
+                        "website": "http://www.meshek-levy.co.il/",
+                        "phone": "052-460-0465",
+                        "types": [
+                            "tourist_attraction",
+                            "off_roading_area",
+                            "farmstay",
+                            "farm",
+                            "sports_activity_location",
+                            "lodging",
+                            "service",
+                            "food_store",
+                            "store",
+                            "point_of_interest",
+                            "food",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJoU8aeAe6HhUR8lCMoxP1PMA",
+                        "name": "פארק הבוסתן - קטיף עצמי",
+                        "address": "בין צומת אודם וכפר מסעדה בצפון מסעדה, 0012435",
+                        "latitude": 33.218984999999996,
+                        "longitude": 35.74004,
+                        "rating": 4.6,
+                        "review_count": 36,
+                        "business_status": "OPERATIONAL",
+                        "website": null,
+                        "phone": "050-765-1273",
+                        "types": [
+                            "park",
+                            "wholesaler",
+                            "service",
+                            "point_of_interest",
+                            "food",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJA2bgsRelHhUR6nEgSGIZ0r8",
+                        "name": "הדובדבן שבגולן - חאן וקטיף עצמי",
+                        "address": "שעל",
+                        "latitude": 33.1639456,
+                        "longitude": 35.7186336,
+                        "rating": 4.9,
+                        "review_count": 595,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://camping-ido.co.il/",
+                        "phone": "054-751-5166",
+                        "types": [
+                            "camping_cabin",
+                            "lodging",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJY8P06GEFHBUR-RmzXk6zQpE",
+                        "name": "הכפר האינדיאני",
+                        "address": "אבני איתן 1292500",
+                        "latitude": 32.8288109,
+                        "longitude": 35.763073299999995,
+                        "rating": 4.5,
+                        "review_count": 599,
+                        "business_status": "OPERATIONAL",
+                        "website": "http://www.tipi.co.il/",
+                        "phone": "04-676-2151",
+                        "types": [
+                            "bed_and_breakfast",
+                            "lodging",
+                            "health",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJ0fEekPOYAhURvD1Kvfe2__c",
+                        "name": "מרכז מורשת קטיף",
+                        "address": "שדרת החורש, ניצן ב'",
+                        "latitude": 31.733836999999998,
+                        "longitude": 34.635014999999996,
+                        "rating": 4.5,
+                        "review_count": 418,
+                        "business_status": "OPERATIONAL",
+                        "website": "http://www.mkatif.org/",
+                        "phone": "077-432-4101",
+                        "types": [
+                            "museum",
+                            "tourist_attraction",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJwbO7IK27HhURC8SepLrQ0gg",
+                        "name": "דובדבן לבנה וזעתר בגולן",
+                        "address": "1 מסעדה, 0012435",
+                        "latitude": 33.2169883,
+                        "longitude": 35.7296492,
+                        "rating": 4.2,
+                        "review_count": 39,
+                        "business_status": "OPERATIONAL",
+                        "website": "https://www.facebook.com/%D7%93%D7%95%D7%91%D7%93%D7%91%D7%9F-%D7%9C%D7%91%D7%A0%D7%94-%D7%95%D7%96%D7%A2%D7%AA%D7%A8-%D7%91%D7%92%D7%95%D7%9C%D7%9F-%D7%A7%D7%98%D7%99%D7%A3-%D7%A2%D7%A6%D7%9E%D7%99-%D7%A6%D7%99%D7%9E%D7%A8-%D7%91%D7%98%D7%91%D7%A2-360168491095738/",
+                        "phone": "050-768-0789",
+                        "types": [
+                            "park",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJx6pRXeO3HhURV6AaYXJMQho",
+                        "name": "קטיף עצמי טוסקנה",
+                        "address": "כביש מסעדה עין קניה, מסעדה 1243500",
+                        "latitude": 33.2278848,
+                        "longitude": 35.743587399999996,
+                        "rating": 4.8,
+                        "review_count": 21,
+                        "business_status": "OPERATIONAL",
+                        "website": null,
+                        "phone": "050-752-8623",
+                        "types": [
+                            "farm",
+                            "service",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJ_z_iSi_WAhURBh0091YXE1I",
+                        "name": "מוזיאון גוש קטיף בירושלים",
+                        "address": "שערי צדק 5, ירושלים",
+                        "latitude": 31.786022199999998,
+                        "longitude": 35.2092403,
+                        "rating": 4.5,
+                        "review_count": 283,
+                        "business_status": "OPERATIONAL",
+                        "website": "http://www.gushkatifmuseum.com/",
+                        "phone": "02-625-5456",
+                        "types": [
+                            "history_museum",
+                            "tourist_attraction",
+                            "museum",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    }
+                ]
+            },
+            {
+                "query": "Gush Katif Heritage Center Avnei Eitan",
+                "http_status": 200,
+                "candidates": [
+                    {
+                        "id": "ChIJ_z_iSi_WAhURBh0091YXE1I",
+                        "name": "מוזיאון גוש קטיף בירושלים",
+                        "address": "שערי צדק 5, ירושלים",
+                        "latitude": 31.786022199999998,
+                        "longitude": 35.2092403,
+                        "rating": 4.5,
+                        "review_count": 283,
+                        "business_status": "OPERATIONAL",
+                        "website": "http://www.gushkatifmuseum.com/",
+                        "phone": "02-625-5456",
+                        "types": [
+                            "history_museum",
+                            "tourist_attraction",
+                            "museum",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJE9CGM83dAhURFDBvJYpaAco",
+                        "name": "מרכז מורשת גוש עציון",
+                        "address": "כפר עציון",
+                        "latitude": 31.6480911,
+                        "longitude": 35.1153402,
+                        "rating": 4.7,
+                        "review_count": 1594,
+                        "business_status": "OPERATIONAL",
+                        "website": "http://www.etzion-bloc.org.il/",
+                        "phone": "02-993-5160",
+                        "types": [
+                            "cultural_center",
+                            "museum",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    },
+                    {
+                        "id": "ChIJ0fEekPOYAhURvD1Kvfe2__c",
+                        "name": "מרכז מורשת קטיף",
+                        "address": "שדרת החורש, ניצן ב'",
+                        "latitude": 31.733836999999998,
+                        "longitude": 34.635014999999996,
+                        "rating": 4.5,
+                        "review_count": 418,
+                        "business_status": "OPERATIONAL",
+                        "website": "http://www.mkatif.org/",
+                        "phone": "077-432-4101",
+                        "types": [
+                            "museum",
+                            "tourist_attraction",
+                            "point_of_interest",
+                            "establishment"
+                        ]
+                    }
+                ]
+            },
+            {
+                "query": "04-6763535",
+                "http_status": 200,
+                "candidates": []
+            }
+        ]
+    }
+]

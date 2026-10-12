@@ -142,3 +142,17 @@ location ~* \.(css|js)$ {
 - [x] Article 98: חוויות קולינריות בצפון - מסעדות, שווקים ויקבים שכדאי להכיר (673 words)
 - [x] All 5 published with status=publish, Hebrew RTL, H2/H3 structure, SEO excerpts under 160 chars
 - [x] Keywords covered: אטרקציות בצפון, טיולים בגליל, מסלולי טיול, לינה בצפון, מסעדות בצפון, יקבי גליל
+
+## 2026-09-26 — Organization-wide read-only audit
+
+- [x] All12 organization agents completed detailed Hebrew reports answering the9 user questions, with evidence, priorities and30/60/90plans.
+- [x] Consolidated TL;DR, candidate places, report index and standalone RTL HTML saved under memory/reports/2026-09-26-organization-audit-2230/.
+- [x] Updated memory pointers; live site and GitHub were unchanged.
+- [ ] Implementation of audit recommendations remains separate: see memory/reports/2026-09-26-organization-audit-2230/README.md.
+
+## 2026-09-26 — Audit findings converted to GitHub issues
+
+- [x] Created parent #74 and 24 linked work issues #75–#98 with priorities, professional owners, dependencies and acceptance checks.
+- [x] Updated existing #31, #46 and #70 without duplicating their scope; read back and verified all 28 issue bodies.
+- [x] Saved the issue map in memory/reports/2026-09-26-organization-issues-created.md and updated memory.
+- [ ] Website implementation remains tracked under https://github.com/rynrn/gonorth/issues/74.

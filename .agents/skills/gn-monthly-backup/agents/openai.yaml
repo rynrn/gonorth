@@ -1,0 +1,5 @@
+interface:
+  display_name: "גיבוי חודשי GoNorth"
+  short_description: "גיבוי חודשי יחיד, בדיקה והחלפה בטוחה של הקודם"
+  default_prompt: "Use $gn-monthly-backup to run or rehearse the GoNorth monthly backup procedure."
+

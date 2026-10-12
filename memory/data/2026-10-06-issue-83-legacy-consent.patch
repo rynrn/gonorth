@@ -1,0 +1,96 @@
+--- before/header.php
++++ after/header.php
+@@ -19,7 +19,7 @@
+ <script data-noptimize="1">
+ (function(w,d){
+   var loaded=false;
+-  function approved(){try{return w.localStorage.getItem('gn_cookie_ok')==='1';}catch(e){return false;}}
++  function approved(){try{return w.localStorage.getItem('gn_analytics_consent_v2')==='1';}catch(e){return false;}}
+   function safeUrl(value){
+     if(!value)return '';
+     try{var u=new URL(value,w.location.href);return /^https?:$/.test(u.protocol)?u.origin+u.pathname:'';}catch(e){return '';}
+--- before/functions.php
++++ after/functions.php
+@@ -1201,7 +1201,7 @@
+   var b=document.getElementById('gn-cookie-banner');
+   var settings=document.getElementById('gn-cookie-settings');
+   if(!b||!settings)return;
+-  function choice(){try{return localStorage.getItem('gn_cookie_ok');}catch(e){return null;}}
++  function choice(){try{return localStorage.getItem('gn_analytics_consent_v2');}catch(e){return null;}}
+   function show(){b.style.display='flex';settings.setAttribute('aria-expanded','true');document.getElementById('gn-cookie-title').focus();}
+   function hide(){b.style.display='none';settings.setAttribute('aria-expanded','false');settings.focus();}
+   function clearAnalyticsCookies(){
+@@ -1215,11 +1215,11 @@
+   if(choice()!=='1'&&choice()!=='0')show();
+   settings.addEventListener('click',show);
+   document.getElementById('gn-cookie-accept').addEventListener('click',function(){
+-    try{localStorage.setItem('gn_cookie_ok','1');}catch(e){return;}
++    try{localStorage.setItem('gn_analytics_consent_v2','1');localStorage.removeItem('gn_cookie_ok');}catch(e){return;}
+     hide();window.dispatchEvent(new Event('gn-consent-granted'));
+   });
+   document.getElementById('gn-cookie-reject').addEventListener('click',function(){
+-    try{localStorage.setItem('gn_cookie_ok','0');}catch(e){return;}
++    try{localStorage.setItem('gn_analytics_consent_v2','0');localStorage.removeItem('gn_cookie_ok');}catch(e){return;}
+     clearAnalyticsCookies();hide();window.location.reload();
+   });
+ })();
+--- before/place-analytics.js
++++ after/place-analytics.js
+@@ -19,7 +19,7 @@
+ 
+ 	function send( eventName, parameters ) {
+ 		let consentGranted = false;
+-		try { consentGranted = '1' === window.localStorage.getItem( 'gn_cookie_ok' ); } catch ( error ) {}
++		try { consentGranted = '1' === window.localStorage.getItem( 'gn_analytics_consent_v2' ); } catch ( error ) {}
+ 		if ( ! consentGranted ) return;
+ 		const payload = clean( Object.assign( {}, parameters, {
+ 			page_location: window.location.origin + window.location.pathname,
+@@ -38,7 +38,7 @@
+ 	}
+ 
+ 	function sendOnce( key, eventName, parameters ) {
+-		try { if ( '1' !== window.localStorage.getItem( 'gn_cookie_ok' ) ) return; } catch ( error ) { return; }
++		try { if ( '1' !== window.localStorage.getItem( 'gn_analytics_consent_v2' ) ) return; } catch ( error ) { return; }
+ 		if ( sentOnce.has( key ) ) return;
+ 		sentOnce.add( key );
+ 		send( eventName, parameters );
+@@ -108,7 +108,7 @@
+ 		if ( preferredSource ) {
+ 			let consentGranted = false;
+ 			try {
+-				consentGranted = '1' === window.localStorage.getItem( 'gn_cookie_ok' );
++				consentGranted = '1' === window.localStorage.getItem( 'gn_analytics_consent_v2' );
+ 			} catch ( error ) {
+ 				consentGranted = false;
+ 			}
+--- before/preferred-source.js
++++ after/preferred-source.js
+@@ -7,7 +7,7 @@
+ 
+ 	function hasConsent() {
+ 		try {
+-			return '1' === window.localStorage.getItem( 'gn_cookie_ok' );
++			return '1' === window.localStorage.getItem( 'gn_analytics_consent_v2' );
+ 		} catch ( error ) {
+ 			return false;
+ 		}
+--- before/gonorth-place-data.php
++++ after/gonorth-place-data.php
+@@ -2,7 +2,7 @@
+ /**
+  * Plugin Name: GoNorth Place Data
+  * Description: Canonical structured data layer for GoNorth place listings.
+- * Version: 1.18.7
++ * Version: 1.18.8
+  * Author: GoNorth
+  * Text Domain: gonorth-place-data
+  */
+@@ -11,7 +11,7 @@
+ 	exit;
+ }
+ 
+-define( 'GONORTH_PLACE_DATA_VERSION', '1.18.7' );
++define( 'GONORTH_PLACE_DATA_VERSION', '1.18.8' );
+ define( 'GONORTH_PLACE_DATA_FILE', __FILE__ );
+ 
+ require_once __DIR__ . '/includes/class-gonorth-place-data.php';

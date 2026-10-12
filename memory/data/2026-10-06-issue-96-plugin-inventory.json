@@ -1,0 +1,87 @@
+[
+  {
+    "name": "accessibility-onetap",
+    "status": "active",
+    "version": "2.10.0"
+  },
+  {
+    "name": "ameliabooking",
+    "status": "active",
+    "version": "2.3"
+  },
+  {
+    "name": "autoptimize",
+    "status": "active",
+    "version": "3.1.15.1"
+  },
+  {
+    "name": "elementor",
+    "status": "active",
+    "version": "4.0.7"
+  },
+  {
+    "name": "geodirectory",
+    "status": "active",
+    "version": "2.8.160"
+  },
+  {
+    "name": "gonorth-place-data",
+    "status": "active",
+    "version": "1.19.0"
+  },
+  {
+    "name": "mcp-adapter",
+    "status": "active",
+    "version": "0.4.1"
+  },
+  {
+    "name": "sassy-social-share",
+    "status": "inactive",
+    "version": "3.3.79"
+  },
+  {
+    "name": "scaup-seo",
+    "status": "active",
+    "version": "1.58.2"
+  },
+  {
+    "name": "wp-smushit",
+    "status": "active",
+    "version": "4.3.0"
+  },
+  {
+    "name": "updraftplus",
+    "status": "active",
+    "version": "1.26.3"
+  },
+  {
+    "name": "woocommerce",
+    "status": "active",
+    "version": "10.7.0"
+  },
+  {
+    "name": "wordfence",
+    "status": "inactive",
+    "version": "8.2.1"
+  },
+  {
+    "name": "wp-super-cache",
+    "status": "active",
+    "version": "3.1.0"
+  },
+  {
+    "name": "wordpress-seo",
+    "status": "active",
+    "version": "27.5"
+  },
+  {
+    "name": "geodir-fast-ajax",
+    "status": "must-use",
+    "version": "1.0.0"
+  },
+  {
+    "name": "advanced-cache.php",
+    "status": "dropin",
+    "version": ""
+  }
+]

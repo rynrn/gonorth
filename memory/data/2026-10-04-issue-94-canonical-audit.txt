@@ -1,0 +1,64 @@
+No syntax errors detected in /home/claude/issue94/issue94-audit.php
+{
+    "checked_at_utc": "2026-10-04T13:28:56+00:00",
+    "posts": {
+        "yizreel": {
+            "id": 516,
+            "status": "publish",
+            "url": "https:\/\/gonorth.co.il\/yizreel-valley-day-trip\/",
+            "title": "מסלול יום בעמק יזרעאל: נחל השופט, בית שערים וכפר יהושע",
+            "categories": [
+                "tiyulim",
+                "madrichim"
+            ],
+            "body_sha256": "7fbec5900873284357b4432f7d41cb921b994c8d74f4c5582faff0489e3f56fc",
+            "figures": 1,
+            "tables": 0,
+            "tracked_links": 2,
+            "seo_title": "מסלול יום בעמק יזרעאל: טבע, מורשת וקפה | כיוון צפון",
+            "seo_description": "מסלול יום בעמק יזרעאל דרך נחל השופט, בית שערים וכפר יהושע. ארבע תחנות לבחירה, מקורות רשמיים וטיפים לבדיקה לפני היציאה."
+        },
+        "kinneret": {
+            "id": 517,
+            "status": "publish",
+            "url": "https:\/\/gonorth.co.il\/south-kinneret-day-trip\/",
+            "title": "מסלול יום בדרום הכנרת: חמת טבריה, חצר כנרת וקיאקים",
+            "categories": [
+                "tiyulim",
+                "madrichim"
+            ],
+            "body_sha256": "976b4843dd427cb5da252601b46be9e1bafb692f85536e49e826584c5fe44dc7",
+            "figures": 1,
+            "tables": 0,
+            "tracked_links": 2,
+            "seo_title": "מסלול יום בדרום הכנרת: מורשת וקיאקים | כיוון צפון",
+            "seo_description": "יום בדרום הכנרת: חמת טבריה, חצר כנרת וקיאקים ליד דגניה. סדר תחנות, חלופות ומידע שצריך לאמת מול המפעילים."
+        }
+    },
+    "places": {
+        "56": {
+            "status": "publish",
+            "url": "https:\/\/gonorth.co.il\/places\/%d7%a0%d7%97%d7%9c-%d7%94%d7%a9%d7%95%d7%a4%d7%98\/",
+            "backlink": true,
+            "body_sha256": "04b71cfc2c9a1dc5acda4c02d5e56e9f0405f1cdd765b78222b4a5149d1c5870"
+        },
+        "233": {
+            "status": "publish",
+            "url": "https:\/\/gonorth.co.il\/places\/%d7%94%d7%a7%d7%a8%d7%95%d7%9f-%d7%91%d7%9b%d7%a4%d7%a8-%d7%99%d7%94%d7%95%d7%a9%d7%95%d7%a2\/",
+            "backlink": true,
+            "body_sha256": "a9234756400f4d91df8e39a6ba8e590018d67fe036f0482e15fd74f26107e536"
+        },
+        "327": {
+            "status": "publish",
+            "url": "https:\/\/gonorth.co.il\/places\/%d7%97%d7%9e%d7%99-%d7%98%d7%91%d7%a8%d7%99%d7%94\/",
+            "backlink": true,
+            "body_sha256": "5f904ac66bbceebeebedb41d6aecabbe35eed2569f814e3439f985dd9bb5378e"
+        },
+        "423": {
+            "status": "publish",
+            "url": "https:\/\/gonorth.co.il\/places\/%d7%a7%d7%99%d7%90%d7%a7-%d7%9b%d7%a0%d7%a8%d7%aa\/",
+            "backlink": true,
+            "body_sha256": "1caf64228485bcb71535800553e79a6879d6700b2fe5f0a6383589277cb563a5"
+        }
+    }
+}

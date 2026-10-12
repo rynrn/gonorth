@@ -1,0 +1,692 @@
+{
+  "checked_at": "2026-10-02T16:02:03.826286+00:00",
+  "issue": 85,
+  "scope": "public HTTP/HTML only",
+  "pages": [
+    {
+      "url": "https://gonorth.co.il/places/",
+      "status": 200,
+      "final_url": "https://gonorth.co.il/places/",
+      "canonical": [
+        "https://gonorth.co.il/places/"
+      ],
+      "robots_meta": [
+        "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      ],
+      "x_robots_tag": null,
+      "title": "מקומות בצפון ישראל — אטרקציות, לינה ואוכל | כיוון צפון",
+      "meta_description": [
+        "גלו מקומות לטיול בצפון ישראל: אטרקציות, מסלולי טבע, לינה, אוכל וסיורים בגליל, בגולן, בכינרת ובכרמל. מידע לתכנון ביקור בצפון."
+      ],
+      "h1_count": 1,
+      "jsonld_count": 1,
+      "schema_types": [
+        "CollectionPage",
+        "BreadcrumbList",
+        "WebSite",
+        "Organization"
+      ],
+      "breadcrumb_labels": [
+        [
+          "דף הבית",
+          "מקומות בצפון"
+        ]
+      ],
+      "jsonld_invalid": 0
+    },
+    {
+      "url": "https://gonorth.co.il/tours-kayaks-north-israel/",
+      "status": 200,
+      "final_url": "https://gonorth.co.il/tours-kayaks-north-israel/",
+      "canonical": [
+        "https://gonorth.co.il/tours-kayaks-north-israel/"
+      ],
+      "robots_meta": [
+        "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      ],
+      "x_robots_tag": null,
+      "title": "סיורים בצפון וקיאקים בנחל הירדן | כיוון צפון",
+      "meta_description": [
+        "מדריך לסיורים בצפון ולקיאקים בנחל הירדן: השוואה לפי אזור, גיל, עונה וסוג פעילות, עם קישורים למפעילים בגליל, בגולן ובכינרת."
+      ],
+      "h1_count": 1,
+      "jsonld_count": 1,
+      "schema_types": [
+        "WebPage",
+        "ImageObject",
+        "BreadcrumbList",
+        "WebSite",
+        "Organization"
+      ],
+      "breadcrumb_labels": [
+        [
+          "Home",
+          "סיורים בצפון וקיאקים בנחל הירדן"
+        ]
+      ],
+      "jsonld_invalid": 0
+    },
+    {
+      "url": "https://gonorth.co.il/hanukkah-north-israel/",
+      "status": 200,
+      "final_url": "https://gonorth.co.il/hanukkah-north-israel/",
+      "canonical": [
+        "https://gonorth.co.il/hanukkah-north-israel/"
+      ],
+      "robots_meta": [
+        "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      ],
+      "x_robots_tag": null,
+      "title": "חנוכה בצפון 2026: פעילויות וטיולי חורף | כיוון צפון",
+      "meta_description": [
+        "מה עושים בחנוכה בצפון 2026? תאריכים מאומתים, פעילויות לילדים, סדנאות, צפרות, עכו, הגולן ומסלולי יום לחופשת החג."
+      ],
+      "h1_count": 1,
+      "jsonld_count": 1,
+      "schema_types": [
+        "Article",
+        "WebPage",
+        "ImageObject",
+        "BreadcrumbList",
+        "WebSite",
+        "Organization"
+      ],
+      "breadcrumb_labels": [
+        [
+          "Home",
+          "blog",
+          "חנוכה בצפון 2026 — פעילויות למשפחות, טיולי חורף ורעיונות לחג"
+        ]
+      ],
+      "jsonld_invalid": 0
+    },
+    {
+      "url": "https://gonorth.co.il/sukkot-batzafon/",
+      "status": 200,
+      "final_url": "https://gonorth.co.il/sukkot-batzafon/",
+      "canonical": [
+        "https://gonorth.co.il/sukkot-batzafon/"
+      ],
+      "robots_meta": [
+        "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      ],
+      "x_robots_tag": null,
+      "title": "סוכות בצפון: מדריך לטיולים בחג | כיוון צפון",
+      "meta_description": [
+        "מתכננים סוכות בצפון? תאריכי החג וחול המועד, רעיונות לטיולים בגליל ובגולן, קישורים למקומות וטיפים לעומסים, מזג אוויר והזמנה."
+      ],
+      "h1_count": 1,
+      "jsonld_count": 1,
+      "schema_types": [
+        "WebPage",
+        "BreadcrumbList",
+        "WebSite",
+        "Organization"
+      ],
+      "breadcrumb_labels": [
+        [
+          "Home",
+          "סוכות בצפון"
+        ]
+      ],
+      "jsonld_invalid": 0
+    },
+    {
+      "url": "https://gonorth.co.il/rosh-hashanah-batzafon/",
+      "status": 200,
+      "final_url": "https://gonorth.co.il/rosh-hashanah-batzafon/",
+      "canonical": [
+        "https://gonorth.co.il/rosh-hashanah-batzafon/"
+      ],
+      "robots_meta": [
+        "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      ],
+      "x_robots_tag": null,
+      "title": "ראש השנה בצפון: מדריך לתכנון החג | כיוון צפון",
+      "meta_description": [
+        "מתכננים ראש השנה בצפון? תאריכי החג המעודכנים, רעיונות לטיול בגליל ובגולן, קישורים למקומות ורשימת בדיקות לשעות חג והזמנות."
+      ],
+      "h1_count": 1,
+      "jsonld_count": 1,
+      "schema_types": [
+        "WebPage",
+        "BreadcrumbList",
+        "WebSite",
+        "Organization"
+      ],
+      "breadcrumb_labels": [
+        [
+          "Home",
+          "ראש השנה בצפון"
+        ]
+      ],
+      "jsonld_invalid": 0
+    },
+    {
+      "url": "https://gonorth.co.il/coffee-carts-cafes-north-israel/",
+      "status": 200,
+      "final_url": "https://gonorth.co.il/coffee-carts-cafes-north-israel/",
+      "canonical": [
+        "https://gonorth.co.il/coffee-carts-cafes-north-israel/"
+      ],
+      "robots_meta": [
+        "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      ],
+      "x_robots_tag": null,
+      "title": "עגלות קפה ובתי קפה בצפון | כיוון צפון",
+      "meta_description": [
+        "מדריך עגלות קפה ובתי קפה בצפון לפי אזור ואופי העצירה, עם השוואה שימושית, מקומות פעילים וטיפים לבדיקת שעות, צל ונגישות."
+      ],
+      "h1_count": 1,
+      "jsonld_count": 1,
+      "schema_types": [
+        "WebPage",
+        "ImageObject",
+        "BreadcrumbList",
+        "WebSite",
+        "Organization"
+      ],
+      "breadcrumb_labels": [
+        [
+          "Home",
+          "עגלות קפה ובתי קפה בצפון"
+        ]
+      ],
+      "jsonld_invalid": 0
+    },
+    {
+      "url": "https://gonorth.co.il/open-saturday/",
+      "status": 200,
+      "final_url": "https://gonorth.co.il/open-saturday/",
+      "canonical": [
+        "https://gonorth.co.il/open-saturday/"
+      ],
+      "robots_meta": [
+        "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      ],
+      "x_robots_tag": null,
+      "title": "מקומות פתוחים בשבת בצפון | כיוון צפון",
+      "meta_description": [
+        "מצאו מקומות פתוחים בשבת בצפון מתוך מידע מעשי מאומת: אטרקציות, טבע, אוכל ופעילויות בגליל ובגולן, עם קישורים ישירים ותאריך בדיקה."
+      ],
+      "h1_count": 1,
+      "jsonld_count": 1,
+      "schema_types": [
+        "WebPage",
+        "BreadcrumbList",
+        "WebSite",
+        "ItemList",
+        "Organization"
+      ],
+      "breadcrumb_labels": [
+        [
+          "Home",
+          "מקומות פתוחים בשבת בצפון"
+        ]
+      ],
+      "jsonld_invalid": 0
+    },
+    {
+      "url": "https://gonorth.co.il/yekavim-batzafon/",
+      "status": 200,
+      "final_url": "https://gonorth.co.il/yekavim-batzafon/",
+      "canonical": [
+        "https://gonorth.co.il/yekavim-batzafon/"
+      ],
+      "robots_meta": [
+        "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      ],
+      "x_robots_tag": null,
+      "title": "יקבים בצפון: טעימות בגליל ובגולן | כיוון צפון",
+      "meta_description": [
+        "מדריך יקבים בצפון עם יקבי גליל וגולן, תכנון יום טעימות, תיאום מראש, בחירת אזור וטיפים לנהיגה בטוחה."
+      ],
+      "h1_count": 1,
+      "jsonld_count": 1,
+      "schema_types": [
+        "Article",
+        "WebPage",
+        "ImageObject",
+        "BreadcrumbList",
+        "WebSite",
+        "Person",
+        "Organization"
+      ],
+      "breadcrumb_labels": [
+        [
+          "Home",
+          "blog",
+          "יקבים בצפון: מדריך טעימות בגליל ובגולן"
+        ]
+      ],
+      "jsonld_invalid": 0
+    },
+    {
+      "url": "https://gonorth.co.il/shavuot-north-israel/",
+      "status": 200,
+      "final_url": "https://gonorth.co.il/shavuot-north-israel/",
+      "canonical": [
+        "https://gonorth.co.il/shavuot-north-israel/"
+      ],
+      "robots_meta": [
+        "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      ],
+      "x_robots_tag": null,
+      "title": "שבועות בצפון: טיולים, יקבים ולינה לחג | כיוון צפון",
+      "meta_description": [
+        "מדריך מתעדכן לשבועות בצפון: מסלולים, חקלאות, יקבים, פעילויות ולינה בגליל ובגולן, עם טיפים לתכנון ובדיקת פרטים סמוך לחג."
+      ],
+      "h1_count": 1,
+      "jsonld_count": 1,
+      "schema_types": [
+        "WebPage",
+        "BreadcrumbList",
+        "WebSite",
+        "Organization"
+      ],
+      "breadcrumb_labels": [
+        [
+          "Home",
+          "שבועות בצפון — טיולים, חקלאות, יקבים ולינה לחג"
+        ]
+      ],
+      "jsonld_invalid": 0
+    },
+    {
+      "url": "https://gonorth.co.il/places/category/ochel/",
+      "status": 200,
+      "final_url": "https://gonorth.co.il/places/category/ochel/",
+      "canonical": [
+        "https://gonorth.co.il/places/category/ochel/"
+      ],
+      "robots_meta": [
+        "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      ],
+      "x_robots_tag": null,
+      "title": "אוכל ושתייה בצפון ישראל | כיוון צפון",
+      "meta_description": [
+        "גלו אפשרויות אוכל ושתייה בצפון ישראל, עם מידע על מסעדות, בתי קפה ועגלות קפה. בדקו את פרטי המקום לפני הביקור."
+      ],
+      "h1_count": 1,
+      "jsonld_count": 2,
+      "schema_types": [
+        "CollectionPage",
+        "BreadcrumbList",
+        "WebSite",
+        "Organization",
+        "ItemList"
+      ],
+      "breadcrumb_labels": [
+        [
+          "דף הבית",
+          "אוכל ושתייה"
+        ]
+      ],
+      "jsonld_invalid": 0
+    },
+    {
+      "url": "https://gonorth.co.il/places/category/batei-kafe/",
+      "status": 200,
+      "final_url": "https://gonorth.co.il/places/category/batei-kafe/",
+      "canonical": [
+        "https://gonorth.co.il/places/category/batei-kafe/"
+      ],
+      "robots_meta": [
+        "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      ],
+      "x_robots_tag": null,
+      "title": "בתי קפה בצפון ישראל | כיוון צפון",
+      "meta_description": [
+        "מצאו בתי קפה בצפון ישראל ועיינו בפרטי המקומות לפני היציאה. בדקו שעות פתיחה, מיקום וזמינות מול העסק לפני הביקור."
+      ],
+      "h1_count": 1,
+      "jsonld_count": 2,
+      "schema_types": [
+        "CollectionPage",
+        "BreadcrumbList",
+        "WebSite",
+        "Organization",
+        "ItemList"
+      ],
+      "breadcrumb_labels": [
+        [
+          "דף הבית",
+          "בתי קפה"
+        ]
+      ],
+      "jsonld_invalid": 0
+    },
+    {
+      "url": "https://gonorth.co.il/places/category/uncategorized/",
+      "status": 200,
+      "final_url": "https://gonorth.co.il/places/category/uncategorized/",
+      "canonical": [],
+      "robots_meta": [
+        "noindex, follow"
+      ],
+      "x_robots_tag": null,
+      "title": "Uncategorized Archives - כיוון צפון",
+      "meta_description": [],
+      "h1_count": 1,
+      "jsonld_count": 1,
+      "schema_types": [
+        "CollectionPage",
+        "BreadcrumbList",
+        "WebSite",
+        "Organization"
+      ],
+      "breadcrumb_labels": [
+        [
+          "Home",
+          "Uncategorized"
+        ]
+      ],
+      "jsonld_invalid": 0
+    }
+  ],
+  "redirects": [
+    {
+      "id": 84,
+      "source": "https://gonorth.co.il/%d7%9e%d7%93%d7%a8%d7%99%d7%9a-%d7%9c%d7%99%d7%a0%d7%94-%d7%91%d7%a8%d7%9e%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f-%d7%9e%d7%9c%d7%95%d7%a0%d7%95%d7%aa-%d7%a6%d7%99%d7%9e%d7%a8%d7%99%d7%9d-%d7%95%d7%a7/",
+      "status": 301,
+      "location": "https://gonorth.co.il/accommodation-ramat-hagolan-guide/",
+      "expected": "https://gonorth.co.il/accommodation-ramat-hagolan-guide/"
+    },
+    {
+      "id": 123,
+      "source": "https://gonorth.co.il/springs-valley-guide/",
+      "status": 301,
+      "location": "https://gonorth.co.il/valley-of-springs-guide/",
+      "expected": "https://gonorth.co.il/valley-of-springs-guide/"
+    },
+    {
+      "id": 127,
+      "source": "https://gonorth.co.il/north-israel-wineries-guide/",
+      "status": 301,
+      "location": "https://gonorth.co.il/yekavim-batzafon/",
+      "expected": "https://gonorth.co.il/yekavim-batzafon/"
+    },
+    {
+      "id": 135,
+      "source": "https://gonorth.co.il/north-israel-wineries-guide-2/",
+      "status": 301,
+      "location": "https://gonorth.co.il/yekavim-batzafon/",
+      "expected": "https://gonorth.co.il/yekavim-batzafon/"
+    },
+    {
+      "id": 144,
+      "source": "https://gonorth.co.il/accommodation-golan-heights/",
+      "status": 301,
+      "location": "https://gonorth.co.il/accommodation-ramat-hagolan-guide/",
+      "expected": "https://gonorth.co.il/accommodation-ramat-hagolan-guide/"
+    },
+    {
+      "id": 251,
+      "source": "https://gonorth.co.il/north-israel-family-activities-guide/",
+      "status": 301,
+      "location": "https://gonorth.co.il/atrakziot-leyeladim-batzafon/",
+      "expected": "https://gonorth.co.il/atrakziot-leyeladim-batzafon/"
+    },
+    {
+      "id": 252,
+      "source": "https://gonorth.co.il/water-trails-north-israel-summer/",
+      "status": 301,
+      "location": "https://gonorth.co.il/maslulei-mayim-batzafon/",
+      "expected": "https://gonorth.co.il/maslulei-mayim-batzafon/"
+    },
+    {
+      "id": 256,
+      "source": "https://gonorth.co.il/water-trails-north-israel/",
+      "status": 301,
+      "location": "https://gonorth.co.il/maslulei-mayim-batzafon/",
+      "expected": "https://gonorth.co.il/maslulei-mayim-batzafon/"
+    },
+    {
+      "id": 257,
+      "source": "https://gonorth.co.il/attractions-for-kids-north-israel/",
+      "status": 301,
+      "location": "https://gonorth.co.il/atrakziot-leyeladim-batzafon/",
+      "expected": "https://gonorth.co.il/atrakziot-leyeladim-batzafon/"
+    },
+    {
+      "id": 258,
+      "source": "https://gonorth.co.il/wineries-galilee-golan-guide/",
+      "status": 301,
+      "location": "https://gonorth.co.il/yekavim-batzafon/",
+      "expected": "https://gonorth.co.il/yekavim-batzafon/"
+    },
+    {
+      "id": 267,
+      "source": "https://gonorth.co.il/misadot-mumlatzot-batzafon/",
+      "status": 301,
+      "location": "https://gonorth.co.il/misadot-mumlatzot-tzafon-israel/",
+      "expected": "https://gonorth.co.il/misadot-mumlatzot-tzafon-israel/"
+    },
+    {
+      "id": 126,
+      "source": "https://gonorth.co.il/shavuot-2025-north-israel/",
+      "status": 301,
+      "location": "https://gonorth.co.il/shavuot-north-israel/",
+      "expected": "https://gonorth.co.il/shavuot-north-israel/"
+    }
+  ],
+  "sitemaps": [
+    {
+      "url": "https://gonorth.co.il/sitemap_index.xml",
+      "status": 200,
+      "loc_count": 6,
+      "page_urls": [
+        "https://gonorth.co.il/post-sitemap.xml",
+        "https://gonorth.co.il/page-sitemap.xml",
+        "https://gonorth.co.il/gd_place-sitemap.xml",
+        "https://gonorth.co.il/category-sitemap.xml",
+        "https://gonorth.co.il/gd_placecategory-sitemap.xml",
+        "https://gonorth.co.il/gn_region-sitemap.xml"
+      ]
+    },
+    {
+      "url": "https://gonorth.co.il/post-sitemap.xml",
+      "status": 200,
+      "loc_count": 58,
+      "page_urls": [
+        "https://gonorth.co.il/blog/",
+        "https://gonorth.co.il/10-%d7%90%d7%98%d7%a8%d7%a7%d7%a6%d7%99%d7%95%d7%aa-%d7%9e%d7%95%d7%9e%d7%9c%d7%a6%d7%95%d7%aa-%d7%91%d7%92%d7%9c%d7%99%d7%9c-%d7%9c%d7%97%d7%95%d7%a4%d7%a9%d7%aa-%d7%9e%d7%a9%d7%a4%d7%97%d7%94/",
+        "https://gonorth.co.il/5-%d7%9e%d7%a1%d7%9c%d7%95%d7%9c%d7%99-%d7%94%d7%9c%d7%99%d7%9b%d7%94-%d7%91%d7%92%d7%9c%d7%99%d7%9c-%d7%94%d7%a2%d7%9c%d7%99%d7%95%d7%9f-%d7%a9%d7%97%d7%99%d7%99%d7%91%d7%99%d7%9d-%d7%9c%d7%a0%d7%a1/",
+        "https://gonorth.co.il/%d7%97%d7%95%d7%95%d7%99%d7%95%d7%aa-%d7%a7%d7%95%d7%9c%d7%99%d7%a0%d7%a8%d7%99%d7%95%d7%aa-%d7%91%d7%a6%d7%a4%d7%95%d7%9f-%d7%9e%d7%a1%d7%a2%d7%93%d7%95%d7%aa-%d7%a9%d7%95%d7%95%d7%a7%d7%99%d7%9d/",
+        "https://gonorth.co.il/maayanot-batzafon/",
+        "https://gonorth.co.il/bowling-majdal-shams/",
+        "https://gonorth.co.il/%d7%9c%d7%99%d7%a0%d7%94-%d7%91%d7%a6%d7%a4%d7%95%d7%9f-%d7%99%d7%a9%d7%a8%d7%90%d7%9c-%d7%94%d7%9e%d7%93%d7%a8%d7%99%d7%9a-%d7%94%d7%9e%d7%9c%d7%90-%d7%9c%d7%a6%d7%99%d7%9e%d7%a8%d7%99%d7%9d-%d7%95/",
+        "https://gonorth.co.il/tiyul-emek-hamaayanot-im-yeladim/",
+        "https://gonorth.co.il/villas-israel-north-guide/",
+        "https://gonorth.co.il/tiyul-tzafon-lelo-halika/",
+        "https://gonorth.co.il/%d7%9e%d7%a1%d7%9c%d7%95%d7%9c-%d7%98%d7%99%d7%95%d7%9c-%d7%91%d7%a8%d7%9e%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f-%d7%9e%d7%94%d7%91%d7%a0%d7%99%d7%90%d7%a1-%d7%95%d7%a2%d7%93-%d7%aa%d7%9c-%d7%a4/",
+        "https://gonorth.co.il/golan-accommodation-comparison/",
+        "https://gonorth.co.il/maslulei-mayim-batzafon/",
+        "https://gonorth.co.il/yekavim-batzafon/",
+        "https://gonorth.co.il/atrakziot-leyeladim-batzafon/",
+        "https://gonorth.co.il/accommodation-ramat-hagolan-guide/",
+        "https://gonorth.co.il/misadot-mumlatzot-tzafon-israel/",
+        "https://gonorth.co.il/upper-galilee-day-trip-guide/",
+        "https://gonorth.co.il/weekend-trip-north-israel/",
+        "https://gonorth.co.il/hanukkah-north-israel/",
+        "https://gonorth.co.il/agamon-hahula-guide/",
+        "https://gonorth.co.il/golan-couples-accommodation-comparison/"
+      ]
+    },
+    {
+      "url": "https://gonorth.co.il/page-sitemap.xml",
+      "status": 200,
+      "loc_count": 30,
+      "page_urls": [
+        "https://gonorth.co.il/",
+        "https://gonorth.co.il/negishot/",
+        "https://gonorth.co.il/mediniyut-pratiyut/",
+        "https://gonorth.co.il/contact/",
+        "https://gonorth.co.il/hamat-gader-guide/",
+        "https://gonorth.co.il/horshat-tal-guide/",
+        "https://gonorth.co.il/hermon-site-guide/",
+        "https://gonorth.co.il/nahariya-travel-guide/",
+        "https://gonorth.co.il/tzfat-travel-guide/",
+        "https://gonorth.co.il/family-trip-galilee/",
+        "https://gonorth.co.il/accommodation-galilee/",
+        "https://gonorth.co.il/dor-beach-guide/",
+        "https://gonorth.co.il/gesher-haziv-guide/",
+        "https://gonorth.co.il/kibbutz-dafna-dan-region-guide/",
+        "https://gonorth.co.il/nature-trails-north-guide/",
+        "https://gonorth.co.il/kibbutz-stays-northern-israel/",
+        "https://gonorth.co.il/rosh-hashanah-batzafon/",
+        "https://gonorth.co.il/sukkot-batzafon/",
+        "https://gonorth.co.il/tours-kayaks-north-israel/",
+        "https://gonorth.co.il/open-saturday/",
+        "https://gonorth.co.il/about/",
+        "https://gonorth.co.il/valley-of-springs-guide/",
+        "https://gonorth.co.il/shavuot-north-israel/",
+        "https://gonorth.co.il/akko-travel-guide/",
+        "https://gonorth.co.il/coffee-carts-cafes-north-israel/",
+        "https://gonorth.co.il/places/"
+      ]
+    },
+    {
+      "url": "https://gonorth.co.il/gd_place-sitemap.xml",
+      "status": 200,
+      "loc_count": 257,
+      "page_urls": [
+        "https://gonorth.co.il/places/",
+        "https://gonorth.co.il/places/%d7%92%d7%9f-%d7%92%d7%95%d7%a8%d7%95-%d7%94%d7%a4%d7%90%d7%a8%d7%a7-%d7%94%d7%90%d7%95%d7%a1%d7%98%d7%a8%d7%9c%d7%99/",
+        "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%a9%d7%a0%d7%99%d7%a8-%d7%97%d7%a6%d7%91%d7%90%d7%a0%d7%99/",
+        "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%a0%d7%97%d7%9c-%d7%94%d7%a7%d7%99%d7%91%d7%95%d7%a6%d7%99%d7%9d/",
+        "https://gonorth.co.il/places/%d7%a2%d7%96%d7%99%d7%96%d7%95-%d7%9c%d7%91%d7%a0%d7%93%d7%a8-%d7%9e%d7%94%d7%92%d7%95%d7%9c%d7%9f/",
+        "https://gonorth.co.il/places/%d7%a4%d7%99%d7%99%d7%a0%d7%98%d7%91%d7%95%d7%9c-%d7%94%d7%92%d7%95%d7%a9%d7%a8%d7%99%d7%9d/",
+        "https://gonorth.co.il/places/%d7%92%d7%9f-%d7%9c%d7%90%d7%95%d7%9e%d7%99-%d7%aa%d7%9c-%d7%97%d7%a6%d7%95%d7%a8/",
+        "https://gonorth.co.il/places/%d7%a2%d7%99%d7%9f-%d7%93%d7%99%d7%91%d7%a9%d7%94/",
+        "https://gonorth.co.il/places/%d7%97%d7%9e%d7%99-%d7%98%d7%91%d7%a8%d7%99%d7%94/",
+        "https://gonorth.co.il/places/%d7%97%d7%95%d7%95%d7%aa-%d7%94%d7%90%d7%95%d7%a9%d7%a8-%d7%a8%d7%9b%d7%99%d7%91%d7%94-%d7%a2%d7%9c-%d7%a1%d7%95%d7%a1%d7%99%d7%9d/",
+        "https://gonorth.co.il/places/%d7%95%d7%a8%d7%93-%d7%94%d7%92%d7%9c%d7%99%d7%9c/",
+        "https://gonorth.co.il/places/%d7%97%d7%95%d7%95%d7%aa-%d7%94%d7%91%d7%95%d7%a7%d7%a8%d7%99%d7%9d-%d7%9e%d7%a8%d7%95%d7%9d-%d7%92%d7%95%d7%9c%d7%9f/",
+        "https://gonorth.co.il/places/%d7%97%d7%95%d7%95%d7%aa-%d7%a1%d7%95%d7%a1%d7%99%d7%9d-%d7%a7%d7%99%d7%91%d7%95%d7%a5-%d7%90%d7%95%d7%a8%d7%98%d7%9c/",
+        "https://gonorth.co.il/places/%d7%91%d7%9c%d7%95%d7%9d-%d7%95%d7%99%d7%9c%d7%92%d7%b3-%d7%9b%d7%a4%d7%a8-%d7%91%d7%9c%d7%95%d7%9d/",
+        "https://gonorth.co.il/places/%d7%a7%d7%98%d7%99%d7%a3-%d7%a2%d7%a6%d7%9e%d7%99-%d7%90%d7%9c-%d7%a8%d7%95%d7%9d/",
+        "https://gonorth.co.il/places/%d7%9e%d7%a8%d7%9b%d7%96-%d7%9e%d7%95%d7%a8%d7%a9%d7%aa-%d7%a9%d7%9e%d7%9f-%d7%94%d7%96%d7%99%d7%aa-%d7%9e%d7%a9%d7%a7-%d7%98%d7%95%d7%99%d7%99%d7%a1%d7%98%d7%a8/",
+        "https://gonorth.co.il/places/%d7%92%d7%b3%d7%99%d7%9e%d7%99-%d7%92%d7%b3%d7%99%d7%a4-%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%92%d7%b3%d7%99%d7%a4%d7%99%d7%9d/",
+        "https://gonorth.co.il/places/%d7%a1%d7%90%d7%95%d7%a0%d7%93%d7%98%d7%a8%d7%90%d7%a7-%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%90%d7%95%d7%96%d7%a0%d7%99%d7%95%d7%aa-%d7%91%d7%98%d7%91%d7%a2/",
+        "https://gonorth.co.il/places/%d7%a7%d7%95%d7%9c-%d7%a9%d7%95%d7%a4%d7%a8-%d7%9e%d7%a8%d7%9b%d7%96-%d7%9e%d7%91%d7%a7%d7%a8%d7%99%d7%9d/",
+        "https://gonorth.co.il/places/%d7%9e%d7%97%d7%9c%d7%91%d7%aa-%d7%a0%d7%98%d7%95%d7%a8-%d7%90%d7%95%d7%9b%d7%9c-%d7%92%d7%91%d7%99%d7%a0%d7%95%d7%aa-%d7%95%d7%97%d7%95%d7%95%d7%99%d7%94-%d7%9b%d7%a4%d7%a8%d7%99%d7%aa/",
+        "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%a4%d7%9c%d7%98%d7%a8/",
+        "https://gonorth.co.il/places/%d7%92%d7%b3%d7%99-%d7%a4%d7%99-%d7%90%d7%a1-%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%92%d7%b3%d7%99%d7%a4%d7%99%d7%9d/",
+        "https://gonorth.co.il/places/%d7%9e%d7%96%d7%a7%d7%a7%d7%aa-%d7%92%d7%95%d7%9c%d7%a0%d7%99/",
+        "https://gonorth.co.il/places/%d7%a8%d7%99%d7%99%d7%96%d7%a8-%d7%a1%d7%98%d7%90%d7%a8-%d7%97%d7%93-%d7%a0%d7%a1/",
+        "https://gonorth.co.il/places/%d7%94%d7%97%d7%95%d7%95%d7%94-%d7%94%d7%aa%d7%99%d7%99%d7%a8%d7%95%d7%aa%d7%99%d7%aa-%d7%91%d7%9c-%d7%a2%d7%a4%d7%a8%d7%99/",
+        "https://gonorth.co.il/places/%d7%94%d7%a8%d7%a4%d7%aa-%d7%94%d7%a8%d7%95%d7%91%d7%95%d7%98%d7%99%d7%aa/",
+        "https://gonorth.co.il/places/%d7%91%d7%99%d7%a8%d7%94-%d7%91%d7%96%d7%9c%d7%aa-%d7%9e%d7%91%d7%a9%d7%9c%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f/",
+        "https://gonorth.co.il/places/%d7%9c%d7%99%d7%9e%d7%95%d7%a0%d7%98%d7%95-%d7%9e%d7%a8%d7%9b%d7%96-%d7%9e%d7%91%d7%a7%d7%a8%d7%99%d7%9d/",
+        "https://gonorth.co.il/places/%d7%97%d7%95%d7%95%d7%99%d7%99%d7%aa-%d7%92%d7%b3%d7%99%d7%a4%d7%99%d7%9d-%d7%95%d7%a8%d7%99%d7%99%d7%96%d7%a8%d7%99%d7%9d-%d7%91%d7%92%d7%95%d7%9c%d7%9f/",
+        "https://gonorth.co.il/places/%d7%a1%d7%a0%d7%90%d7%91%d7%9c-%d7%94%d7%9e%d7%a8%d7%9b%d7%96-%d7%94%d7%aa%d7%99%d7%99%d7%a8%d7%95%d7%aa%d7%99-%d7%94%d7%93%d7%a8%d7%95%d7%96%d7%99/",
+        "https://gonorth.co.il/places/%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%90%d7%aa%d7%92%d7%a8-wild-adventures/",
+        "https://gonorth.co.il/places/%d7%97%d7%95%d7%95%d7%aa-%d7%a9%d7%91%d7%99%d7%98-%d7%9b%d7%a0%d7%a3/",
+        "https://gonorth.co.il/places/%d7%a7%d7%98%d7%99%d7%a3-%d7%a2%d7%a6%d7%9e%d7%99-%d7%a0%d7%95%d7%95%d7%94-%d7%90%d7%98%d7%99%d7%91/",
+        "https://gonorth.co.il/places/%d7%90%d7%aa%d7%92%d7%a8-%d7%94%d7%91%d7%95%d7%a0%d7%a7%d7%a8/",
+        "https://gonorth.co.il/places/%d7%a7%d7%98%d7%99%d7%a3-%d7%a2%d7%a6%d7%9e%d7%99-%d7%94%d7%93%d7%95%d7%91%d7%93%d7%91%d7%9f-%d7%a9%d7%91%d7%92%d7%95%d7%9c%d7%9f/",
+        "https://gonorth.co.il/places/%d7%90%d7%aa%d7%a8-%d7%94%d7%97%d7%a8%d7%9e%d7%95%d7%9f/",
+        "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%91%d7%96%d7%9c%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f/",
+        "https://gonorth.co.il/places/%d7%94%d7%91%d7%95%d7%a1%d7%aa%d7%9f-%d7%a9%d7%9c-%d7%9e%d7%95%d7%98%d7%99/",
+        "https://gonorth.co.il/places/%d7%a4%d7%90%d7%a8%d7%a7-%d7%94%d7%9e%d7%a2%d7%99%d7%99%d7%a0%d7%95%d7%aa/",
+        "https://gonorth.co.il/places/%d7%93%d7%92-%d7%a2%d7%9c-%d7%94%d7%93%d7%9f/",
+        "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%91%d7%9f-%d7%96%d7%9e%d7%a8%d7%94/",
+        "https://gonorth.co.il/places/%d7%90%d7%99%d7%a0%d7%93%d7%99-%d7%a4%d7%90%d7%a8%d7%a7/",
+        "https://gonorth.co.il/places/%d7%9e%d7%98%d7%90%d7%95%d7%a8-%d7%aa%d7%a6%d7%a4%d7%99%d7%95%d7%aa-%d7%9b%d7%95%d7%9b%d7%91%d7%99%d7%9d/",
+        "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%90%d7%93%d7%99%d7%a8/",
+        "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%aa%d7%9c-%d7%a9%d7%99%d7%a4%d7%95%d7%9f/",
+        "https://gonorth.co.il/places/%d7%97%d7%95%d7%95%d7%aa-%d7%91%d7%aa-%d7%99%d7%a2%d7%a8/",
+        "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%a8%d7%9e%d7%95%d7%aa-%d7%a0%d7%a4%d7%aa%d7%9c%d7%99/",
+        "https://gonorth.co.il/places/%d7%a8%d7%95%d7%92%d7%95%d7%9d-%d7%a7%d7%99%d7%a8-%d7%98%d7%99%d7%a4%d7%95%d7%a1-%d7%91%d7%a7%d7%a8%d7%99%d7%99%d7%aa-%d7%a9%d7%9e%d7%95%d7%a0%d7%94/",
+        "https://gonorth.co.il/places/%d7%91%d7%99%d7%aa-%d7%94%d7%91%d7%93-%d7%a9%d7%9c-%d7%94%d7%92%d7%95%d7%9c%d7%9f-olea-essence/",
+        "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%94%d7%9e%d7%a9%d7%95%d7%a9%d7%99%d7%9d/",
+        "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%a8%d7%9e%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f/",
+        "https://gonorth.co.il/places/%d7%9e%d7%a4%d7%92%d7%a9-%d7%94%d7%99%d7%a7%d7%91-%d7%a2%d7%9e%d7%99%d7%a2%d7%93/",
+        "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%94%d7%a8%d7%99-%d7%92%d7%9c%d7%99%d7%9c/",
+        "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%93%d7%9c%d7%aa%d7%95%d7%9f/",
+        "https://gonorth.co.il/places/%d7%9c%d7%95%d7%9c-%d7%90%d7%a8%d7%98/",
+        "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%99%d7%94%d7%95%d7%93%d7%99%d7%94/",
+        "https://gonorth.co.il/places/%d7%a2%d7%99%d7%9f-%d7%aa%d7%99%d7%a0%d7%94/",
+        "https://gonorth.co.il/places/%d7%93%d7%99%d7%a8-%d7%a2%d7%96%d7%99%d7%96-%d7%98%d7%91%d7%a2-%d7%a2%d7%99%d7%96%d7%99%d7%9d-%d7%92%d7%91%d7%99%d7%a0%d7%95%d7%aa/",
+        "https://gonorth.co.il/places/%d7%a7%d7%98%d7%99%d7%a3-%d7%a2%d7%a6%d7%9e%d7%99-%d7%a8%d7%95%d7%a0%d7%99/",
+        "https://gonorth.co.il/places/war-zone-paintball/",
+        "https://gonorth.co.il/places/%d7%9e%d7%a8%d7%9b%d7%91%d7%95%d7%aa-%d7%94%d7%91%d7%a9%d7%9f/",
+        "https://gonorth.co.il/places/%d7%92%d7%9f-%d7%9e%d7%95%d7%a8%d7%93-%d7%94%d7%99%d7%a8%d7%93%d7%9f/",
+        "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%a9%d7%90%d7%98%d7%95-%d7%92%d7%95%d7%9c%d7%9f/",
+        "https://gonorth.co.il/places/%d7%a7%d7%99%d7%93%d7%a1-%d7%9c%d7%a0%d7%93-%d7%90%d7%aa%d7%92%d7%a8-%d7%94%d7%a0%d7%99%d7%a0%d7%92%d7%94-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d/",
+        "https://gonorth.co.il/places/%d7%9b%d7%a4%d7%a8-%d7%94%d7%97%d7%99%d7%95%d7%aa-%d7%91%d7%9b%d7%a4%d7%a8-%d7%92%d7%9c%d7%a2%d7%93%d7%99/",
+        "https://gonorth.co.il/places/%d7%a2%d7%92%d7%9c%d7%aa-%d7%a7%d7%a4%d7%94-%d7%9e%d7%99%d7%9b%d7%90%d7%9c/",
+        "https://gonorth.co.il/places/%d7%90%d7%a1%d7%aa%d7%a8-%d7%a7%d7%a4%d7%94-%d7%95%d7%91%d7%99%d7%a9%d7%95%d7%9c%d7%99%d7%9d-%d7%9c%d7%93%d7%a8%d7%9a/",
+        "https://gonorth.co.il/places/%d7%a7%d7%99%d7%99%d7%a7%d7%99-%d7%9b%d7%a4%d7%a8-%d7%91%d7%9c%d7%95%d7%9d/",
+        "https://gonorth.co.il/places/%d7%a8%d7%a4%d7%98%d7%99%d7%a0%d7%92-%d7%a0%d7%94%d7%a8-%d7%94%d7%99%d7%a8%d7%93%d7%9f/",
+        "https://gonorth.co.il/places/%d7%92%d7%99%d7%9c-%d7%92%d7%95%d7%9c%d7%9f-%d7%9e%d7%a8%d7%9b%d7%96-%d7%a8%d7%9b%d7%99%d7%91%d7%94/",
+        "https://gonorth.co.il/places/%d7%94%d7%a2%d7%93%d7%99-%d7%a9%d7%91%d7%9e%d7%98%d7%91%d7%97-%d7%a1%d7%93%d7%a0%d7%90%d7%95%d7%aa-%d7%a9%d7%95%d7%a7%d7%95%d7%9c%d7%93/",
+        "https://gonorth.co.il/places/%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%a2%d7%a9%d7%a9%d7%99%d7%95%d7%aa-%d7%91%d7%a4%d7%90%d7%a8%d7%a7-%d7%94%d7%99%d7%a8%d7%93%d7%9f/",
+        "https://gonorth.co.il/places/go-golan-%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%a8%d7%99%d7%99%d7%a0%d7%92%d7%b3%d7%a8%d7%99%d7%9d/",
+        "https://gonorth.co.il/places/%d7%90%d7%91%d7%95-%d7%a7%d7%99%d7%90%d7%a7/",
+        "https://gonorth.co.il/places/%d7%a7%d7%99%d7%90%d7%a7-%d7%9b%d7%a0%d7%a8%d7%aa/",
+        "https://gonorth.co.il/places/%d7%a7%d7%a4%d7%94-%d7%9e%d7%95%d7%99%d7%99%d7%96/",
+        "https://gonorth.co.il/places/%d7%a0%d7%99%d7%a0%d7%95-%d7%a2%d7%92%d7%9c%d7%aa-%d7%a7%d7%a4%d7%94/",
+        "https://gonorth.co.il/places/%d7%93%d7%94-%d7%a4%d7%99%d7%99%d7%a4-%d7%a7%d7%a4%d7%94/",
+        "https://gonorth.co.il/places/%d7%a7%d7%a4%d7%94-%d7%97%d7%9e%d7%94/",
+        "https://gonorth.co.il/places/%d7%93%d7%95%d7%a8%d7%90-%d7%a2%d7%92%d7%9c%d7%aa-%d7%a7%d7%a4%d7%94/",
+        "https://gonorth.co.il/places/%d7%a7%d7%a4%d7%94-%d7%a7%d7%99%d7%a8%d7%a9%d7%a0%d7%a8/",
+        "https://gonorth.co.il/places/%d7%a2%d7%92%d7%9c%d7%aa-%d7%a7%d7%a4%d7%94-%d7%94%d7%97%d7%9c%d7%95%d7%a6%d7%99%d7%9d/",
+        "https://gonorth.co.il/places/%d7%a9%d7%99%d7%a9%d7%95-%d7%a7%d7%a4%d7%94/",
+        "https://gonorth.co.il/places/%d7%a2%d7%a1%d7%a4%d7%95%d7%a8%d7%94/",
+        "https://gonorth.co.il/places/%d7%94%d7%a7%d7%a8%d7%95%d7%9f-%d7%91%d7%9b%d7%a4%d7%a8-%d7%99%d7%94%d7%95%d7%a9%d7%95%d7%a2/",
+        "https://gonorth.co.il/places/%d7%92%d7%9c%d7%9e%d7%a4%d7%99%d7%a0%d7%92-%d7%a7%d7%99%d7%91%d7%95%d7%a5-%d7%90%d7%95%d7%a8%d7%98%d7%9c/",
+        "https://gonorth.co.il/places/%d7%92%d7%9c%d7%9e%d7%a4%d7%99%d7%a0%d7%92-%d7%a2%d7%9c-%d7%94%d7%a6%d7%95%d7%a7-%d7%a2%d7%99%d7%9f-%d7%a7%d7%99%d7%a0%d7%99%d7%90/",
+        "https://gonorth.co.il/places/%d7%92%d7%9c%d7%9e%d7%a4%d7%99%d7%a0%d7%92-%d7%a2%d7%99%d7%9f-%d7%aa%d7%90%d7%a0%d7%94/",
+        "https://gonorth.co.il/places/%d7%94%d7%9b%d7%a4%d7%a8-%d7%94%d7%90%d7%99%d7%a0%d7%93%d7%99%d7%90%d7%a0%d7%99-%d7%92%d7%9c%d7%9e%d7%a4%d7%99%d7%a0%d7%92-%d7%91%d7%a8%d7%9e%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f/",
+        "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%a8-%d7%9e%d7%99%d7%a8%d7%95%d7%9f/",
+        "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%9b%d7%96%d7%99%d7%91/",
+        "https://gonorth.co.il/places/%d7%93%d7%94-%d7%a7%d7%a8%d7%99%d7%a0%d7%94-%d7%a9%d7%95%d7%a7%d7%95%d7%9c%d7%93-%d7%91%d7%95%d7%98%d7%99%d7%a7/",
+        "https://gonorth.co.il/places/%d7%97%d7%9e%d7%aa-%d7%92%d7%93%d7%a8/",
+        "https://gonorth.co.il/places/%d7%98%d7%a8%d7%99%d7%a4%d7%95%d7%a0%d7%9c-%d7%91%d7%90%d7%95%d7%9c%d7%99%d7%a0%d7%92/",
+        "https://gonorth.co.il/places/%d7%a7%d7%a4%d7%94-%d7%94%d7%aa%d7%9f/",
+        "https://gonorth.co.il/places/%d7%9e%d7%99%d7%a7%d7%94/",
+        "https://gonorth.co.il/places/%d7%97%d7%9c%d7%94%d7%95%d7%95%d7%9c%d7%90%d7%95%d7%95/",
+        "https://gonorth.co.il/places/%d7%a7%d7%95%d7%a4%d7%99%d7%a9-coffish/",
+        "https://gonorth.co.il/places/f-ranch/",
+        "https://gonorth.co.il/places/%d7%9e%d7%95%d7%a8%d7%a9%d7%aa-%d7%92%d7%95%d7%a9-%d7%a7%d7%98%d7%99%d7%a3-%d7%91%d7%92%d7%95%d7%9c%d7%9f/",
+        "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%94%d7%a8-%d7%90%d7%95%d7%93%d7%9d/",
+        "https://gonorth.co.il/places/%d7%9b%d7%a4%d7%a8-%d7%a0%d7%95%d7%a4%d7%a9-%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d/",
+        "https://gonorth.co.il/places/%d7%94%d7%97%d7%95%d7%95%d7%94-%d7%91%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d/",
+        "https://gonorth.co.il/places/%d7%a0%d7%97%d7%9c-%d7%94%d7%a9%d7%95%d7%a4%d7%98/",
+        "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%a2%d7%9e%d7%95%d7%93/",
+        "https://gonorth.co.il/places/%d7%9e%d7%9c%d7%95%d7%9f-%d7%a4%d7%a8%d7%90-pereh-hotel/",
+        "https://gonorth.co.il/places/%d7%9b%d7%a0%d7%a2%d7%9f-%d7%95%d7%99%d7%9c%d7%90%d7%92%d7%b3-%d7%9e%d7%9c%d7%95%d7%9f-%d7%91%d7%95%d7%98%d7%99%d7%a7-%d7%95%d7%a1%d7%a4%d7%90-%d7%91%d7%a6%d7%a4%d7%95%d7%9f/",
+        "https://gonorth.co.il/places/%d7%90%d7%92%d7%9e%d7%95%d7%9f-%d7%94%d7%97%d7%95%d7%9c%d7%94/",
+        "https://gonorth.co.il/places/%d7%94%d7%9e%d7%a7%d7%95%d7%9d-%d7%a9%d7%9c-%d7%90%d7%a8%d7%a0%d7%95%d7%9f/",
+        "https://gonorth.co.il/places/%d7%a8%d7%a0%d7%98%d7%95-%d7%91%d7%a8-%d7%99%d7%99%d7%9f-%d7%95%d7%9e%d7%a2%d7%93%d7%a0%d7%99%d7%99%d7%94/",
+        "https://gonorth.co.il/places/%d7%a4%d7%90%d7%9f-%d7%a8%d7%99%d7%99%d7%93%d7%a8-%d7%91%d7%a6%d7%a4%d7%95%d7%9f/",
+        "https://gonorth.co.il/places/nice-to-meat/",
+        "https://gonorth.co.il/places/%d7%a9%d7%95%d7%95%d7%a8%d7%a6%d7%a2-%d7%9e%d7%a9%d7%a7-%d7%a9%d7%95%d7%95%d7%a8%d7%a5/",
+        "https://gonorth.co.il/places/peti-peti-%d7%a4%d7%98%d7%99-%d7%a4%d7%98%d7%99/",
+        "https://gonorth.co.il/places/%d7%9e%d7%9c%d7%95%d7%9f-%d7%90%d7%97%d7%95%d7%96%d7%aa-%d7%94%d7%99%d7%a8%d7%93%d7%9f-%d7%9c%d7%a9%d7%a2%d7%91%d7%a8-%d7%a1%d7%91%d7%99%d7%95%d7%a0%d7%99-%d7%94%d7%92%d7%9c%d7%99%d7%9c/",
+        "https://gonorth.co.il/places/norah-cafe-%d7%a7%d7%a4%d7%94-%d7%a0%d7%95%d7%a8%d7%94/",
+        "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%97%d7%95%d7%9c%d7%94/",
+        "https://gonorth.co.il/places/%d7%a2%d7%99%d7%9f-%d7%a2%d7%9c%d7%95%d7%9e%d7%99%d7%9d-%d7%a2%d7%99%d7%9f-%d7%94%d7%93%d7%99%d7%99%d7%92/",
+        "https://gonorth.co.il/places/%d7%9e%d7%9c%d7%95%d7%9f-%d7%92%d7%9c%d7%99%d7%9c%d7%99%d7%95%d7%9f/",
+        "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%a2%d7%99%d7%9f-%d7%aa%d7%90%d7%95/",
+        "https://gonorth.co.il/places/%d7%9e%d7%95%d7%96%d7%99%d7%90%d7%95%d7%9f-%d7%94%d7%90%d7%93%d7%9d-%d7%94%d7%a7%d7%93%d7%9e%d7%95%d7%9f/",
+        "https://gonorth.co.il/places/%d7%a4%d7%90%d7%a8%d7%a7-%d7%93%d7%a4%d7%a0%d7%94/",
+        "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%91%d7%a0%d7%99%d7%90%d7%a1/",
+        "https://gonorth.co.il/places/trio-%d7%98%d7%a8%d7%99%d7%95-%d7%a7%d7%a4%d7%94/",
+        "https://gonorth.co.il/places/%d7%a9%d7%99%d7%a8%d7%99-%d7%a4%d7%a1%d7%98%d7%94/",
+        "https://gonorth.co.il/places/%d7%a7%d7%9e%d7%a4%d7%99%d7%a0%d7%92-%d7%9e%d7%98%d7%99%d7%99%d7%9c%d7%99%d7%9d-%d7%93%d7%a4%d7%a0%d7%94/",
+        "https://gonorth.co.il/places/%d7%9e%d7%9c%d7%95%d7%9f-%d7%9e%d7%98%d7%99%d7%99%d7%9c%d7%99%d7%9d-%d7%90%d7%a8%d7%a5-%d7%93%d7%a4%d7%a0%d7%94/",
+        "https://gonorth.co.il/places/%d7%a7%d7%9c%d7%95%d7%9e%d7%a4%d7%95%d7%a1/",
+        "https://gonorth.co.il/places/%d7%94%d7%98%d7%a0%d7%a7-%d7%94%d7%a1%d7%95%d7%a8%d7%99-%d7%94%d7%94%d7%a4%d7%95%d7%9a/"
+      ]
+    }
+  ],
+  "robots": {
+    "url": "https://gonorth.co.il/robots.txt",
+    "status": 200,
+    "content": "User-agent: *\nAllow: /\n\nSitemap: https://gonorth.co.il/sitemap_index.xml\n"
+  },
+  "failures": []
+}

@@ -1,0 +1,1139 @@
+{
+  "places_in_ledger": 109,
+  "wordpress_records": 109,
+  "matched_fields": 529,
+  "mismatch_count": 125,
+  "mismatches": [
+    {
+      "place_id": 48,
+      "wordpress_id": 48,
+      "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%94%d7%a8-%d7%90%d7%95%d7%93%d7%9d/",
+      "field": "website_url",
+      "sqlite_value": "https://harodem.co.il/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 48,
+      "wordpress_id": 48,
+      "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%94%d7%a8-%d7%90%d7%95%d7%93%d7%9d/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"We 10:00-17:00\\\",\\\"Th 10:00-17:00\\\",\\\"Fr 10:00-16:00\\\",\\\"Su 10:00-17:00\\\",\\\"Mo 10:00-17:00\\\",\\\"Tu 10:00-17:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 50,
+      "wordpress_id": 50,
+      "url": "https://gonorth.co.il/places/%d7%9b%d7%a4%d7%a8-%d7%a0%d7%95%d7%a4%d7%a9-%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d/",
+      "field": "website_url",
+      "sqlite_value": "https://www.yayalim.co.il",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 52,
+      "wordpress_id": 52,
+      "url": "https://gonorth.co.il/places/%d7%94%d7%97%d7%95%d7%95%d7%94-%d7%91%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d/",
+      "field": "website_url",
+      "sqlite_value": "https://www.odemfarm.com",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 52,
+      "wordpress_id": 52,
+      "url": "https://gonorth.co.il/places/%d7%94%d7%97%d7%95%d7%95%d7%94-%d7%91%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"We 09:00-14:30\\\",\\\"Th 09:00-14:30\\\",\\\"Fr 09:00-13:00\\\",\\\"Sa 09:00-15:00\\\",\\\"Su 09:00-14:30\\\",\\\"Mo 09:00-14:30\\\",\\\"Tu 09:00-14:30\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 54,
+      "wordpress_id": 54,
+      "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%97%d7%95%d7%9c%d7%94/",
+      "field": "website_url",
+      "sqlite_value": "https://www.parks.org.il/reserve-park/%D7%A9%D7%9E%D7%95%D7%A8%D7%AA-%D7%98%D7%91%D7%A2-%D7%94%D7%97%D7%95%D7%9C%D7%94",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 54,
+      "wordpress_id": 54,
+      "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%97%d7%95%d7%9c%d7%94/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"Su 08:00-17:00\\\",\\\"Mo 08:00-17:00\\\",\\\"Tu 08:00-17:00\\\",\\\"We 08:00-17:00\\\",\\\"Th 08:00-17:00\\\",\\\"Fr 08:00-16:00\\\",\\\"Sa 08:00-17:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 56,
+      "wordpress_id": 56,
+      "url": "https://gonorth.co.il/places/%d7%a0%d7%97%d7%9c-%d7%94%d7%a9%d7%95%d7%a4%d7%98/",
+      "field": "website_url",
+      "sqlite_value": "https://www.kkl.org.il/travel/trips/290971/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 58,
+      "wordpress_id": 58,
+      "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%a2%d7%9e%d7%95%d7%93/",
+      "field": "website_url",
+      "sqlite_value": "https://www.parks.org.il/reserve-park/%D7%A9%D7%9E%D7%95%D7%A8%D7%AA-%D7%98%D7%91%D7%A2-%D7%A0%D7%97%D7%9C-%D7%A2%D7%9E%D7%95%D7%93/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 58,
+      "wordpress_id": 58,
+      "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%a2%d7%9e%d7%95%d7%93/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"We 08:00-17:00\\\",\\\"Th 08:00-17:00\\\",\\\"Fr 08:00-16:00\\\",\\\"Sa 08:00-17:00\\\",\\\"Su 08:00-17:00\\\",\\\"Mo 08:00-17:00\\\",\\\"Tu 08:00-17:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 61,
+      "wordpress_id": 61,
+      "url": "https://gonorth.co.il/places/%d7%9e%d7%9c%d7%95%d7%9f-%d7%a4%d7%a8%d7%90-pereh-hotel/",
+      "field": "website_url",
+      "sqlite_value": "https://pereh.co.il",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 63,
+      "wordpress_id": 63,
+      "url": "https://gonorth.co.il/places/%d7%9b%d7%a0%d7%a2%d7%9f-%d7%95%d7%99%d7%9c%d7%90%d7%92%d7%b3-%d7%9e%d7%9c%d7%95%d7%9f-%d7%91%d7%95%d7%98%d7%99%d7%a7-%d7%95%d7%a1%d7%a4%d7%90-%d7%91%d7%a6%d7%a4%d7%95%d7%9f/",
+      "field": "website_url",
+      "sqlite_value": "https://www.cnaan-village.co.il",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 86,
+      "wordpress_id": 86,
+      "url": "https://gonorth.co.il/places/%d7%a4%d7%90%d7%a8%d7%a7-%d7%94%d7%9e%d7%a2%d7%99%d7%99%d7%a0%d7%95%d7%aa/",
+      "field": "website_url",
+      "sqlite_value": "https://nirtours.co.il",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 86,
+      "wordpress_id": 86,
+      "url": "https://gonorth.co.il/places/%d7%a4%d7%90%d7%a8%d7%a7-%d7%94%d7%9e%d7%a2%d7%99%d7%99%d7%a0%d7%95%d7%aa/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"We 09:00-16:45\\\",\\\"Th 09:00-16:45\\\",\\\"Fr 09:00-14:45\\\",\\\"Sa 09:00-16:45\\\",\\\"Su 09:00-16:45\\\",\\\"Mo 09:00-16:45\\\",\\\"Tu 09:00-16:45\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 87,
+      "wordpress_id": 87,
+      "url": "https://gonorth.co.il/places/%d7%92%d7%9f-%d7%92%d7%95%d7%a8%d7%95-%d7%94%d7%a4%d7%90%d7%a8%d7%a7-%d7%94%d7%90%d7%95%d7%a1%d7%98%d7%a8%d7%9c%d7%99/",
+      "field": "website_url",
+      "sqlite_value": "https://gangaroo.co.il",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 87,
+      "wordpress_id": 87,
+      "url": "https://gonorth.co.il/places/%d7%92%d7%9f-%d7%92%d7%95%d7%a8%d7%95-%d7%94%d7%a4%d7%90%d7%a8%d7%a7-%d7%94%d7%90%d7%95%d7%a1%d7%98%d7%a8%d7%9c%d7%99/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"We 09:00-15:00\\\",\\\"Th 09:00-15:00\\\",\\\"Fr 09:00-15:00\\\",\\\"Sa 09:00-17:00\\\",\\\"Su 09:00-15:00\\\",\\\"Mo 09:00-15:00\\\",\\\"Tu 09:00-15:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 88,
+      "wordpress_id": 88,
+      "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%a0%d7%97%d7%9c-%d7%94%d7%a7%d7%99%d7%91%d7%95%d7%a6%d7%99%d7%9d/",
+      "field": "website_url",
+      "sqlite_value": "https://www.parks.org.il",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 89,
+      "wordpress_id": 89,
+      "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%a9%d7%a0%d7%99%d7%a8-%d7%97%d7%a6%d7%91%d7%90%d7%a0%d7%99/",
+      "field": "website_url",
+      "sqlite_value": "https://www.parks.org.il/reserve-park/snir-stream-nature-reserve/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 89,
+      "wordpress_id": 89,
+      "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%a9%d7%a0%d7%99%d7%a8-%d7%97%d7%a6%d7%91%d7%90%d7%a0%d7%99/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"We 08:00-17:00\\\",\\\"Th 08:00-17:00\\\",\\\"Fr 08:00-16:00\\\",\\\"Sa 08:00-17:00\\\",\\\"Su 08:00-17:00\\\",\\\"Mo 08:00-17:00\\\",\\\"Tu 08:00-17:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 149,
+      "wordpress_id": 149,
+      "url": "https://gonorth.co.il/places/%d7%93%d7%92-%d7%a2%d7%9c-%d7%94%d7%93%d7%9f/",
+      "field": "website_url",
+      "sqlite_value": "https://www.dagaldan.co.il",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 149,
+      "wordpress_id": 149,
+      "url": "https://gonorth.co.il/places/%d7%93%d7%92-%d7%a2%d7%9c-%d7%94%d7%93%d7%9f/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"We 12:00-20:00\\\",\\\"Th 12:00-20:00\\\",\\\"Fr 12:00-21:00\\\",\\\"Sa 12:00-20:00\\\",\\\"Su 12:00-20:00\\\",\\\"Mo 12:00-20:00\\\",\\\"Tu 12:00-20:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 157,
+      "wordpress_id": 157,
+      "url": "https://gonorth.co.il/places/%d7%9b%d7%a4%d7%a8-%d7%94%d7%97%d7%99%d7%95%d7%aa-%d7%91%d7%9b%d7%a4%d7%a8-%d7%92%d7%9c%d7%a2%d7%93%d7%99/",
+      "field": "website_url",
+      "sqlite_value": "https://www.facebook.com/kfarhahayot",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 157,
+      "wordpress_id": 157,
+      "url": "https://gonorth.co.il/places/%d7%9b%d7%a4%d7%a8-%d7%94%d7%97%d7%99%d7%95%d7%aa-%d7%91%d7%9b%d7%a4%d7%a8-%d7%92%d7%9c%d7%a2%d7%93%d7%99/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"We 10:00-13:00\\\",\\\"We 16:00-18:30\\\",\\\"Th 10:00-13:00\\\",\\\"Th 16:00-18:30\\\",\\\"Fr 10:00-14:30\\\",\\\"Sa 10:00-14:00\\\",\\\"Su 10:00-13:00\\\",\\\"Su 16:00-18:30\\\",\\\"Mo 10:00-13:00\\\",\\\"Mo 16:00-18:30\\\",\\\"Tu 10:00-13:00\\\",\\\"Tu 16:00-18:30\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 159,
+      "wordpress_id": 159,
+      "url": "https://gonorth.co.il/places/%d7%9c%d7%95%d7%9c-%d7%90%d7%a8%d7%98/",
+      "field": "website_url",
+      "sqlite_value": "https://www.lol-art.com",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 159,
+      "wordpress_id": 159,
+      "url": "https://gonorth.co.il/places/%d7%9c%d7%95%d7%9c-%d7%90%d7%a8%d7%98/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"We 09:00-14:00\\\",\\\"Th 09:00-14:00\\\",\\\"Fr 09:00-15:00\\\",\\\"Su 09:00-14:00\\\",\\\"Mo 09:00-14:00\\\",\\\"Tu 09:00-14:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 161,
+      "wordpress_id": 161,
+      "url": "https://gonorth.co.il/places/%d7%a2%d7%96%d7%99%d7%96%d7%95-%d7%9c%d7%91%d7%a0%d7%93%d7%a8-%d7%9e%d7%94%d7%92%d7%95%d7%9c%d7%9f/",
+      "field": "website_url",
+      "sqlite_value": "https://azizolavender.com/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 161,
+      "wordpress_id": 161,
+      "url": "https://gonorth.co.il/places/%d7%a2%d7%96%d7%99%d7%96%d7%95-%d7%9c%d7%91%d7%a0%d7%93%d7%a8-%d7%9e%d7%94%d7%92%d7%95%d7%9c%d7%9f/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"Su 10:00-15:00\\\",\\\"Mo 10:00-15:00\\\",\\\"Tu 10:00-15:00\\\",\\\"We 10:00-15:00\\\",\\\"Th 10:00-15:00\\\",\\\"Fr 10:00-15:00\\\",\\\"Sa 10:00-15:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 165,
+      "wordpress_id": 165,
+      "url": "https://gonorth.co.il/places/%d7%a4%d7%99%d7%99%d7%a0%d7%98%d7%91%d7%95%d7%9c-%d7%94%d7%92%d7%95%d7%a9%d7%a8%d7%99%d7%9d/",
+      "field": "website_url",
+      "sqlite_value": "https://www.pbhg.co.il/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 165,
+      "wordpress_id": 165,
+      "url": "https://gonorth.co.il/places/%d7%a4%d7%99%d7%99%d7%a0%d7%98%d7%91%d7%95%d7%9c-%d7%94%d7%92%d7%95%d7%a9%d7%a8%d7%99%d7%9d/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"We 00:00-00:00\\\",\\\"Th 00:00-00:00\\\",\\\"Fr 08:00-14:00\\\",\\\"Su 00:00-00:00\\\",\\\"Mo 00:00-00:00\\\",\\\"Tu 00:00-00:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 169,
+      "wordpress_id": 169,
+      "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%a8-%d7%9e%d7%99%d7%a8%d7%95%d7%9f/",
+      "field": "website_url",
+      "sqlite_value": "https://www.parks.org.il/reserve-park/%D7%A9%D7%9E%D7%95%D7%A8%D7%AA-%D7%98%D7%91%D7%A2-%D7%94%D7%A8-%D7%9E%D7%99%D7%A8%D7%95%D7%9F/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 171,
+      "wordpress_id": 171,
+      "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%9b%d7%96%d7%99%d7%91/",
+      "field": "website_url",
+      "sqlite_value": "https://www.parks.org.il/reserve-park/%D7%A9%D7%9E%D7%95%D7%A8%D7%AA-%D7%98%D7%91%D7%A2-%D7%A0%D7%97%D7%9C-%D7%9B%D7%96%D7%99%D7%91/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 173,
+      "wordpress_id": 173,
+      "url": "https://gonorth.co.il/places/%d7%90%d7%92%d7%9e%d7%95%d7%9f-%d7%94%d7%97%d7%95%d7%9c%d7%94/",
+      "field": "website_url",
+      "sqlite_value": "https://agamon-hula.co.il/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 175,
+      "wordpress_id": 175,
+      "url": "https://gonorth.co.il/places/%d7%92%d7%9f-%d7%9c%d7%90%d7%95%d7%9e%d7%99-%d7%aa%d7%9c-%d7%97%d7%a6%d7%95%d7%a8/",
+      "field": "website_url",
+      "sqlite_value": "https://www.parks.org.il/reserve-park/%D7%92%D7%9F-%D7%9C%D7%90%D7%95%D7%9E%D7%99-%D7%AA%D7%9C-%D7%97%D7%A6%D7%95%D7%A8/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 175,
+      "wordpress_id": 175,
+      "url": "https://gonorth.co.il/places/%d7%92%d7%9f-%d7%9c%d7%90%d7%95%d7%9e%d7%99-%d7%aa%d7%9c-%d7%97%d7%a6%d7%95%d7%a8/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"We 08:00-17:00\\\",\\\"Th 08:00-17:00\\\",\\\"Fr 08:00-16:00\\\",\\\"Sa 08:00-17:00\\\",\\\"Su 08:00-17:00\\\",\\\"Mo 08:00-17:00\\\",\\\"Tu 08:00-17:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 177,
+      "wordpress_id": 177,
+      "url": "https://gonorth.co.il/places/%d7%a2%d7%99%d7%9f-%d7%aa%d7%99%d7%a0%d7%94/",
+      "field": "website_url",
+      "sqlite_value": "https://www.parks.org.il/trip/ein-tina/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 181,
+      "wordpress_id": 181,
+      "url": "https://gonorth.co.il/places/%d7%97%d7%95%d7%95%d7%aa-%d7%91%d7%aa-%d7%99%d7%a2%d7%a8/",
+      "field": "website_url",
+      "sqlite_value": "https://www.batyaar.co.il/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 183,
+      "wordpress_id": 183,
+      "url": "https://gonorth.co.il/places/%d7%a8%d7%95%d7%92%d7%95%d7%9d-%d7%a7%d7%99%d7%a8-%d7%98%d7%99%d7%a4%d7%95%d7%a1-%d7%91%d7%a7%d7%a8%d7%99%d7%99%d7%aa-%d7%a9%d7%9e%d7%95%d7%a0%d7%94/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"We 16:00-22:00\\\",\\\"Th 16:00-22:00\\\",\\\"Fr 10:00-15:00\\\",\\\"Sa 20:30-22:30\\\",\\\"Su 16:00-22:00\\\",\\\"Mo 16:00-22:00\\\",\\\"Tu 16:00-22:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 187,
+      "wordpress_id": 187,
+      "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%94%d7%9e%d7%a9%d7%95%d7%a9%d7%99%d7%9d/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"We 08:00-17:00\\\",\\\"Th 08:00-17:00\\\",\\\"Fr 08:00-16:00\\\",\\\"Sa 08:00-17:00\\\",\\\"Su 08:00-17:00\\\",\\\"Mo 08:00-17:00\\\",\\\"Tu 08:00-17:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 189,
+      "wordpress_id": 189,
+      "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%99%d7%94%d7%95%d7%93%d7%99%d7%94/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"Su 08:00-17:00\\\",\\\"Mo 08:00-17:00\\\",\\\"Tu 08:00-17:00\\\",\\\"We 08:00-17:00\\\",\\\"Th 08:00-17:00\\\",\\\"Fr 08:00-16:00\\\",\\\"Sa 08:00-17:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 191,
+      "wordpress_id": 191,
+      "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%91%d7%a0%d7%99%d7%90%d7%a1/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"Su 08:00-17:00\\\",\\\"Mo 08:00-17:00\\\",\\\"Tu 08:00-17:00\\\",\\\"We 08:00-17:00\\\",\\\"Th 08:00-17:00\\\",\\\"Fr 08:00-16:00\\\",\\\"Sa 08:00-17:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 193,
+      "wordpress_id": 193,
+      "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%a8%d7%9e%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f/",
+      "field": "website_url",
+      "sqlite_value": "https://www.golanwines.co.il/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 193,
+      "wordpress_id": 193,
+      "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%a8%d7%9e%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"We 09:00-17:30\\\",\\\"Th 09:00-17:30\\\",\\\"Fr 09:00-15:00\\\",\\\"Su 09:00-17:30\\\",\\\"Mo 09:00-17:30\\\",\\\"Tu 09:00-17:30\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 195,
+      "wordpress_id": 195,
+      "url": "https://gonorth.co.il/places/%d7%9e%d7%a4%d7%92%d7%a9-%d7%94%d7%99%d7%a7%d7%91-%d7%a2%d7%9e%d7%99%d7%a2%d7%93/",
+      "field": "website_url",
+      "sqlite_value": "https://liqueur-amiad.co.il/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 197,
+      "wordpress_id": 197,
+      "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%a8%d7%9e%d7%95%d7%aa-%d7%a0%d7%a4%d7%aa%d7%9c%d7%99/",
+      "field": "website_url",
+      "sqlite_value": "https://ramotnaftaly.com/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 198,
+      "wordpress_id": 198,
+      "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%93%d7%9c%d7%aa%d7%95%d7%9f/",
+      "field": "website_url",
+      "sqlite_value": "https://www.dalton-winery.com/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 198,
+      "wordpress_id": 198,
+      "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%93%d7%9c%d7%aa%d7%95%d7%9f/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"We 09:00-16:30\\\",\\\"Th 09:00-16:30\\\",\\\"Fr 09:00-14:00\\\",\\\"Su 09:00-16:30\\\",\\\"Mo 09:00-16:30\\\",\\\"Tu 09:00-16:30\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 204,
+      "wordpress_id": 204,
+      "url": "https://gonorth.co.il/places/%d7%a7%d7%a4%d7%94-%d7%9e%d7%95%d7%99%d7%99%d7%96/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"We 09:00-14:00\\\",\\\"Th 09:00-14:00\\\",\\\"Fr 08:30-15:30\\\",\\\"Su 09:00-14:00\\\",\\\"Mo 09:00-14:00\\\",\\\"Tu 09:00-14:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 207,
+      "wordpress_id": 207,
+      "url": "https://gonorth.co.il/places/%d7%a0%d7%99%d7%a0%d7%95-%d7%a2%d7%92%d7%9c%d7%aa-%d7%a7%d7%a4%d7%94/",
+      "field": "website_url",
+      "sqlite_value": "https://www.facebook.com/ninocoffeecart",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 212,
+      "wordpress_id": 212,
+      "url": "https://gonorth.co.il/places/%d7%a7%d7%a4%d7%94-%d7%97%d7%9e%d7%94/",
+      "field": "website_url",
+      "sqlite_value": "https://www.facebook.com/cafehamma",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 213,
+      "wordpress_id": 213,
+      "url": "https://gonorth.co.il/places/%d7%93%d7%95%d7%a8%d7%90-%d7%a2%d7%92%d7%9c%d7%aa-%d7%a7%d7%a4%d7%94/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"We 09:00-17:00\\\",\\\"Th 09:00-17:00\\\",\\\"Fr 09:00-12:30\\\",\\\"Su 09:00-17:00\\\",\\\"Mo 09:00-17:00\\\",\\\"Tu 09:00-17:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 215,
+      "wordpress_id": 215,
+      "url": "https://gonorth.co.il/places/%d7%a7%d7%a4%d7%94-%d7%a7%d7%99%d7%a8%d7%a9%d7%a0%d7%a8/",
+      "field": "website_url",
+      "sqlite_value": "https://kirshner.co.il",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 215,
+      "wordpress_id": 215,
+      "url": "https://gonorth.co.il/places/%d7%a7%d7%a4%d7%94-%d7%a7%d7%99%d7%a8%d7%a9%d7%a0%d7%a8/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"We 08:00-16:00\\\",\\\"Th 08:00-16:00\\\",\\\"Fr 08:00-16:00\\\",\\\"Sa 08:00-17:00\\\",\\\"Su 08:00-16:00\\\",\\\"Mo 08:00-16:00\\\",\\\"Tu 08:00-16:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 225,
+      "wordpress_id": 225,
+      "url": "https://gonorth.co.il/places/%d7%a2%d7%92%d7%9c%d7%aa-%d7%a7%d7%a4%d7%94-%d7%94%d7%97%d7%9c%d7%95%d7%a6%d7%99%d7%9d/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"We 08:00-17:00\\\",\\\"Th 08:00-17:00\\\",\\\"Th 18:30-21:30\\\",\\\"Fr 08:00-17:00\\\",\\\"Sa 08:00-17:00\\\",\\\"Su 08:00-17:00\\\",\\\"Mo 08:00-17:00\\\",\\\"Tu 08:00-17:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 229,
+      "wordpress_id": 229,
+      "url": "https://gonorth.co.il/places/%d7%a9%d7%99%d7%a9%d7%95-%d7%a7%d7%a4%d7%94/",
+      "field": "website_url",
+      "sqlite_value": "https://meshek-avnaim.co.il/cafe/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 229,
+      "wordpress_id": 229,
+      "url": "https://gonorth.co.il/places/%d7%a9%d7%99%d7%a9%d7%95-%d7%a7%d7%a4%d7%94/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"We 09:00-14:00\\\",\\\"Th 09:00-14:00\\\",\\\"Th 19:00-22:30\\\",\\\"Fr 08:30-13:30\\\",\\\"Su 09:00-14:00\\\",\\\"Mo 09:00-14:00\\\",\\\"Tu 09:00-14:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 231,
+      "wordpress_id": 231,
+      "url": "https://gonorth.co.il/places/%d7%a2%d7%a1%d7%a4%d7%95%d7%a8%d7%94/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"We 07:30-15:00\\\",\\\"Th 07:30-15:00\\\",\\\"Fr 07:30-14:30\\\",\\\"Sa 09:00-16:00\\\",\\\"Mo 07:30-15:00\\\",\\\"Tu 07:30-15:00\\\",\\\"Tu 17:00-21:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 235,
+      "wordpress_id": 235,
+      "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%aa%d7%9c-%d7%a9%d7%99%d7%a4%d7%95%d7%9f/",
+      "field": "website_url",
+      "sqlite_value": "https://www.telshifonwinery.co.il",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 235,
+      "wordpress_id": 235,
+      "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%aa%d7%9c-%d7%a9%d7%99%d7%a4%d7%95%d7%9f/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"We 11:00-17:00\\\",\\\"Th 11:00-17:00\\\",\\\"Th 18:00-23:00\\\",\\\"Fr 11:00-17:00\\\",\\\"Sa 11:00-17:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 237,
+      "wordpress_id": 237,
+      "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%a9%d7%90%d7%98%d7%95-%d7%92%d7%95%d7%9c%d7%9f/",
+      "field": "website_url",
+      "sqlite_value": "https://www.chateaugolan.com",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 237,
+      "wordpress_id": 237,
+      "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%a9%d7%90%d7%98%d7%95-%d7%92%d7%95%d7%9c%d7%9f/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"We 10:30-15:30\\\",\\\"Th 10:30-15:30\\\",\\\"Fr 10:30-15:30\\\",\\\"Sa 10:30-15:30\\\",\\\"Su 10:30-15:30\\\",\\\"Mo 10:30-15:30\\\",\\\"Tu 10:30-15:30\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 240,
+      "wordpress_id": 240,
+      "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%94%d7%a8%d7%99-%d7%92%d7%9c%d7%99%d7%9c/",
+      "field": "website_url",
+      "sqlite_value": "https://www.galilmountain.co.il",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 240,
+      "wordpress_id": 240,
+      "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%94%d7%a8%d7%99-%d7%92%d7%9c%d7%99%d7%9c/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"We 09:00-17:00\\\",\\\"Th 09:00-17:00\\\",\\\"Fr 09:00-16:00\\\",\\\"Su 09:00-17:00\\\",\\\"Mo 09:00-17:00\\\",\\\"Tu 09:00-17:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 242,
+      "wordpress_id": 242,
+      "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%90%d7%93%d7%99%d7%a8/",
+      "field": "website_url",
+      "sqlite_value": "https://www.adir-winery.co.il",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 242,
+      "wordpress_id": 242,
+      "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%90%d7%93%d7%99%d7%a8/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"We 09:00-15:00\\\",\\\"Th 09:00-15:00\\\",\\\"Fr 09:00-15:00\\\",\\\"Su 09:00-15:00\\\",\\\"Mo 09:00-15:00\\\",\\\"Tu 09:00-15:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 244,
+      "wordpress_id": 244,
+      "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%91%d7%9f-%d7%96%d7%9e%d7%a8%d7%94/",
+      "field": "website_url",
+      "sqlite_value": "https://www.benzimrawinery.com",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 246,
+      "wordpress_id": 246,
+      "url": "https://gonorth.co.il/places/%d7%90%d7%99%d7%a0%d7%93%d7%99-%d7%a4%d7%90%d7%a8%d7%a7/",
+      "field": "website_url",
+      "sqlite_value": "https://www.indipark.co.il",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 246,
+      "wordpress_id": 246,
+      "url": "https://gonorth.co.il/places/%d7%90%d7%99%d7%a0%d7%93%d7%99-%d7%a4%d7%90%d7%a8%d7%a7/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"Fr 10:00-16:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 248,
+      "wordpress_id": 248,
+      "url": "https://gonorth.co.il/places/%d7%9e%d7%98%d7%90%d7%95%d7%a8-%d7%aa%d7%a6%d7%a4%d7%99%d7%95%d7%aa-%d7%9b%d7%95%d7%9b%d7%91%d7%99%d7%9d/",
+      "field": "website_url",
+      "sqlite_value": "https://www.meteor-stars.co.il",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 248,
+      "wordpress_id": 248,
+      "url": "https://gonorth.co.il/places/%d7%9e%d7%98%d7%90%d7%95%d7%a8-%d7%aa%d7%a6%d7%a4%d7%99%d7%95%d7%aa-%d7%9b%d7%95%d7%9b%d7%91%d7%99%d7%9d/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"We 09:00-18:00\\\",\\\"Th 09:00-18:00\\\",\\\"Fr 09:00-14:00\\\",\\\"Su 09:00-18:00\\\",\\\"Mo 09:00-18:00\\\",\\\"Tu 09:00-18:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 323,
+      "wordpress_id": 323,
+      "url": "https://gonorth.co.il/places/%d7%a7%d7%99%d7%99%d7%a7%d7%99-%d7%9b%d7%a4%d7%a8-%d7%91%d7%9c%d7%95%d7%9d/",
+      "field": "website_url",
+      "sqlite_value": "https://www.kayaks.co.il/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 323,
+      "wordpress_id": 323,
+      "url": "https://gonorth.co.il/places/%d7%a7%d7%99%d7%99%d7%a7%d7%99-%d7%9b%d7%a4%d7%a8-%d7%91%d7%9c%d7%95%d7%9d/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"Su 10:00-15:00\\\",\\\"Mo 10:00-15:00\\\",\\\"Tu 10:00-15:00\\\",\\\"We 10:00-15:00\\\",\\\"Th 10:00-15:00\\\",\\\"Fr 10:00-15:00\\\",\\\"Sa 10:00-15:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 325,
+      "wordpress_id": 325,
+      "url": "https://gonorth.co.il/places/%d7%a8%d7%a4%d7%98%d7%99%d7%a0%d7%92-%d7%a0%d7%94%d7%a8-%d7%94%d7%99%d7%a8%d7%93%d7%9f/",
+      "field": "website_url",
+      "sqlite_value": "https://www.rafting.co.il/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 325,
+      "wordpress_id": 325,
+      "url": "https://gonorth.co.il/places/%d7%a8%d7%a4%d7%98%d7%99%d7%a0%d7%92-%d7%a0%d7%94%d7%a8-%d7%94%d7%99%d7%a8%d7%93%d7%9f/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"We 10:00-15:00\\\",\\\"Th 10:00-15:00\\\",\\\"Fr 10:00-14:30\\\",\\\"Su 10:00-15:00\\\",\\\"Mo 10:00-15:00\\\",\\\"Tu 10:00-15:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 327,
+      "wordpress_id": 327,
+      "url": "https://gonorth.co.il/places/%d7%97%d7%9e%d7%99-%d7%98%d7%91%d7%a8%d7%99%d7%94/",
+      "field": "website_url",
+      "sqlite_value": "https://brownhotels.co.il/hamei-tiberius",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 329,
+      "wordpress_id": 329,
+      "url": "https://gonorth.co.il/places/%d7%97%d7%95%d7%95%d7%aa-%d7%94%d7%90%d7%95%d7%a9%d7%a8-%d7%a8%d7%9b%d7%99%d7%91%d7%94-%d7%a2%d7%9c-%d7%a1%d7%95%d7%a1%d7%99%d7%9d/",
+      "field": "website_url",
+      "sqlite_value": "http://www.katzrin-ranch.co.il/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 331,
+      "wordpress_id": 331,
+      "url": "https://gonorth.co.il/places/%d7%95%d7%a8%d7%93-%d7%94%d7%92%d7%9c%d7%99%d7%9c/",
+      "field": "website_url",
+      "sqlite_value": "https://brownhotels.co.il/vered-hagalil-guest-farm",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 333,
+      "wordpress_id": 333,
+      "url": "https://gonorth.co.il/places/%d7%97%d7%95%d7%95%d7%aa-%d7%94%d7%91%d7%95%d7%a7%d7%a8%d7%99%d7%9d-%d7%9e%d7%a8%d7%95%d7%9d-%d7%92%d7%95%d7%9c%d7%9f/",
+      "field": "website_url",
+      "sqlite_value": "https://merom-golan.co.il/horses/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 333,
+      "wordpress_id": 333,
+      "url": "https://gonorth.co.il/places/%d7%97%d7%95%d7%95%d7%aa-%d7%94%d7%91%d7%95%d7%a7%d7%a8%d7%99%d7%9d-%d7%9e%d7%a8%d7%95%d7%9d-%d7%92%d7%95%d7%9c%d7%9f/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"We 10:00-17:00\\\",\\\"Th 10:00-17:00\\\",\\\"Fr 10:00-15:00\\\",\\\"Sa 10:00-17:00\\\",\\\"Su 10:00-17:00\\\",\\\"Mo 10:00-17:00\\\",\\\"Tu 10:00-17:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 335,
+      "wordpress_id": 335,
+      "url": "https://gonorth.co.il/places/%d7%92%d7%99%d7%9c-%d7%92%d7%95%d7%9c%d7%9f-%d7%9e%d7%a8%d7%9b%d7%96-%d7%a8%d7%9b%d7%99%d7%91%d7%94/",
+      "field": "website_url",
+      "sqlite_value": "https://gil-golan.weebly.com/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 337,
+      "wordpress_id": 337,
+      "url": "https://gonorth.co.il/places/%d7%97%d7%95%d7%95%d7%aa-%d7%a1%d7%95%d7%a1%d7%99%d7%9d-%d7%a7%d7%99%d7%91%d7%95%d7%a5-%d7%90%d7%95%d7%a8%d7%98%d7%9c/",
+      "field": "website_url",
+      "sqlite_value": "https://www.ortal.net/%D7%97%D7%95%D7%95%D7%AA-%D7%A1%D7%95%D7%A1%D7%99%D7%9D/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 339,
+      "wordpress_id": 339,
+      "url": "https://gonorth.co.il/places/%d7%92%d7%9c%d7%9e%d7%a4%d7%99%d7%a0%d7%92-%d7%a7%d7%99%d7%91%d7%95%d7%a5-%d7%90%d7%95%d7%a8%d7%98%d7%9c/",
+      "field": "website_url",
+      "sqlite_value": "https://www.ortal.net/glamping-ortal/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 343,
+      "wordpress_id": 343,
+      "url": "https://gonorth.co.il/places/%d7%92%d7%9c%d7%9e%d7%a4%d7%99%d7%a0%d7%92-%d7%a2%d7%99%d7%9f-%d7%aa%d7%90%d7%a0%d7%94/",
+      "field": "website_url",
+      "sqlite_value": "https://www.ein-teina.com/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 345,
+      "wordpress_id": 345,
+      "url": "https://gonorth.co.il/places/%d7%91%d7%9c%d7%95%d7%9d-%d7%95%d7%99%d7%9c%d7%92%d7%b3-%d7%9b%d7%a4%d7%a8-%d7%91%d7%9c%d7%95%d7%9d/",
+      "field": "website_url",
+      "sqlite_value": "https://blumvillage.co.il/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 347,
+      "wordpress_id": 347,
+      "url": "https://gonorth.co.il/places/%d7%a7%d7%98%d7%99%d7%a3-%d7%a2%d7%a6%d7%9e%d7%99-%d7%90%d7%9c-%d7%a8%d7%95%d7%9d/",
+      "field": "website_url",
+      "sqlite_value": "https://katif-elrom.co.il/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 353,
+      "wordpress_id": 353,
+      "url": "https://gonorth.co.il/places/%d7%a1%d7%90%d7%95%d7%a0%d7%93%d7%98%d7%a8%d7%90%d7%a7-%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%90%d7%95%d7%96%d7%a0%d7%99%d7%95%d7%aa-%d7%91%d7%98%d7%91%d7%a2/",
+      "field": "website_url",
+      "sqlite_value": "https://www.soundtrackbateva.com/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 355,
+      "wordpress_id": 355,
+      "url": "https://gonorth.co.il/places/%d7%a7%d7%95%d7%9c-%d7%a9%d7%95%d7%a4%d7%a8-%d7%9e%d7%a8%d7%9b%d7%96-%d7%9e%d7%91%d7%a7%d7%a8%d7%99%d7%9d/",
+      "field": "website_url",
+      "sqlite_value": "https://kolshofar.co.il/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 355,
+      "wordpress_id": 355,
+      "url": "https://gonorth.co.il/places/%d7%a7%d7%95%d7%9c-%d7%a9%d7%95%d7%a4%d7%a8-%d7%9e%d7%a8%d7%9b%d7%96-%d7%9e%d7%91%d7%a7%d7%a8%d7%99%d7%9d/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"Su 08:00-16:00\\\",\\\"Mo 08:00-16:00\\\",\\\"Tu 08:00-16:00\\\",\\\"We 08:00-16:00\\\",\\\"Th 08:00-16:00\\\",\\\"Fr 08:00-13:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 359,
+      "wordpress_id": 359,
+      "url": "https://gonorth.co.il/places/%d7%9e%d7%97%d7%9c%d7%91%d7%aa-%d7%a0%d7%98%d7%95%d7%a8-%d7%90%d7%95%d7%9b%d7%9c-%d7%92%d7%91%d7%99%d7%a0%d7%95%d7%aa-%d7%95%d7%97%d7%95%d7%95%d7%99%d7%94-%d7%9b%d7%a4%d7%a8%d7%99%d7%aa/",
+      "field": "website_url",
+      "sqlite_value": "https://natur-cheese.co.il/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 359,
+      "wordpress_id": 359,
+      "url": "https://gonorth.co.il/places/%d7%9e%d7%97%d7%9c%d7%91%d7%aa-%d7%a0%d7%98%d7%95%d7%a8-%d7%90%d7%95%d7%9b%d7%9c-%d7%92%d7%91%d7%99%d7%a0%d7%95%d7%aa-%d7%95%d7%97%d7%95%d7%95%d7%99%d7%94-%d7%9b%d7%a4%d7%a8%d7%99%d7%aa/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"Su 09:30-15:00\\\",\\\"Mo 09:30-15:00\\\",\\\"Tu 09:30-15:00\\\",\\\"We 09:30-15:00\\\",\\\"Th 09:30-15:00\\\",\\\"Fr 09:00-14:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 361,
+      "wordpress_id": 361,
+      "url": "https://gonorth.co.il/places/%d7%94%d7%a2%d7%93%d7%99-%d7%a9%d7%91%d7%9e%d7%98%d7%91%d7%97-%d7%a1%d7%93%d7%a0%d7%90%d7%95%d7%aa-%d7%a9%d7%95%d7%a7%d7%95%d7%9c%d7%93/",
+      "field": "website_url",
+      "sqlite_value": "https://theadi.co.il/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 363,
+      "wordpress_id": 363,
+      "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%a4%d7%9c%d7%98%d7%a8/",
+      "field": "website_url",
+      "sqlite_value": "https://www.pelter.co.il/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 363,
+      "wordpress_id": 363,
+      "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%a4%d7%9c%d7%98%d7%a8/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"We 10:00-18:00\\\",\\\"Th 10:00-18:00\\\",\\\"Fr 10:00-17:00\\\",\\\"Sa 10:00-18:00\\\",\\\"Su 10:00-18:00\\\",\\\"Mo 10:00-18:00\\\",\\\"Tu 10:00-18:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 367,
+      "wordpress_id": 367,
+      "url": "https://gonorth.co.il/places/%d7%9e%d7%96%d7%a7%d7%a7%d7%aa-%d7%92%d7%95%d7%9c%d7%a0%d7%99/",
+      "field": "website_url",
+      "sqlite_value": "https://www.golanispirit.com/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 367,
+      "wordpress_id": 367,
+      "url": "https://gonorth.co.il/places/%d7%9e%d7%96%d7%a7%d7%a7%d7%aa-%d7%92%d7%95%d7%9c%d7%a0%d7%99/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"Su 10:00-17:00\\\",\\\"Mo 10:00-17:00\\\",\\\"Tu 10:00-17:00\\\",\\\"We 10:00-17:00\\\",\\\"Th 10:00-17:00\\\",\\\"Fr 10:00-14:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 369,
+      "wordpress_id": 369,
+      "url": "https://gonorth.co.il/places/%d7%a8%d7%99%d7%99%d7%96%d7%a8-%d7%a1%d7%98%d7%90%d7%a8-%d7%97%d7%93-%d7%a0%d7%a1/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"Su 09:00-17:00\\\",\\\"Mo 09:00-17:00\\\",\\\"Tu 09:00-17:00\\\",\\\"We 09:00-17:00\\\",\\\"Th 09:00-17:00\\\",\\\"Fr 09:00-17:00\\\",\\\"Sa 09:00-17:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 373,
+      "wordpress_id": 373,
+      "url": "https://gonorth.co.il/places/%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%a2%d7%a9%d7%a9%d7%99%d7%95%d7%aa-%d7%91%d7%a4%d7%90%d7%a8%d7%a7-%d7%94%d7%99%d7%a8%d7%93%d7%9f/",
+      "field": "website_url",
+      "sqlite_value": "https://www.parkyarden.co.il/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 375,
+      "wordpress_id": 375,
+      "url": "https://gonorth.co.il/places/%d7%94%d7%a8%d7%a4%d7%aa-%d7%94%d7%a8%d7%95%d7%91%d7%95%d7%98%d7%99%d7%aa/",
+      "field": "website_url",
+      "sqlite_value": "https://moo-asis.info/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 375,
+      "wordpress_id": 375,
+      "url": "https://gonorth.co.il/places/%d7%94%d7%a8%d7%a4%d7%aa-%d7%94%d7%a8%d7%95%d7%91%d7%95%d7%98%d7%99%d7%aa/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"Su 09:00-17:00\\\",\\\"Mo 09:00-17:00\\\",\\\"Tu 09:00-17:00\\\",\\\"We 09:00-17:00\\\",\\\"Th 09:00-17:00\\\",\\\"Fr 09:00-14:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 377,
+      "wordpress_id": 377,
+      "url": "https://gonorth.co.il/places/%d7%91%d7%99%d7%a8%d7%94-%d7%91%d7%96%d7%9c%d7%aa-%d7%9e%d7%91%d7%a9%d7%9c%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f/",
+      "field": "website_url",
+      "sqlite_value": "https://bazeletbeer.co.il/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 379,
+      "wordpress_id": 379,
+      "url": "https://gonorth.co.il/places/%d7%9c%d7%99%d7%9e%d7%95%d7%a0%d7%98%d7%95-%d7%9e%d7%a8%d7%9b%d7%96-%d7%9e%d7%91%d7%a7%d7%a8%d7%99%d7%9d/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"Fr 09:00-12:00\\\",\\\"Sa 09:00-13:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 381,
+      "wordpress_id": 381,
+      "url": "https://gonorth.co.il/places/%d7%97%d7%95%d7%95%d7%99%d7%99%d7%aa-%d7%92%d7%b3%d7%99%d7%a4%d7%99%d7%9d-%d7%95%d7%a8%d7%99%d7%99%d7%96%d7%a8%d7%99%d7%9d-%d7%91%d7%92%d7%95%d7%9c%d7%9f/",
+      "field": "website_url",
+      "sqlite_value": "https://jeepim-bagolan.co.il/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 381,
+      "wordpress_id": 381,
+      "url": "https://gonorth.co.il/places/%d7%97%d7%95%d7%95%d7%99%d7%99%d7%aa-%d7%92%d7%b3%d7%99%d7%a4%d7%99%d7%9d-%d7%95%d7%a8%d7%99%d7%99%d7%96%d7%a8%d7%99%d7%9d-%d7%91%d7%92%d7%95%d7%9c%d7%9f/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"Su 08:00-20:00\\\",\\\"Mo 08:00-20:00\\\",\\\"Tu 08:00-20:00\\\",\\\"We 08:00-20:00\\\",\\\"Th 08:00-20:00\\\",\\\"Fr 08:00-17:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 385,
+      "wordpress_id": 385,
+      "url": "https://gonorth.co.il/places/%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%90%d7%aa%d7%92%d7%a8-wild-adventures/",
+      "field": "website_url",
+      "sqlite_value": "https://wildadventures.co.il/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 385,
+      "wordpress_id": 385,
+      "url": "https://gonorth.co.il/places/%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%90%d7%aa%d7%92%d7%a8-wild-adventures/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"Su 08:00-20:00\\\",\\\"Mo 08:00-20:00\\\",\\\"Tu 08:00-20:00\\\",\\\"We 08:00-20:00\\\",\\\"Th 08:00-20:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 389,
+      "wordpress_id": 389,
+      "url": "https://gonorth.co.il/places/%d7%97%d7%95%d7%95%d7%aa-%d7%a9%d7%91%d7%99%d7%98-%d7%9b%d7%a0%d7%a3/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"Su 08:00-19:00\\\",\\\"Mo 08:00-19:00\\\",\\\"Tu 08:00-19:00\\\",\\\"We 08:00-19:00\\\",\\\"Th 08:00-19:00\\\",\\\"Fr 08:00-16:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 391,
+      "wordpress_id": 391,
+      "url": "https://gonorth.co.il/places/war-zone-paintball/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"Su 09:00-00:00\\\",\\\"Mo 09:00-00:00\\\",\\\"Tu 09:00-00:00\\\",\\\"We 09:00-00:00\\\",\\\"Th 09:00-00:00\\\",\\\"Fr 09:00-00:00\\\",\\\"Sa 09:00-00:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 397,
+      "wordpress_id": 397,
+      "url": "https://gonorth.co.il/places/%d7%90%d7%aa%d7%92%d7%a8-%d7%94%d7%91%d7%95%d7%a0%d7%a7%d7%a8/",
+      "field": "website_url",
+      "sqlite_value": "https://tel-saki.org/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 399,
+      "wordpress_id": 399,
+      "url": "https://gonorth.co.il/places/%d7%93%d7%94-%d7%a7%d7%a8%d7%99%d7%a0%d7%94-%d7%a9%d7%95%d7%a7%d7%95%d7%9c%d7%93-%d7%91%d7%95%d7%98%d7%99%d7%a7/",
+      "field": "website_url",
+      "sqlite_value": "https://de-karina.co.il/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 399,
+      "wordpress_id": 399,
+      "url": "https://gonorth.co.il/places/%d7%93%d7%94-%d7%a7%d7%a8%d7%99%d7%a0%d7%94-%d7%a9%d7%95%d7%a7%d7%95%d7%9c%d7%93-%d7%91%d7%95%d7%98%d7%99%d7%a7/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"Mo 10:00-16:00\\\",\\\"Tu 10:00-16:00\\\",\\\"We 10:00-16:00\\\",\\\"Th 10:00-16:00\\\",\\\"Fr 09:00-15:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 401,
+      "wordpress_id": 401,
+      "url": "https://gonorth.co.il/places/go-golan-%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%a8%d7%99%d7%99%d7%a0%d7%92%d7%b3%d7%a8%d7%99%d7%9d/",
+      "field": "website_url",
+      "sqlite_value": "https://www.gogolan.co.il/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 401,
+      "wordpress_id": 401,
+      "url": "https://gonorth.co.il/places/go-golan-%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%a8%d7%99%d7%99%d7%a0%d7%92%d7%b3%d7%a8%d7%99%d7%9d/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"Su 08:00-20:00\\\",\\\"Mo 08:00-20:00\\\",\\\"Tu 08:00-20:00\\\",\\\"We 08:00-20:00\\\",\\\"Th 08:00-20:00\\\",\\\"Fr 08:30-20:00\\\",\\\"Sa 10:00-20:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 403,
+      "wordpress_id": 403,
+      "url": "https://gonorth.co.il/places/%d7%a7%d7%98%d7%99%d7%a3-%d7%a2%d7%a6%d7%9e%d7%99-%d7%94%d7%93%d7%95%d7%91%d7%93%d7%91%d7%9f-%d7%a9%d7%91%d7%92%d7%95%d7%9c%d7%9f/",
+      "field": "website_url",
+      "sqlite_value": "https://camping-ido.co.il/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 405,
+      "wordpress_id": 405,
+      "url": "https://gonorth.co.il/places/%d7%97%d7%9e%d7%aa-%d7%92%d7%93%d7%a8/",
+      "field": "website_url",
+      "sqlite_value": "https://hamat-gader.com/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 405,
+      "wordpress_id": 405,
+      "url": "https://gonorth.co.il/places/%d7%97%d7%9e%d7%aa-%d7%92%d7%93%d7%a8/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"Mo 09:00-17:00\\\",\\\"Tu 09:00-17:00\\\",\\\"We 09:00-17:00\\\",\\\"Th 09:00-22:00\\\",\\\"Fr 09:00-22:00\\\",\\\"Sa 09:00-17:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 407,
+      "wordpress_id": 407,
+      "url": "https://gonorth.co.il/places/%d7%90%d7%aa%d7%a8-%d7%94%d7%97%d7%a8%d7%9e%d7%95%d7%9f/",
+      "field": "website_url",
+      "sqlite_value": "https://skihermon.co.il/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 413,
+      "wordpress_id": 413,
+      "url": "https://gonorth.co.il/places/%d7%91%d7%99%d7%aa-%d7%94%d7%91%d7%93-%d7%a9%d7%9c-%d7%94%d7%92%d7%95%d7%9c%d7%9f-olea-essence/",
+      "field": "website_url",
+      "sqlite_value": "https://www.oleaessence.com/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 413,
+      "wordpress_id": 413,
+      "url": "https://gonorth.co.il/places/%d7%91%d7%99%d7%aa-%d7%94%d7%91%d7%93-%d7%a9%d7%9c-%d7%94%d7%92%d7%95%d7%9c%d7%9f-olea-essence/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"Su 09:00-17:00\\\",\\\"Mo 09:00-17:00\\\",\\\"Tu 09:00-17:00\\\",\\\"We 09:00-17:00\\\",\\\"Th 09:00-17:00\\\",\\\"Fr 09:00-15:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 415,
+      "wordpress_id": 415,
+      "url": "https://gonorth.co.il/places/%d7%90%d7%91%d7%95-%d7%a7%d7%99%d7%90%d7%a7/",
+      "field": "website_url",
+      "sqlite_value": "https://abukayak.co.il/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 415,
+      "wordpress_id": 415,
+      "url": "https://gonorth.co.il/places/%d7%90%d7%91%d7%95-%d7%a7%d7%99%d7%90%d7%a7/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"Su 09:00-15:00\\\",\\\"Mo 09:00-15:00\\\",\\\"Tu 09:00-15:00\\\",\\\"Th 09:00-15:00\\\",\\\"Fr 09:00-14:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 417,
+      "wordpress_id": 417,
+      "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%91%d7%96%d7%9c%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f/",
+      "field": "website_url",
+      "sqlite_value": "https://bazelet-hagolan.com/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 417,
+      "wordpress_id": 417,
+      "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%91%d7%96%d7%9c%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"Mo 10:00-16:00\\\",\\\"Tu 10:00-16:00\\\",\\\"We 10:00-16:00\\\",\\\"Th 10:00-16:00\\\",\\\"Fr 10:00-16:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 421,
+      "wordpress_id": 421,
+      "url": "https://gonorth.co.il/places/%d7%94%d7%91%d7%95%d7%a1%d7%aa%d7%9f-%d7%a9%d7%9c-%d7%9e%d7%95%d7%98%d7%99/",
+      "field": "website_url",
+      "sqlite_value": "https://www.habustan-moti.co.il/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 423,
+      "wordpress_id": 423,
+      "url": "https://gonorth.co.il/places/%d7%a7%d7%99%d7%90%d7%a7-%d7%9b%d7%a0%d7%a8%d7%aa/",
+      "field": "website_url",
+      "sqlite_value": "https://www.kayakineret.co.il/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 423,
+      "wordpress_id": 423,
+      "url": "https://gonorth.co.il/places/%d7%a7%d7%99%d7%90%d7%a7-%d7%9b%d7%a0%d7%a8%d7%aa/",
+      "field": "regular_hours_json",
+      "sqlite_value": "\"[\\\"Su 08:00-15:00\\\",\\\"Mo 08:00-15:00\\\",\\\"Tu 08:00-15:00\\\",\\\"We 08:00-15:00\\\",\\\"Th 08:00-15:00\\\",\\\"Fr 08:00-15:00\\\",\\\"Sa 08:00-14:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    },
+    {
+      "place_id": 425,
+      "wordpress_id": 425,
+      "url": "https://gonorth.co.il/places/%d7%94%d7%9b%d7%a4%d7%a8-%d7%94%d7%90%d7%99%d7%a0%d7%93%d7%99%d7%90%d7%a0%d7%99-%d7%92%d7%9c%d7%9e%d7%a4%d7%99%d7%a0%d7%92-%d7%91%d7%a8%d7%9e%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f/",
+      "field": "website_url",
+      "sqlite_value": "https://tipi.co.il/",
+      "wordpress_value": null,
+      "reason": "value_mismatch"
+    }
+  ],
+  "deferred_fields": [
+    "business_status",
+    "current_hours_json",
+    "google_maps_url",
+    "last_checked_at"
+  ]
+}

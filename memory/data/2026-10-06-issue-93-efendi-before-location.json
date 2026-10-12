@@ -1,0 +1,386 @@
+{
+  "id": "546",
+  "title": {
+    "raw": "מלון האפנדי — עכו",
+    "rendered": "מלון האפנדי — עכו"
+  },
+  "slug": "",
+  "link": "https://gonorth.co.il/?post_type=gd_place&p=546",
+  "status": "pending",
+  "type": "gd_place",
+  "author": 0,
+  "date": "2026-10-06T05:29:36",
+  "date_gmt": "2026-10-06T05:29:36",
+  "modified": "2026-10-06T05:29:36",
+  "modified_gmt": "2026-10-06T05:29:36",
+  "content": {
+    "raw": "<p>מלון האפנדי נמצא בסמטאות עכו העתיקה. <a href=\"https://efendi-hotel.co.il/\">אתר המלון</a> מציג את המקום כמלון בוטיק בעיר העתיקה.</p>\n<p>לפי <a href=\"https://efendi-hotel.co.il/%D7%93%D7%A8%D7%9B%D7%99-%D7%94%D7%92%D7%A2%D7%94-%D7%9C%D7%9E%D7%9C%D7%95%D7%9F/\">הוראות ההגעה של המלון</a>, הכתובת היא רחוב לואי התשיעי בעכו. למלון אין חניון משלו; המפעיל מפרט אפשרויות חניה ציבורית באזור ומסביר שאפשר להוריד חפצים בכניסה לסמטת המלון. <a href=\"https://ul.waze.com/ul?ll=32.92259730%2C35.06819240&amp;navigate=yes&amp;place=ChIJQ4sIwUTIHRURNP0JZQOTIJI&amp;utm_campaign=default&amp;utm_medium=lm_share_location&amp;utm_source=waze_website\">קישור הניווט שמציג המפעיל</a> מוביל ליעד המלון ב־Waze; הוא אינו מבטיח גישה ברכב לדלת או חניה זמינה. לפני ביקור כדאי לבדוק באתר המלון זמינות, מחירים והוראות עדכניות.</p>\n<p class=\"gn-image-credit\">צילום הכניסה עם שלט מלון האפנדי מ־28.09.2012: Yuval Y, <a href=\"https://commons.wikimedia.org/wiki/File:Efendi_Hotel,_Acre,_Israel_-_01.jpg\">מקור התמונה</a>, ברישיון <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. WordPress עשוי להקטין ולדחוס גרסאות תצוגה. הצילום ההיסטורי אינו מעיד על מצב הכניסה כיום.</p>\r\n",
+    "rendered": "<p>מלון האפנדי נמצא בסמטאות עכו העתיקה. <a href=\"https://efendi-hotel.co.il/\">אתר המלון</a> מציג את המקום כמלון בוטיק בעיר העתיקה.</p>\n<p>לפי <a href=\"https://efendi-hotel.co.il/%D7%93%D7%A8%D7%9B%D7%99-%D7%94%D7%92%D7%A2%D7%94-%D7%9C%D7%9E%D7%9C%D7%95%D7%9F/\">הוראות ההגעה של המלון</a>, הכתובת היא רחוב לואי התשיעי בעכו. למלון אין חניון משלו; המפעיל מפרט אפשרויות חניה ציבורית באזור ומסביר שאפשר להוריד חפצים בכניסה לסמטת המלון. <a href=\"https://ul.waze.com/ul?ll=32.92259730%2C35.06819240&amp;navigate=yes&amp;place=ChIJQ4sIwUTIHRURNP0JZQOTIJI&amp;utm_campaign=default&amp;utm_medium=lm_share_location&amp;utm_source=waze_website\">קישור הניווט שמציג המפעיל</a> מוביל ליעד המלון ב־Waze; הוא אינו מבטיח גישה ברכב לדלת או חניה זמינה. לפני ביקור כדאי לבדוק באתר המלון זמינות, מחירים והוראות עדכניות.</p>\n<p class=\"gn-image-credit\">צילום הכניסה עם שלט מלון האפנדי מ־28.09.2012: Yuval Y, <a href=\"https://commons.wikimedia.org/wiki/File:Efendi_Hotel,_Acre,_Israel_-_01.jpg\">מקור התמונה</a>, ברישיון <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. WordPress עשוי להקטין ולדחוס גרסאות תצוגה. הצילום ההיסטורי אינו מעיד על מצב הכניסה כיום.</p>\n",
+    "protected": false
+  },
+  "default_category": null,
+  "post_category": [
+    {
+      "id": 18,
+      "name": "לינה",
+      "slug": "accommodation"
+    }
+  ],
+  "post_tags": [],
+  "street": null,
+  "country": "ישראל",
+  "region": "צפון",
+  "city": "צפון ישראל",
+  "zip": null,
+  "latitude": null,
+  "longitude": null,
+  "mapview": null,
+  "mapzoom": null,
+  "phone": null,
+  "website": null,
+  "business_hours": null,
+  "price_type": {
+    "raw": null,
+    "rendered": "בחר"
+  },
+  "open_saturday": {
+    "raw": null,
+    "rendered": "בחר"
+  },
+  "featured": false,
+  "rating": "0",
+  "rating_count": 0,
+  "featured_media": 547,
+  "featured_image": [],
+  "images": [],
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "meta": {
+    "site-sidebar-layout": "default",
+    "site-content-layout": "",
+    "ast-site-content-layout": "default",
+    "site-content-style": "default",
+    "site-sidebar-style": "default",
+    "ast-global-header-display": "",
+    "ast-banner-title-visibility": "",
+    "ast-main-header-display": "",
+    "ast-hfb-above-header-display": "",
+    "ast-hfb-below-header-display": "",
+    "ast-hfb-mobile-header-display": "",
+    "site-post-title": "",
+    "ast-breadcrumbs-content": "",
+    "ast-featured-img": "",
+    "footer-sml-layout": "",
+    "ast-disable-related-posts": "",
+    "theme-transparent-header-meta": "",
+    "adv-header-id-meta": "",
+    "stick-header-meta": "",
+    "header-above-stick-meta": "",
+    "header-main-stick-meta": "",
+    "header-below-stick-meta": "",
+    "astra-migrate-meta-layouts": "default",
+    "ast-page-background-enabled": "default",
+    "ast-page-background-meta": {
+      "desktop": {
+        "background-color": "var(--ast-global-color-5)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "tablet": {
+        "background-color": "",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "mobile": {
+        "background-color": "",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      }
+    },
+    "ast-content-background-meta": {
+      "desktop": {
+        "background-color": "var(--ast-global-color-4)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "tablet": {
+        "background-color": "var(--ast-global-color-4)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "mobile": {
+        "background-color": "var(--ast-global-color-4)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      }
+    },
+    "footnotes": ""
+  },
+  "guid": {
+    "rendered": "https://gonorth.co.il/?post_type=gd_place&p=546",
+    "raw": "https://gonorth.co.il/?post_type=gd_place&p=546"
+  },
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v27.5 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>מלון האפנדי — עכו - כיוון צפון</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://gonorth.co.il/?post_type=gd_place&p=546\" />\n<meta property=\"og:locale\" content=\"he_IL\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"מלון האפנדי — עכו - כיוון צפון\" />\n<meta property=\"og:description\" content=\"מלון בוטיק בסמטאות עכו העתיקה. הוראות הגעה, חניה בקרבת מקום ומידע עדכני באתר המלון.\" />\n<meta property=\"og:url\" content=\"https://gonorth.co.il/?post_type=gd_place&amp;p=546\" />\n<meta property=\"og:site_name\" content=\"כיוון צפון\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/gonorth.co.il\\/?post_type=gd_place&p=546\",\"url\":\"https:\\/\\/gonorth.co.il\\/?post_type=gd_place&p=546\",\"name\":\"מלון האפנדי — עכו - כיוון צפון\",\"isPartOf\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/?post_type=gd_place&p=546#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/?post_type=gd_place&p=546#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/uploads\\/issue93-licensed\\/efendi-yuvaly-2012-scaled.jpg\",\"datePublished\":\"-0001-11-30T00:00:00+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/?post_type=gd_place&p=546#breadcrumb\"},\"inLanguage\":\"he-IL\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/gonorth.co.il\\/?post_type=gd_place&p=546\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"he-IL\",\"@id\":\"https:\\/\\/gonorth.co.il\\/?post_type=gd_place&p=546#primaryimage\",\"url\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/uploads\\/issue93-licensed\\/efendi-yuvaly-2012-scaled.jpg\",\"contentUrl\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/uploads\\/issue93-licensed\\/efendi-yuvaly-2012-scaled.jpg\",\"width\":1440,\"height\":1920,\"caption\":\"צילום כניסת מלון האפנדי בעכו: Yuval Y, 28.09.2012. מקור: https:\\/\\/commons.wikimedia.org\\/wiki\\/File:Efendi_Hotel,_Acre,_Israel_-_01.jpg . רישיון CC BY-SA 3.0: https:\\/\\/creativecommons.org\\/licenses\\/by-sa\\/3.0\\/ . גרסאות תצוגה הוקטנו ונדחסו ב-WordPress.\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/gonorth.co.il\\/?post_type=gd_place&p=546#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/gonorth.co.il\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Places\",\"item\":\"https:\\/\\/gonorth.co.il\\/places\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"מלון האפנדי — עכו\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"name\":\"כיוון צפון\",\"description\":\"גלה את הצפון כמו מקומי\",\"alternateName\":\"GoNorth\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/gonorth.co.il\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"he-IL\",\"publisher\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\",\"name\":\"כיוון צפון\",\"alternateName\":\"GoNorth\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization-logo\",\"url\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/themes\\/gonorth-child\\/assets\\/gonorth-organic-mark.svg\",\"width\":300,\"height\":130},\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"שירות לקוחות\",\"url\":\"https:\\/\\/gonorth.co.il\\/contact\\/\",\"availableLanguage\":[\"עברית\"]},\"sameAs\":[\"https:\\/\\/gonorth.co.il\\/about\\/\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "מלון האפנדי — עכו - כיוון צפון",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://gonorth.co.il/?post_type=gd_place&p=546",
+    "og_locale": "he_IL",
+    "og_type": "article",
+    "og_title": "מלון האפנדי — עכו - כיוון צפון",
+    "og_description": "מלון בוטיק בסמטאות עכו העתיקה. הוראות הגעה, חניה בקרבת מקום ומידע עדכני באתר המלון.",
+    "og_url": "https://gonorth.co.il/?post_type=gd_place&p=546",
+    "og_site_name": "כיוון צפון",
+    "twitter_card": "summary_large_image",
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://gonorth.co.il/?post_type=gd_place&p=546",
+          "url": "https://gonorth.co.il/?post_type=gd_place&p=546",
+          "name": "מלון האפנדי — עכו - כיוון צפון",
+          "isPartOf": {
+            "@id": "https://gonorth.co.il/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://gonorth.co.il/?post_type=gd_place&p=546#primaryimage"
+          },
+          "image": {
+            "@id": "https://gonorth.co.il/?post_type=gd_place&p=546#primaryimage"
+          },
+          "thumbnailUrl": "https://gonorth.co.il/wp-content/uploads/issue93-licensed/efendi-yuvaly-2012-scaled.jpg",
+          "datePublished": "-0001-11-30T00:00:00+00:00",
+          "breadcrumb": {
+            "@id": "https://gonorth.co.il/?post_type=gd_place&p=546#breadcrumb"
+          },
+          "inLanguage": "he-IL",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://gonorth.co.il/?post_type=gd_place&p=546"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "he-IL",
+          "@id": "https://gonorth.co.il/?post_type=gd_place&p=546#primaryimage",
+          "url": "https://gonorth.co.il/wp-content/uploads/issue93-licensed/efendi-yuvaly-2012-scaled.jpg",
+          "contentUrl": "https://gonorth.co.il/wp-content/uploads/issue93-licensed/efendi-yuvaly-2012-scaled.jpg",
+          "width": 1440,
+          "height": 1920,
+          "caption": "צילום כניסת מלון האפנדי בעכו: Yuval Y, 28.09.2012. מקור: https://commons.wikimedia.org/wiki/File:Efendi_Hotel,_Acre,_Israel_-_01.jpg . רישיון CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/ . גרסאות תצוגה הוקטנו ונדחסו ב-WordPress."
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://gonorth.co.il/?post_type=gd_place&p=546#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://gonorth.co.il/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Places",
+              "item": "https://gonorth.co.il/places/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "מלון האפנדי — עכו"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://gonorth.co.il/#website",
+          "url": "https://gonorth.co.il/",
+          "name": "כיוון צפון",
+          "description": "גלה את הצפון כמו מקומי",
+          "alternateName": "GoNorth",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://gonorth.co.il/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "he-IL",
+          "publisher": {
+            "@id": "https://gonorth.co.il/#organization"
+          }
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://gonorth.co.il/#organization",
+          "name": "כיוון צפון",
+          "alternateName": "GoNorth",
+          "url": "https://gonorth.co.il/",
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://gonorth.co.il/#organization-logo",
+            "url": "https://gonorth.co.il/wp-content/themes/gonorth-child/assets/gonorth-organic-mark.svg",
+            "width": 300,
+            "height": 130
+          },
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "contactType": "שירות לקוחות",
+            "url": "https://gonorth.co.il/contact/",
+            "availableLanguage": [
+              "עברית"
+            ]
+          },
+          "sameAs": [
+            "https://gonorth.co.il/about/"
+          ]
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://gonorth.co.il/wp-json/geodir/v2/places/546",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://gonorth.co.il/wp-json/geodir/v2/places"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://gonorth.co.il/wp-json/geodir/v2/types/gd_place"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://gonorth.co.il/wp-json/geodir/v2/reviews?post=546"
+      }
+    ],
+    "version-history": [
+      {
+        "href": "https://gonorth.co.il/wp-json/geodir/v2/places/546/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://gonorth.co.il/wp-json/wp/v2/media/547"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://gonorth.co.il/wp-json/wp/v2/media?parent=546"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "gd_place_tags",
+        "embeddable": true,
+        "href": "https://gonorth.co.il/wp-json/geodir/v2/places/tags?post=546"
+      },
+      {
+        "taxonomy": "gd_placecategory",
+        "embeddable": true,
+        "href": "https://gonorth.co.il/wp-json/geodir/v2/places/categories?post=546"
+      },
+      {
+        "taxonomy": "gn_region",
+        "embeddable": true,
+        "href": "https://gonorth.co.il/wp-json/geodir/v2/?post=546"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

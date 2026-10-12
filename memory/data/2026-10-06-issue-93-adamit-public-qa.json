@@ -1,0 +1,22 @@
+[
+  {
+    "kind": "pending_page",
+    "url": "https://gonorth.co.il/?post_type=gd_place&p=556",
+    "status": 404,
+    "contentType": null
+  },
+  {
+    "kind": "anonymous_api",
+    "url": "https://gonorth.co.il/wp-json/geodir/v2/places/556",
+    "status": 401,
+    "contentType": null
+  },
+  {
+    "kind": "photo",
+    "url": "https://gonorth.co.il/wp-content/uploads/issue93-licensed/adamit-keshet-avi1111-2012-scaled.jpg",
+    "status": 200,
+    "contentType": [
+      "image/jpeg"
+    ]
+  }
+]

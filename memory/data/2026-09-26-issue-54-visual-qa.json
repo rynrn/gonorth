@@ -1,0 +1,34 @@
+[
+  {
+    "name": "desktop",
+    "title": "חנוכה בצפון 2026: פעילויות וטיולי חורף | כיוון צפון",
+    "lang": "he-IL",
+    "dir": "rtl",
+    "h1": 1,
+    "h2": 8,
+    "canonical": "https://gonorth.co.il/hanukkah-north-israel/",
+    "hero": "https://gonorth.co.il/wp-content/uploads/2026/09/hanukkah-north-israel-2026-1024x512.webp",
+    "heroAlt": "משפחה מדליקה חנוכייה מול נוף הגליל בשעת ערב",
+    "overflow": false,
+    "bodyWidth": 1440,
+    "viewport": 1440,
+    "backlinksText": true,
+    "pageErrors": []
+  },
+  {
+    "name": "mobile",
+    "title": "חנוכה בצפון 2026: פעילויות וטיולי חורף | כיוון צפון",
+    "lang": "he-IL",
+    "dir": "rtl",
+    "h1": 1,
+    "h2": 8,
+    "canonical": "https://gonorth.co.il/hanukkah-north-israel/",
+    "hero": "https://gonorth.co.il/wp-content/uploads/2026/09/hanukkah-north-israel-2026-600x300.webp",
+    "heroAlt": "משפחה מדליקה חנוכייה מול נוף הגליל בשעת ערב",
+    "overflow": false,
+    "bodyWidth": 390,
+    "viewport": 390,
+    "backlinksText": true,
+    "pageErrors": []
+  }
+]

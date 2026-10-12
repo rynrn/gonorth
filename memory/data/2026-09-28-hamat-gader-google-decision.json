@@ -1,0 +1,45 @@
+{
+  "place_id": 405,
+  "name": "חמת גדר",
+  "decision": "approved",
+  "selected_google_place_id": "ChIJpW_MwKJsHBUR13O0U86aTl4",
+  "selected_entity": {
+    "name": "Hamat Gader",
+    "latitude": 32.6830556,
+    "longitude": 35.6630556,
+    "rating": 4.2,
+    "review_count": 7995,
+    "business_status": "OPERATIONAL",
+    "website": "http://www.hamat-gader.com/",
+    "phone": "04-665-9999"
+  },
+  "reason": "The selected entity represents the full Hamat Gader resort described by the GoNorth listing. Its coordinates exactly match the listing, and its website and phone match the official property. The official site describes the same combined hot-springs, water, crocodile and lodging complex.",
+  "rejected_candidates": [
+    {
+      "google_place_id": "ChIJ707xlLxsHBURUqJSgmZyaa4",
+      "name": "חמת גדר",
+      "reason": "Locality/political record with no rating or reviews; it is not the attraction."
+    },
+    {
+      "google_place_id": "ChIJD70KuwptHBURvXbFQ4QFTMA",
+      "name": "חמת גדר המרחצאות המודרניים",
+      "reason": "Narrow sub-entity for the modern baths, while the GoNorth listing covers the full resort."
+    },
+    {
+      "google_place_id": "ChIJsQnKIFcXHBURA2DnQfH5690",
+      "name": "ספא וילג' מלון בוטיק בצפון",
+      "reason": "Hotel sub-entity within the resort."
+    },
+    {
+      "google_place_id": "ChIJfYhnTvVtHBURm-vOCDaaoZ8",
+      "name": "עין ג'ונס",
+      "reason": "Separate nearby spring and not the Hamat Gader resort listing."
+    }
+  ],
+  "evidence_urls": [
+    "https://hamat-gader.com/en/%D7%A2%D7%9E%D7%95%D7%93-%D7%94%D7%91%D7%99%D7%AA-english/",
+    "https://hamat-gader.com/en/contact-us/",
+    "https://easy.co.il/page/26508518"
+  ],
+  "reviewed_at": "2026-09-28T12:25:00Z"
+}

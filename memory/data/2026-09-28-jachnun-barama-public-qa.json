@@ -1,0 +1,9 @@
+{
+  "status": 200,
+  "new_title": true,
+  "legacy_name": true,
+  "phone": true,
+  "old_hours_removed": true,
+  "canonical_count": 1,
+  "h1_count": 1
+}

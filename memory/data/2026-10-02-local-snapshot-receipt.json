@@ -1,0 +1,27 @@
+{
+  "status": "verified",
+  "snapshot_collected_at": "2026-10-02T09:58:58.327815+00:00",
+  "collection_finished_at": "2026-10-02T09:59:18.238049+00:00",
+  "archive_created_at": "2026-10-02T09:59:18.238856+00:00",
+  "last_verified_at": "2026-10-02T10:05:56.479804+00:00",
+  "last_checked_at": "2026-10-02T10:05:56.479804+00:00",
+  "path": "C:\\dev\\gonorth\\backups\\monthly\\current",
+  "archive_file": "site.zip",
+  "archive_bytes": 475861569,
+  "archive_sha256": "0d4a8e6628c5ae0dcb9e896efa0628d7de528e2e52d75c4e55abc9a64449d3d9",
+  "file_count": 28112,
+  "directory_count": 4282,
+  "database_export_verified": true,
+  "database_restore_tested": false,
+  "wordpress_version": "7.1.2",
+  "automation_id": "snapshot-gonorth",
+  "review_schedule": "Monthly on day 2 at 10:00, app local timezone",
+  "refresh_requires_new_user_approval": true,
+  "retained_backup_count": 1,
+  "temporary_server_cleanup": "complete",
+  "limitations": [
+    "Not an atomic full-server snapshot",
+    "WordPress core and TLS private keys excluded; reinstall recorded version and reissue certificates",
+    "SQL import not tested"
+  ]
+}

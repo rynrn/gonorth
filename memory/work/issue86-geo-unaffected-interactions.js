@@ -1,0 +1,11 @@
+const {chromium}=require('playwright'),fs=require('fs');
+const urls=['https://gonorth.co.il/','https://gonorth.co.il/blog/','https://gonorth.co.il/places/','https://gonorth.co.il/places/%d7%a7%d7%99%d7%90%d7%a7-%d7%9b%d7%a0%d7%a8%d7%aa/','https://gonorth.co.il/contact/','https://gonorth.co.il/tours-kayaks-north-israel/'];
+(async()=>{const b=await chromium.launch({headless:true,executablePath:'C:/Program Files/Google/Chrome/Application/chrome.exe'}),out=[];
+for(const width of [390,1280]){const context=await b.newContext({viewport:{width,height:844},locale:'he-IL'}),p=await context.newPage(),errors=[];p.on('pageerror',e=>errors.push(e.message.slice(0,140)));
+for(const url of urls){errors.length=0;const r=await p.goto(url,{waitUntil:'domcontentloaded',timeout:45000});await p.waitForTimeout(600);out.push({width,url,status:r.status(),errors:[...errors],state:await p.evaluate(()=>({h1:!!document.querySelector('h1'),footer:!!document.querySelector('footer'),width:document.documentElement.scrollWidth,geoAssets:[...document.querySelectorAll('link[href],script[src]')].filter(e=>/autoptimize_single_f744e4881044ddcf68ff999850aa6f7f|geodirectory.min.js|bootstrap.bundle.min.js/.test(e.href||e.src)).length}))})}
+await context.close()}
+const context=await b.newContext({viewport:{width:390,height:844},locale:'he-IL'}),p=await context.newPage();await p.goto('https://gonorth.co.il/tours-kayaks-north-israel/',{waitUntil:'domcontentloaded'});await p.waitForTimeout(1000);
+const menuBefore=await p.locator('#gn-hamburger').getAttribute('aria-expanded');await p.locator('#gn-hamburger').click({force:true});const menuAfter=await p.locator('#gn-hamburger').getAttribute('aria-expanded');
+await p.locator('.onetap-toggle').click({force:true});await p.waitForTimeout(350);const toolbar=await p.locator('.onetap-toolbar').count();const toolbarVisible=toolbar?await p.locator('.onetap-toolbar').isVisible():false;
+out.push({interaction:{menuBefore,menuAfter,toolbar,toolbarVisible}});await context.close();await b.close();
+fs.writeFileSync('C:/dev/gonorth/memory/data/2026-10-06-issue-86-geo-unaffected-interactions.json',JSON.stringify(out,null,2));console.log(JSON.stringify(out))})().catch(e=>{console.error(e);process.exit(1)});

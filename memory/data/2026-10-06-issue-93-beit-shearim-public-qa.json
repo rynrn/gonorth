@@ -1,0 +1,46 @@
+[
+  {
+    "kind": "place",
+    "url": "https://gonorth.co.il/places/%d7%92%d7%9f-%d7%9c%d7%90%d7%95%d7%9e%d7%99-%d7%91%d7%99%d7%aa-%d7%a9%d7%a2%d7%a8%d7%99%d7%9d/",
+    "status": 200,
+    "contentType": "text/html; charset=UTF-8",
+    "hasTitle": true,
+    "hasRenovation": true,
+    "hasLicense": false,
+    "hasInternalLink": false,
+    "hasOfficial": false
+  },
+  {
+    "kind": "guide",
+    "url": "https://gonorth.co.il/yizreel-valley-day-trip/",
+    "status": 200,
+    "contentType": "text/html; charset=UTF-8",
+    "hasTitle": true,
+    "hasRenovation": false,
+    "hasLicense": false,
+    "hasInternalLink": true,
+    "hasOfficial": true
+  },
+  {
+    "kind": "image",
+    "url": "https://gonorth.co.il/wp-content/uploads/issue93-licensed/beit-shearim-cave14-davidbena-2019-scaled.jpg",
+    "status": 200,
+    "contentType": "image/jpeg",
+    "hasTitle": [],
+    "hasRenovation": [],
+    "hasLicense": [],
+    "hasInternalLink": [],
+    "hasOfficial": []
+  },
+  {
+    "kind": "anonymous_api",
+    "url": "https://gonorth.co.il/wp-json/geodir/v2/places/534",
+    "status": 200,
+    "contentType": "application/json; charset=UTF-8",
+    "hasTitle": false,
+    "hasRenovation": false,
+    "hasLicense": false,
+    "hasInternalLink": false,
+    "hasOfficial": false
+  }
+]

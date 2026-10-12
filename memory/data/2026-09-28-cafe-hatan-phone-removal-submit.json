@@ -1,0 +1,13 @@
+[
+  {
+    "wordpress_id": 217,
+    "checked_at": "2026-09-28T11:50:00Z",
+    "source": "manual_web_verification",
+    "source_url": "https://de.restaurantguru.com/htn-Hatan-Cafe-Beit-Hillel-Beit-Hillel",
+    "facts": {
+      "business_status": "temporarily_closed",
+      "phone": null,
+      "regular_hours_json": null
+    }
+  }
+]

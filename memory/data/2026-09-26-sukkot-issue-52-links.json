@@ -1,0 +1,312 @@
+[
+  {
+    "url": "https://fonts.googleapis.com",
+    "status": null,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://fonts.googleapis.com/css2?family=Heebo:wght@200;400;500;600;700;800;900&#038;family=Secular+One&#038;display=swap",
+    "status": 200,
+    "final_url": "https://fonts.googleapis.com/css2?family=Heebo:wght@200;400;500;600;700;800;900&#038;family=Secular+One&#038;display=swap"
+  },
+  {
+    "url": "https://fonts.googleapis.com/css?family=Heebo:800%2C&#038;display=swap&#038;ver=4.13.0",
+    "status": 200,
+    "final_url": "https://fonts.googleapis.com/css?family=Heebo:800%2C&#038;display=swap&#038;ver=4.13.0"
+  },
+  {
+    "url": "https://fonts.gstatic.com",
+    "status": null,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysd0mm7UiCXB5WkK8.woff2",
+    "status": 200,
+    "final_url": "https://fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysd0mm7UiCXB5WkK8.woff2"
+  },
+  {
+    "url": "https://gonorth.co.il/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/"
+  },
+  {
+    "url": "https://gonorth.co.il/?p=441",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/sukkot-batzafon/"
+  },
+  {
+    "url": "https://gonorth.co.il/about/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/about/"
+  },
+  {
+    "url": "https://gonorth.co.il/atrakziot-leyeladim-batzafon/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/atrakziot-leyeladim-batzafon/"
+  },
+  {
+    "url": "https://gonorth.co.il/blog/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/blog/"
+  },
+  {
+    "url": "https://gonorth.co.il/comments/feed/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/comments/feed/"
+  },
+  {
+    "url": "https://gonorth.co.il/contact/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/contact/"
+  },
+  {
+    "url": "https://gonorth.co.il/feed/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/feed/"
+  },
+  {
+    "url": "https://gonorth.co.il/maayanot-batzafon/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/maayanot-batzafon/"
+  },
+  {
+    "url": "https://gonorth.co.il/maslulei-mayim-batzafon/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/maslulei-mayim-batzafon/"
+  },
+  {
+    "url": "https://gonorth.co.il/mediniyut-pratiyut/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/mediniyut-pratiyut/"
+  },
+  {
+    "url": "https://gonorth.co.il/places/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/places/"
+  },
+  {
+    "url": "https://gonorth.co.il/places/category/accommodation/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/places/category/accommodation/"
+  },
+  {
+    "url": "https://gonorth.co.il/places/category/agalot-kafe/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/places/category/agalot-kafe/"
+  },
+  {
+    "url": "https://gonorth.co.il/places/category/atraktziot-main/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/places/category/atraktziot-main/"
+  },
+  {
+    "url": "https://gonorth.co.il/places/category/restaurants-sub/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/places/category/restaurants-sub/"
+  },
+  {
+    "url": "https://gonorth.co.il/places/category/restaurants/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/places/category/restaurants-sub/"
+  },
+  {
+    "url": "https://gonorth.co.il/places/category/teva/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/places/category/teva/"
+  },
+  {
+    "url": "https://gonorth.co.il/places/category/tours/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/places/category/tours/"
+  },
+  {
+    "url": "https://gonorth.co.il/places/category/yakavim/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/places/category/yakavim/"
+  },
+  {
+    "url": "https://gonorth.co.il/places/אינדי-פארק/",
+    "status": null,
+    "error": "'ascii' codec can't encode characters in position 12-16: ordinal not in range(128)"
+  },
+  {
+    "url": "https://gonorth.co.il/places/יקב-אדיר/",
+    "status": null,
+    "error": "'ascii' codec can't encode characters in position 12-14: ordinal not in range(128)"
+  },
+  {
+    "url": "https://gonorth.co.il/region/carmel/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/region/carmel/"
+  },
+  {
+    "url": "https://gonorth.co.il/region/galil/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/region/galil/"
+  },
+  {
+    "url": "https://gonorth.co.il/region/golan/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/region/golan/"
+  },
+  {
+    "url": "https://gonorth.co.il/sukkot-batzafon/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/sukkot-batzafon/"
+  },
+  {
+    "url": "https://gonorth.co.il/weekend-trip-north-israel/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/weekend-trip-north-israel/"
+  },
+  {
+    "url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_0e595cf9c0607c92f351bb5d75b172ce.php?ver=4.13.0",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_0e595cf9c0607c92f351bb5d75b172ce.php?ver=4.13.0"
+  },
+  {
+    "url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_1fbf35126001b27c9d77720a9e941437.php?ver=4.13.0",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_1fbf35126001b27c9d77720a9e941437.php?ver=4.13.0"
+  },
+  {
+    "url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_6e965c6e3bcfcbf9911dc55e7cbcf40f.php?ver=2.9.0",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_6e965c6e3bcfcbf9911dc55e7cbcf40f.php?ver=2.9.0"
+  },
+  {
+    "url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_732caf67dc4cce9db3ee631c1f1fba79.php?ver=1.17.0",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_732caf67dc4cce9db3ee631c1f1fba79.php?ver=1.17.0"
+  },
+  {
+    "url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_bee817902507e0ea9b2a85da3d85d2e3.php?ver=4.13.0",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_bee817902507e0ea9b2a85da3d85d2e3.php?ver=4.13.0"
+  },
+  {
+    "url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_c812c49d797de159697f02bafc3d9c51.php?ver=wc-10.7.0",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_c812c49d797de159697f02bafc3d9c51.php?ver=wc-10.7.0"
+  },
+  {
+    "url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_cd360d29346139a01939fcc0f29f85f8.php?ver=4.13.0",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_cd360d29346139a01939fcc0f29f85f8.php?ver=4.13.0"
+  },
+  {
+    "url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_f744e4881044ddcf68ff999850aa6f7f.php?ver=0.2.47",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_f744e4881044ddcf68ff999850aa6f7f.php?ver=0.2.47"
+  },
+  {
+    "url": "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/css/accessibility-onetap-front-end.min.css?ver=2.10.0",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/css/accessibility-onetap-front-end.min.css?ver=2.10.0"
+  },
+  {
+    "url": "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/css/onetap-fonts-readable.min.css?ver=2.10.0",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/css/onetap-fonts-readable.min.css?ver=2.10.0"
+  },
+  {
+    "url": "https://gonorth.co.il/wp-content/themes/astra/style.css?ver=7.1.2",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/wp-content/themes/astra/style.css?ver=7.1.2"
+  },
+  {
+    "url": "https://gonorth.co.il/wp-content/themes/gonorth-child/assets/gonorth-192.png",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/wp-content/themes/gonorth-child/assets/gonorth-192.png"
+  },
+  {
+    "url": "https://gonorth.co.il/wp-content/themes/gonorth-child/assets/gonorth-32.png",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/wp-content/themes/gonorth-child/assets/gonorth-32.png"
+  },
+  {
+    "url": "https://gonorth.co.il/wp-content/themes/gonorth-child/assets/gonorth-icon.svg",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/wp-content/themes/gonorth-child/assets/gonorth-icon.svg"
+  },
+  {
+    "url": "https://gonorth.co.il/wp-content/uploads/2026/04/gonorth-512-100x100.png",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/wp-content/uploads/2026/04/gonorth-512-100x100.png"
+  },
+  {
+    "url": "https://gonorth.co.il/wp-content/uploads/2026/04/gonorth-512-300x300.png",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/wp-content/uploads/2026/04/gonorth-512-300x300.png"
+  },
+  {
+    "url": "https://gonorth.co.il/wp-includes/css/dist/block-library/style-rtl.min.css?ver=7.1.2",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/wp-includes/css/dist/block-library/style-rtl.min.css?ver=7.1.2"
+  },
+  {
+    "url": "https://gonorth.co.il/wp-json/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/wp-json/"
+  },
+  {
+    "url": "https://gonorth.co.il/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgonorth.co.il%2Fsukkot-batzafon%2F",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgonorth.co.il%2Fsukkot-batzafon%2F"
+  },
+  {
+    "url": "https://gonorth.co.il/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgonorth.co.il%2Fsukkot-batzafon%2F&#038;format=xml",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgonorth.co.il%2Fsukkot-batzafon%2F&#038;format=xml"
+  },
+  {
+    "url": "https://gonorth.co.il/wp-json/wp/v2/pages/441",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/wp-json/wp/v2/pages/441"
+  },
+  {
+    "url": "https://gonorth.co.il/xmlrpc.php?rsd",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/xmlrpc.php?rsd"
+  },
+  {
+    "url": "https://gonorth.co.il/yekavim-batzafon/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/yekavim-batzafon/"
+  },
+  {
+    "url": "https://maps.googleapis.com",
+    "status": 200,
+    "final_url": "https://developers.google.com/maps/"
+  },
+  {
+    "url": "https://use.fontawesome.com/releases/v6.7.2/css/all.css?wpfas=true",
+    "status": 200,
+    "final_url": "https://use.fontawesome.com/releases/v6.7.2/css/all.css?wpfas=true"
+  },
+  {
+    "url": "https://wponetap.com/?utm_source=frontend-link&#038;utm_medium=link&#038;utm_campaign=ref-link-toolbar",
+    "status": null,
+    "error": "HTTP Error 400: Bad Request"
+  },
+  {
+    "url": "https://www.adir-winery.co.il/מרכז-המבקרים/",
+    "status": null,
+    "error": "'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)"
+  },
+  {
+    "url": "https://www.hebcal.com/holidays/2026?i=on",
+    "status": 200,
+    "final_url": "https://www.hebcal.com/holidays/2026?i=on"
+  },
+  {
+    "url": "https://www.indipark.co.il/",
+    "status": 200,
+    "final_url": "https://www.indipark.co.il/"
+  },
+  {
+    "url": "https://www.indipark.co.il/הפנינגסוכות",
+    "status": null,
+    "error": "'ascii' codec can't encode characters in position 5-15: ordinal not in range(128)"
+  }
+]

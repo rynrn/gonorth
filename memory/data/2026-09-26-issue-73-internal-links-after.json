@@ -1,0 +1,510 @@
+{
+    "16": {
+        "url": "https://gonorth.co.il/search/",
+        "path": "/search/",
+        "inbound": [],
+        "outbound": [],
+        "inbound_count": 0,
+        "outbound_count": 0
+    },
+    "18": {
+        "url": "https://gonorth.co.il/location/",
+        "path": "/location/",
+        "inbound": [],
+        "outbound": [],
+        "inbound_count": 0,
+        "outbound_count": 0
+    },
+    "19": {
+        "url": "https://gonorth.co.il/gd-archive/",
+        "path": "/gd-archive/",
+        "inbound": [],
+        "outbound": [],
+        "inbound_count": 0,
+        "outbound_count": 0
+    },
+    "20": {
+        "url": "https://gonorth.co.il/gd-archive-item/",
+        "path": "/gd-archive-item/",
+        "inbound": [],
+        "outbound": [],
+        "inbound_count": 0,
+        "outbound_count": 0
+    },
+    "21": {
+        "url": "https://gonorth.co.il/gd-details/",
+        "path": "/gd-details/",
+        "inbound": [],
+        "outbound": [],
+        "inbound_count": 0,
+        "outbound_count": 0
+    },
+    "46": {
+        "url": "https://gonorth.co.il/negishot/",
+        "path": "/negishot/",
+        "inbound": [],
+        "outbound": [],
+        "inbound_count": 0,
+        "outbound_count": 0
+    },
+    "84": {
+        "url": "https://gonorth.co.il/%d7%9e%d7%93%d7%a8%d7%99%d7%9a-%d7%9c%d7%99%d7%a0%d7%94-%d7%91%d7%a8%d7%9e%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f-%d7%9e%d7%9c%d7%95%d7%a0%d7%95%d7%aa-%d7%a6%d7%99%d7%9e%d7%a8%d7%99%d7%9d-%d7%95%d7%a7/",
+        "path": "/%d7%9e%d7%93%d7%a8%d7%99%d7%9a-%d7%9c%d7%99%d7%a0%d7%94-%d7%91%d7%a8%d7%9e%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f-%d7%9e%d7%9c%d7%95%d7%a0%d7%95%d7%aa-%d7%a6%d7%99%d7%9e%d7%a8%d7%99%d7%9d-%d7%95%d7%a7/",
+        "inbound": [],
+        "outbound": [],
+        "inbound_count": 0,
+        "outbound_count": 0
+    },
+    "94": {
+        "url": "https://gonorth.co.il/10-%d7%90%d7%98%d7%a8%d7%a7%d7%a6%d7%99%d7%95%d7%aa-%d7%9e%d7%95%d7%9e%d7%9c%d7%a6%d7%95%d7%aa-%d7%91%d7%92%d7%9c%d7%99%d7%9c-%d7%9c%d7%97%d7%95%d7%a4%d7%a9%d7%aa-%d7%9e%d7%a9%d7%a4%d7%97%d7%94/",
+        "path": "/10-%d7%90%d7%98%d7%a8%d7%a7%d7%a6%d7%99%d7%95%d7%aa-%d7%9e%d7%95%d7%9e%d7%9c%d7%a6%d7%95%d7%aa-%d7%91%d7%92%d7%9c%d7%99%d7%9c-%d7%9c%d7%97%d7%95%d7%a4%d7%a9%d7%aa-%d7%9e%d7%a9%d7%a4%d7%97%d7%94/",
+        "inbound": [
+            {
+                "ID": 159,
+                "title": "לול ארט",
+                "url": "https://gonorth.co.il/places/%d7%9c%d7%95%d7%9c-%d7%90%d7%a8%d7%98/"
+            },
+            {
+                "ID": 270,
+                "title": "אטרקציות לילדים בצפון: רעיונות למשפחות",
+                "url": "https://gonorth.co.il/atrakziot-leyeladim-batzafon/"
+            },
+            {
+                "ID": 387,
+                "title": "קטיף עצמי רוני",
+                "url": "https://gonorth.co.il/places/%d7%a7%d7%98%d7%99%d7%a3-%d7%a2%d7%a6%d7%9e%d7%99-%d7%a8%d7%95%d7%a0%d7%99/"
+            },
+            {
+                "ID": 391,
+                "title": "War Zone Paintball",
+                "url": "https://gonorth.co.il/places/war-zone-paintball/"
+            },
+            {
+                "ID": 419,
+                "title": "טריפונל באולינג",
+                "url": "https://gonorth.co.il/places/%d7%98%d7%a8%d7%99%d7%a4%d7%95%d7%a0%d7%9c-%d7%91%d7%90%d7%95%d7%9c%d7%99%d7%a0%d7%92/"
+            }
+        ],
+        "outbound": [],
+        "inbound_count": 5,
+        "outbound_count": 0
+    },
+    "100": {
+        "url": "https://gonorth.co.il/add-listing/",
+        "path": "/add-listing/",
+        "inbound": [],
+        "outbound": [],
+        "inbound_count": 0,
+        "outbound_count": 0
+    },
+    "123": {
+        "url": "https://gonorth.co.il/springs-valley-guide/",
+        "path": "/springs-valley-guide/",
+        "inbound": [],
+        "outbound": [],
+        "inbound_count": 0,
+        "outbound_count": 0
+    },
+    "126": {
+        "url": "https://gonorth.co.il/shavuot-north-israel/",
+        "path": "/shavuot-north-israel/",
+        "inbound": [],
+        "outbound": [],
+        "inbound_count": 0,
+        "outbound_count": 0
+    },
+    "127": {
+        "url": "https://gonorth.co.il/north-israel-wineries-guide/",
+        "path": "/north-israel-wineries-guide/",
+        "inbound": [],
+        "outbound": [],
+        "inbound_count": 0,
+        "outbound_count": 0
+    },
+    "131": {
+        "url": "https://gonorth.co.il/metzukei-dragot-guide/",
+        "path": "/metzukei-dragot-guide/",
+        "inbound": [],
+        "outbound": [],
+        "inbound_count": 0,
+        "outbound_count": 0
+    },
+    "135": {
+        "url": "https://gonorth.co.il/north-israel-wineries-guide-2/",
+        "path": "/north-israel-wineries-guide-2/",
+        "inbound": [],
+        "outbound": [],
+        "inbound_count": 0,
+        "outbound_count": 0
+    },
+    "144": {
+        "url": "https://gonorth.co.il/accommodation-golan-heights/",
+        "path": "/accommodation-golan-heights/",
+        "inbound": [],
+        "outbound": [],
+        "inbound_count": 0,
+        "outbound_count": 0
+    },
+    "147": {
+        "url": "https://gonorth.co.il/valley-of-springs-guide/",
+        "path": "/valley-of-springs-guide/",
+        "inbound": [],
+        "outbound": [],
+        "inbound_count": 0,
+        "outbound_count": 0
+    },
+    "251": {
+        "url": "https://gonorth.co.il/north-israel-family-activities-guide/",
+        "path": "/north-israel-family-activities-guide/",
+        "inbound": [],
+        "outbound": [],
+        "inbound_count": 0,
+        "outbound_count": 0
+    },
+    "252": {
+        "url": "https://gonorth.co.il/water-trails-north-israel-summer/",
+        "path": "/water-trails-north-israel-summer/",
+        "inbound": [],
+        "outbound": [],
+        "inbound_count": 0,
+        "outbound_count": 0
+    },
+    "256": {
+        "url": "https://gonorth.co.il/water-trails-north-israel/",
+        "path": "/water-trails-north-israel/",
+        "inbound": [],
+        "outbound": [],
+        "inbound_count": 0,
+        "outbound_count": 0
+    },
+    "257": {
+        "url": "https://gonorth.co.il/attractions-for-kids-north-israel/",
+        "path": "/attractions-for-kids-north-israel/",
+        "inbound": [],
+        "outbound": [],
+        "inbound_count": 0,
+        "outbound_count": 0
+    },
+    "258": {
+        "url": "https://gonorth.co.il/wineries-galilee-golan-guide/",
+        "path": "/wineries-galilee-golan-guide/",
+        "inbound": [],
+        "outbound": [],
+        "inbound_count": 0,
+        "outbound_count": 0
+    },
+    "262": {
+        "url": "https://gonorth.co.il/maslulei-mayim-batzafon/",
+        "path": "/maslulei-mayim-batzafon/",
+        "inbound": [
+            {
+                "ID": 177,
+                "title": "עין תינה",
+                "url": "https://gonorth.co.il/places/%d7%a2%d7%99%d7%9f-%d7%aa%d7%99%d7%a0%d7%94/"
+            },
+            {
+                "ID": 185,
+                "title": "גן מורד הירדן",
+                "url": "https://gonorth.co.il/places/%d7%92%d7%9f-%d7%9e%d7%95%d7%a8%d7%93-%d7%94%d7%99%d7%a8%d7%93%d7%9f/"
+            },
+            {
+                "ID": 189,
+                "title": "שמורת טבע יהודיה",
+                "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%99%d7%94%d7%95%d7%93%d7%99%d7%94/"
+            },
+            {
+                "ID": 191,
+                "title": "שמורת טבע הבניאס",
+                "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%91%d7%a0%d7%99%d7%90%d7%a1/"
+            },
+            {
+                "ID": 268,
+                "title": "יקבים בצפון: מדריך טעימות בגליל ובגולן",
+                "url": "https://gonorth.co.il/yekavim-batzafon/"
+            },
+            {
+                "ID": 269,
+                "title": "מעיינות בצפון: המקומות הכי מרעננים לטיול",
+                "url": "https://gonorth.co.il/maayanot-batzafon/"
+            },
+            {
+                "ID": 270,
+                "title": "אטרקציות לילדים בצפון: רעיונות למשפחות",
+                "url": "https://gonorth.co.il/atrakziot-leyeladim-batzafon/"
+            },
+            {
+                "ID": 440,
+                "title": "ראש השנה בצפון",
+                "url": "https://gonorth.co.il/rosh-hashanah-batzafon/"
+            },
+            {
+                "ID": 441,
+                "title": "סוכות בצפון",
+                "url": "https://gonorth.co.il/sukkot-batzafon/"
+            },
+            {
+                "ID": 448,
+                "title": "מדריך לטיול בגליל העליון: מסלולים, כפרים ומה לעשות ביום אחד",
+                "url": "https://gonorth.co.il/upper-galilee-day-trip-guide/"
+            }
+        ],
+        "outbound": [],
+        "inbound_count": 10,
+        "outbound_count": 0
+    },
+    "267": {
+        "url": "https://gonorth.co.il/misadot-mumlatzot-batzafon/",
+        "path": "/misadot-mumlatzot-batzafon/",
+        "inbound": [],
+        "outbound": [],
+        "inbound_count": 0,
+        "outbound_count": 0
+    },
+    "268": {
+        "url": "https://gonorth.co.il/yekavim-batzafon/",
+        "path": "/yekavim-batzafon/",
+        "inbound": [
+            {
+                "ID": 48,
+                "title": "יקב הר אודם",
+                "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%94%d7%a8-%d7%90%d7%95%d7%93%d7%9d/"
+            },
+            {
+                "ID": 193,
+                "title": "יקב רמת הגולן",
+                "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%a8%d7%9e%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f/"
+            },
+            {
+                "ID": 195,
+                "title": "מפגש היקב — עמיעד",
+                "url": "https://gonorth.co.il/places/%d7%9e%d7%a4%d7%92%d7%a9-%d7%94%d7%99%d7%a7%d7%91-%d7%a2%d7%9e%d7%99%d7%a2%d7%93/"
+            },
+            {
+                "ID": 197,
+                "title": "יקב רמות נפתלי",
+                "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%a8%d7%9e%d7%95%d7%aa-%d7%a0%d7%a4%d7%aa%d7%9c%d7%99/"
+            },
+            {
+                "ID": 198,
+                "title": "יקב דלתון",
+                "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%93%d7%9c%d7%aa%d7%95%d7%9f/"
+            },
+            {
+                "ID": 235,
+                "title": "יקב תל שיפון",
+                "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%aa%d7%9c-%d7%a9%d7%99%d7%a4%d7%95%d7%9f/"
+            },
+            {
+                "ID": 237,
+                "title": "יקב שאטו גולן",
+                "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%a9%d7%90%d7%98%d7%95-%d7%92%d7%95%d7%9c%d7%9f/"
+            },
+            {
+                "ID": 240,
+                "title": "יקב הרי גליל",
+                "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%94%d7%a8%d7%99-%d7%92%d7%9c%d7%99%d7%9c/"
+            },
+            {
+                "ID": 242,
+                "title": "יקב אדיר",
+                "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%90%d7%93%d7%99%d7%a8/"
+            },
+            {
+                "ID": 244,
+                "title": "יקב בן זמרה",
+                "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%91%d7%9f-%d7%96%d7%9e%d7%a8%d7%94/"
+            },
+            {
+                "ID": 441,
+                "title": "סוכות בצפון",
+                "url": "https://gonorth.co.il/sukkot-batzafon/"
+            }
+        ],
+        "outbound": [
+            {
+                "ID": 262,
+                "url": "https://gonorth.co.il/maslulei-mayim-batzafon/"
+            }
+        ],
+        "inbound_count": 11,
+        "outbound_count": 1
+    },
+    "269": {
+        "url": "https://gonorth.co.il/maayanot-batzafon/",
+        "path": "/maayanot-batzafon/",
+        "inbound": [
+            {
+                "ID": 270,
+                "title": "אטרקציות לילדים בצפון: רעיונות למשפחות",
+                "url": "https://gonorth.co.il/atrakziot-leyeladim-batzafon/"
+            },
+            {
+                "ID": 441,
+                "title": "סוכות בצפון",
+                "url": "https://gonorth.co.il/sukkot-batzafon/"
+            }
+        ],
+        "outbound": [
+            {
+                "ID": 262,
+                "url": "https://gonorth.co.il/maslulei-mayim-batzafon/"
+            }
+        ],
+        "inbound_count": 2,
+        "outbound_count": 1
+    },
+    "270": {
+        "url": "https://gonorth.co.il/atrakziot-leyeladim-batzafon/",
+        "path": "/atrakziot-leyeladim-batzafon/",
+        "inbound": [
+            {
+                "ID": 183,
+                "title": "רוג'ום — קיר טיפוס בקריית שמונה",
+                "url": "https://gonorth.co.il/places/%d7%a8%d7%95%d7%92%d7%95%d7%9d-%d7%a7%d7%99%d7%a8-%d7%98%d7%99%d7%a4%d7%95%d7%a1-%d7%91%d7%a7%d7%a8%d7%99%d7%99%d7%aa-%d7%a9%d7%9e%d7%95%d7%a0%d7%94/"
+            },
+            {
+                "ID": 246,
+                "title": "אינדי פארק",
+                "url": "https://gonorth.co.il/places/%d7%90%d7%99%d7%a0%d7%93%d7%99-%d7%a4%d7%90%d7%a8%d7%a7/"
+            },
+            {
+                "ID": 440,
+                "title": "ראש השנה בצפון",
+                "url": "https://gonorth.co.il/rosh-hashanah-batzafon/"
+            },
+            {
+                "ID": 441,
+                "title": "סוכות בצפון",
+                "url": "https://gonorth.co.il/sukkot-batzafon/"
+            }
+        ],
+        "outbound": [
+            {
+                "ID": 269,
+                "url": "https://gonorth.co.il/maayanot-batzafon/"
+            },
+            {
+                "ID": 94,
+                "url": "https://gonorth.co.il/10-%d7%90%d7%98%d7%a8%d7%a7%d7%a6%d7%99%d7%95%d7%aa-%d7%9e%d7%95%d7%9e%d7%9c%d7%a6%d7%95%d7%aa-%d7%91%d7%92%d7%9c%d7%99%d7%9c-%d7%9c%d7%97%d7%95%d7%a4%d7%a9%d7%aa-%d7%9e%d7%a9%d7%a4%d7%97%d7%94/"
+            },
+            {
+                "ID": 262,
+                "url": "https://gonorth.co.il/maslulei-mayim-batzafon/"
+            }
+        ],
+        "inbound_count": 4,
+        "outbound_count": 3
+    },
+    "429": {
+        "url": "https://gonorth.co.il/accommodation-ramat-hagolan-guide/",
+        "path": "/accommodation-ramat-hagolan-guide/",
+        "inbound": [
+            {
+                "ID": 430,
+                "title": "באולינג במגדל שמס — כל מה שצריך לדעת לפני שמגיעים",
+                "url": "https://gonorth.co.il/bowling-majdal-shams/"
+            },
+            {
+                "ID": 431,
+                "title": "וילות להשכרה בצפון ישראל: המדריך לחופשה בבית פרטי",
+                "url": "https://gonorth.co.il/villas-israel-north-guide/"
+            },
+            {
+                "ID": 443,
+                "title": "טיול בצפון ללא הליכה — אטרקציות, אוכל ואתרים לכל הגיל",
+                "url": "https://gonorth.co.il/tiyul-tzafon-lelo-halika/"
+            },
+            {
+                "ID": 447,
+                "title": "לינה בגולן: איך בוחרים בין צימר, גלמפינג ומלון ברמת הגולן",
+                "url": "https://gonorth.co.il/golan-accommodation-comparison/"
+            }
+        ],
+        "outbound": [
+            {
+                "ID": 447,
+                "url": "https://gonorth.co.il/golan-accommodation-comparison/"
+            }
+        ],
+        "inbound_count": 4,
+        "outbound_count": 1
+    },
+    "433": {
+        "url": "https://gonorth.co.il/misadot-mumlatzot-tzafon-israel/",
+        "path": "/misadot-mumlatzot-tzafon-israel/",
+        "inbound": [
+            {
+                "ID": 215,
+                "title": "קפה קירשנר",
+                "url": "https://gonorth.co.il/places/%d7%a7%d7%a4%d7%94-%d7%a7%d7%99%d7%a8%d7%a9%d7%a0%d7%a8/"
+            },
+            {
+                "ID": 229,
+                "title": "שישו קפה",
+                "url": "https://gonorth.co.il/places/%d7%a9%d7%99%d7%a9%d7%95-%d7%a7%d7%a4%d7%94/"
+            },
+            {
+                "ID": 233,
+                "title": "הקרון בכפר יהושוע",
+                "url": "https://gonorth.co.il/places/%d7%94%d7%a7%d7%a8%d7%95%d7%9f-%d7%91%d7%9b%d7%a4%d7%a8-%d7%99%d7%94%d7%95%d7%a9%d7%95%d7%a2/"
+            },
+            {
+                "ID": 437,
+                "title": "עגלות קפה ובתי קפה בצפון",
+                "url": "https://gonorth.co.il/coffee-carts-cafes-north-israel/"
+            },
+            {
+                "ID": 443,
+                "title": "טיול בצפון ללא הליכה — אטרקציות, אוכל ואתרים לכל הגיל",
+                "url": "https://gonorth.co.il/tiyul-tzafon-lelo-halika/"
+            },
+            {
+                "ID": 448,
+                "title": "מדריך לטיול בגליל העליון: מסלולים, כפרים ומה לעשות ביום אחד",
+                "url": "https://gonorth.co.il/upper-galilee-day-trip-guide/"
+            }
+        ],
+        "outbound": [],
+        "inbound_count": 6,
+        "outbound_count": 0
+    },
+    "447": {
+        "url": "https://gonorth.co.il/golan-accommodation-comparison/",
+        "path": "/golan-accommodation-comparison/",
+        "inbound": [
+            {
+                "ID": 339,
+                "title": "גלמפינג קיבוץ אורטל",
+                "url": "https://gonorth.co.il/places/%d7%92%d7%9c%d7%9e%d7%a4%d7%99%d7%a0%d7%92-%d7%a7%d7%99%d7%91%d7%95%d7%a5-%d7%90%d7%95%d7%a8%d7%98%d7%9c/"
+            },
+            {
+                "ID": 341,
+                "title": "גלמפינג על הצוק — עין קיניא",
+                "url": "https://gonorth.co.il/places/%d7%92%d7%9c%d7%9e%d7%a4%d7%99%d7%a0%d7%92-%d7%a2%d7%9c-%d7%94%d7%a6%d7%95%d7%a7-%d7%a2%d7%99%d7%9f-%d7%a7%d7%99%d7%a0%d7%99%d7%90/"
+            },
+            {
+                "ID": 343,
+                "title": "גלמפינג עין תאנה",
+                "url": "https://gonorth.co.il/places/%d7%92%d7%9c%d7%9e%d7%a4%d7%99%d7%a0%d7%92-%d7%a2%d7%99%d7%9f-%d7%aa%d7%90%d7%a0%d7%94/"
+            },
+            {
+                "ID": 425,
+                "title": "הכפר האינדיאני — גלמפינג ברמת הגולן",
+                "url": "https://gonorth.co.il/places/%d7%94%d7%9b%d7%a4%d7%a8-%d7%94%d7%90%d7%99%d7%a0%d7%93%d7%99%d7%90%d7%a0%d7%99-%d7%92%d7%9c%d7%9e%d7%a4%d7%99%d7%a0%d7%92-%d7%91%d7%a8%d7%9e%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f/"
+            },
+            {
+                "ID": 429,
+                "title": "לינה ברמת הגולן: צימרים, אחוזות ואוהלים – המדריך המלא",
+                "url": "https://gonorth.co.il/accommodation-ramat-hagolan-guide/"
+            }
+        ],
+        "outbound": [
+            {
+                "ID": 429,
+                "url": "https://gonorth.co.il/accommodation-ramat-hagolan-guide/"
+            }
+        ],
+        "inbound_count": 5,
+        "outbound_count": 1
+    }
+}

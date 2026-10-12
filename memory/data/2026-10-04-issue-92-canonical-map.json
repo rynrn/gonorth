@@ -1,0 +1,37 @@
+[
+  {
+    "id": 270,
+    "link": "https://gonorth.co.il/atrakziot-leyeladim-batzafon/",
+    "status": 200,
+    "canonical": "https://gonorth.co.il/atrakziot-leyeladim-batzafon/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "id": 431,
+    "link": "https://gonorth.co.il/villas-israel-north-guide/",
+    "status": 200,
+    "canonical": "https://gonorth.co.il/villas-israel-north-guide/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "id": 447,
+    "link": "https://gonorth.co.il/golan-accommodation-comparison/",
+    "status": 200,
+    "canonical": "https://gonorth.co.il/golan-accommodation-comparison/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "id": 257,
+    "link": "https://gonorth.co.il/attractions-for-kids-north-israel/",
+    "status": 200,
+    "canonical": "https://gonorth.co.il/atrakziot-leyeladim-batzafon/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  },
+  {
+    "id": 251,
+    "link": "https://gonorth.co.il/north-israel-family-activities-guide/",
+    "status": 200,
+    "canonical": "https://gonorth.co.il/atrakziot-leyeladim-batzafon/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  }
+]

@@ -1,0 +1,169 @@
+{
+  "format": "gonorth-place-facts-wordpress-sync/v1",
+  "generated_at": "2026-09-28T12:16:19Z",
+  "changes": [
+    {
+      "place_id": 161,
+      "wordpress_id": 161,
+      "name": "עזיזו — לבנדר מהגולן",
+      "url": "https://gonorth.co.il/places/%d7%a2%d7%96%d7%99%d7%96%d7%95-%d7%9c%d7%91%d7%a0%d7%93%d7%a8-%d7%9e%d7%94%d7%92%d7%95%d7%9c%d7%9f/",
+      "change_ids": [
+        517,
+        519,
+        520
+      ],
+      "expected": {
+        "google_place_id": null,
+        "google_rating": null,
+        "google_review_count": null
+      },
+      "updates": {
+        "google_place_id": "ChIJn9UYwwkbHBUR3euo6i7Ml58",
+        "google_rating": 4.7,
+        "google_review_count": 854
+      },
+      "verification": {
+        "source": "google_places",
+        "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJn9UYwwkbHBUR3euo6i7Ml58",
+        "checked_at": "2026-09-28T12:10:00Z",
+        "practical_verified": false,
+        "google_verified": true
+      }
+    },
+    {
+      "place_id": 335,
+      "wordpress_id": 335,
+      "name": "גיל גולן — מרכז רכיבה",
+      "url": "https://gonorth.co.il/places/%d7%92%d7%99%d7%9c-%d7%92%d7%95%d7%9c%d7%9f-%d7%9e%d7%a8%d7%9b%d7%96-%d7%a8%d7%9b%d7%99%d7%91%d7%94/",
+      "change_ids": [
+        523,
+        525,
+        526
+      ],
+      "expected": {
+        "google_place_id": null,
+        "google_rating": null,
+        "google_review_count": null
+      },
+      "updates": {
+        "google_place_id": "ChIJiXFMXQasHhURsqlZZeX2dcA",
+        "google_rating": 4.1,
+        "google_review_count": 54
+      },
+      "verification": {
+        "source": "google_places",
+        "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJiXFMXQasHhURsqlZZeX2dcA",
+        "checked_at": "2026-09-28T12:10:00Z",
+        "practical_verified": false,
+        "google_verified": true
+      }
+    },
+    {
+      "place_id": 377,
+      "wordpress_id": 377,
+      "name": "בירה בזלת — מבשלת הגולן",
+      "url": "https://gonorth.co.il/places/%d7%91%d7%99%d7%a8%d7%94-%d7%91%d7%96%d7%9c%d7%aa-%d7%9e%d7%91%d7%a9%d7%9c%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f/",
+      "change_ids": [
+        529,
+        531,
+        532
+      ],
+      "expected": {
+        "google_place_id": null,
+        "google_rating": null,
+        "google_review_count": null
+      },
+      "updates": {
+        "google_place_id": "ChIJ3xvQFpkdHBURZqu2rrBazY4",
+        "google_rating": 4.3,
+        "google_review_count": 2842
+      },
+      "verification": {
+        "source": "google_places",
+        "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3xvQFpkdHBURZqu2rrBazY4",
+        "checked_at": "2026-09-28T12:10:00Z",
+        "practical_verified": false,
+        "google_verified": true
+      }
+    }
+  ],
+  "deferred": [
+    {
+      "change_id": 516,
+      "place_id": 161,
+      "wordpress_id": 161,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 518,
+      "place_id": 161,
+      "wordpress_id": 161,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 521,
+      "place_id": 161,
+      "wordpress_id": 161,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 522,
+      "place_id": 335,
+      "wordpress_id": 335,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 524,
+      "place_id": 335,
+      "wordpress_id": 335,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 527,
+      "place_id": 335,
+      "wordpress_id": 335,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 528,
+      "place_id": 377,
+      "wordpress_id": 377,
+      "field": "business_status",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "manual_seo_review_required"
+    },
+    {
+      "change_id": 530,
+      "place_id": 377,
+      "wordpress_id": 377,
+      "field": "google_maps_url",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    },
+    {
+      "change_id": 533,
+      "place_id": 377,
+      "wordpress_id": 377,
+      "field": "google_checked_at",
+      "reason": "no_canonical_wordpress_projection",
+      "seo_action": "retain_in_verification_ledger"
+    }
+  ],
+  "summary": {
+    "places": 3,
+    "change_count": 9,
+    "deferred_count": 9
+  }
+}

@@ -88,10 +88,24 @@ ssh gonorth "rm /tmp/place-name.jpg"\r
 2. Unsplash / Pixabay — free for commercial use\r
 3. Only use images with a confirmed free/open license\r
 \r
+## Dynamic facts workflow
+
+For an existing listing's business status, opening hours, phone, website or address:
+
+1. Read a JSON or Markdown view from `place-facts/scripts/place-facts.py`; do not query or write SQLite directly.
+2. Submit source-backed results through the CLI `submit` command. Omit fields that were not checked; `null` means an explicit removal.
+3. Review detected differences through `pending` and `review` before syncing approved values to WordPress.
+4. A closure result never authorizes draft, private, trash, deletion or 404. Keep the URL live and follow the SEO closure policy.
+5. After creating a new pending WordPress listing, map its stable WordPress ID into place-facts through the next snapshot import.
 ## Constraints\r
 - Always create listings as `pending` — never auto-publish\r
 - Never invent GPS coordinates, phone numbers, or prices\r
 - Confirm location details with user before finalizing\r
 - Every listing must have lat/lng — map pins are essential\r
-- **Every listing must have a featured image — do not skip this step**"""
+- **Every listing must have a featured image — do not skip this step**
+
+## Shared change contract
+Follow docs/agent-change-contract.md. Declare risk and canonical writer, preserve source URLs and dates, snapshot before live changes, validate place records, verify canonical and public output, and return a transferable handoff with rollback and close/keep-open recommendation.
+For existing status, hours, phone, website, or address, the place-facts review and sync workflow supersedes direct post-meta examples. New listings remain pending. Current category slugs are atraktziot, lina, ochel, and siurim.
+"""
 name = "listings-agent"

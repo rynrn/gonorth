@@ -1,0 +1,22 @@
+# Local credentials and machine-specific integration configuration
+server.config.json
+.claude/.mcp.json
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+memory/private/
+.codex-tmp/
+
+# Private backup payloads and generated skill bytecode
+/backups/
+/.agents/skills/gn-monthly-backup/scripts/__pycache__/
+
+
+# Local browser profiles, runtime caches, and private database snapshots
+/memory/tmp/*/
+__pycache__/
+*.py[cod]
+/memory/backups/**/*.sqlite3*
+/memory/backups/**/*.tar.gz

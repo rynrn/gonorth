@@ -1,0 +1,85 @@
+[
+    {
+        "ID": 494,
+        "title": "מוזיאון האדם הקדמון",
+        "status": "publish",
+        "excerpt": "מוזיאון במעיין ברוך המציג את הפרהיסטוריה של עמק החולה באמצעות ממצאים מקומיים, תצוגות וסיורים מודרכים.",
+        "content": "<p>מוזיאון האדם הקדמון במעיין ברוך מציג את הפרהיסטוריה של עמק החולה באמצעות אוסף מקומי של כלי אבן, ממצאים ארכאולוגיים ותצוגות על אורח החיים באזור לאורך תקופות קדומות.</p><p>הביקור כולל סיור המתאים למשפחות, ובתיאום אפשר לשלב סדנאות ופעילויות. לפי האתר הרשמי, המוזיאון נגיש לכיסאות גלגלים ולעגלות.</p><p><strong>הביקור נעשה בתיאום ובהרשמה מראש בלבד ובשעות קבלה משתנות.</strong> יש ליצור קשר עם המוזיאון לפני ההגעה ולבדוק מועד, מחיר ותוכן הפעילות.</p>",
+        "permalink": "https://gonorth.co.il/places/%d7%9e%d7%95%d7%96%d7%99%d7%90%d7%95%d7%9f-%d7%94%d7%90%d7%93%d7%9d-%d7%94%d7%a7%d7%93%d7%9e%d7%95%d7%9f/",
+        "thumbnail_id": 496,
+        "thumbnail_url": "https://gonorth.co.il/wp-content/uploads/gonorth-listing-illustrations/issue100-prehistoric-museum-google.jpg",
+        "alt": "ילדות בפעילות מודרכת מול תצוגת המוזיאון",
+        "attribution_name": "מוזיאון האדם הקדמון",
+        "attribution_uri": "https://maps.google.com/maps/contrib/102503979247476582490",
+        "google_photo_name": "places/ChIJMyc7JK29HhUR5NHaeZKfeFk/photos/Aa-ngMYXZkfogvQ9XF-ZgvrimkVP0WPJ7IcID3ZuncBKikP_IZHuEabYLetKcXnWN5Jp_fBShZA_2f98VNksgZoxRo9sKINxqPor_zHljfz31epCuwPR_Tfga355ColBMZStbbNdEM1q2x_iZWWzX0ey_d5P7wUYTpDeGIWbRq7qTfKty4rxcb14rlFzul5FGoWMWaoSs6GZ1FolFKpuLhoKLVxvbqhTGIfRihn3QO5-zeQ8x5lAHO9ot3cb5S1e_y5bCDAeUI7rcI0tL0itvghqP9IBwqhGK6_KJD33vlS_ooSBWRCeB2o9tFri6YJJrGGBYtHYuCegNpvoOs6fqrWZ1P8k9NZINSw6z9OZ0Uw_u6uU_ohssJ6unz6G2i5YjgAs6o4f3iuF-JMhWXiqlAqFxcoRqhGsV2NHS4ZqC5hzHQhe9w",
+        "categories": [
+            "atraktziot-main"
+        ],
+        "regions": [
+            "galil"
+        ],
+        "source": "https://ugmp.co.il/visit/",
+        "source_type": "official_website_plus_google",
+        "data": {
+            "address": "מוזיאון האדם הקדמון, מעיין ברוך, 1222000",
+            "city": "מעיין ברוך",
+            "latitude": "33.2380748",
+            "longitude": "35.6086294",
+            "phone": "050-288-2636",
+            "website": "https://ugmp.co.il/",
+            "business_hours": null,
+            "price_type": null,
+            "open_saturday": null,
+            "practical_checked_at": "2026-10-01T19:08:35+00:00",
+            "google": {
+                "place_id": "ChIJMyc7JK29HhUR5NHaeZKfeFk",
+                "rating": "4.6",
+                "review_count": "624",
+                "checked_at": "2026-10-01T19:08:35+00:00",
+                "complete": true
+            }
+        }
+    },
+    {
+        "ID": 495,
+        "title": "פארק דפנה",
+        "status": "publish",
+        "excerpt": "פארק ירוק בקיבוץ דפנה לצד פלג של נחל דן, עם מדשאות, עצים, גשרים ופינות ישיבה בקרבת המים.",
+        "content": "<p>פארק דפנה נמצא בתוך קיבוץ דפנה, לאורך פלג של נחל דן. סביב המים יש מדשאות, עצים, גשרונים ופינות ישיבה, והפארק מתאים לעצירה שקטה ולטיול קצר.</p><p>הגישה עוברת דרך שטח הקיבוץ ועלולה להשתנות בשל צורכי ביטחון, עבודות או תנאי מזג האוויר. אין לפארק שעות פעילות רשמיות, טלפון או אתר עצמאי שנמצאו בבדיקה.</p><p><strong>המים קרים וזורמים ואין במקום שירותי הצלה.</strong> יש להשגיח על ילדים ברציפות, להתרחק מזרימה חזקה, לציית לשילוט ולגידור ולבדוק שהכניסה פתוחה לפני היציאה.</p>",
+        "permalink": "https://gonorth.co.il/places/%d7%a4%d7%90%d7%a8%d7%a7-%d7%93%d7%a4%d7%a0%d7%94/",
+        "thumbnail_id": 497,
+        "thumbnail_url": "https://gonorth.co.il/wp-content/uploads/gonorth-listing-illustrations/issue100-dafna-park-google.jpg",
+        "alt": "פלג נחל דן, גשר וצמחייה בפארק דפנה",
+        "attribution_name": "Elena Zinchenko",
+        "attribution_uri": "https://maps.google.com/maps/contrib/108976546910647945886",
+        "google_photo_name": "places/ChIJhcxF1mi8HhURFUW_ShS6mGQ/photos/Aa-ngMZ44MW45SdjtxrIAxGMiLqJ3xjoxhGkcSle_6oMctmRHJJZ0fiJ-alO8mCvBP5q4GWnW_z35RPmfA5zAFJZaiZ4qLbkPDN55WvOGIBPYjHf_iRVgk2Tu1Hdf3tEAyDASg2CN8-xoaaXa1FSlv2gIeEcJEe2_VqhQg41TvjP5m1szvpkR9Bg42zyD-z9m0UYprzof6pSRkc1Gra0lIVHo0vKUrJaAM6mk7LZ5_YwbS04Uycer-BFJ3tlYGlAKHHa7pXqaXuORO6TUOLBMogytY-dyMy_WyT6r_wwNDY0-ZOj0U_pS38VeK76pn_haQAzNgyKeRd1fobqAeNUuU1Hdhb_OvKmAAgsVBsOTHGp2kLTYozb482cFrZxrA-EqdBsaW-ttF-qfKzv0yopSezB9M_XEfmQqJ8",
+        "categories": [
+            "atraktziot-main",
+            "teva"
+        ],
+        "regions": [
+            "galil"
+        ],
+        "source": "https://familytrips.co.il/פארקדפנה/",
+        "source_type": "alternative_travel_guide_plus_google",
+        "data": {
+            "address": "15, דפנה",
+            "city": "דפנה",
+            "latitude": "33.2333456",
+            "longitude": "35.6364264",
+            "phone": null,
+            "website": null,
+            "business_hours": null,
+            "price_type": null,
+            "open_saturday": null,
+            "practical_checked_at": "2026-10-01T19:08:35+00:00",
+            "google": {
+                "place_id": "ChIJhcxF1mi8HhURFUW_ShS6mGQ",
+                "rating": "4.6",
+                "review_count": "1682",
+                "checked_at": "2026-10-01T19:08:35+00:00",
+                "complete": true
+            }
+        }
+    }
+]

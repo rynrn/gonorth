@@ -1,0 +1,20 @@
+[
+  {
+    "id": 391,
+    "url": "https://gonorth.co.il/places/war-zone-paintball/",
+    "http": 200,
+    "before_chars": 435,
+    "after_chars": 1183,
+    "exact": true,
+    "guide": true
+  },
+  {
+    "id": 411,
+    "url": "https://gonorth.co.il/places/%d7%9e%d7%a8%d7%9b%d7%91%d7%95%d7%aa-%d7%94%d7%91%d7%a9%d7%9f/",
+    "http": 200,
+    "before_chars": 435,
+    "after_chars": 1040,
+    "exact": true,
+    "guide": true
+  }
+]

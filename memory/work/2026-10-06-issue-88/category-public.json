@@ -1,0 +1,51 @@
+[
+  {
+    "Id": 94,
+    "Status": 200,
+    "Expected": "אטרקציות",
+    "Badge": "אטרקציות",
+    "Pass": true
+  },
+  {
+    "Id": 95,
+    "Status": 200,
+    "Expected": "טיולים",
+    "Badge": "טיולים",
+    "Pass": true
+  },
+  {
+    "Id": 96,
+    "Status": 200,
+    "Expected": "טיולים",
+    "Badge": "טיולים",
+    "Pass": true
+  },
+  {
+    "Id": 97,
+    "Status": 200,
+    "Expected": "לינה",
+    "Badge": "לינה",
+    "Pass": true
+  },
+  {
+    "Id": 427,
+    "Status": 200,
+    "Expected": "טיולים",
+    "Badge": "טיולים",
+    "Pass": true
+  },
+  {
+    "Id": 428,
+    "Status": 200,
+    "Expected": "טיולים",
+    "Badge": "טיולים",
+    "Pass": true
+  },
+  {
+    "Id": 464,
+    "Status": 200,
+    "Expected": "מדריכים",
+    "Badge": "מדריכים",
+    "Pass": true
+  }
+]

@@ -1,0 +1,1519 @@
+[
+    {
+        "post_id": 202,
+        "center": [
+            33.192,
+            35.7518
+        ],
+        "http_status": 200,
+        "places": [
+            {
+                "id": "ChIJbfnEO5uwHhURtCHNBI96eik",
+                "name": "יקב הר אודם",
+                "address": "אודם 1247300",
+                "latitude": 33.1919714,
+                "longitude": 35.7517966,
+                "rating": 4.6,
+                "review_count": 512,
+                "business_status": "OPERATIONAL",
+                "website": "http://www.harodem.co.il/",
+                "phone": "052-688-1110",
+                "types": [
+                    "winery",
+                    "visitor_center",
+                    "tourist_information_center",
+                    "wine_bar",
+                    "liquor_store",
+                    "tour_agency",
+                    "farm",
+                    "travel_agency",
+                    "bar",
+                    "manufacturer",
+                    "food",
+                    "point_of_interest",
+                    "store",
+                    "service",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJoap08Y-wHhURDuR72_i1DJM",
+                "name": "חאן הר אודם",
+                "address": "ד.נ צפון רמת הגולן, Odem",
+                "latitude": 33.192033099999996,
+                "longitude": 35.7520783,
+                "rating": 4.7,
+                "review_count": 67,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": "050-566-2673",
+                "types": [
+                    "hostel",
+                    "lodging",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJbfnEO5uwHhURglzg3-XDfNk",
+                "name": "חוות הסוס והדובדבן",
+                "address": "אודם 1247300",
+                "latitude": 33.192069,
+                "longitude": 35.7520868,
+                "rating": 4,
+                "review_count": 665,
+                "business_status": "OPERATIONAL",
+                "website": "http://cherry-farm.co.il/",
+                "phone": "1-700-707-190",
+                "types": [
+                    "farm",
+                    "point_of_interest",
+                    "service",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJq6p61ISwHhURTuov-kzlvdo",
+                "name": "כפר נופש - יער אודם",
+                "address": "אודם, רמת הגולן 12473",
+                "latitude": 33.1919804,
+                "longitude": 35.7509705,
+                "rating": 4.5,
+                "review_count": 2847,
+                "business_status": "OPERATIONAL",
+                "website": "http://www.yayalim.co.il/",
+                "phone": "050-522-9450",
+                "types": [
+                    "resort_hotel",
+                    "tourist_attraction",
+                    "campground",
+                    "hotel",
+                    "lodging",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJjxU15W-xHhURVBzpgbdkgWQ",
+                "name": "גלובאל דטרגנטים בע\"מ",
+                "address": "אודם 1247300",
+                "latitude": 33.1929874,
+                "longitude": 35.7512153,
+                "rating": 5,
+                "review_count": 1,
+                "business_status": "OPERATIONAL",
+                "website": "http://www.global-detergents.com/",
+                "phone": "04-853-3155",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJbfnEO5uwHhURiOkF8e3L2IA",
+                "name": "קטיף עצמי אודם",
+                "address": "אודם 12473",
+                "latitude": 33.1934614,
+                "longitude": 35.7512495,
+                "rating": 4.5,
+                "review_count": 1284,
+                "business_status": "CLOSED_TEMPORARILY",
+                "website": "https://www.katifodem.info/",
+                "phone": "054-260-0122",
+                "types": [
+                    "tourist_attraction",
+                    "farm",
+                    "point_of_interest",
+                    "service",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJqcIqxlCxHhUReHA1ZEMVQEk",
+                "name": "החווה ביער אודם",
+                "address": "רמת הגולן אודם, 1247300",
+                "latitude": 33.190486899999996,
+                "longitude": 35.749700499999996,
+                "rating": 4.9,
+                "review_count": 179,
+                "business_status": "OPERATIONAL",
+                "website": "http://www.odemfarm.com/",
+                "phone": "054-765-3123",
+                "types": [
+                    "tourist_attraction",
+                    "wildlife_refuge",
+                    "farm",
+                    "park",
+                    "pet_care",
+                    "point_of_interest",
+                    "service",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJDS3iuIixHhURpKwbsKMfLCo",
+                "name": "צימר של אורנה",
+                "address": "93, Odem",
+                "latitude": 33.194063899999996,
+                "longitude": 35.7501446,
+                "rating": 4.9,
+                "review_count": 11,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": null,
+                "types": [
+                    "hostel",
+                    "lodging",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJXfqLN2yxHhURv3YJQo5CQ7Y",
+                "name": "בית כנסת אודם",
+                "address": "93, אודם",
+                "latitude": 33.1939256,
+                "longitude": 35.74984,
+                "rating": 5,
+                "review_count": 1,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": null,
+                "types": [
+                    "synagogue",
+                    "place_of_worship",
+                    "association_or_organization",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJGXeeK4WwHhURPefEnqpmuY0",
+                "name": "אודם אירוח כפרי",
+                "address": "אודם",
+                "latitude": 33.1937657,
+                "longitude": 35.749524799999996,
+                "rating": 4.2,
+                "review_count": 267,
+                "business_status": "OPERATIONAL",
+                "website": "http://www.odem.org.il/index.php",
+                "phone": "054-260-0111",
+                "types": [
+                    "lodging",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJmcE4LIWwHhURi_9Qc9Cu46k",
+                "name": "אודם/מרכז",
+                "address": "אודם",
+                "latitude": 33.193588,
+                "longitude": 35.749328999999996,
+                "rating": 4.2,
+                "review_count": 5,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": null,
+                "types": [
+                    "bus_station",
+                    "transit_station",
+                    "transportation_service",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJSZ7qVWexHhURYQdfS99Igy0",
+                "name": "אודם הבר",
+                "address": "46, אודם",
+                "latitude": 33.1932258,
+                "longitude": 35.7487837,
+                "rating": 4.9,
+                "review_count": 11,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": null,
+                "types": [
+                    "point_of_interest",
+                    "service",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJdX6oH_ANHRURYhninrzczcA",
+                "name": "L'oreal",
+                "address": "1 האודם, קיסריה",
+                "latitude": 33.192707,
+                "longitude": 35.748503899999996,
+                "rating": null,
+                "review_count": null,
+                "business_status": "OPERATIONAL",
+                "website": "https://www.loreal.co.il/hqbvtsh/lvryl-yshrl/mrkz-lvgysty-lvryl-yshrl.htm",
+                "phone": null,
+                "types": [
+                    "manufacturer",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJHVuXIKqxHhUR_rfrByHo3ww",
+                "name": "עידית אלפסי Edith Alfasi Art",
+                "address": "MOSHAV ODEM HAGOLAN, Odem 1247300",
+                "latitude": 33.1934039,
+                "longitude": 35.748622999999995,
+                "rating": null,
+                "review_count": null,
+                "business_status": "OPERATIONAL",
+                "website": "https://www.edithalfasiart.com/",
+                "phone": "052-317-0080",
+                "types": [
+                    "art_gallery",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJw5dUFv2xHhURbEfQC2vR_3M",
+                "name": "שביל ישראל-Walk about love",
+                "address": "רמת הגולן אודם, אודם 1247300",
+                "latitude": 33.192699499999996,
+                "longitude": 35.7481467,
+                "rating": 5,
+                "review_count": 35,
+                "business_status": "OPERATIONAL",
+                "website": "http://www.walkaboutlove.org.il/",
+                "phone": "054-914-4660",
+                "types": [
+                    "hiking_area",
+                    "sports_activity_location",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJJx1l1ISwHhUR9kWndgB3KTQ",
+                "name": "מזכירות אודם",
+                "address": "אודם",
+                "latitude": 33.1940574,
+                "longitude": 35.748455,
+                "rating": null,
+                "review_count": null,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": null,
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJj5awwYSwHhURfxq4AaQqol8",
+                "name": "Ammo Engineering",
+                "address": "5, אודם",
+                "latitude": 33.193231,
+                "longitude": 35.747721999999996,
+                "rating": null,
+                "review_count": null,
+                "business_status": "OPERATIONAL",
+                "website": "http://www.ammo.co.il/",
+                "phone": "03-923-9666",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJxxlOLZuwHhURE_6e2Dycflg",
+                "name": "Odem Guest House",
+                "address": "51, אודם",
+                "latitude": 33.194207,
+                "longitude": 35.748239999999996,
+                "rating": 4.8,
+                "review_count": 337,
+                "business_status": "OPERATIONAL",
+                "website": "http://www.thegolanheightshostel.com/",
+                "phone": "054-260-0334",
+                "types": [
+                    "hostel",
+                    "lodging",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJ5WOTs4SwHhURKg7ELhpd8pI",
+                "name": "סוזנה באודם",
+                "address": "אודם",
+                "latitude": 33.193941599999995,
+                "longitude": 35.747796799999996,
+                "rating": 4.8,
+                "review_count": 70,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": "054-260-0410",
+                "types": [
+                    "hotel",
+                    "lodging",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJ87UY85KxHhURgDOtCCYuLD8",
+                "name": "Tzena BaTeva | צנע בטבע",
+                "address": "אודם",
+                "latitude": 33.1958047,
+                "longitude": 35.7499621,
+                "rating": 5,
+                "review_count": 16,
+                "business_status": "CLOSED_TEMPORARILY",
+                "website": "http://tzena.co/",
+                "phone": "054-953-9380",
+                "types": [
+                    "sauna",
+                    "public_bath",
+                    "spa",
+                    "health",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            }
+        ]
+    },
+    {
+        "post_id": 228,
+        "center": [
+            32.7833,
+            35.64
+        ],
+        "http_status": 200,
+        "places": [
+            {
+                "id": "ChIJ5dp-jxwUHBURJ2K8EFoFatk",
+                "name": "כללית",
+                "address": "עין גב",
+                "latitude": 32.783392,
+                "longitude": 35.640119,
+                "rating": null,
+                "review_count": null,
+                "business_status": "OPERATIONAL",
+                "website": "https://www.clalit.co.il/he/sefersherut/pages/clinicdetails.aspx?ddeptcode=152980",
+                "phone": "04-665-8034",
+                "types": [
+                    "medical_clinic",
+                    "health",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJBXajbQo_HBURQCMQuWBIQRU",
+                "name": "דקלונה פעילויות לילדים",
+                "address": "עין גב 1494000",
+                "latitude": 32.783393,
+                "longitude": 35.640119,
+                "rating": null,
+                "review_count": null,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": "054-565-8185",
+                "types": [
+                    "performing_arts_theater",
+                    "event_venue",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJb-niB9QVHBURtvStca1NypY",
+                "name": "מסעדת הדייגים",
+                "address": "1, עין גב",
+                "latitude": 32.783393,
+                "longitude": 35.640119,
+                "rating": 4.3,
+                "review_count": 203,
+                "business_status": "OPERATIONAL",
+                "website": "https://tbit.be/840hyd",
+                "phone": "04-665-8835",
+                "types": [
+                    "restaurant",
+                    "point_of_interest",
+                    "food",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJ1T68M_wVHBURQt6obP2zzoQ",
+                "name": "אוריה מידן- שיווק דיגיטלי",
+                "address": "עין גב 14940",
+                "latitude": 32.783393,
+                "longitude": 35.640119,
+                "rating": null,
+                "review_count": null,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": "052-826-2012",
+                "types": [
+                    "service",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJPXXD6dBBHBURpRW_ecz5TVQ",
+                "name": "shira sasportas bridal",
+                "address": "עין גב",
+                "latitude": 32.783393,
+                "longitude": 35.640119,
+                "rating": null,
+                "review_count": null,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": "054-311-1124",
+                "types": [
+                    "clothing_store",
+                    "store",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJTdB-jxwUHBURUoSDu-aU9e4",
+                "name": "קיבוץ עין גב",
+                "address": "עין גב",
+                "latitude": 32.783393,
+                "longitude": 35.640119,
+                "rating": 4.5,
+                "review_count": 37,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": "04-665-8015",
+                "types": [
+                    "service",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJTdB-jxwUHBURcIWQj9KINGM",
+                "name": "חברת שייט כנרת בעמ",
+                "address": "עין גב",
+                "latitude": 32.783393,
+                "longitude": 35.640119,
+                "rating": 1,
+                "review_count": 1,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": "04-665-8009",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJ79d-jxwUHBURbDj5BxTTPcI",
+                "name": "עין גב",
+                "address": "עין גב 1494000",
+                "latitude": 32.783393,
+                "longitude": 35.6401191,
+                "rating": 4.2,
+                "review_count": 61,
+                "business_status": "OPERATIONAL",
+                "website": "http://eingev.com/",
+                "phone": null,
+                "types": [
+                    "restaurant",
+                    "point_of_interest",
+                    "food",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJrSF5jxwUHBURZlNZz2vEP7A",
+                "name": "Lagos",
+                "address": "עין גב 1494000",
+                "latitude": 32.7833987,
+                "longitude": 35.6401205,
+                "rating": 4.7,
+                "review_count": 36,
+                "business_status": "OPERATIONAL",
+                "website": "https://www.lagos1.co.il/",
+                "phone": "054-894-3144",
+                "types": [
+                    "restaurant",
+                    "point_of_interest",
+                    "food",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJb9XzehwUHBURU22U6za5BB0",
+                "name": "דיקור בעמק",
+                "address": "עין גב, חדרה",
+                "latitude": 32.783567999999995,
+                "longitude": 35.6390773,
+                "rating": null,
+                "review_count": null,
+                "business_status": "CLOSED_TEMPORARILY",
+                "website": null,
+                "phone": "052-406-8282",
+                "types": [
+                    "doctor",
+                    "health",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJf45GehwUHBURGmH6xt25wHQ",
+                "name": "מזכירות עין גב",
+                "address": "עין גב",
+                "latitude": 32.783508999999995,
+                "longitude": 35.6390515,
+                "rating": 3,
+                "review_count": 1,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": null,
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJn_-vcBwUHBURUo_kAlmDlOM",
+                "name": "Memomagnet ממומגנט",
+                "address": "ליד המזכירות, עין גב",
+                "latitude": 32.783485399999996,
+                "longitude": 35.6389762,
+                "rating": null,
+                "review_count": null,
+                "business_status": "OPERATIONAL",
+                "website": "http://amir-buchnik-photographer.com/",
+                "phone": "058-787-8111",
+                "types": [
+                    "service",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJAQynlRwUHBURxuTW_NfXdTY",
+                "name": "צומת עין גב",
+                "address": null,
+                "latitude": 32.783775,
+                "longitude": 35.640865,
+                "rating": 1,
+                "review_count": 1,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": null,
+                "types": [
+                    "bus_stop",
+                    "transit_stop",
+                    "transit_station",
+                    "transportation_service",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJc3zmnhwUHBURPwq7f1HHCxo",
+                "name": "קיבוץ עין גב",
+                "address": null,
+                "latitude": 32.782630999999995,
+                "longitude": 35.640766,
+                "rating": 5,
+                "review_count": 1,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": null,
+                "types": [
+                    "bus_stop",
+                    "transit_stop",
+                    "transit_station",
+                    "transportation_service",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJ7fycZhwUHBURIJKg9DUpRL0",
+                "name": "הופה",
+                "address": "עין גב",
+                "latitude": 32.7840074,
+                "longitude": 35.639158099999996,
+                "rating": null,
+                "review_count": null,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": "04-665-8717",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJI4ZxdxwUHBURv4SIlTRPpGA",
+                "name": "sasportas construction סספורטס בניה | עמק הירדן",
+                "address": "עין גב 12, עין גב",
+                "latitude": 32.7833971,
+                "longitude": 35.6388192,
+                "rating": null,
+                "review_count": null,
+                "business_status": "OPERATIONAL",
+                "website": "https://sasportasben.wixsite.com/sasportas",
+                "phone": "058-440-0558",
+                "types": [
+                    "general_contractor",
+                    "service",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJq9r4dhwUHBUR8Nd61nbFtss",
+                "name": "מוזיאון הקיבוץ",
+                "address": "עין גב",
+                "latitude": 32.7833711,
+                "longitude": 35.6387412,
+                "rating": 4.3,
+                "review_count": 12,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": null,
+                "types": [
+                    "cultural_center",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJUQ10jxsUHBURB7kaHbbO_OM",
+                "name": "מרפאה",
+                "address": "עין גב",
+                "latitude": 32.7827245,
+                "longitude": 35.638866799999995,
+                "rating": null,
+                "review_count": null,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": null,
+                "types": [
+                    "medical_clinic",
+                    "health",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJ2xBgZBsUHBUR3t5IPPqSp2k",
+                "name": "מוזיאון בית העוגנים",
+                "address": "עין גב",
+                "latitude": 32.7822624,
+                "longitude": 35.6404768,
+                "rating": 3.3,
+                "review_count": 10,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": null,
+                "types": [
+                    "cultural_center",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJQ_DHC88VHBURDDLmJMbuYxM",
+                "name": "תחנת דלק סונול",
+                "address": "צומת, Ein Gev",
+                "latitude": 32.783790599999996,
+                "longitude": 35.6414036,
+                "rating": 1,
+                "review_count": 2,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": null,
+                "types": [
+                    "gas_station",
+                    "service",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            }
+        ]
+    },
+    {
+        "post_id": 357,
+        "center": [
+            32.854068,
+            35.752574
+        ],
+        "http_status": 200,
+        "places": [
+            {
+                "id": "ChIJUZBu9jkFHBUR60OBh1yyDxs",
+                "name": "הקליניקה של אביה",
+                "address": "39, Natur, נחלה",
+                "latitude": 32.8539734,
+                "longitude": 35.7525774,
+                "rating": 5,
+                "review_count": 1,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": "054-930-3681",
+                "types": [
+                    "medical_clinic",
+                    "health",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJSxTouh4FHBURiDMl8LhaP3g",
+                "name": "קול כולך",
+                "address": "נטור",
+                "latitude": 32.8539733,
+                "longitude": 35.7525775,
+                "rating": null,
+                "review_count": null,
+                "business_status": "OPERATIONAL",
+                "website": "https://www.kolculech.co.il/",
+                "phone": "052-529-5061",
+                "types": [
+                    "store",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJ738N0bEFHBURcfa6g3Dfl5k",
+                "name": "סופר דידי",
+                "address": "נטור 1291500",
+                "latitude": 32.8539733,
+                "longitude": 35.7525775,
+                "rating": 4.2,
+                "review_count": 108,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": "050-374-2125",
+                "types": [
+                    "grocery_store",
+                    "food_store",
+                    "store",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJRZBu9jkFHBURn4rv1ou22-I",
+                "name": "ספא-מרום האגם",
+                "address": "נטור",
+                "latitude": 32.8539733,
+                "longitude": 35.7525775,
+                "rating": 4.5,
+                "review_count": 27,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": "052-611-3131",
+                "types": [
+                    "resort_hotel",
+                    "hotel",
+                    "lodging",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJZdyz4joFHBURzVIyW14uoxI",
+                "name": "תמר ישיבה תיכונית מדעית",
+                "address": "נטור 1291500",
+                "latitude": 32.8539733,
+                "longitude": 35.7525775,
+                "rating": 4.8,
+                "review_count": 38,
+                "business_status": "OPERATIONAL",
+                "website": "http://tamar.rgl.org.il/",
+                "phone": "04-911-3354",
+                "types": [
+                    "school",
+                    "point_of_interest",
+                    "educational_institution",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJK5e8wpOzAhURVqV8g7edhEY",
+                "name": "משק נעמי",
+                "address": "נטור",
+                "latitude": 32.8538458,
+                "longitude": 35.7533768,
+                "rating": 4.1,
+                "review_count": 36,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": "052-483-3166",
+                "types": [
+                    "food_store",
+                    "store",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJVRXZiTkFHBURlSH9fzTnqEE",
+                "name": "מזכירות נטור",
+                "address": "נטור",
+                "latitude": 32.8538733,
+                "longitude": 35.7534248,
+                "rating": null,
+                "review_count": null,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": null,
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJvyhoKToFHBURcFetuW6mZ3o",
+                "name": "בית ספר מעיינות",
+                "address": "נטור, ראשון לציון",
+                "latitude": 32.853972299999995,
+                "longitude": 35.7538608,
+                "rating": 4.7,
+                "review_count": 3,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": "04-657-8943",
+                "types": [
+                    "educational_institution",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJgd35wMYFHBURNvoD6i0uf4g",
+                "name": "ישיבת רגבים בגולן",
+                "address": "נטור",
+                "latitude": 32.8528515,
+                "longitude": 35.7527475,
+                "rating": null,
+                "review_count": null,
+                "business_status": "OPERATIONAL",
+                "website": "https://regavimgolan.rgl.org.il/",
+                "phone": null,
+                "types": [
+                    "secondary_school",
+                    "school",
+                    "point_of_interest",
+                    "educational_institution",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJ0QXMPgehHhURpcptpDIEGYs",
+                "name": "BENA-בנה מחשבים",
+                "address": "1 המייסדים, נטור 1291500",
+                "latitude": 32.8528553,
+                "longitude": 35.7530375,
+                "rating": 5,
+                "review_count": 26,
+                "business_status": "OPERATIONAL",
+                "website": "https://benapc.com/",
+                "phone": "054-667-2863",
+                "types": [
+                    "electronics_store",
+                    "consultant",
+                    "store",
+                    "service",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJ6VNbYSoFHBURkxIsW-NvpTY",
+                "name": "מוזנסון/Mozenson Falafel",
+                "address": "נטור",
+                "latitude": 32.852948000000005,
+                "longitude": 35.753487,
+                "rating": 4.9,
+                "review_count": 129,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": "058-454-4511",
+                "types": [
+                    "vegetarian_restaurant",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJ8c3GgDkFHBURGfORylQJX-I",
+                "name": "נטור",
+                "address": "נטור",
+                "latitude": 32.853512,
+                "longitude": 35.754112,
+                "rating": 3.5,
+                "review_count": 2,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": null,
+                "types": [
+                    "bus_station",
+                    "transit_station",
+                    "transportation_service",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJLYbVMD8FHBURX5xunC6p-E4",
+                "name": "שוקונדיטור",
+                "address": "נטור 1291500",
+                "latitude": 32.8548763,
+                "longitude": 35.7509704,
+                "rating": 5,
+                "review_count": 4,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": null,
+                "types": [
+                    "pastry_shop",
+                    "bakery",
+                    "dessert_shop",
+                    "confectionery",
+                    "food_store",
+                    "store",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJ04B3NToFHBUR_Iqw3bT__KU",
+                "name": "נטורה חווה אקולוגית Natura Ecological farm",
+                "address": "נטור 1291500",
+                "latitude": 32.8549693,
+                "longitude": 35.7542906,
+                "rating": 4.8,
+                "review_count": 268,
+                "business_status": "OPERATIONAL",
+                "website": "https://www.simplebooking.it/ibe2/hotel/8403?lang=HE&cur=ILS",
+                "phone": "054-830-4876",
+                "types": [
+                    "farmstay",
+                    "camping_cabin",
+                    "lodging",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJs1aeeI4FHBURkhZup2xWwg0",
+                "name": "מעשנת הגולן",
+                "address": "405, נטור 12915",
+                "latitude": 32.854147399999995,
+                "longitude": 35.7504876,
+                "rating": 4.8,
+                "review_count": 60,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": "052-426-5464",
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJlaXG5mwFHBURsNouou4n4TQ",
+                "name": "סימה סטודיו",
+                "address": "נטור 1291500",
+                "latitude": 32.8522101,
+                "longitude": 35.7520871,
+                "rating": 5,
+                "review_count": 8,
+                "business_status": "OPERATIONAL",
+                "website": "https://www.facebook.com/profile.php?id=100014978225489",
+                "phone": "052-885-0898",
+                "types": [
+                    "fitness_center",
+                    "gym",
+                    "sports_activity_location",
+                    "health",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJ33XtzKQFHBUR6xyGZ9x6A2o",
+                "name": "סיפור דרך - טיולים מיוחדים",
+                "address": "המעיין 10 נטור ד.נ רמת הגולן, נטור 1291500",
+                "latitude": 32.8518742,
+                "longitude": 35.7529372,
+                "rating": 5,
+                "review_count": 7,
+                "business_status": "OPERATIONAL",
+                "website": "http://www.sipurderech.com/",
+                "phone": "055-667-6550",
+                "types": [
+                    "adventure_sports_center",
+                    "tourist_attraction",
+                    "tour_agency",
+                    "travel_agency",
+                    "sports_complex",
+                    "sports_activity_location",
+                    "service",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJnw_8ruYFHBUReiT0K0XrAQQ",
+                "name": "בית כנסת נטור",
+                "address": "Unnamed Road, נטור",
+                "latitude": 32.8538243,
+                "longitude": 35.748970899999996,
+                "rating": null,
+                "review_count": null,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": null,
+                "types": [
+                    "synagogue",
+                    "place_of_worship",
+                    "association_or_organization",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJ2drnYu0FHBURD_N0YoSRhVQ",
+                "name": "אולם ספורט נטור",
+                "address": "נטור",
+                "latitude": 32.857071399999995,
+                "longitude": 35.7518737,
+                "rating": 5,
+                "review_count": 2,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": null,
+                "types": [
+                    "sports_complex",
+                    "sports_activity_location",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJab6mgToFHBUR0q--Luf33LE",
+                "name": "מדרשת השילוב נטור",
+                "address": "מדרשת השילוב נטור, Natur",
+                "latitude": 32.8570979,
+                "longitude": 35.751760399999995,
+                "rating": 4.7,
+                "review_count": 27,
+                "business_status": "OPERATIONAL",
+                "website": "http://www.midrasha.info/",
+                "phone": null,
+                "types": [
+                    "educational_institution",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            }
+        ]
+    },
+    {
+        "post_id": 409,
+        "center": [
+            32.824808,
+            35.765777
+        ],
+        "http_status": 200,
+        "places": [
+            {
+                "id": "ChIJpaxVeooPHBURcavtk70WyxQ",
+                "name": "אופטיקה ברמה",
+                "address": "אבני איתן 1292500",
+                "latitude": 32.824808,
+                "longitude": 35.765777,
+                "rating": 5,
+                "review_count": 6,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": "050-251-5219",
+                "types": [
+                    "health",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJT61oROYPHBURCWiy4MM1Wcs",
+                "name": "כיפות בד עבודת יד",
+                "address": "אבני איתן",
+                "latitude": 32.824808,
+                "longitude": 35.765777,
+                "rating": 5,
+                "review_count": 1,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": "050-844-5638",
+                "types": [
+                    "store",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJm-XmmGgPHBURwiANTDeDr1o",
+                "name": "פריחה כתומה נופש חלומי ברמת הגולן",
+                "address": "אבני אית״ן, אבני איתן",
+                "latitude": 32.824808,
+                "longitude": 35.765777,
+                "rating": null,
+                "review_count": null,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": "054-667-2012",
+                "types": [
+                    "lodging",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJVel9fpMPHBURo79wD1VWSkQ",
+                "name": "משק חזני",
+                "address": "76, אבני איתן 1292500",
+                "latitude": 32.824808,
+                "longitude": 35.765777,
+                "rating": 5,
+                "review_count": 2,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": "054-256-6722",
+                "types": [
+                    "general_store",
+                    "food_store",
+                    "food",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJAUB4dIoPHBURIXxdbu5pHy8",
+                "name": "מזכירות אבני איתן",
+                "address": "אבני איתן",
+                "latitude": 32.8247494,
+                "longitude": 35.7664098,
+                "rating": null,
+                "review_count": null,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": null,
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJA2zUbYoPHBURljAZPNfduB4",
+                "name": "אבני איתן",
+                "address": "אבני איתן",
+                "latitude": 32.824337,
+                "longitude": 35.766293,
+                "rating": 4.8,
+                "review_count": 12,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": null,
+                "types": [
+                    "bus_station",
+                    "transit_station",
+                    "transportation_service",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJc5Y9bYoPHBURZogJCDcZe6Y",
+                "name": "בית כנסת אבני איתן",
+                "address": "מזכירות, Avnei Eitan",
+                "latitude": 32.8242934,
+                "longitude": 35.7665374,
+                "rating": 4.8,
+                "review_count": 52,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": null,
+                "types": [
+                    "synagogue",
+                    "place_of_worship",
+                    "association_or_organization",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJTw6KkMAPHBURP0zW6ACxa20",
+                "name": "הסופר של הגולן",
+                "address": "אבני איתן",
+                "latitude": 32.823781,
+                "longitude": 35.7671328,
+                "rating": 4.6,
+                "review_count": 13,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": null,
+                "types": [
+                    "grocery_store",
+                    "food_store",
+                    "food",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJRZ6Uk2EFHBUR1mt02KNINRY",
+                "name": "צימרים רוח דרומית",
+                "address": "88 אבני איתן, ראשון לציון",
+                "latitude": 32.826448299999996,
+                "longitude": 35.7664865,
+                "rating": 4.7,
+                "review_count": 64,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": "054-568-4574",
+                "types": [
+                    "hotel",
+                    "lodging",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJQbOz2ngFHBURaTakJrBeMGw",
+                "name": "בזלת וגיר",
+                "address": "אבני איתן 12925",
+                "latitude": 32.8262423,
+                "longitude": 35.763799399999996,
+                "rating": 5,
+                "review_count": 7,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": "050-934-5552",
+                "types": [
+                    "lodging",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJ0fX6qysPHBURR2wTB_1v2x8",
+                "name": "קפה שמח כשהחלב עסיס הקפה שמח",
+                "address": "37 משק, אבני איתן",
+                "latitude": 32.823149,
+                "longitude": 35.764072999999996,
+                "rating": 4.7,
+                "review_count": 12,
+                "business_status": "CLOSED_TEMPORARILY",
+                "website": null,
+                "phone": "052-392-9217",
+                "types": [
+                    "coffee_shop",
+                    "cafe",
+                    "food_store",
+                    "food",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJpaxVeooPHBURNHxA-CS3VBs",
+                "name": "הרפת הרובוטית באבני איתן",
+                "address": "37 משק, אבני איתן 12925",
+                "latitude": 32.823149,
+                "longitude": 35.764072999999996,
+                "rating": 4.8,
+                "review_count": 509,
+                "business_status": "OPERATIONAL",
+                "website": "https://moo-asis.info/",
+                "phone": "050-406-0311",
+                "types": [
+                    "farm",
+                    "visitor_center",
+                    "tourist_information_center",
+                    "tour_agency",
+                    "travel_agency",
+                    "point_of_interest",
+                    "service",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJRc34mGEFHBURmUVI07m0_GU",
+                "name": "צימר מי פמיליה",
+                "address": "אבני איתן 1292500",
+                "latitude": 32.8268649,
+                "longitude": 35.7667492,
+                "rating": 4.8,
+                "review_count": 36,
+                "business_status": "OPERATIONAL",
+                "website": "https://www.facebook.com/mifamilia29/",
+                "phone": "054-688-2929",
+                "types": [
+                    "hotel",
+                    "lodging",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJc0r40IoPHBURc0Gpe9gUWl4",
+                "name": "מונגולן – מתחם פעילויות ולינה בטבע במושב אבני איתן",
+                "address": "אבני איתן, רמת הגולן",
+                "latitude": 32.824141,
+                "longitude": 35.763073,
+                "rating": 4.7,
+                "review_count": 34,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": "052-321-3007",
+                "types": [
+                    "resort_hotel",
+                    "hotel",
+                    "lodging",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJ2YzAX-wFHBURIQfjLrjb4u0",
+                "name": "Tzimer",
+                "address": "14, Avnei Eitan",
+                "latitude": 32.8254872,
+                "longitude": 35.768705499999996,
+                "rating": 4.4,
+                "review_count": 5,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": null,
+                "types": [
+                    "hotel",
+                    "lodging",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJF5rjYPkPHBURiP3d-qFu88o",
+                "name": "דרור שיווק",
+                "address": "41, Avnei Eitan",
+                "latitude": 32.823074399999996,
+                "longitude": 35.7631659,
+                "rating": 5,
+                "review_count": 4,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": "052-279-9297",
+                "types": [
+                    "general_store",
+                    "food_store",
+                    "food",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJp8HWkTIFHBUR5htGBCmPzko",
+                "name": "מגשי פירות וירקות בגולן",
+                "address": "185, אבני איתן 0012925",
+                "latitude": 32.8268145,
+                "longitude": 35.7632666,
+                "rating": 4.9,
+                "review_count": 35,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": "055-666-2216",
+                "types": [
+                    "lodging",
+                    "manufacturer",
+                    "point_of_interest",
+                    "service",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJOxFa3q4PHBURdOSZpGATFFE",
+                "name": "RE-UP בונים חלומות ממכולות",
+                "address": "43, אבני איתן 1292500",
+                "latitude": 32.823189,
+                "longitude": 35.762766,
+                "rating": null,
+                "review_count": null,
+                "business_status": "OPERATIONAL",
+                "website": "http://re-up.build.co.il/",
+                "phone": "050-232-2582",
+                "types": [
+                    "general_contractor",
+                    "point_of_interest",
+                    "service",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJ6z3Pk60PHBURWL1tQUXXbOc",
+                "name": "משק רם - אבני איתן",
+                "address": "אבני איתן 1292500",
+                "latitude": 32.8215074,
+                "longitude": 35.7661855,
+                "rating": 4.8,
+                "review_count": 136,
+                "business_status": "OPERATIONAL",
+                "website": "https://www.facebook.com/meshekram",
+                "phone": "058-646-4201",
+                "types": [
+                    "convenience_store",
+                    "food_store",
+                    "food",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ]
+            },
+            {
+                "id": "ChIJx99NxYsPHBURiXq5EcWO4W4",
+                "name": "הסטודיו של נדין",
+                "address": "אבני איתן",
+                "latitude": 32.821634599999996,
+                "longitude": 35.767237099999996,
+                "rating": 4.7,
+                "review_count": 3,
+                "business_status": "OPERATIONAL",
+                "website": null,
+                "phone": "04-676-3185",
+                "types": [
+                    "hotel",
+                    "lodging",
+                    "point_of_interest",
+                    "establishment"
+                ]
+            }
+        ]
+    }
+]

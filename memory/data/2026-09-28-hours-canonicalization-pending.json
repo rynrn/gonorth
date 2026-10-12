@@ -1,0 +1,44 @@
+[
+  {
+    "id": 642,
+    "place_id": 202,
+    "name": "חלהוולאוו",
+    "url": "https://gonorth.co.il/places/%d7%97%d7%9c%d7%94%d7%95%d7%95%d7%9c%d7%90%d7%95%d7%95/",
+    "field": "regular_hours_json",
+    "old_value": "[\"Su 09:00-13:00\",\"Mo 09:00-13:00\",\"Tu 10:00-15:00\",\"We 09:00-13:00\",\"Th 10:00-15:00\",\"Fr 09:00-13:00\"]",
+    "new_value": "\"[\\\"Su 09:00-13:00\\\",\\\"Mo 09:00-13:00\\\",\\\"Tu 10:00-15:00\\\",\\\"We 09:00-13:00\\\",\\\"Th 10:00-15:00\\\",\\\"Fr 09:00-13:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+    "detected_at": "2026-09-28T09:00:00Z",
+    "confidence": 0.95,
+    "source": "coffeetrail",
+    "source_url": null,
+    "seo_action": "review_change"
+  },
+  {
+    "id": 643,
+    "place_id": 228,
+    "name": "קופיש Coffish",
+    "url": "https://gonorth.co.il/places/%d7%a7%d7%95%d7%a4%d7%99%d7%a9-coffish/",
+    "field": "regular_hours_json",
+    "old_value": "[\"Tu 09:00-18:00\",\"We 09:00-18:00\",\"Th 09:00-18:00\",\"Fr 09:00-18:00\",\"Sa 09:00-18:00\"]",
+    "new_value": "\"[\\\"Tu 09:00-18:00\\\",\\\"We 09:00-18:00\\\",\\\"Th 09:00-18:00\\\",\\\"Fr 09:00-18:00\\\",\\\"Sa 09:00-18:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+    "detected_at": "2026-09-28T09:00:00Z",
+    "confidence": 0.95,
+    "source": "coffeetrail",
+    "source_url": null,
+    "seo_action": "review_change"
+  },
+  {
+    "id": 644,
+    "place_id": 357,
+    "name": "F Ranch",
+    "url": "https://gonorth.co.il/places/f-ranch/",
+    "field": "regular_hours_json",
+    "old_value": "[\"Su 09:00-19:00\",\"Mo 09:00-19:00\",\"Tu 09:00-19:00\",\"We 09:00-19:00\",\"Th 09:00-19:00\",\"Fr 09:00-15:00\"]",
+    "new_value": "\"[\\\"Su 09:00-19:00\\\",\\\"Mo 09:00-19:00\\\",\\\"Tu 09:00-19:00\\\",\\\"We 09:00-19:00\\\",\\\"Th 09:00-19:00\\\",\\\"Fr 09:00-15:00\\\"],[\\\"UTC\\\":\\\"+0\\\",\\\"Timezone\\\":\\\"UTC\\\"]\"",
+    "detected_at": "2026-09-28T09:00:00Z",
+    "confidence": 0.95,
+    "source": "tourgolan",
+    "source_url": null,
+    "seo_action": "review_change"
+  }
+]

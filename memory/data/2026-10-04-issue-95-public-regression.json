@@ -1,0 +1,44 @@
+[
+  {
+    "status": 200,
+    "form": false,
+    "url": "https://gonorth.co.il/",
+    "link": false
+  },
+  {
+    "status": 200,
+    "form": true,
+    "url": "https://gonorth.co.il/contact/",
+    "link": false
+  },
+  {
+    "status": 200,
+    "form": false,
+    "url": "https://gonorth.co.il/yizreel-valley-day-trip/",
+    "link": true
+  },
+  {
+    "status": 200,
+    "form": false,
+    "url": "https://gonorth.co.il/south-kinneret-day-trip/",
+    "link": true
+  },
+  {
+    "status": 200,
+    "form": false,
+    "url": "https://gonorth.co.il/blog/",
+    "link": false
+  },
+  {
+    "status": 200,
+    "form": false,
+    "url": "https://gonorth.co.il/places/",
+    "link": false
+  },
+  {
+    "status": 200,
+    "form": false,
+    "url": "https://gonorth.co.il/wp-content/plugins/gonorth-place-data/assets/corrections.css",
+    "link": true
+  }
+]

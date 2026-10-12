@@ -1,0 +1,3 @@
+היישום הציבורי של #83 הושלם ונבדק ב־04.10.2026. לפני השינוי נצפו בקשות GTM/GA4 לפני בחירה ו־query בדף ניסיון בבקשת GA4. כעת קיימים אישור מפורש, סירוב וביטול בחירה; ללא אישור GTM/GA4 ו־Preferred Sources אינם נטענים. אחרי אישור, page_location והמפנה אינם כוללים query/fragment. דף הבית נבדק 22.5 שניות ללא טעינת GTM; 197/197 דפים מפורסמים עברו רגרסיית HTTP/ממשק, ובדיקות PHP ו־WP-CLI עברו. מדיניות הפרטיות עודכנה.
+
+הכרטיס נשאר פתוח לביקורת קוד עצמאית הנדרשת לשינוי L3 לפי `docs/agent-change-contract.md`. diff ושחזור מוכנים ב־`memory/data/2026-10-04-issue-83-review.patch` וב־`memory/scripts/issue83-rollback.sh`. הדוח: `memory/reports/2026-10-04-issue-83-consent-and-analytics.md`. גלישת 10px נפרדת של SDK Google במובייל מתועדת ב־#104.

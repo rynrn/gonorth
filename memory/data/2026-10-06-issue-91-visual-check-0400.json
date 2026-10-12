@@ -1,0 +1,202 @@
+[
+  {
+    "place_id": "503",
+    "media_id": 509,
+    "seen_in_image": "שרידי כלי משוריין בתוך ערוץ מים",
+    "alt_subject_consistency": "plausible",
+    "place_identity_verified_from_photo": false,
+    "usage_permission": "unknown — no grant documented in sampled public media fields",
+    "checked_at": "2026-10-06",
+    "evidence": "memory/work/issue91-contact-1.png"
+  },
+  {
+    "place_id": "498",
+    "media_id": 504,
+    "seen_in_image": "עגלה ורודה ומתחם ישיבה חיצוני",
+    "alt_subject_consistency": "plausible",
+    "place_identity_verified_from_photo": false,
+    "usage_permission": "unknown — no grant documented in sampled public media fields",
+    "checked_at": "2026-10-06",
+    "evidence": "memory/work/issue91-contact-1.png"
+  },
+  {
+    "place_id": "499",
+    "media_id": 505,
+    "seen_in_image": "עגלת אוכל ממותגת תחת עצים",
+    "alt_subject_consistency": "plausible",
+    "place_identity_verified_from_photo": false,
+    "usage_permission": "unknown — no grant documented in sampled public media fields",
+    "checked_at": "2026-10-06",
+    "evidence": "memory/work/issue91-contact-1.png"
+  },
+  {
+    "place_id": "500",
+    "media_id": 506,
+    "seen_in_image": "כמה אוהלים במתחם קמפינג מיוער",
+    "alt_subject_consistency": "plausible",
+    "place_identity_verified_from_photo": false,
+    "usage_permission": "unknown — no grant documented in sampled public media fields",
+    "checked_at": "2026-10-06",
+    "evidence": "memory/work/issue91-contact-1.png"
+  },
+  {
+    "place_id": "501",
+    "media_id": 507,
+    "seen_in_image": "מבנה אירוח, שביל ומדשאה",
+    "alt_subject_consistency": "plausible",
+    "place_identity_verified_from_photo": false,
+    "usage_permission": "unknown — no grant documented in sampled public media fields",
+    "checked_at": "2026-10-06",
+    "evidence": "memory/work/issue91-contact-1.png"
+  },
+  {
+    "place_id": "502",
+    "media_id": 508,
+    "seen_in_image": "חלל ישיבה פנימי של מסעדה",
+    "alt_subject_consistency": "plausible",
+    "place_identity_verified_from_photo": false,
+    "usage_permission": "unknown — no grant documented in sampled public media fields",
+    "checked_at": "2026-10-06",
+    "evidence": "memory/work/issue91-contact-2.png"
+  },
+  {
+    "place_id": "495",
+    "media_id": 497,
+    "seen_in_image": "פלג מים וגשרון בפארק",
+    "alt_subject_consistency": "plausible",
+    "place_identity_verified_from_photo": false,
+    "usage_permission": "unknown — no grant documented in sampled public media fields",
+    "checked_at": "2026-10-06",
+    "evidence": "memory/work/issue91-contact-2.png"
+  },
+  {
+    "place_id": "494",
+    "media_id": 496,
+    "seen_in_image": "ילדים ומדריכה ליד תצוגת מוזיאון",
+    "alt_subject_consistency": "plausible",
+    "place_identity_verified_from_photo": false,
+    "usage_permission": "unknown — no grant documented in sampled public media fields",
+    "checked_at": "2026-10-06",
+    "evidence": "memory/work/issue91-contact-2.png"
+  },
+  {
+    "place_id": "491",
+    "media_id": 493,
+    "seen_in_image": "בריכת מים טבעית בין עצים",
+    "alt_subject_consistency": "plausible",
+    "place_identity_verified_from_photo": false,
+    "usage_permission": "unknown — no grant documented in sampled public media fields",
+    "checked_at": "2026-10-06",
+    "evidence": "memory/work/issue91-contact-2.png"
+  },
+  {
+    "place_id": "490",
+    "media_id": 492,
+    "seen_in_image": "בריכת מלון וחזית מתחם אירוח",
+    "alt_subject_consistency": "plausible",
+    "place_identity_verified_from_photo": false,
+    "usage_permission": "unknown — no grant documented in sampled public media fields",
+    "checked_at": "2026-10-06",
+    "evidence": "memory/work/issue91-contact-2.png"
+  },
+  {
+    "place_id": "488",
+    "media_id": 489,
+    "seen_in_image": "בריכת מים צלולה בתוך צמחייה",
+    "alt_subject_consistency": "plausible",
+    "place_identity_verified_from_photo": false,
+    "usage_permission": "unknown — no grant documented in sampled public media fields",
+    "checked_at": "2026-10-06",
+    "evidence": "memory/work/issue91-contact-3.png"
+  },
+  {
+    "place_id": "485",
+    "media_id": 487,
+    "seen_in_image": "חזית בית קפה עם שם המותג",
+    "alt_subject_consistency": "plausible",
+    "place_identity_verified_from_photo": false,
+    "usage_permission": "unknown — no grant documented in sampled public media fields",
+    "checked_at": "2026-10-06",
+    "evidence": "memory/work/issue91-contact-3.png"
+  },
+  {
+    "place_id": "484",
+    "media_id": 486,
+    "seen_in_image": "בריכת מתחם אירוח ובקתות",
+    "alt_subject_consistency": "plausible",
+    "place_identity_verified_from_photo": false,
+    "usage_permission": "unknown — no grant documented in sampled public media fields",
+    "checked_at": "2026-10-06",
+    "evidence": "memory/work/issue91-contact-3.png"
+  },
+  {
+    "place_id": "481",
+    "media_id": 483,
+    "seen_in_image": "חלל ישיבה פנימי של מסעדה",
+    "alt_subject_consistency": "plausible",
+    "place_identity_verified_from_photo": false,
+    "usage_permission": "unknown — no grant documented in sampled public media fields",
+    "checked_at": "2026-10-06",
+    "evidence": "memory/work/issue91-contact-3.png"
+  },
+  {
+    "place_id": "480",
+    "media_id": 482,
+    "seen_in_image": "דלת כניסה לחנות/מבנה",
+    "alt_subject_consistency": "plausible",
+    "place_identity_verified_from_photo": false,
+    "usage_permission": "unknown — no grant documented in sampled public media fields",
+    "checked_at": "2026-10-06",
+    "evidence": "memory/work/issue91-contact-3.png"
+  },
+  {
+    "place_id": "477",
+    "media_id": 479,
+    "seen_in_image": "מנות אוכל ומשקאות על שולחן",
+    "alt_subject_consistency": "plausible",
+    "place_identity_verified_from_photo": false,
+    "usage_permission": "unknown — no grant documented in sampled public media fields",
+    "checked_at": "2026-10-06",
+    "evidence": "memory/work/issue91-contact-4.png"
+  },
+  {
+    "place_id": "476",
+    "media_id": 478,
+    "seen_in_image": "קבוצת רוכבים על כלי רכיבה ממונעים",
+    "alt_subject_consistency": "plausible",
+    "place_identity_verified_from_photo": false,
+    "usage_permission": "unknown — no grant documented in sampled public media fields",
+    "checked_at": "2026-10-06",
+    "evidence": "memory/work/issue91-contact-4.png"
+  },
+  {
+    "place_id": "471",
+    "media_id": 475,
+    "seen_in_image": "חלל ישיבה פנימי עם דלפק יין",
+    "alt_subject_consistency": "plausible",
+    "place_identity_verified_from_photo": false,
+    "usage_permission": "unknown — no grant documented in sampled public media fields",
+    "checked_at": "2026-10-06",
+    "evidence": "memory/work/issue91-contact-4.png"
+  },
+  {
+    "place_id": "470",
+    "media_id": 474,
+    "seen_in_image": "אזור ישיבה מקורה בגינה",
+    "alt_subject_consistency": "plausible",
+    "place_identity_verified_from_photo": false,
+    "usage_permission": "unknown — no grant documented in sampled public media fields",
+    "checked_at": "2026-10-06",
+    "evidence": "memory/work/issue91-contact-4.png"
+  },
+  {
+    "place_id": "425",
+    "media_id": 426,
+    "seen_in_image": "יחידות אוהל במתחם גלמפינג",
+    "alt_subject_consistency": "plausible",
+    "place_identity_verified_from_photo": false,
+    "usage_permission": "unknown — no grant documented in sampled public media fields",
+    "checked_at": "2026-10-06",
+    "evidence": "memory/work/issue91-contact-4.png"
+  }
+]

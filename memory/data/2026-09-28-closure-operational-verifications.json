@@ -1,0 +1,74 @@
+{
+  "results": [
+    {
+      "id": 329,
+      "source": "manual_review",
+      "source_url": "https://tourgolan.org.il/listing/%D7%97%D7%95%D7%95%D7%AA-%D7%94%D7%90%D7%95%D7%A9%D7%A8/",
+      "checked_at": "2026-09-28T11:43:33Z",
+      "confidence": 0.9,
+      "facts": {
+        "business_status": "operational"
+      }
+    },
+    {
+      "id": 207,
+      "source": "manual_review",
+      "source_url": "https://tourgolan.org.il/listing/nino/",
+      "checked_at": "2026-09-28T11:43:33Z",
+      "confidence": 0.9,
+      "facts": {
+        "business_status": "operational"
+      }
+    },
+    {
+      "id": 393,
+      "source": "manual_review",
+      "source_url": "https://dev2.tourgolan.org.il/listing/neve_ativ_self_picking/",
+      "checked_at": "2026-09-28T11:43:33Z",
+      "confidence": 0.9,
+      "facts": {
+        "business_status": "operational"
+      }
+    },
+    {
+      "id": 347,
+      "source": "manual_review",
+      "source_url": "https://www.katif-elrom.co.il/",
+      "checked_at": "2026-09-28T11:43:33Z",
+      "confidence": 0.9,
+      "facts": {
+        "business_status": "operational"
+      }
+    },
+    {
+      "id": 421,
+      "source": "manual_review",
+      "source_url": "https://www.familygo.co.il/%D7%A8%D7%90%D7%A9%D7%99/%D7%97%D7%92%D7%99%D7%92%D7%AA-%D7%94%D7%93%D7%95%D7%91%D7%93%D7%91%D7%9F-%D7%91%D7%92%D7%95%D7%9C%D7%9F-%D7%97%D7%95%D7%95%D7%99%D7%94-%D7%9E%D7%A9%D7%A4%D7%97%D7%AA%D7%99%D7%AA-%D7%9E%D7%94%D7%A0%D7%94-%D7%95%D7%98%D7%A2%D7%99%D7%9E%D7%94/",
+      "checked_at": "2026-09-28T11:43:33Z",
+      "confidence": 0.9,
+      "facts": {
+        "business_status": "operational"
+      }
+    },
+    {
+      "id": 223,
+      "source": "manual_review",
+      "source_url": "https://easy.co.il/list/Cafes?region=26889604",
+      "checked_at": "2026-09-28T11:43:33Z",
+      "confidence": 0.9,
+      "facts": {
+        "business_status": "operational"
+      }
+    },
+    {
+      "id": 209,
+      "source": "manual_review",
+      "source_url": "https://www.dvash-bagolan.com/food",
+      "checked_at": "2026-09-28T11:43:33Z",
+      "confidence": 0.9,
+      "facts": {
+        "business_status": "operational"
+      }
+    }
+  ]
+}

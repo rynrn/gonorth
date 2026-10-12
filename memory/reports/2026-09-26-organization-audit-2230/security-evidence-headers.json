@@ -1,0 +1,78 @@
+[
+  {
+    "url": "https://gonorth.co.il/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/",
+    "headers": {
+      "X-Frame-Options": "",
+      "Content-Security-Policy": "",
+      "Permissions-Policy": "",
+      "X-Content-Type-Options": "",
+      "Strict-Transport-Security": "",
+      "Content-Security-Policy-Report-Only": "",
+      "X-Powered-By": "",
+      "Referrer-Policy": "",
+      "Cache-Control": "must-revalidate, max-age=3",
+      "Server": "nginx/1.24.0; (Ubuntu)"
+    },
+    "privacy_links": null,
+    "consent_marker": true
+  },
+  {
+    "url": "https://gonorth.co.il/contact/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/contact/",
+    "headers": {
+      "X-Frame-Options": "",
+      "Content-Security-Policy": "",
+      "Permissions-Policy": "",
+      "X-Content-Type-Options": "",
+      "Strict-Transport-Security": "",
+      "Content-Security-Policy-Report-Only": "",
+      "X-Powered-By": "",
+      "Referrer-Policy": "",
+      "Cache-Control": "",
+      "Server": "nginx/1.24.0; (Ubuntu)"
+    },
+    "privacy_links": null,
+    "consent_marker": false
+  },
+  {
+    "url": "https://gonorth.co.il/wp-login.php",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/wp-login.php",
+    "headers": {
+      "X-Frame-Options": "SAMEORIGIN",
+      "Content-Security-Policy": "frame-ancestors 'self';",
+      "Permissions-Policy": "",
+      "X-Content-Type-Options": "",
+      "Strict-Transport-Security": "",
+      "Content-Security-Policy-Report-Only": "",
+      "X-Powered-By": "",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Cache-Control": "no-store, must-revalidate, no-cache, max-age=0, private",
+      "Server": "nginx/1.24.0; (Ubuntu)"
+    },
+    "privacy_links": null,
+    "consent_marker": false
+  },
+  {
+    "url": "http://gonorth.co.il/",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/",
+    "headers": {
+      "X-Frame-Options": "",
+      "Content-Security-Policy": "",
+      "Permissions-Policy": "",
+      "X-Content-Type-Options": "",
+      "Strict-Transport-Security": "",
+      "Content-Security-Policy-Report-Only": "",
+      "X-Powered-By": "",
+      "Referrer-Policy": "",
+      "Cache-Control": "must-revalidate, max-age=3",
+      "Server": "nginx/1.24.0; (Ubuntu)"
+    },
+    "privacy_links": null,
+    "consent_marker": true
+  }
+]

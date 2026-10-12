@@ -1,0 +1,20 @@
+No syntax errors detected in /tmp/issue100-precheck-batch-g.php
+No syntax errors detected in /tmp/issue100-create-batch-g.php
+No syntax errors detected in /tmp/issue100-verify-batch-g.php
+{
+    "checked_at": "2026-10-01",
+    "targets": [
+        {
+            "title": "מוזיאון האדם הקדמון",
+            "title_matches": [],
+            "place_id": "ChIJMyc7JK29HhUR5NHaeZKfeFk",
+            "place_matches": []
+        },
+        {
+            "title": "פארק דפנה",
+            "title_matches": [],
+            "place_id": "ChIJhcxF1mi8HhURFUW_ShS6mGQ",
+            "place_matches": []
+        }
+    ]
+}

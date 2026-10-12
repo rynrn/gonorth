@@ -1,0 +1,11 @@
+{
+  "format": "gonorth-place-facts-wordpress-sync-receipt/v1",
+  "results": [
+    {
+      "change_ids": [541,544,546,549,551,554,556,559,561,564,566,569],
+      "status": "deferred",
+      "message": "Google map URLs and verification timestamps are ledger-only; the canonical Place ID, rating and review count were applied."
+    }
+  ],
+  "applied": false
+}

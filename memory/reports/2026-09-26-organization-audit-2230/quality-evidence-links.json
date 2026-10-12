@@ -1,0 +1,44 @@
+[
+  {
+    "url": "https://gonorth.co.il/agamon-hahula-guide/",
+    "checked_at": "2026-09-26T19:42:13.1589932Z",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/agamon-hahula-guide/"
+  },
+  {
+    "url": "https://gonorth.co.il/places/אגמון-החולה/",
+    "checked_at": "2026-09-26T19:42:14.1656715Z",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/places/%D7%90%D7%92%D7%9E%D7%95%D7%9F-%D7%94%D7%97%D7%95%D7%9C%D7%94/"
+  },
+  {
+    "url": "https://www.kkl.org.il/travel/hula_lake/",
+    "checked_at": "2026-09-26T19:42:14.6715606Z",
+    "status": 200,
+    "final_url": "https://www.kkl.org.il/travel/hula_lake/"
+  },
+  {
+    "url": "https://gonorth.co.il/golan-accommodation-comparison/",
+    "checked_at": "2026-09-26T19:42:15.6868729Z",
+    "status": 200,
+    "final_url": "https://gonorth.co.il/golan-accommodation-comparison/"
+  },
+  {
+    "url": "https://www.madatech.org.il/main-info/arrival-ways/",
+    "checked_at": "2026-09-26T19:42:17.9656425Z",
+    "status": 200,
+    "final_url": "https://www.madatech.org.il/main-info/arrival-ways/"
+  },
+  {
+    "url": "https://www.akko.org.il/faq/",
+    "checked_at": "2026-09-26T19:42:20.0665206Z",
+    "status": 200,
+    "final_url": "https://www.akko.org.il/faq/"
+  },
+  {
+    "url": "https://www.parks.org.il/reserve-park/גן-לאומי-בית-שערים/",
+    "checked_at": "2026-09-26T19:42:21.1317493Z",
+    "status": 200,
+    "final_url": "https://www.parks.org.il/reserve-park/%D7%92%D7%9F-%D7%9C%D7%90%D7%95%D7%9E%D7%99-%D7%91%D7%99%D7%AA-%D7%A9%D7%A2%D7%A8%D7%99%D7%9D/"
+  }
+]

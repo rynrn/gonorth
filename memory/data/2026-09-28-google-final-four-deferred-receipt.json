@@ -1,0 +1,1 @@
+{"format":"gonorth-place-facts-wordpress-sync-receipt/v1","results":[{"change_ids":[633,634,636,637],"status":"deferred","message":"Manual operational status retained in the verification ledger; no canonical WordPress projection and no Google entity exists."}],"applied":false}

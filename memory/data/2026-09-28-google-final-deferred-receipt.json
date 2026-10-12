@@ -1,0 +1,11 @@
+{
+  "format": "gonorth-place-facts-wordpress-sync-receipt/v1",
+  "results": [
+    {
+      "change_ids": [516, 518, 521, 522, 524, 527, 528, 530, 533],
+      "status": "deferred",
+      "message": "Ledger-only fields or verification timestamps applied through the canonical Google bundle; no standalone WordPress projection."
+    }
+  ],
+  "applied": false
+}

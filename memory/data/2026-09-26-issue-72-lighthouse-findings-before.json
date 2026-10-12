@@ -1,0 +1,2719 @@
+{
+  "lcp-discovery-insight": {
+    "title": "LCP request discovery",
+    "displayValue": null,
+    "details": null
+  },
+  "render-blocking-insight": {
+    "title": "Render-blocking requests",
+    "displayValue": "Est savings of 4,010 ms",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "url",
+          "valueType": "url",
+          "label": "URL"
+        },
+        {
+          "key": "totalBytes",
+          "valueType": "bytes",
+          "label": "Transfer Size"
+        },
+        {
+          "key": "wastedMs",
+          "valueType": "timespanMs",
+          "label": "Duration"
+        }
+      ],
+      "items": [
+        {
+          "url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_f744e4881044ddcf68ff999850aa6f7f.php?ver=0.2.47",
+          "totalBytes": 67681,
+          "wastedMs": 2915
+        },
+        {
+          "url": "https://gonorth.co.il/wp-includes/css/dist/block-library/style-rtl.min.css?ver=7.1.2",
+          "totalBytes": 141137,
+          "wastedMs": 4369
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_c812c49d797de159697f02bafc3d9c51.php?ver=wc-10.7.0",
+          "totalBytes": 2995,
+          "wastedMs": 735
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_bee817902507e0ea9b2a85da3d85d2e3.php?ver=4.13.0",
+          "totalBytes": 16525,
+          "wastedMs": 1461
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_6e965c6e3bcfcbf9911dc55e7cbcf40f.php?ver=2.9.0",
+          "totalBytes": 12812,
+          "wastedMs": 1219
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_732caf67dc4cce9db3ee631c1f1fba79.php?ver=1.17.3",
+          "totalBytes": 3555,
+          "wastedMs": 735
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/themes/astra/style.css?ver=7.1.2",
+          "totalBytes": 4823,
+          "wastedMs": 977
+        },
+        {
+          "url": "https://use.fontawesome.com/releases/v6.7.2/css/all.css?wpfas=true",
+          "totalBytes": 23069,
+          "wastedMs": 2076
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_1fbf35126001b27c9d77720a9e941437.php?ver=4.13.0",
+          "totalBytes": 2395,
+          "wastedMs": 735
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/css/onetap-fonts-readable.min.css?ver=2.10.0",
+          "totalBytes": 2255,
+          "wastedMs": 735
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/css/accessibility-onetap-front-end.min.css?ver=2.10.0",
+          "totalBytes": 85788,
+          "wastedMs": 3884
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_cd360d29346139a01939fcc0f29f85f8.php?ver=4.13.0",
+          "totalBytes": 1288,
+          "wastedMs": 735
+        },
+        {
+          "url": "https://fonts.googleapis.com/css?family=Heebo:800%2C&display=swap&ver=4.13.0",
+          "totalBytes": 1397,
+          "wastedMs": 827
+        },
+        {
+          "url": "https://fonts.googleapis.com/css2?family=Heebo:wght@200;400;500;600;700;800;900&family=Secular+One&display=swap",
+          "totalBytes": 2220,
+          "wastedMs": 151
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_0e595cf9c0607c92f351bb5d75b172ce.php?ver=4.13.0",
+          "totalBytes": 9046,
+          "wastedMs": 735
+        }
+      ]
+    }
+  },
+  "unused-css-rules": {
+    "title": "Reduce unused CSS",
+    "displayValue": "Est savings of 308 KiB",
+    "details": {
+      "type": "opportunity",
+      "headings": [
+        {
+          "key": "url",
+          "valueType": "url",
+          "label": "URL"
+        },
+        {
+          "key": "totalBytes",
+          "valueType": "bytes",
+          "label": "Transfer Size"
+        },
+        {
+          "key": "wastedBytes",
+          "valueType": "bytes",
+          "label": "Est Savings"
+        }
+      ],
+      "items": [
+        {
+          "url": "https://gonorth.co.il/wp-includes/css/dist/block-library/style-rtl.min.css?ver=7.1.2",
+          "wastedBytes": 140180,
+          "wastedPercent": 99.49887495297517,
+          "totalBytes": 140886
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_f744e4881044ddcf68ff999850aa6f7f.php?ver=0.2.47",
+          "wastedBytes": 66995,
+          "wastedPercent": 99.5723716775337,
+          "totalBytes": 67283
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/css/accessibility-onetap-front-end.min.css?ver=2.10.0",
+          "wastedBytes": 57405,
+          "wastedPercent": 67.11052397764736,
+          "totalBytes": 85538
+        },
+        {
+          "url": "https://use.fontawesome.com/releases/v6.7.2/css/all.css?wpfas=true",
+          "wastedBytes": 22539,
+          "wastedPercent": 99.58993097848152,
+          "totalBytes": 22632
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_bee817902507e0ea9b2a85da3d85d2e3.php?ver=4.13.0",
+          "wastedBytes": 16098,
+          "wastedPercent": 99.81732036502561,
+          "totalBytes": 16127
+        },
+        {
+          "url": ":root{--ast-post-nav-space:0;--ast-container-default-xlg-padding:2.5em;--ast-container-default-lg-p…",
+          "wastedBytes": 11774,
+          "wastedPercent": 84.67745415318231,
+          "totalBytes": 13905
+        }
+      ],
+      "overallSavingsMs": 1760,
+      "overallSavingsBytes": 314991,
+      "sortedBy": [
+        "wastedBytes"
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "metricSavings": {
+          "FCP": 1600,
+          "LCP": 1760
+        }
+      }
+    }
+  },
+  "unused-javascript": {
+    "title": "Reduce unused JavaScript",
+    "displayValue": "Est savings of 474 KiB",
+    "details": {
+      "type": "opportunity",
+      "headings": [
+        {
+          "key": "url",
+          "valueType": "url",
+          "subItemsHeading": {
+            "key": "source",
+            "valueType": "code"
+          },
+          "label": "URL"
+        },
+        {
+          "key": "totalBytes",
+          "valueType": "bytes",
+          "subItemsHeading": {
+            "key": "sourceBytes"
+          },
+          "label": "Transfer Size"
+        },
+        {
+          "key": "wastedBytes",
+          "valueType": "bytes",
+          "subItemsHeading": {
+            "key": "sourceWastedBytes"
+          },
+          "label": "Est Savings"
+        }
+      ],
+      "items": [
+        {
+          "url": "https://gonorth.co.il/wp-content/plugins/geodirectory/vendor/ayecode/wp-ayecode-ui/assets-v5/js/bootstrap.bundle.min.js?ver=0.2.47",
+          "totalBytes": 136517,
+          "wastedBytes": 108417,
+          "wastedPercent": 79.416482928866
+        },
+        {
+          "url": "https://www.googletagmanager.com/gtag/js?id=G-HVRP7CYDLR&cx=c&gtm=4e69n1",
+          "totalBytes": 175004,
+          "wastedBytes": 76100,
+          "wastedPercent": 43.48450166542457
+        },
+        {
+          "url": "https://www.googletagmanager.com/gtag/js?id=G-7297D03DXJ",
+          "totalBytes": 164162,
+          "wastedBytes": 69986,
+          "wastedPercent": 42.632030402354026
+        },
+        {
+          "url": "https://www.googletagmanager.com/gtm.js?id=GTM-WM5VRDCR",
+          "totalBytes": 123574,
+          "wastedBytes": 67803,
+          "wastedPercent": 54.867982597577466
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/plugins/geodirectory/assets/aui/js/geodirectory.min.js?ver=2.8.160",
+          "totalBytes": 65084,
+          "wastedBytes": 56613,
+          "wastedPercent": 86.98451232253703
+        },
+        {
+          "url": "https://gonorth.co.il/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "totalBytes": 87553,
+          "wastedBytes": 44290,
+          "wastedPercent": 50.5865018902836
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/js/script.min.js?ver=2.10.0",
+          "totalBytes": 63697,
+          "wastedBytes": 39475,
+          "wastedPercent": 61.97309135438089
+        },
+        {
+          "url": "data:text/javascript;base64,CmZ1bmN0aW9uIGF1aV9pbml0X2dyZWVkeV9uYXYoKXtqUXVlcnkoJ25hdi5ncmVlZHknKS5lYWNoKGZ1bmN0aW9uKGksb2JqKXtpZihqUXVlcnkodGhpcykuaGFzQ2xhc3MoImJlaW5nLWdyZWVkeSIpKXtyZXR1cm4gdHJ1ZX1qUXVlcnkodGhpcykuYWRkQ2xhc3MoJ25hdmJhci1leHBhbmQnKTtqUXVlcnkodGhpcykub2ZmKCdzaG93bi5icy50YWInKS5vbignc2hvd24uYnMudGFiJyxmdW5jdGlvbihlKXtpZihqUXVlcnkoZS50YXJnZXQpLmNsb3Nlc3QoJy5kcm9wZG93bi1tZW51JykuaGFzQ2xhc3MoJ2dyZWVkeS1saW5rcycpKXtqUXVlcnkoZS50YXJnZXQpLmNsb3Nlc3QoJy5ncmVlZHknKS5maW5kKCcuZ3JlZWR5LWJ0bi5kcm9wZG93bicpLmF0dHIoJ2FyaWEtZXhwYW5kZWQnLCdmYWxzZScpO2pRdWVyeShlLnRhcmdldCkuY2xvc2VzdCgnLmdyZWVkeS1saW5rcycpLnJlbW92ZUNsYXNzKCdzaG93JykuYWRkQ2xhc3MoJ2Qtbm9uZScpfX0pO2pRdWVyeShkb2N1bWVudCkub2ZmKCdtb3VzZW1vdmUnLCcuZ3JlZWR5LWJ0bicpLm9uKCdtb3VzZW1vdmUnLCcuZ3JlZWR5LWJ0bicsZnVuY3Rpb24oZSl7alF1ZXJ5KCcuZHJvcGRvd24tbWVudS5ncmVlZHktbGlua3MnKS5yZW1vdmVDbGFzcygnZC1ub25lJyl9KTt2YXIgJHZsaW5rcz0nJzt2YXIgJGREb3duQ2xhc3M9Jyc7dmFyIGRkSXRlbUNsYXNzPSdncmVlZHktbmF2LWl0ZW0nO2lmKGpRdWVyeSh0aGlzKS5maW5kKCcubmF2YmFyLW5hdicpLmxlbmd0aCl7aWYoalF1ZXJ5KHRoaXMpLmZpbmQoJy5uYXZiYXItbmF2JykuaGFzQ2xhc3MoImJlaW5nLWdyZWVkeSIpKXtyZXR1cm4gdHJ1ZX0kdmxpbmtzPWpRdWVyeSh0aGlzKS5maW5kKCcubmF2YmFyLW5hdicpLmFkZENsYXNzKCJiZWluZy1ncmVlZHkgdy0xMDAiKS5yZW1vdmVDbGFzcygnb3ZlcmZsb3ctaGlkZGVuJyl9ZWxzZSBpZihqUXVlcnkodGhpcykuZmluZCgnLm5hdicpLmxlbmd0aCl7aWYoalF1ZXJ5KHRoaXMpLmZpbmQoJy5uYXYnKS5oYXNDbGFzcygiYmVpbmctZ3JlZWR5Iikpe3JldHVybiB0cnVlfSR2bGlua3M9alF1ZXJ5KHRoaXMpLmZpbmQoJy5uYXYnKS5hZGRDbGFzcygiYmVpbmctZ3JlZWR5IHctMTAwIikucmVtb3ZlQ2xhc3MoJ292ZXJmbG93LWhpZGRlbicpOyRkRG93bkNsYXNzPScgbXQtMCBwLTAgemktNSAnO2RkSXRlbUNsYXNzKz0nIG10LTAgbWUtMCd9ZWxzZXtyZXR1cm4gZmFsc2V9alF1ZXJ5KCR2bGlua3MpLmFwcGVuZCgnPGxpIGNsYXNzPSJuYXYtaXRlbSBsaXN0LXVuc3R5bGVkIG1sLWF1dG8gZ3JlZWR5LWJ0biBkLW5vbmUgZHJvcGRvd24iPjxidXR0b24gZGF0YS1icy10b2dnbGU9ImNvbGxhcHNlIiBjbGFzcz0ibmF2LWxpbmsgZ3JlZWR5LW5hdi1saW5rIiByb2xlPSJidXR0b24iPjxpIGNsYXNzPSJmYXMgZmEtZWxsaXBzaXMtaCI+PC9pPiA8c3BhbiBjbGFzcz0iZ3JlZWR5LWNvdW50IGJhZGdlIGJnLWRhcmsgcm91bmRlZC1waWxsIj48L3NwYW4+PC9idXR0b24+PHVsIGNsYXNzPSJncmVlZHktbGlua3MgZHJvcGRvd24tbWVudSBkcm9wZG93bi1tZW51LWVuZCAnKyRkRG93bkNsYXNzKyciPjwvdWw+PC9saT4nKTt2YXIgJGhsaW5rcz1qUXVlcnkodGhpcykuZmluZCgnLmdyZWVkeS1saW5rcycpO3ZhciAkYnRuPWpRdWVyeSh0aGlzKS5maW5kKCcuZ3JlZWR5LWJ0bicpO3ZhciBudW1PZkl0ZW1zPTA7dmFyIHRvdGFsU3BhY2U9MDt2YXIgY2xvc2luZ1RpbWU9MTAwMDt2YXIgYnJlYWtXaWR0aHM9W107JHZsaW5rcy5jaGlsZHJlbigpLm91dGVyV2lkdGgoZnVuY3Rpb24oaSx3KXt0b3RhbFNwYWNlKz13O251bU9mSXRlbXMrPTE7YnJlYWtXaWR0aHMucHVzaCh0b3RhbFNwYWNlKX0pO3ZhciBhdmFpbGFibGVTcGFjZSxudW1PZlZpc2libGVJdGVtcyxyZXF1aXJlZFNwYWNlLGJ1dHRvblNwYWNlLHRpbWVyO2Z1bmN0aW9uIGNoZWNrKCl7YnV0dG9uU3BhY2U9JGJ0bi53aWR0aCgpO2F2YWlsYWJsZVNwYWNlPSR2bGlua3Mud2lkdGgoKS0xMDtudW1PZlZpc2libGVJdGVtcz0kdmxpbmtzLmNoaWxkcmVuKCkubGVuZ3RoO3JlcXVpcmVkU3BhY2U9YnJlYWtXaWR0aHNbbnVtT2ZWaXNpYmxlSXRlbXMtMV07aWYobnVtT2ZWaXNpYmxlSXRlbXM+MSYmcmVxdWlyZWRTcGFjZT5hdmFpbGFibGVTcGFjZSl7dmFyICRsaT0kdmxpbmtzLmNoaWxkcmVuKCkubGFzdCgpLnByZXYoKTskbGkucmVtb3ZlQ2xhc3MoJ25hdi1pdGVtJykuYWRkQ2xhc3MoZGRJdGVtQ2xhc3MpO2lmKCFqUXVlcnkoJGhsaW5rcykuY2hpbGRyZW4oKS5sZW5ndGgpeyRsaS5maW5kKCcubmF2LWxpbmsnKS5hZGRDbGFzcygndy0xMDAgZHJvcGRvd24taXRlbSByb3VuZGVkLTAgcm91bmRlZC1ib3R0b20nKX1lbHNle2pRdWVyeSgkaGxpbmtzKS5maW5kKCcubmF2LWxpbmsnKS5yZW1vdmVDbGFzcygncm91bmRlZC10b3AnKTskbGkuZmluZCgnLm5hdi1saW5rJykuYWRkQ2xhc3MoJ3ctMTAwIGRyb3Bkb3duLWl0ZW0gcm91bmRlZC0wIHJvdW5kZWQtdG9wJyl9JGxpLnByZXBlbmRUbygkaGxpbmtzKTtudW1PZlZpc2libGVJdGVtcy09MTtjaGVjaygpfWVsc2UgaWYoYXZhaWxhYmxlU3BhY2U+YnJlYWtXaWR0aHNbbnVtT2ZWaXNpYmxlSXRlbXNdKXskaGxpbmtzLmNoaWxkcmVuKCkuZmlyc3QoKS5pbnNlcnRCZWZvcmUoJGJ0bik7bnVtT2ZWaXNpYmxlSXRlbXMrPTE7Y2hlY2soKX1qUXVlcnkoJGJ0bikuZmluZCgiLmdyZWVkeS1jb3VudCIpLmh0bWwobnVtT2ZJdGVtcy1udW1PZlZpc2libGVJdGVtcyk7aWYobnVtT2ZWaXNpYmxlSXRlbXM9PT1udW1PZkl0ZW1zKXskYnRuLmFkZENsYXNzKCdkLW5vbmUnKX1lbHNlICRidG4ucmVtb3ZlQ2xhc3MoJ2Qtbm9uZScpfWpRdWVyeSh3aW5kb3cpLm9uKCJyZXNpemUiLGZ1bmN0aW9uKCl7Y2hlY2soKX0pO2NoZWNrKCl9KX1mdW5jdGlvbiBhdWlfc2VsZWN0Ml9sb2NhbGUoKXt2YXIgYXVpX3NlbGVjdDJfcGFyYW1zPXsiaTE4bl9zZWxlY3Rfc3RhdGVfdGV4dCI6IlNlbGVjdCBhbiBvcHRpb25cdTIwMjYiLCJpMThuX25vX21hdGNoZXMiOiJObyBtYXRjaGVzIGZvdW5kIiwiaTE4bl9hamF4X2Vycm9yIjoiTG9hZGluZyBmYWlsZWQiLCJpMThuX2lucHV0X3Rvb19zaG9ydF8xIjoiUGxlYXNlIGVudGVyIDEgb3IgbW9yZSBjaGFyYWN0ZXJzIiwiaTE4bl9pbnB1dF90b29fc2hvcnRfbiI6IlBsZWFzZSBlbnRlciAlaXRlbSUgb3IgbW9yZSBjaGFyYWN0ZXJzIiwiaTE4bl9pbnB1dF90b29fbG9uZ18xIjoiUGxlYXNlIGRlbGV0ZSAxIGNoYXJhY3RlciIsImkxOG5faW5wdXRfdG9vX2xvbmdfbiI6IlBsZWFzZSBkZWxldGUgJWl0ZW0lIGNoYXJhY3RlcnMiLCJpMThuX3NlbGVjdGlvbl90b29fbG9uZ18xIjoiWW91IGNhbiBvbmx5IHNlbGVjdCAxIGl0ZW0iLCJpMThuX3NlbGVjdGlvbl90b29fbG9uZ19uIjoiWW91IGNhbiBvbmx5IHNlbGVjdCAlaXRlbSUgaXRlbXMiLCJpMThuX2xvYWRfbW9yZSI6IkxvYWRpbmcgbW9yZSByZXN1bHRzXHUyMDI2IiwiaTE4bl9zZWFyY2hpbmciOiJTZWFyY2hpbmdcdTIwMjYifTtyZXR1cm57dGhlbWU6ImJvb3RzdHJhcC01Iix3aWR0aDpqUXVlcnkodGhpcykuZGF0YSgnd2lkdGgnKT9qUXVlcnkodGhpcykuZGF0YSgnd2lkdGgnKTpqUXVlcnkodGhpcykuaGFzQ2xhc3MoJ3ctMTAwJyk/JzEwMCUnOidzdHlsZScscGxhY2Vob2xkZXI6alF1ZXJ5KHRoaXMpLmRhdGEoJ3BsYWNlaG9sZGVyJyksbGFuZ3VhZ2U6e2Vycm9yTG9hZGluZzpmdW5jdGlvbigpe3JldHVybiBhdWlfc2VsZWN0Ml9wYXJhbXMuaTE4bl9zZWFyY2hpbmd9LGlucHV0VG9vTG9uZzpmdW5jdGlvbihhcmdzKXt2YXIgb3ZlckNoYXJzPWFyZ3MuaW5wdXQubGVuZ3RoLWFyZ3MubWF4aW11bTtpZigxPT09b3ZlckNoYXJzKXtyZXR1cm4gYXVpX3NlbGVjdDJfcGFyYW1zLmkxOG5faW5wdXRfdG9vX2xvbmdfMX1yZXR1cm4gYXVpX3NlbGVjdDJfcGFyYW1zLmkxOG5faW5wdXRfdG9vX2xvbmdfbi5yZXBsYWNlKCclaXRlbSUnLG92ZXJDaGFycyl9LGlucHV0VG9vU2hvcnQ6ZnVuY3Rpb24oYXJncyl7dmFyIHJlbWFpbmluZ0NoYXJzPWFyZ3MubWluaW11bS1hcmdzLmlucHV0Lmxlbmd0aDtpZigxPT09cmVtYWluaW5nQ2hhcnMpe3JldHVybiBhdWlfc2VsZWN0Ml9wYXJhbXMuaTE4bl9pbnB1dF90b29fc2hvcnRfMX1yZXR1cm4gYXVpX3NlbGVjdDJfcGFyYW1zLmkxOG5faW5wdXRfdG9vX3Nob3J0X24ucmVwbGFjZSgnJWl0ZW0lJyxyZW1haW5pbmdDaGFycyl9LGxvYWRpbmdNb3JlOmZ1bmN0aW9uKCl7cmV0dXJuIGF1aV9zZWxlY3QyX3BhcmFtcy5pMThuX2xvYWRfbW9yZX0sbWF4aW11bVNlbGVjdGVkOmZ1bmN0aW9uKGFyZ3Mpe2lmKGFyZ3MubWF4aW11bT09PTEpe3JldHVybiBhdWlfc2VsZWN0Ml9wYXJhbXMuaTE4bl9zZWxlY3Rpb25fdG9vX2xvbmdfMX1yZXR1cm4gYXVpX3NlbGVjdDJfcGFyYW1zLmkxOG5fc2VsZWN0aW9uX3Rvb19sb25nX24ucmVwbGFjZSgnJWl0ZW0lJyxhcmdzLm1heGltdW0pfSxub1Jlc3VsdHM6ZnVuY3Rpb24oKXtyZXR1cm4gYXVpX3NlbGVjdDJfcGFyYW1zLmkxOG5fbm9fbWF0Y2hlc30sc2VhcmNoaW5nOmZ1bmN0aW9uKCl7cmV0dXJuIGF1aV9zZWxlY3QyX3BhcmFtcy5pMThuX3NlYXJjaGluZ319fX1mdW5jdGlvbiBhdWlfaW5pdF9zZWxlY3QyKCl7dmFyIHNlbGVjdDJfYXJncz1qUXVlcnkuZXh0ZW5kKHt9LGF1aV9zZWxlY3QyX2xvY2FsZSgpKTtqUXVlcnkoInNlbGVjdC5hdWktc2VsZWN0MiIpLmVhY2goZnVuY3Rpb24oKXtpZighalF1ZXJ5KHRoaXMpLmhhc0NsYXNzKCJzZWxlY3QyLWhpZGRlbi1hY2Nlc3NpYmxlIikpe2pRdWVyeSh0aGlzKS5zZWxlY3QyKHNlbGVjdDJfYXJncyl9fSl9ZnVuY3Rpb24gYXVpX3RpbWVfYWdvKHNlbGVjdG9yKXt2YXIgYXVpX3RpbWVhZ29fcGFyYW1zPXsicHJlZml4X2FnbyI6IiIsInN1ZmZpeF9hZ28iOiIgYWdvIiwicHJlZml4X2FmdGVyIjoiYWZ0ZXIgIiwic3VmZml4X2FmdGVyIjoiIiwic2Vjb25kcyI6Imxlc3MgdGhhbiBhIG1pbnV0ZSIsIm1pbnV0ZSI6ImFib3V0IGEgbWludXRlIiwibWludXRlcyI6IiVkIG1pbnV0ZXMiLCJob3VyIjoiYWJvdXQgYW4gaG91ciIsImhvdXJzIjoiYWJvdXQgJWQgaG91cnMiLCJkYXkiOiJhIGRheSIsImRheXMiOiIlZCBkYXlzIiwibW9udGgiOiJhYm91dCBhIG1vbnRoIiwibW9udGhzIjoiJWQgbW9udGhzIiwieWVhciI6ImFib3V0IGEgeWVhciIsInllYXJzIjoiJWQgeWVhcnMifTt2YXIgdGVtcGxhdGVzPXtwcmVmaXg6YXVpX3RpbWVhZ29fcGFyYW1zLnByZWZpeF9hZ28sc3VmZml4OmF1aV90aW1lYWdvX3BhcmFtcy5zdWZmaXhfYWdvLHNlY29uZHM6YXVpX3RpbWVhZ29fcGFyYW1zLnNlY29uZHMsbWludXRlOmF1aV90aW1lYWdvX3BhcmFtcy5taW51dGUsbWludXRlczphdWlfdGltZWFnb19wYXJhbXMubWludXRlcyxob3VyOmF1aV90aW1lYWdvX3BhcmFtcy5ob3VyLGhvdXJzOmF1aV90aW1lYWdvX3BhcmFtcy5ob3VycyxkYXk6YXVpX3RpbWVhZ29fcGFyYW1zLmRheSxkYXlzOmF1aV90aW1lYWdvX3BhcmFtcy5kYXlzLG1vbnRoOmF1aV90aW1lYWdvX3BhcmFtcy5tb250aCxtb250aHM6YXVpX3RpbWVhZ29fcGFyYW1zLm1vbnRocyx5ZWFyOmF1aV90aW1lYWdvX3BhcmFtcy55ZWFyLHllYXJzOmF1aV90aW1lYWdvX3BhcmFtcy55ZWFyc307dmFyIHRlbXBsYXRlPWZ1bmN0aW9uKHQsbil7cmV0dXJuIHRlbXBsYXRlc1t0XSYmdGVtcGxhdGVzW3RdLnJlcGxhY2UoLyVkL2ksTWF0aC5hYnMoTWF0aC5yb3VuZChuKSkpfTt2YXIgdGltZXI9ZnVuY3Rpb24odGltZSl7aWYoIXRpbWUpcmV0dXJuO3RpbWU9dGltZS5yZXBsYWNlKC9cLlxkKy8sIiIpO3RpbWU9dGltZS5yZXBsYWNlKC8tLywiLyIpLnJlcGxhY2UoLy0vLCIvIik7dGltZT10aW1lLnJlcGxhY2UoL1QvLCIgIikucmVwbGFjZSgvWi8sIiBVVEMiKTt0aW1lPXRpbWUucmVwbGFjZSgvKFtcK1wtXVxkXGQpXDo/KFxkXGQpLywiICQxJDIiKTt0aW1lPW5ldyBEYXRlKHRpbWUqMTAwMHx8dGltZSk7dmFyIG5vdz1uZXcgRGF0ZSgpO3ZhciBzZWNvbmRzPSgobm93LmdldFRpbWUoKS10aW1lKSouMDAxKT4+MDt2YXIgbWludXRlcz1zZWNvbmRzLzYwO3ZhciBob3Vycz1taW51dGVzLzYwO3ZhciBkYXlzPWhvdXJzLzI0O3ZhciB5ZWFycz1kYXlzLzM2NTtyZXR1cm4gdGVtcGxhdGVzLnByZWZpeCsoc2Vjb25kczw0NSYmdGVtcGxhdGUoJ3NlY29uZHMnLHNlY29uZHMpfHxzZWNvbmRzPDkwJiZ0ZW1wbGF0ZSgnbWludXRlJywxKXx8bWludXRlczw0NSYmdGVtcGxhdGUoJ21pbnV0ZXMnLG1pbnV0ZXMpfHxtaW51dGVzPDkwJiZ0ZW1wbGF0ZSgnaG91cicsMSl8fGhvdXJzPDI0JiZ0ZW1wbGF0ZSgnaG91cnMnLGhvdXJzKXx8aG91cnM8NDImJnRlbXBsYXRlKCdkYXknLDEpfHxkYXlzPDMwJiZ0ZW1wbGF0ZSgnZGF5cycsZGF5cyl8fGRheXM8NDUmJnRlbXBsYXRlKCdtb250aCcsMSl8fGRheXM8MzY1JiZ0ZW1wbGF0ZSgnbW9udGhzJyxkYXlzLzMwKXx8eWVhcnM8MS41JiZ0ZW1wbGF0ZSgneWVhcicsMSl8fHRlbXBsYXRlKCd5ZWFycycseWVhcnMpKSt0ZW1wbGF0ZXMuc3VmZml4fTt2YXIgZWxlbWVudHM9ZG9jdW1lbnQuZ2V0RWxlbWVudHNCeUNsYXNzTmFtZShzZWxlY3Rvcik7aWYoc2VsZWN0b3ImJmVsZW1lbnRzJiZlbGVtZW50cy5sZW5ndGgpe2Zvcih2YXIgaSBpbiBlbGVtZW50cyl7dmFyICRlbD1lbGVtZW50c1tpXTtpZih0eXBlb2YgJGVsPT09J29iamVjdCcpeyRlbC5pbm5lckhUTUw9JzxpIGNsYXNzPSJmYXIgZmEtY2xvY2siPjwvaT4gJyt0aW1lcigkZWwuZ2V0QXR0cmlidXRlKCd0aXRsZScpfHwkZWwuZ2V0QXR0cmlidXRlKCdkYXRldGltZScpKX19fXNldFRpbWVvdXQoZnVuY3Rpb24oKXthdWlfdGltZV9hZ28oc2VsZWN0b3IpfSw2MDAwMCl9ZnVuY3Rpb24gYXVpX2luaXRfdG9vbHRpcHMoKXtpZih0eXBlb2YgalF1ZXJ5LmZuLnRvb2x0aXA9PT0nZnVuY3Rpb24nKXtqUXVlcnkoJ1tkYXRhLWJzLXRvZ2dsZT0idG9vbHRpcCJdJykudG9vbHRpcCgpfWVsc2V7Y29uc29sZS5sb2coJ2pRdWVyeS5mbi50b29sdGlwIG5vdCBmb3VuZCcpfWlmKHR5cGVvZiBqUXVlcnkuZm4ucG9wb3Zlcj09PSdmdW5jdGlvbicpe2pRdWVyeSgnW2RhdGEtYnMtdG9nZ2xlPSJwb3BvdmVyIl0nKS5wb3BvdmVyKCk7alF1ZXJ5KCdbZGF0YS1icy10b2dnbGU9InBvcG92ZXItaHRtbCJdJykucG9wb3Zlcih7aHRtbDp0cnVlLHNhbml0aXplOmZhbHNlfSl9ZWxzZXtjb25zb2xlLmxvZygnalF1ZXJ5LmZuLnBvcG92ZXIgbm90IGZvdW5kJyl9alF1ZXJ5KCdbZGF0YS1icy10b2dnbGU9InBvcG92ZXIiXSxbZGF0YS1icy10b2dnbGU9InBvcG92ZXItaHRtbCJdJykub24oJ2luc2VydGVkLmJzLnBvcG92ZXInLGZ1bmN0aW9uKCl7alF1ZXJ5KCdib2R5ID4gLnBvcG92ZXInKS53cmFwQWxsKCI8ZGl2IGNsYXNzPSdic3VpJyAvPiIpfSl9JGF1aV9kb2luZ19pbml0X2ZsYXRwaWNrcj1mYWxzZTtmdW5jdGlvbiBhdWlfaW5pdF9mbGF0cGlja3IoKXtpZih0eXBlb2YgalF1ZXJ5LmZuLmZsYXRwaWNrcj09PSJmdW5jdGlvbiImJiEkYXVpX2RvaW5nX2luaXRfZmxhdHBpY2tyKXskYXVpX2RvaW5nX2luaXRfZmxhdHBpY2tyPXRydWU7dHJ5e2ZsYXRwaWNrci5sb2NhbGl6ZSh7d2Vla2RheXM6e3Nob3J0aGFuZDpbJ1N1bicsJ01vbicsJ1R1ZScsJ1dlZCcsJ1RodScsJ0ZyaScsJ1NhdCddLGxvbmdoYW5kOlsnU3VuJywnTW9uJywnVHVlJywnV2VkJywnVGh1JywnRnJpJywnU2F0J10sfSxtb250aHM6e3Nob3J0aGFuZDpbJ0phbicsJ0ZlYicsJ01hcicsJ0FwcicsJ01heScsJ0p1bicsJ0p1bCcsJ0F1ZycsJ1NlcCcsJ09jdCcsJ05vdicsJ0RlYyddLGxvbmdoYW5kOlsnSmFudWFyeScsJ0ZlYnJ1YXJ5JywnTWFyY2gnLCdBcHJpbCcsJ01heScsJ0p1bmUnLCdKdWx5JywnQXVndXN0JywnU2VwdGVtYmVyJywnT2N0b2JlcicsJ05vdmVtYmVyJywnRGVjZW1iZXInXSx9LGRheXNJbk1vbnRoOlszMSwyOCwzMSwzMCwzMSwzMCwzMSwzMSwzMCwzMSwzMCwzMV0sZmlyc3REYXlPZldlZWs6MCxvcmRpbmFsOmZ1bmN0aW9uKG50aCl7dmFyIHM9bnRoJTEwMDtpZihzPjMmJnM8MjEpcmV0dXJuInRoIjtzd2l0Y2gocyUxMCl7Y2FzZSAxOnJldHVybiJzdCI7Y2FzZSAyOnJldHVybiJuZCI7Y2FzZSAzOnJldHVybiJyZCI7ZGVmYXVsdDpyZXR1cm4idGgifX0scmFuZ2VTZXBhcmF0b3I6JyB0byAnLHdlZWtBYmJyZXZpYXRpb246J1drJyxzY3JvbGxUaXRsZTonU2Nyb2xsIHRvIGluY3JlbWVudCcsdG9nZ2xlVGl0bGU6J0NsaWNrIHRvIHRvZ2dsZScsYW1QTTpbJ0FNJywnUE0nXSx5ZWFyQXJpYUxhYmVsOidZZWFyJyxob3VyQXJpYUxhYmVsOidIb3VyJyxtaW51dGVBcmlhTGFiZWw6J01pbnV0ZScsdGltZV8yNGhyOmZhbHNlfSl9Y2F0Y2goZXJyKXtjb25zb2xlLmxvZyhlcnIubWVzc2FnZSl9alF1ZXJ5KCdpbnB1dFtkYXRhLWF1aS1pbml0PSJmbGF0cGlja3IiXTpub3QoLmZsYXRwaWNrci1pbnB1dCknKS5mbGF0cGlja3IoKX0kYXVpX2RvaW5nX2luaXRfZmxhdHBpY2tyPWZhbHNlfSRhdWlfZG9pbmdfaW5pdF9pY29ucGlja2VyPWZhbHNlO2Z1bmN0aW9uIGF1aV9pbml0X2ljb25waWNrZXIoKXtpZih0eXBlb2YgalF1ZXJ5LmZuLmljb25waWNrZXI9PT0iZnVuY3Rpb24iJiYhJGF1aV9kb2luZ19pbml0X2ljb25waWNrZXIpeyRhdWlfZG9pbmdfaW5pdF9pY29ucGlja2VyPXRydWU7alF1ZXJ5KCdpbnB1dFtkYXRhLWF1aS1pbml0PSJpY29ucGlja2VyIl06bm90KC5pY29ucGlja2VyLWlucHV0KScpLmljb25waWNrZXIoKX0kYXVpX2RvaW5nX2luaXRfaWNvbnBpY2tlcj1mYWxzZX1mdW5jdGlvbiBhdWlfbW9kYWxfaWZyYW1lKCR0aXRsZSwkdXJsLCRmb290ZXIsJGRpc21pc3NpYmxlLCRjbGFzcywkZGlhbG9nX2NsYXNzLCRib2R5X2NsYXNzLHJlc3BvbnNpdmUpe2lmKCEkYm9keV9jbGFzcyl7JGJvZHlfY2xhc3M9J3AtMCd9dmFyIHdDbGFzcz0ndGV4dC1jZW50ZXIgcG9zaXRpb24tYWJzb2x1dGUgdy0xMDAgdGV4dC1kYXJrIG92ZXJsYXkgb3ZlcmxheS13aGl0ZSBwLTAgbS0wIGQtZmxleCBqdXN0aWZ5LWNvbnRlbnQtY2VudGVyIGFsaWduLWl0ZW1zLWNlbnRlcic7dmFyIHdTdHlsZT0nJzt2YXIgc1N0eWxlPScnO3ZhciAkYm9keT0iIixzQ2xhc3M9InctMTAwIHAtMCBtLTAiO2lmKHJlc3BvbnNpdmUpeyRib2R5Kz0nPGRpdiBjbGFzcz0iZW1iZWQtcmVzcG9uc2l2ZSBlbWJlZC1yZXNwb25zaXZlLTE2Ynk5IHJhdGlvIHJhdGlvLTE2eDkiPic7d0NsYXNzKz0nIGgtMTAwJztzQ2xhc3MrPScgZW1iZWQtcmVzcG9uc2l2ZS1pdGVtJ31lbHNle3dDbGFzcys9JyB2aC0xMDAnO3NDbGFzcys9JyB2aC0xMDAnO3dTdHlsZSs9JyBoZWlnaHQ6IDkwdmggIWltcG9ydGFudDsnO3NTdHlsZSs9JyBoZWlnaHQ6IDkwdmggIWltcG9ydGFudDsnfSRib2R5Kz0nPGRpdiBjbGFzcz0iYWMtcHJldmlldy1sb2FkaW5nICcrd0NsYXNzKyciIHN0eWxlPSJsZWZ0OjA7dG9wOjA7Jyt3U3R5bGUrJyI+PGRpdiBjbGFzcz0ic3Bpbm5lci1ib3JkZXIiIHJvbGU9InN0YXR1cyI+PC9kaXY+PC9kaXY+JzskYm9keSs9JzxpZnJhbWUgaWQ9ImVtYmVkTW9kYWwtaWZyYW1lIiBjbGFzcz0iJytzQ2xhc3MrJyIgc3R5bGU9Iicrc1N0eWxlKyciIHNyYz0iIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmcmFtZWJvcmRlcj0iMCIgYWxsb3d0cmFuc3BhcmVuY3k9InRydWUiPjwvaWZyYW1lPic7aWYocmVzcG9uc2l2ZSl7JGJvZHkrPSc8L2Rpdj4nfSRtPWF1aV9tb2RhbCgkdGl0bGUsJGJvZHksJGZvb3RlciwkZGlzbWlzc2libGUsJGNsYXNzLCRkaWFsb2dfY2xhc3MsJGJvZHlfY2xhc3MpO2NvbnN0IGF1aU1vZGFsPWRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdhdWktbW9kYWwnKTthdWlNb2RhbC5hZGRFdmVudExpc3RlbmVyKCdzaG93bi5icy5tb2RhbCcsZnVuY3Rpb24oZSl7aUZyYW1lPWpRdWVyeSgnI2VtYmVkTW9kYWwtaWZyYW1lJyk7alF1ZXJ5KCcuYWMtcHJldmlldy1sb2FkaW5nJykucmVtb3ZlQ2xhc3MoJ2Qtbm9uZScpLmFkZENsYXNzKCdkLWZsZXgnKTtpRnJhbWUuYXR0cih7c3JjOiR1cmx9KTtpRnJhbWUubG9hZChmdW5jdGlvbigpe2pRdWVyeSgnLmFjLXByZXZpZXctbG9hZGluZycpLnJlbW92ZUNsYXNzKCdkLWZsZXgnKS5hZGRDbGFzcygnZC1ub25lJyl9KX0pO3JldHVybiAkbX1mdW5jdGlvbiBhdWlfbW9kYWwoJHRpdGxlLCRib2R5LCRmb290ZXIsJGRpc21pc3NpYmxlLCRjbGFzcywkZGlhbG9nX2NsYXNzLCRib2R5X2NsYXNzKXtpZighJGNsYXNzKXskY2xhc3M9Jyd9aWYoISRkaWFsb2dfY2xhc3MpeyRkaWFsb2dfY2xhc3M9Jyd9aWYoISRib2R5KXskYm9keT0nPGRpdiBjbGFzcz0idGV4dC1jZW50ZXIiPjxkaXYgY2xhc3M9InNwaW5uZXItYm9yZGVyIiByb2xlPSJzdGF0dXMiPjwvZGl2PjwvZGl2Pid9alF1ZXJ5KCcuYXVpLW1vZGFsJykucmVtb3ZlKCk7alF1ZXJ5KCcubW9kYWwtYmFja2Ryb3AnKS5yZW1vdmUoKTtqUXVlcnkoJ2JvZHknKS5jc3Moe292ZXJmbG93OicnLCdwYWRkaW5nLXJpZ2h0JzonJ30pO3ZhciAkbW9kYWw9Jyc7JG1vZGFsKz0nPGRpdiBpZD0iYXVpLW1vZGFsIiBjbGFzcz0ibW9kYWwgYXVpLW1vZGFsIGZhZGUgc2hhZG93IGJzdWkgJyskY2xhc3MrJyIgdGFiaW5kZXg9Ii0xIj4nKyc8ZGl2IGNsYXNzPSJtb2RhbC1kaWFsb2cgbW9kYWwtZGlhbG9nLWNlbnRlcmVkICcrJGRpYWxvZ19jbGFzcysnIj4nKyc8ZGl2IGNsYXNzPSJtb2RhbC1jb250ZW50IGJvcmRlci0wIHNoYWRvdyI+JztpZigkdGl0bGUpeyRtb2RhbCs9JzxkaXYgY2xhc3M9Im1vZGFsLWhlYWRlciI+JysnPGg1IGNsYXNzPSJtb2RhbC10aXRsZSI+JyskdGl0bGUrJzwvaDU+JztpZigkZGlzbWlzc2libGUpeyRtb2RhbCs9JzxidXR0b24gdHlwZT0iYnV0dG9uIiBjbGFzcz0iYnRuLWNsb3NlIiBkYXRhLWJzLWRpc21pc3M9Im1vZGFsIiBhcmlhLWxhYmVsPSJDbG9zZSI+JysnPC9idXR0b24+J30kbW9kYWwrPSc8L2Rpdj4nfSRtb2RhbCs9JzxkaXYgY2xhc3M9Im1vZGFsLWJvZHkgJyskYm9keV9jbGFzcysnIj4nKyRib2R5Kyc8L2Rpdj4nO2lmKCRmb290ZXIpeyRtb2RhbCs9JzxkaXYgY2xhc3M9Im1vZGFsLWZvb3RlciI+JyskZm9vdGVyKyc8L2Rpdj4nfSRtb2RhbCs9JzwvZGl2PicrJzwvZGl2PicrJzwvZGl2Pic7alF1ZXJ5KCdib2R5JykuYXBwZW5kKCRtb2RhbCk7Y29uc3QgYXllTW9kYWw9bmV3IGJvb3RzdHJhcC5Nb2RhbCgnLmF1aS1tb2RhbCcse30pO2F5ZU1vZGFsLnNob3coKX1mdW5jdGlvbiBhdWlfY29uZGl0aW9uYWxfZmllbGRzKGZvcm0pe2pRdWVyeShmb3JtKS5maW5kKCIuYXVpLWNvbmRpdGlvbmFsLWZpZWxkIikuZWFjaChmdW5jdGlvbigpe3ZhciAkZWxlbWVudF9yZXF1aXJlPWpRdWVyeSh0aGlzKS5kYXRhKCdlbGVtZW50LXJlcXVpcmUnKTtpZigkZWxlbWVudF9yZXF1aXJlKXskZWxlbWVudF9yZXF1aXJlPSRlbGVtZW50X3JlcXVpcmUucmVwbGFjZSgiJiMwMzk7IiwiJyIpOyRlbGVtZW50X3JlcXVpcmU9JGVsZW1lbnRfcmVxdWlyZS5yZXBsYWNlKCImcXVvdDsiLCciJyk7aWYoYXVpX2NoZWNrX2Zvcm1fY29uZGl0aW9uKCRlbGVtZW50X3JlcXVpcmUsZm9ybSkpe2pRdWVyeSh0aGlzKS5yZW1vdmVDbGFzcygnZC1ub25lJyl9ZWxzZXtqUXVlcnkodGhpcykuYWRkQ2xhc3MoJ2Qtbm9uZScpfX19KX1mdW5jdGlvbiBhdWlfY2hlY2tfZm9ybV9jb25kaXRpb24oY29uZGl0aW9uLGZvcm0pe2lmKGZvcm0pe2NvbmRpdGlvbj1jb25kaXRpb24ucmVwbGFjZSgvXChmb3JtXCkvZywiKCciK2Zvcm0rIicpIil9cmV0dXJuIG5ldyBGdW5jdGlvbigicmV0dXJuICIrY29uZGl0aW9uKyI7IikoKX1qUXVlcnkuZm4uYXVpX2lzT25TY3JlZW49ZnVuY3Rpb24oKXt2YXIgd2luPWpRdWVyeSh3aW5kb3cpO3ZhciB2aWV3cG9ydD17dG9wOndpbi5zY3JvbGxUb3AoKSxsZWZ0Ondpbi5zY3JvbGxMZWZ0KCl9O3ZpZXdwb3J0LnJpZ2h0PXZpZXdwb3J0LmxlZnQrd2luLndpZHRoKCk7dmlld3BvcnQuYm90dG9tPXZpZXdwb3J0LnRvcCt3aW4uaGVpZ2h0KCk7dmFyIGJvdW5kcz10aGlzLm9mZnNldCgpO2JvdW5kcy5yaWdodD1ib3VuZHMubGVmdCt0aGlzLm91dGVyV2lkdGgoKTtib3VuZHMuYm90dG9tPWJvdW5kcy50b3ArdGhpcy5vdXRlckhlaWdodCgpO3JldHVybighKHZpZXdwb3J0LnJpZ2h0PGJvdW5kcy5sZWZ0fHx2aWV3cG9ydC5sZWZ0PmJvdW5kcy5yaWdodHx8dmlld3BvcnQuYm90dG9tPGJvdW5kcy50b3B8fHZpZXdwb3J0LnRvcD5ib3VuZHMuYm90dG9tKSl9O2Z1bmN0aW9uIGF1aV9jYXJvdXNlbF9tYXliZV9zaG93X211bHRpcGxlX2l0ZW1zKCRjYXJvdXNlbCl7dmFyICRpdGVtcz17fTt2YXIgJGl0ZW1fY291bnQ9MDtpZighalF1ZXJ5KCRjYXJvdXNlbCkuZmluZCgnLmNhcm91c2VsLWlubmVyLW9yaWdpbmFsJykubGVuZ3RoKXtqUXVlcnkoJGNhcm91c2VsKS5hcHBlbmQoJzxkaXYgY2xhc3M9ImNhcm91c2VsLWlubmVyLW9yaWdpbmFsIGQtbm9uZSI+JytqUXVlcnkoJGNhcm91c2VsKS5maW5kKCcuY2Fyb3VzZWwtaW5uZXInKS5odG1sKCkucmVwbGFjZUFsbCgnY2Fyb3VzZWwtaXRlbScsJ25vdC1jYXJvdXNlbC1pdGVtJykrJzwvZGl2PicpfWpRdWVyeSgkY2Fyb3VzZWwpLmZpbmQoJy5jYXJvdXNlbC1pbm5lci1vcmlnaW5hbCAubm90LWNhcm91c2VsLWl0ZW0nKS5lYWNoKGZ1bmN0aW9uKCl7JGl0ZW1zWyRpdGVtX2NvdW50XT1qUXVlcnkodGhpcykuaHRtbCgpOyRpdGVtX2NvdW50Kyt9KTtpZighJGl0ZW1fY291bnQpe3JldHVybn1pZihqUXVlcnkod2luZG93KS53aWR0aCgpPD01NzYpe2lmKGpRdWVyeSgkY2Fyb3VzZWwpLmZpbmQoJy5jYXJvdXNlbC1pbm5lcicpLmhhc0NsYXNzKCdhdWktbXVsdGlwbGUtaXRlbXMnKSYmalF1ZXJ5KCRjYXJvdXNlbCkuZmluZCgnLmNhcm91c2VsLWlubmVyLW9yaWdpbmFsJykubGVuZ3RoKXtqUXVlcnkoJGNhcm91c2VsKS5maW5kKCcuY2Fyb3VzZWwtaW5uZXInKS5yZW1vdmVDbGFzcygnYXVpLW11bHRpcGxlLWl0ZW1zJykuaHRtbChqUXVlcnkoJGNhcm91c2VsKS5maW5kKCcuY2Fyb3VzZWwtaW5uZXItb3JpZ2luYWwnKS5odG1sKCkucmVwbGFjZUFsbCgnbm90LWNhcm91c2VsLWl0ZW0nLCdjYXJvdXNlbC1pdGVtJykpO2pRdWVyeSgkY2Fyb3VzZWwpLmZpbmQoIi5jYXJvdXNlbC1pbmRpY2F0b3JzIGxpIikucmVtb3ZlQ2xhc3MoImQtbm9uZSIpfX1lbHNle3ZhciAkbWRfY291bnQ9alF1ZXJ5KCRjYXJvdXNlbCkuZGF0YSgnbGltaXRfc2hvdycpO3ZhciAkbWRfY29sc19jb3VudD1qUXVlcnkoJGNhcm91c2VsKS5kYXRhKCdjb2xzX3Nob3cnKTt2YXIgJG5ld19pdGVtcz0nJzt2YXIgJG5ld19pdGVtc19jb3VudD0wO3ZhciAkbmV3X2l0ZW1fY291bnQ9MDt2YXIgJGNsb3NlZD10cnVlO09iamVjdC5rZXlzKCRpdGVtcykuZm9yRWFjaChmdW5jdGlvbihrZXksaW5kZXgpe2lmKGluZGV4IT0wJiZOdW1iZXIuaXNJbnRlZ2VyKGluZGV4LyRtZF9jb3VudCkpeyRuZXdfaXRlbXMrPSc8L2Rpdj48L2Rpdj4nOyRjbG9zZWQ9dHJ1ZX1pZihpbmRleD09MHx8TnVtYmVyLmlzSW50ZWdlcihpbmRleC8kbWRfY291bnQpKXskcm93X2NvbHNfY2xhc3M9JG1kX2NvbHNfY291bnQ/JyBnLWxnLTQgZy0zIHJvdy1jb2xzLTEgcm93LWNvbHMtbGctJyskbWRfY29sc19jb3VudDonJzskYWN0aXZlPWluZGV4PT0wPydhY3RpdmUnOicnOyRuZXdfaXRlbXMrPSc8ZGl2IGNsYXNzPSJjYXJvdXNlbC1pdGVtICcrJGFjdGl2ZSsnIj48ZGl2IGNsYXNzPSJyb3cnKyRyb3dfY29sc19jbGFzcysnICI+JzskY2xvc2VkPWZhbHNlOyRuZXdfaXRlbXNfY291bnQrKzskbmV3X2l0ZW1fY291bnQ9MH0kbmV3X2l0ZW1zKz0nPGRpdiBjbGFzcz0iY29sICI+JyskaXRlbXNbaW5kZXhdKyc8L2Rpdj4nOyRuZXdfaXRlbV9jb3VudCsrfSk7aWYoISRjbG9zZWQpe2lmKCRtZF9jb3VudC0kbmV3X2l0ZW1fY291bnQ+MCl7JHBsYWNlaG9sZGVyX2NvdW50PSRtZF9jb3VudC0kbmV3X2l0ZW1fY291bnQ7d2hpbGUoJHBsYWNlaG9sZGVyX2NvdW50PjApeyRuZXdfaXRlbXMrPSc8ZGl2IGNsYXNzPSJjb2wgIj48L2Rpdj4nOyRwbGFjZWhvbGRlcl9jb3VudC0tfX0kbmV3X2l0ZW1zKz0nPC9kaXY+PC9kaXY+J31qUXVlcnkoJGNhcm91c2VsKS5maW5kKCcuY2Fyb3VzZWwtaW5uZXInKS5hZGRDbGFzcygnYXVpLW11bHRpcGxlLWl0ZW1zJykuaHRtbCgkbmV3X2l0ZW1zKTtqUXVlcnkoJGNhcm91c2VsKS5maW5kKCcuY2Fyb3VzZWwtaXRlbS5hY3RpdmUgaW1nJykuZWFjaChmdW5jdGlvbigpe2lmKHJlYWxfc3Jjc2V0PWpRdWVyeSh0aGlzKS5hdHRyKCJkYXRhLXNyY3NldCIpKXtpZighalF1ZXJ5KHRoaXMpLmF0dHIoInNyY3NldCIpKWpRdWVyeSh0aGlzKS5hdHRyKCJzcmNzZXQiLHJlYWxfc3Jjc2V0KX1pZihyZWFsX3NyYz1qUXVlcnkodGhpcykuYXR0cigiZGF0YS1zcmMiKSl7aWYoIWpRdWVyeSh0aGlzKS5hdHRyKCJzcmNzZXQiKSlqUXVlcnkodGhpcykuYXR0cigic3JjIixyZWFsX3NyYyl9fSk7JGhpZGVfY291bnQ9JG5ld19pdGVtc19jb3VudC0xO2pRdWVyeSgkY2Fyb3VzZWwpLmZpbmQoIi5jYXJvdXNlbC1pbmRpY2F0b3JzIGxpOmd0KCIrJGhpZGVfY291bnQrIikiKS5hZGRDbGFzcygiZC1ub25lIil9alF1ZXJ5KHdpbmRvdykudHJpZ2dlcigiYXVpX2Nhcm91c2VsX211bHRpcGxlIil9ZnVuY3Rpb24gYXVpX2luaXRfY2Fyb3VzZWxfbXVsdGlwbGVfaXRlbXMoKXtqUXVlcnkod2luZG93KS5vbigicmVzaXplIixmdW5jdGlvbigpe2pRdWVyeSgnLmNhcm91c2VsLW11bHRpcGxlLWl0ZW1zJykuZWFjaChmdW5jdGlvbigpe2F1aV9jYXJvdXNlbF9tYXliZV9zaG93X211bHRpcGxlX2l0ZW1zKHRoaXMpfSl9KTtqUXVlcnkoJy5jYXJvdXNlbC1tdWx0aXBsZS1pdGVtcycpLmVhY2goZnVuY3Rpb24oKXthdWlfY2Fyb3VzZWxfbWF5YmVfc2hvd19tdWx0aXBsZV9pdGVtcyh0aGlzKX0pfWZ1bmN0aW9uIGluaXRfbmF2X3N1Yl9tZW51cygpe2pRdWVyeSgnLm5hdmJhci1tdWx0aS1zdWItbWVudXMnKS5lYWNoKGZ1bmN0aW9uKGksb2JqKXtpZihqUXVlcnkodGhpcykuaGFzQ2xhc3MoImhhcy1zdWItc3ViLW1lbnVzIikpe3JldHVybiB0cnVlfWpRdWVyeSh0aGlzKS5hZGRDbGFzcygnaGFzLXN1Yi1zdWItbWVudXMnKTtqUXVlcnkodGhpcykuZmluZCgnLmRyb3Bkb3duLW1lbnUgYS5kcm9wZG93bi10b2dnbGUnKS5vbignY2xpY2snLGZ1bmN0aW9uKGUpe3ZhciAkZWw9alF1ZXJ5KHRoaXMpOyRlbC50b2dnbGVDbGFzcygnYWN0aXZlLWRyb3Bkb3duJyk7dmFyICRwYXJlbnQ9alF1ZXJ5KHRoaXMpLm9mZnNldFBhcmVudCgiLmRyb3Bkb3duLW1lbnUiKTtpZighalF1ZXJ5KHRoaXMpLm5leHQoKS5oYXNDbGFzcygnc2hvdycpKXtqUXVlcnkodGhpcykucGFyZW50cygnLmRyb3Bkb3duLW1lbnUnKS5maXJzdCgpLmZpbmQoJy5zaG93JykucmVtb3ZlQ2xhc3MoInNob3ciKX12YXIgJHN1Yk1lbnU9alF1ZXJ5KHRoaXMpLm5leHQoIi5kcm9wZG93bi1tZW51Iik7JHN1Yk1lbnUudG9nZ2xlQ2xhc3MoJ3Nob3cnKTtqUXVlcnkodGhpcykucGFyZW50KCJsaSIpLnRvZ2dsZUNsYXNzKCdzaG93Jyk7alF1ZXJ5KHRoaXMpLnBhcmVudHMoJ2xpLm5hdi1pdGVtLmRyb3Bkb3duLnNob3cnKS5vbignaGlkZGVuLmJzLmRyb3Bkb3duJyxmdW5jdGlvbihlKXtqUXVlcnkoJy5kcm9wZG93bi1tZW51IC5zaG93JykucmVtb3ZlQ2xhc3MoInNob3ciKTskZWwucmVtb3ZlQ2xhc3MoJ2FjdGl2ZS1kcm9wZG93bicpfSk7aWYoISRwYXJlbnQucGFyZW50KCkuaGFzQ2xhc3MoJ25hdmJhci1uYXYnKSl7JGVsLm5leHQoKS5hZGRDbGFzcygncG9zaXRpb24tcmVsYXRpdmUgYm9yZGVyLXRvcCBib3JkZXItYm90dG9tJyl9cmV0dXJuIGZhbHNlfSl9KX1mdW5jdGlvbiBhdWlfbGlnaHRib3hfZW1iZWQoJGxpbmssZWxlKXtlbGUucHJldmVudERlZmF1bHQoKTtqUXVlcnkoJy5hdWktY2Fyb3VzZWwtbW9kYWwnKS5yZW1vdmUoKTt2YXIgJG1vZGFsPSc8ZGl2IGNsYXNzPSJtb2RhbCBmYWRlIGF1aS1jYXJvdXNlbC1tb2RhbCBic3VpIiBpZD0iYXVpLWNhcm91c2VsLW1vZGFsIiB0YWJpbmRleD0iLTEiIHJvbGU9ImRpYWxvZyIgYXJpYS1sYWJlbGxlZGJ5PSJhdWktbW9kYWwtdGl0bGUiIGFyaWEtaGlkZGVuPSJ0cnVlIj48ZGl2IGNsYXNzPSJtb2RhbC1kaWFsb2cgbW9kYWwtZGlhbG9nLWNlbnRlcmVkIG1vZGFsLXhsIG13LTEwMCI+PGRpdiBjbGFzcz0ibW9kYWwtY29udGVudCBiZy10cmFuc3BhcmVudCBib3JkZXItMCBzaGFkb3ctbm9uZSI+PGRpdiBjbGFzcz0ibW9kYWwtaGVhZGVyIj48aDUgY2xhc3M9Im1vZGFsLXRpdGxlIiBpZD0iYXVpLW1vZGFsLXRpdGxlIj48L2g1PjwvZGl2PjxkaXYgY2xhc3M9Im1vZGFsLWJvZHkgdGV4dC1jZW50ZXIiPjxpIGNsYXNzPSJmYXMgZmEtY2lyY2xlLW5vdGNoIGZhLXNwaW4gZmEtM3giPjwvaT48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj4nO2pRdWVyeSgnYm9keScpLmFwcGVuZCgkbW9kYWwpO2NvbnN0IGF5ZU1vZGFsPW5ldyBib290c3RyYXAuTW9kYWwoJy5hdWktY2Fyb3VzZWwtbW9kYWwnLHt9KTtjb25zdCBteU1vZGFsRWw9ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2F1aS1jYXJvdXNlbC1tb2RhbCcpO215TW9kYWxFbC5hZGRFdmVudExpc3RlbmVyKCdoaWRkZW4uYnMubW9kYWwnLGV2ZW50PT57alF1ZXJ5KCIuYXVpLWNhcm91c2VsLW1vZGFsIGlmcmFtZSIpLmF0dHIoJ3NyYycsJycpfSk7alF1ZXJ5KCcuYXVpLWNhcm91c2VsLW1vZGFsJykub24oJ3Nob3duLmJzLm1vZGFsJyxmdW5jdGlvbihlKXtqUXVlcnkoJy5hdWktY2Fyb3VzZWwtbW9kYWwgLmNhcm91c2VsLWl0ZW0uYWN0aXZlJykuZmluZCgnaWZyYW1lJykuZWFjaChmdW5jdGlvbigpe3ZhciAkaWZyYW1lPWpRdWVyeSh0aGlzKTskaWZyYW1lLnBhcmVudCgpLmZpbmQoJy5hYy1wcmV2aWV3LWxvYWRpbmcnKS5yZW1vdmVDbGFzcygnZC1ub25lJykuYWRkQ2xhc3MoJ2QtZmxleCcpO2lmKCEkaWZyYW1lLmF0dHIoJ3NyYycpJiYkaWZyYW1lLmRhdGEoJ3NyYycpKXskaWZyYW1lLmF0dHIoJ3NyYycsJGlmcmFtZS5kYXRhKCdzcmMnKSl9JGlmcmFtZS5vbignbG9hZCcsZnVuY3Rpb24oKXtzZXRUaW1lb3V0KGZ1bmN0aW9uKCl7JGlmcmFtZS5wYXJlbnQoKS5maW5kKCcuYWMtcHJldmlldy1sb2FkaW5nJykucmVtb3ZlQ2xhc3MoJ2QtZmxleCcpLmFkZENsYXNzKCdkLW5vbmUnKX0sMTI1MCl9KX0pfSk7JGNvbnRhaW5lcj1qUXVlcnkoJGxpbmspLmNsb3Nlc3QoJy5hdWktZ2FsbGVyeScpOyRjbGlja2VkX2hyZWY9alF1ZXJ5KCRsaW5rKS5hdHRyKCdocmVmJyk7JGltYWdlcz1bXTskY29udGFpbmVyLmZpbmQoJy5hdWktbGlnaHRib3gtaW1hZ2UsIC5hdWktbGlnaHRib3gtaWZyYW1lJykuZWFjaChmdW5jdGlvbigpe3ZhciBhPXRoaXM7dmFyIGhyZWY9alF1ZXJ5KGEpLmF0dHIoJ2hyZWYnKTtpZihocmVmKXskaW1hZ2VzLnB1c2goaHJlZil9fSk7aWYoJGltYWdlcy5sZW5ndGgpe3ZhciAkY2Fyb3VzZWw9JzxkaXYgaWQ9ImF1aS1lbWJlZC1zbGlkZXItbW9kYWwiIGNsYXNzPSJjYXJvdXNlbCBzbGlkZSIgPic7aWYoJGltYWdlcy5sZW5ndGg+MSl7JGk9MDskY2Fyb3VzZWwrPSc8b2wgY2xhc3M9ImNhcm91c2VsLWluZGljYXRvcnMgcG9zaXRpb24tZml4ZWQiPic7JGNvbnRhaW5lci5maW5kKCcuYXVpLWxpZ2h0Ym94LWltYWdlLCAuYXVpLWxpZ2h0Ym94LWlmcmFtZScpLmVhY2goZnVuY3Rpb24oKXskYWN0aXZlPSRjbGlja2VkX2hyZWY9PWpRdWVyeSh0aGlzKS5hdHRyKCdocmVmJyk/J2FjdGl2ZSc6Jyc7JGNhcm91c2VsKz0nPGxpIGRhdGEtYnMtdGFyZ2V0PSIjYXVpLWVtYmVkLXNsaWRlci1tb2RhbCIgZGF0YS1icy1zbGlkZS10bz0iJyskaSsnIiBjbGFzcz0iJyskYWN0aXZlKyciPjwvbGk+JzskaSsrfSk7JGNhcm91c2VsKz0nPC9vbD4nfSRpPTA7JHJ0bF9jbGFzcz0nanVzdGlmeS1jb250ZW50LWVuZCc7JGNhcm91c2VsKz0nPGRpdiBjbGFzcz0iY2Fyb3VzZWwtaW5uZXIgZC1mbGV4IGFsaWduLWl0ZW1zLWNlbnRlciAnKyRydGxfY2xhc3MrJyI+JzskY29udGFpbmVyLmZpbmQoJy5hdWktbGlnaHRib3gtaW1hZ2UnKS5lYWNoKGZ1bmN0aW9uKCl7dmFyIGE9dGhpczt2YXIgaHJlZj1qUXVlcnkoYSkuYXR0cignaHJlZicpOyRhY3RpdmU9JGNsaWNrZWRfaHJlZj09alF1ZXJ5KHRoaXMpLmF0dHIoJ2hyZWYnKT8nYWN0aXZlJzonJzskY2Fyb3VzZWwrPSc8ZGl2IGNsYXNzPSJjYXJvdXNlbC1pdGVtICcrJGFjdGl2ZSsnIj48ZGl2Pic7dmFyIGNzc19oZWlnaHQ9d2luZG93LmlubmVyV2lkdGg+d2luZG93LmlubmVySGVpZ2h0Pyc5MHZoJzonYXV0byc7dmFyIHNyY3NldD1qUXVlcnkoYSkuZmluZCgnaW1nJykuYXR0cignc3Jjc2V0Jyk7dmFyIHNpemVzPScnO2lmKHNyY3NldCl7dmFyIHNvdXJjZXM9c3Jjc2V0LnNwbGl0KCcsJykubWFwKHM9Pnt2YXIgcGFydHM9cy50cmltKCkuc3BsaXQoL1xzKy8pLmZpbHRlcihCb29sZWFuKTtpZihwYXJ0cy5sZW5ndGg+PTIpe3JldHVybnt3aWR0aDpwYXJzZUludChwYXJ0c1sxXS5yZXBsYWNlKCd3JywnJykpLGRlc2NyaXB0b3I6cGFydHNbMV0ucmVwbGFjZSgndycsJ3B4Jyl9fXJldHVybiBudWxsfSkuZmlsdGVyKGl0ZW09Pml0ZW0hPT1udWxsKS5zb3J0KChhLGIpPT5iLndpZHRoLWEud2lkdGgpO3NpemVzPXNvdXJjZXMubWFwKChzb3VyY2UsaW5kZXgsYXJyYXkpPT57aWYoaW5kZXg9PT0wKXtyZXR1cm4gYCR7c291cmNlLmRlc2NyaXB0b3J9YH1lbHNle3JldHVybiBgKG1heC13aWR0aDoke3NvdXJjZS53aWR0aC0xfXB4KSR7YXJyYXlbaW5kZXgtMV0uZGVzY3JpcHRvcn1gfX0pLnJldmVyc2UoKS5qb2luKCcsICcpfXZhciBpbWc9aHJlZj9qUXVlcnkoYSkuZmluZCgnaW1nJykuY2xvbmUoKS5hdHRyKCdzcmMnLGhyZWYpLmF0dHIoJ3NpemVzJyxzaXplcykucmVtb3ZlQ2xhc3MoKS5hZGRDbGFzcygnbXgtYXV0byBkLWJsb2NrIHctYXV0byByb3VuZGVkJykuY3NzKHsnbWF4LWhlaWdodCc6Y3NzX2hlaWdodCwnbWF4LXdpZHRoJzonOTglJ30pLmdldCgwKS5vdXRlckhUTUw6alF1ZXJ5KGEpLmZpbmQoJ2ltZycpLmNsb25lKCkucmVtb3ZlQ2xhc3MoKS5hZGRDbGFzcygnbXgtYXV0byBkLWJsb2NrIHctYXV0byByb3VuZGVkJykuY3NzKHsnbWF4LWhlaWdodCc6Y3NzX2hlaWdodCwnbWF4LXdpZHRoJzonOTglJ30pLmdldCgwKS5vdXRlckhUTUw7JGNhcm91c2VsKz1pbWc7aWYoalF1ZXJ5KGEpLnBhcmVudCgpLmZpbmQoJy5jYXJvdXNlbC1jYXB0aW9uJykubGVuZ3RoKXskY2Fyb3VzZWwrPWpRdWVyeShhKS5wYXJlbnQoKS5maW5kKCcuY2Fyb3VzZWwtY2FwdGlvbicpLmNsb25lKCkucmVtb3ZlQ2xhc3MoJ3NyLW9ubHkgdmlzdWFsbHktaGlkZGVuJykuZ2V0KDApLm91dGVySFRNTH1lbHNlIGlmKGpRdWVyeShhKS5wYXJlbnQoKS5maW5kKCcuZmlndXJlLWNhcHRpb24nKS5sZW5ndGgpeyRjYXJvdXNlbCs9alF1ZXJ5KGEpLnBhcmVudCgpLmZpbmQoJy5maWd1cmUtY2FwdGlvbicpLmNsb25lKCkucmVtb3ZlQ2xhc3MoJ3NyLW9ubHkgdmlzdWFsbHktaGlkZGVuJykuYWRkQ2xhc3MoJ2Nhcm91c2VsLWNhcHRpb24nKS5nZXQoMCkub3V0ZXJIVE1MfSRjYXJvdXNlbCs9JzwvZGl2PjwvZGl2Pic7JGkrK30pOyRjb250YWluZXIuZmluZCgnLmF1aS1saWdodGJveC1pZnJhbWUnKS5lYWNoKGZ1bmN0aW9uKCl7dmFyIGE9dGhpczt2YXIgY3NzX2hlaWdodD13aW5kb3cuaW5uZXJXaWR0aD53aW5kb3cuaW5uZXJIZWlnaHQ/Jzkwdmg7JzonYXV0bzsnO3ZhciBzdHlsZVdpZHRoPSRpbWFnZXMubGVuZ3RoPjE/J21heC13aWR0aDo3MCU7JzonJzskYWN0aXZlPSRjbGlja2VkX2hyZWY9PWpRdWVyeSh0aGlzKS5hdHRyKCdocmVmJyk/J2FjdGl2ZSc6Jyc7JGNhcm91c2VsKz0nPGRpdiBjbGFzcz0iY2Fyb3VzZWwtaXRlbSAnKyRhY3RpdmUrJyI+PGRpdiBjbGFzcz0ibW9kYWwteGwgbXgtYXV0byByYXRpbyByYXRpby0xNng5IiBzdHlsZT0ibWF4LWhlaWdodDonK2Nzc19oZWlnaHQrc3R5bGVXaWR0aCsnIj4nO3ZhciB1cmw9alF1ZXJ5KGEpLmF0dHIoJ2hyZWYnKTt2YXIgaWZyYW1lPSc8ZGl2IGNsYXNzPSJhYy1wcmV2aWV3LWxvYWRpbmcgdGV4dC1saWdodCBkLW5vbmUiIHN0eWxlPSJsZWZ0OjA7dG9wOjA7aGVpZ2h0OicrY3NzX2hlaWdodCsnIj48ZGl2IGNsYXNzPSJzcGlubmVyLWJvcmRlciBtLWF1dG8iIHJvbGU9InN0YXR1cyI+PC9kaXY+PC9kaXY+JztpZnJhbWUrPSc8aWZyYW1lIGNsYXNzPSJhdWktY2Fyb3VzZWwtaWZyYW1lIiBzdHlsZT0iaGVpZ2h0OicrY3NzX2hlaWdodCsnIiBzcmM9IiIgZGF0YS1zcmM9IicrdXJsKyc/cmVsPTAmYW1wO3Nob3dpbmZvPTAmYW1wO21vZGVzdGJyYW5kaW5nPTEmYW1wO2F1dG9wbGF5PTEiIGFsbG93PSJhdXRvcGxheSI+PC9pZnJhbWU+Jzt2YXIgaW1nPWlmcmFtZTskY2Fyb3VzZWwrPWltZzskY2Fyb3VzZWwrPSc8L2Rpdj48L2Rpdj4nOyRpKyt9KTskY2Fyb3VzZWwrPSc8L2Rpdj4nO2lmKCRpbWFnZXMubGVuZ3RoPjEpeyRjYXJvdXNlbCs9JzxhIGNsYXNzPSJjYXJvdXNlbC1jb250cm9sLXByZXYiIGhyZWY9IiNhdWktZW1iZWQtc2xpZGVyLW1vZGFsIiByb2xlPSJidXR0b24iIGRhdGEtYnMtc2xpZGU9InByZXYiPic7JGNhcm91c2VsKz0nPHNwYW4gY2xhc3M9ImNhcm91c2VsLWNvbnRyb2wtcHJldi1pY29uIiBhcmlhLWhpZGRlbj0idHJ1ZSI+PC9zcGFuPic7JGNhcm91c2VsKz0nIDxhIGNsYXNzPSJjYXJvdXNlbC1jb250cm9sLW5leHQiIGhyZWY9IiNhdWktZW1iZWQtc2xpZGVyLW1vZGFsIiByb2xlPSJidXR0b24iIGRhdGEtYnMtc2xpZGU9Im5leHQiPic7JGNhcm91c2VsKz0nPHNwYW4gY2xhc3M9ImNhcm91c2VsLWNvbnRyb2wtbmV4dC1pY29uIiBhcmlhLWhpZGRlbj0idHJ1ZSI+PC9zcGFuPic7JGNhcm91c2VsKz0nPC9hPid9JGNhcm91c2VsKz0nPC9kaXY+Jzt2YXIgJGNsb3NlPSc8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImJ0bi1jbG9zZSBidG4tY2xvc2Utd2hpdGUgdGV4dC1lbmQgcG9zaXRpb24tZml4ZWQiIHN0eWxlPSJyaWdodDogMjBweDt0b3A6IDEwcHg7IHotaW5kZXg6IDEwNTU7IiBkYXRhLWJzLWRpc21pc3M9Im1vZGFsIiBhcmlhLWxhYmVsPSJDbG9zZSI+PC9idXR0b24+JztqUXVlcnkoJy5hdWktY2Fyb3VzZWwtbW9kYWwgLm1vZGFsLWNvbnRlbnQnKS5odG1sKCRjYXJvdXNlbCkucHJlcGVuZCgkY2xvc2UpO2F5ZU1vZGFsLnNob3coKTt0cnl7aWYoJ29udG91Y2hzdGFydCdpbiBkb2N1bWVudC5kb2N1bWVudEVsZW1lbnR8fG5hdmlnYXRvci5tYXhUb3VjaFBvaW50cz4wKXtsZXQgX2JzQz1uZXcgYm9vdHN0cmFwLkNhcm91c2VsKCcjYXVpLWVtYmVkLXNsaWRlci1tb2RhbCcpfX1jYXRjaChlcnIpe319fWZ1bmN0aW9uIGF1aV9pbml0X2xpZ2h0Ym94X2VtYmVkKCl7alF1ZXJ5KCcuYXVpLWxpZ2h0Ym94LWltYWdlLCAuYXVpLWxpZ2h0Ym94LWlmcmFtZScpLm9mZignY2xpY2snKS5vbigiY2xpY2siLGZ1bmN0aW9uKGVsZSl7YXVpX2xpZ2h0Ym94X2VtYmVkKHRoaXMsZWxlKX0pfWZ1bmN0aW9uIGF1aV9pbml0X21vZGFsX2lmcmFtZSgpe2pRdWVyeSgnLmF1aS1oYXMtZW1iZWQsIFtkYXRhLWF1aS1lbWJlZD0iaWZyYW1lIl0nKS5lYWNoKGZ1bmN0aW9uKGUpe2lmKCFqUXVlcnkodGhpcykuaGFzQ2xhc3MoJ2F1aS1tb2RhbC1pZnJhbWVkJykmJmpRdWVyeSh0aGlzKS5kYXRhKCdlbWJlZC11cmwnKSl7alF1ZXJ5KHRoaXMpLmFkZENsYXNzKCdhdWktbW9kYWwtaWZyYW1lZCcpO2pRdWVyeSh0aGlzKS5vbigiY2xpY2siLGZ1bmN0aW9uKGUxKXthdWlfbW9kYWxfaWZyYW1lKCcnLGpRdWVyeSh0aGlzKS5kYXRhKCdlbWJlZC11cmwnKSwnJyx0cnVlLCcnLCdtb2RhbC1sZycsJ2F1aS1tb2RhbC1pZnJhbWUgcC0wJyx0cnVlKTtyZXR1cm4gZmFsc2V9KX19KX0kYXVpX2RvaW5nX3RvYXN0PWZhbHNlO2Z1bmN0aW9uIGF1aV90b2FzdCgkaWQsJHR5cGUsJHRpdGxlLCR0aXRsZV9zbWFsbCwkYm9keSwkdGltZSwkY2FuX2Nsb3NlKXtpZigkYXVpX2RvaW5nX3RvYXN0KXtzZXRUaW1lb3V0KGZ1bmN0aW9uKCl7YXVpX3RvYXN0KCRpZCwkdHlwZSwkdGl0bGUsJHRpdGxlX3NtYWxsLCRib2R5LCR0aW1lLCRjYW5fY2xvc2UpfSw1MDApO3JldHVybn0kYXVpX2RvaW5nX3RvYXN0PXRydWU7aWYoJGNhbl9jbG9zZT09bnVsbCl7JGNhbl9jbG9zZT1mYWxzZX1pZigkdGltZT09Jyd8fCR0aW1lPT1udWxsKXskdGltZT0zMDAwfWlmKGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCRpZCkpe2pRdWVyeSgnIycrJGlkKS50b2FzdCgnc2hvdycpO3NldFRpbWVvdXQoZnVuY3Rpb24oKXskYXVpX2RvaW5nX3RvYXN0PWZhbHNlfSw1MDApO3JldHVybn12YXIgdW5pcWlkPURhdGUubm93KCk7aWYoJGlkKXt1bmlxaWQ9JGlkfSRvcD0iIjskdENsYXNzPScnOyR0aENsYXNzPScnOyRpY29uPSIiO2lmKCR0eXBlPT0nc3VjY2VzcycpeyRvcD0ib3BhY2l0eTouOTI7IjskdENsYXNzPSdhbGVydCBiZy1zdWNjZXNzIHctYXV0byc7JHRoQ2xhc3M9J2JnLXRyYW5zcGFyZW50IGJvcmRlci0wIHRleHQtd2hpdGUnOyRpY29uPSI8ZGl2IGNsYXNzPSdoNSBtLTAgcC0wJz48aSBjbGFzcz0nZmFzIGZhLWNoZWNrLWNpcmNsZSBtZS0yJz48L2k+PC9kaXY+In1lbHNlIGlmKCR0eXBlPT0nZXJyb3InfHwkdHlwZT09J2RhbmdlcicpeyRvcD0ib3BhY2l0eTouOTI7IjskdENsYXNzPSdhbGVydCBiZy1kYW5nZXIgIHctYXV0byc7JHRoQ2xhc3M9J2JnLXRyYW5zcGFyZW50IGJvcmRlci0wIHRleHQtd2hpdGUnOyRpY29uPSI8ZGl2IGNsYXNzPSdoNSBtLTAgcC0wJz48aSBjbGFzcz0nZmFyIGZhLXRpbWVzLWNpcmNsZSBtZS0yJz48L2k+PC9kaXY+In1lbHNlIGlmKCR0eXBlPT0naW5mbycpeyRvcD0ib3BhY2l0eTouOTI7IjskdENsYXNzPSdhbGVydCBiZy1pbmZvICB3LWF1dG8nOyR0aENsYXNzPSdiZy10cmFuc3BhcmVudCBib3JkZXItMCB0ZXh0LXdoaXRlJzskaWNvbj0iPGRpdiBjbGFzcz0naDUgbS0wIHAtMCc+PGkgY2xhc3M9J2ZhcyBmYS1pbmZvLWNpcmNsZSBtZS0yJz48L2k+PC9kaXY+In1lbHNlIGlmKCR0eXBlPT0nd2FybmluZycpeyRvcD0ib3BhY2l0eTouOTI7IjskdENsYXNzPSdhbGVydCBiZy13YXJuaW5nICB3LWF1dG8nOyR0aENsYXNzPSdiZy10cmFuc3BhcmVudCBib3JkZXItMCB0ZXh0LWRhcmsnOyRpY29uPSI8ZGl2IGNsYXNzPSdoNSBtLTAgcC0wJz48aSBjbGFzcz0nZmFzIGZhLWV4Y2xhbWF0aW9uLXRyaWFuZ2xlIG1lLTInPjwvaT48L2Rpdj4ifWlmKCFkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgiYXVpLXRvYXN0cyIpKXtqUXVlcnkoJ2JvZHknKS5hcHBlbmQoJzxkaXYgY2xhc3M9ImJzdWkiIGlkPSJhdWktdG9hc3RzIj48ZGl2IGNsYXNzPSJwb3NpdGlvbi1maXhlZCBhdWktdG9hc3QtYm90dG9tLXJpZ2h0IHByLTMgcGUtMyBtYi0xIiBzdHlsZT0iei1pbmRleDogNTAwMDAwO3JpZ2h0OiAwO2JvdHRvbTogMDsnKyRvcCsnIj48L2Rpdj48L2Rpdj4nKX0kdG9hc3Q9JzxkaXYgaWQ9IicrdW5pcWlkKyciIGNsYXNzPSJ0b2FzdCBmYWRlIGhpZGUgc2hhZG93IGhvdmVyLXNoYWRvdyAnKyR0Q2xhc3MrJyIgc3R5bGU9IiIgcm9sZT0iYWxlcnQiIGFyaWEtbGl2ZT0iYXNzZXJ0aXZlIiBhcmlhLWF0b21pYz0idHJ1ZSIgZGF0YS1icy1kZWxheT0iJyskdGltZSsnIj4nO2lmKCR0eXBlfHwkdGl0bGV8fCR0aXRsZV9zbWFsbCl7JHRvYXN0Kz0nPGRpdiBjbGFzcz0idG9hc3QtaGVhZGVyICcrJHRoQ2xhc3MrJyI+JztpZigkaWNvbil7JHRvYXN0Kz0kaWNvbn1pZigkdGl0bGUpeyR0b2FzdCs9JzxzdHJvbmcgY2xhc3M9Im1lLWF1dG8iPicrJHRpdGxlKyc8L3N0cm9uZz4nfWlmKCR0aXRsZV9zbWFsbCl7JHRvYXN0Kz0nPHNtYWxsPicrJHRpdGxlX3NtYWxsKyc8L3NtYWxsPid9aWYoJGNhbl9jbG9zZSl7JHRvYXN0Kz0nPGJ1dHRvbiB0eXBlPSJidXR0b24iIGNsYXNzPSJtcy0yIG1iLTEgYnRuLWNsb3NlIiBkYXRhLWJzLWRpc21pc3M9InRvYXN0IiBhcmlhLWxhYmVsPSJDbG9zZSI+PC9idXR0b24+J30kdG9hc3QrPSc8L2Rpdj4nfWlmKCRib2R5KXskdG9hc3QrPSc8ZGl2IGNsYXNzPSJ0b2FzdC1ib2R5Ij4nKyRib2R5Kyc8L2Rpdj4nfSR0b2FzdCs9JzwvZGl2Pic7alF1ZXJ5KCcuYXVpLXRvYXN0LWJvdHRvbS1yaWdodCcpLnByZXBlbmQoJHRvYXN0KTtqUXVlcnkoJyMnK3VuaXFpZCkudG9hc3QoJ3Nob3cnKTtzZXRUaW1lb3V0KGZ1bmN0aW9uKCl7JGF1aV9kb2luZ190b2FzdD1mYWxzZX0sNTAwKX1mdW5jdGlvbiBhdWlfaW5pdF9jb3VudGVycygpe2NvbnN0IGFuaW1OdW09KEVMKT0+e2lmKEVMLl9pc0FuaW1hdGVkKXJldHVybjtFTC5faXNBbmltYXRlZD10cnVlO2xldCBlbmQ9RUwuZGF0YXNldC5hdWllbmQ7bGV0IHN0YXJ0PUVMLmRhdGFzZXQuYXVpc3RhcnQ7bGV0IGR1cmF0aW9uPUVMLmRhdGFzZXQuYXVpZHVyYXRpb24/RUwuZGF0YXNldC5hdWlkdXJhdGlvbjoyMDAwO2xldCBzZXBlcmF0b3I9RUwuZGF0YXNldC5hdWlzZXA/RUwuZGF0YXNldC5hdWlzZXA6Jyc7alF1ZXJ5KEVMKS5wcm9wKCdDb3VudGVyJyxzdGFydCkuYW5pbWF0ZSh7Q291bnRlcjplbmR9LHtkdXJhdGlvbjpNYXRoLmFicyhkdXJhdGlvbiksZWFzaW5nOidzd2luZycsc3RlcDpmdW5jdGlvbihub3cpe2NvbnN0IHRleHQ9c2VwZXJhdG9yPyhNYXRoLmNlaWwobm93KSkudG9Mb2NhbGVTdHJpbmcoJ2VuLVVTJyk6TWF0aC5jZWlsKG5vdyk7Y29uc3QgaHRtbD1zZXBlcmF0b3I/dGV4dC5zcGxpdCgiLCIpLm1hcChuPT5gPHNwYW4gY2xhc3M9ImNvdW50Ij4ke259PC9zcGFuPmApLmpvaW4oIiwiKTp0ZXh0O2lmKHNlcGVyYXRvciYmc2VwZXJhdG9yIT0nLCcpe2h0bWwucmVwbGFjZSgnLCcsc2VwZXJhdG9yKX1qUXVlcnkodGhpcykuaHRtbChodG1sKX19KX07Y29uc3QgaW5WaWV3cG9ydD0oZW50cmllcyxvYnNlcnZlcik9PntlbnRyaWVzLmZvckVhY2goZW50cnk9PntpZihlbnRyeS5pc0ludGVyc2VjdGluZylhbmltTnVtKGVudHJ5LnRhcmdldCl9KX07alF1ZXJ5KCJbZGF0YS1hdWljb3VudGVyXSIpLmVhY2goKGksRUwpPT57Y29uc3Qgb2JzZXJ2ZXI9bmV3IEludGVyc2VjdGlvbk9ic2VydmVyKGluVmlld3BvcnQpO29ic2VydmVyLm9ic2VydmUoRUwpfSl9ZnVuY3Rpb24gYXVpX2luaXQoKXthdWlfaW5pdF9jb3VudGVycygpO2luaXRfbmF2X3N1Yl9tZW51cygpO2F1aV9pbml0X3Rvb2x0aXBzKCk7YXVpX2luaXRfc2VsZWN0MigpO2F1aV9pbml0X2ZsYXRwaWNrcigpO2F1aV9pbml0X2ljb25waWNrZXIoKTthdWlfaW5pdF9ncmVlZHlfbmF2KCk7YXVpX3RpbWVfYWdvKCd0aW1lYWdvJyk7YXVpX2luaXRfY2Fyb3VzZWxfbXVsdGlwbGVfaXRlbXMoKTthdWlfaW5pdF9saWdodGJveF9lbWJlZCgpO2F1aV9pbml0X21vZGFsX2lmcmFtZSgpfWpRdWVyeSh3aW5kb3cpLm9uKCJsb2FkIixmdW5jdGlvbigpe2F1aV9pbml0KCl9KTtqUXVlcnkoZnVuY3Rpb24oJCl7dmFyIHVhPW5hdmlnYXRvci51c2VyQWdlbnQudG9Mb3dlckNhc2UoKTt2YXIgaXNpT1M9dWEubWF0Y2goLyhpcGhvbmV8aXBvZHxpcGFkKS8pO2lmKGlzaU9TKXt2YXIgcFM9MDtwTT1wYXJzZUZsb2F0KCQoJ2JvZHknKS5jc3MoJ21hcmdpblRvcCcpKTskKGRvY3VtZW50KS5vbignc2hvdy5icy5tb2RhbCcsZnVuY3Rpb24oKXtwUz13aW5kb3cuc2Nyb2xsWTskKCdib2R5JykuY3NzKHttYXJnaW5Ub3A6LXBTLG92ZXJmbG93OidoaWRkZW4nLHBvc2l0aW9uOidmaXhlZCcsfSl9KS5vbignaGlkZGVuLmJzLm1vZGFsJyxmdW5jdGlvbigpeyQoJ2JvZHknKS5jc3Moe21hcmdpblRvcDpwTSxvdmVyZmxvdzondmlzaWJsZScscG9zaXRpb246J2luaGVyaXQnLH0pO3dpbmRvdy5zY3JvbGxUbygwLHBTKX0pfSQoZG9jdW1lbnQpLm9uKCdzbGlkZS5icy5jYXJvdXNlbCcsZnVuY3Rpb24oZWwpe3ZhciAkX21vZGFsPSQoZWwucmVsYXRlZFRhcmdldCkuY2xvc2VzdCgnLmF1aS1jYXJvdXNlbC1tb2RhbDp2aXNpYmxlJykubGVuZ3RoPyQoZWwucmVsYXRlZFRhcmdldCkuY2xvc2VzdCgnLmF1aS1jYXJvdXNlbC1tb2RhbDp2aXNpYmxlJyk6Jyc7aWYoJF9tb2RhbCYmJF9tb2RhbC5maW5kKCcuY2Fyb3VzZWwtaXRlbSBpZnJhbWUuYXVpLWNhcm91c2VsLWlmcmFtZScpLmxlbmd0aCl7JF9tb2RhbC5maW5kKCcuY2Fyb3VzZWwtaXRlbS5hY3RpdmUgaWZyYW1lLmF1aS1jYXJvdXNlbC1pZnJhbWUnKS5lYWNoKGZ1bmN0aW9uKCl7aWYoJCh0aGlzKS5hdHRyKCdzcmMnKSl7JCh0aGlzKS5kYXRhKCdzcmMnLCQodGhpcykuYXR0cignc3JjJykpOyQodGhpcykuYXR0cignc3JjJywnJyl9fSk7aWYoJChlbC5yZWxhdGVkVGFyZ2V0KS5maW5kKCdpZnJhbWUuYXVpLWNhcm91c2VsLWlmcmFtZScpLmxlbmd0aCl7JChlbC5yZWxhdGVkVGFyZ2V0KS5maW5kKCcuYWMtcHJldmlldy1sb2FkaW5nJykucmVtb3ZlQ2xhc3MoJ2Qtbm9uZScpLmFkZENsYXNzKCdkLWZsZXgnKTt2YXIgJGNJZnJhbWU9JChlbC5yZWxhdGVkVGFyZ2V0KS5maW5kKCdpZnJhbWUuYXVpLWNhcm91c2VsLWlmcmFtZScpO2lmKCEkY0lmcmFtZS5hdHRyKCdzcmMnKSYmJGNJZnJhbWUuZGF0YSgnc3JjJykpeyRjSWZyYW1lLmF0dHIoJ3NyYycsJGNJZnJhbWUuZGF0YSgnc3JjJykpfSRjSWZyYW1lLm9uKCdsb2FkJyxmdW5jdGlvbigpe3NldFRpbWVvdXQoZnVuY3Rpb24oKXskX21vZGFsLmZpbmQoJy5hYy1wcmV2aWV3LWxvYWRpbmcnKS5yZW1vdmVDbGFzcygnZC1mbGV4JykuYWRkQ2xhc3MoJ2Qtbm9uZScpfSwxMjUwKX0pfX19KX0pO3ZhciBhdWlfY29uZmlybT1mdW5jdGlvbihtZXNzYWdlLG9rQnV0dG9uVGV4dCxjYW5jZWxCdXR0b25UZXh0LGlzRGVsZXRlLGxhcmdlKXtva0J1dHRvblRleHQ9b2tCdXR0b25UZXh0fHwnWWVzJztjYW5jZWxCdXR0b25UZXh0PWNhbmNlbEJ1dHRvblRleHR8fCdDYW5jZWwnO21lc3NhZ2U9bWVzc2FnZXx8J0FyZSB5b3Ugc3VyZT8nO3NpemVDbGFzcz1sYXJnZT8nJzonbW9kYWwtc20nO2J0bkNsYXNzPWlzRGVsZXRlPydidG4tZGFuZ2VyJzonYnRuLXByaW1hcnknO2RlZmVycmVkPWpRdWVyeS5EZWZlcnJlZCgpO3ZhciAkYm9keT0iIjskYm9keSs9IjxoMyBjbGFzcz0naDQgcHktMyB0ZXh0LWNlbnRlciB0ZXh0LWRhcmsnPiIrbWVzc2FnZSsiPC9oMz4iOyRib2R5Kz0iPGRpdiBjbGFzcz0nZC1mbGV4Jz4iOyRib2R5Kz0iPGJ1dHRvbiBjbGFzcz0nYnRuIGJ0bi1vdXRsaW5lLXNlY29uZGFyeSB3LTUwIGJ0bi1yb3VuZCcgZGF0YS1icy1kaXNtaXNzPSdtb2RhbCcgIG9uY2xpY2s9J2RlZmVycmVkLnJlc29sdmUoZmFsc2UpOyc+IitjYW5jZWxCdXR0b25UZXh0KyI8L2J1dHRvbj4iOyRib2R5Kz0iPGJ1dHRvbiBjbGFzcz0nYnRuICIrYnRuQ2xhc3MrIiBtcy0yIHctNTAgYnRuLXJvdW5kJyBkYXRhLWJzLWRpc21pc3M9J21vZGFsJyAgb25jbGljaz0nZGVmZXJyZWQucmVzb2x2ZSh0cnVlKTsnPiIrb2tCdXR0b25UZXh0KyI8L2J1dHRvbj4iOyRib2R5Kz0iPC9kaXY+IjskbW9kYWw9YXVpX21vZGFsKCcnLCRib2R5LCcnLGZhbHNlLCcnLHNpemVDbGFzcyk7cmV0dXJuIGRlZmVycmVkLnByb21pc2UoKX07ZnVuY3Rpb24gYXVpX2ZsaXBfY29sb3Jfc2NoZW1lX29uX3Njcm9sbCgkdmFsdWUsJGlmcmFtZSl7aWYoISR2YWx1ZSkkdmFsdWU9d2luZG93LnNjcm9sbFk7dmFyIG5hdmJhcj0kaWZyYW1lPyRpZnJhbWUucXVlcnlTZWxlY3RvcignLmNvbG9yLXNjaGVtZS1mbGlwLW9uLXNjcm9sbCcpOmRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJy5jb2xvci1zY2hlbWUtZmxpcC1vbi1zY3JvbGwnKTtpZihuYXZiYXI9PW51bGwpcmV0dXJuO2xldCBjc19vcmlnaW5hbD1uYXZiYXIuZGF0YXNldC5jc287bGV0IGNzX3Njcm9sbD1uYXZiYXIuZGF0YXNldC5jc3M7aWYoIWNzX3Njcm9sbCYmIWNzX29yaWdpbmFsKXtpZihuYXZiYXIuY2xhc3NMaXN0LmNvbnRhaW5zKCduYXZiYXItbGlnaHQnKSl7Y3Nfb3JpZ2luYWw9J25hdmJhci1saWdodCc7Y3Nfc2Nyb2xsPSduYXZiYXItZGFyayd9ZWxzZSBpZihuYXZiYXIuY2xhc3NMaXN0LmNvbnRhaW5zKCduYXZiYXItZGFyaycpKXtjc19vcmlnaW5hbD0nbmF2YmFyLWRhcmsnO2NzX3Njcm9sbD0nbmF2YmFyLWxpZ2h0J31uYXZiYXIuZGF0YXNldC5jc289Y3Nfb3JpZ2luYWw7bmF2YmFyLmRhdGFzZXQuY3NzPWNzX3Njcm9sbH1pZigkdmFsdWU+MHx8bmF2YmFyLmNsYXNzTGlzdC5jb250YWlucygnbmF2LW1lbnUtb3BlbicpKXtuYXZiYXIuY2xhc3NMaXN0LnJlbW92ZShjc19vcmlnaW5hbCk7bmF2YmFyLmNsYXNzTGlzdC5hZGQoY3Nfc2Nyb2xsKX1lbHNle25hdmJhci5jbGFzc0xpc3QucmVtb3ZlKGNzX3Njcm9sbCk7bmF2YmFyLmNsYXNzTGlzdC5hZGQoY3Nfb3JpZ2luYWwpfX13aW5kb3cub25zY3JvbGw9ZnVuY3Rpb24oKXthdWlfc2V0X2RhdGFfc2Nyb2xsKCk7YXVpX2ZsaXBfY29sb3Jfc2NoZW1lX29uX3Njcm9sbCgpfTtmdW5jdGlvbiBhdWlfc2V0X2RhdGFfc2Nyb2xsKCl7ZG9jdW1lbnQuZG9jdW1lbnRFbGVtZW50LmRhdGFzZXQuc2Nyb2xsPXdpbmRvdy5zY3JvbGxZfWF1aV9zZXRfZGF0YV9zY3JvbGwoKTthdWlfZmxpcF9jb2xvcl9zY2hlbWVfb25fc2Nyb2xsKCk7Ci8vIyBzb3VyY2VVUkw9Ym9vdHN0cmFwLWpzLWJ1bmRsZS1qcy1hZnRlcgo=",
+          "totalBytes": 28559,
+          "wastedBytes": 22432,
+          "wastedPercent": 78.54616758289856
+        }
+      ],
+      "overallSavingsMs": 1350,
+      "overallSavingsBytes": 485116,
+      "sortedBy": [
+        "wastedBytes"
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "metricSavings": {
+          "FCP": 0,
+          "LCP": 1350
+        }
+      }
+    }
+  },
+  "image-delivery-insight": {
+    "title": "Improve image delivery",
+    "displayValue": "Est savings of 210 KiB",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "valueType": "node",
+          "label": ""
+        },
+        {
+          "key": "url",
+          "valueType": "url",
+          "label": "URL",
+          "subItemsHeading": {
+            "key": "reason",
+            "valueType": "text"
+          }
+        },
+        {
+          "key": "totalBytes",
+          "valueType": "bytes",
+          "label": "Resource Size"
+        },
+        {
+          "key": "wastedBytes",
+          "valueType": "bytes",
+          "label": "Est Savings",
+          "subItemsHeading": {
+            "key": "wastedBytes",
+            "valueType": "bytes"
+          }
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "page-10-IMG",
+            "path": "1,HTML,1,BODY,11,SECTION,0,DIV,1,DIV,1,ARTICLE,0,A,0,PICTURE,1,IMG",
+            "selector": "article.gn-blog__card > a.gn-blog__img > picture.gonorth-nextgen-picture > img.gn-blog__media",
+            "boundingRect": {
+              "top": 5361,
+              "bottom": 5565,
+              "left": 24,
+              "right": 388,
+              "width": 364,
+              "height": 205
+            },
+            "snippet": "<img loading=\"lazy\" width=\"768\" height=\"511\" src=\"https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-49-768x511.jp…\" class=\"gn-blog__media\" alt=\"הכפר האינדיאני — גלמפינג ברמת הגולן, אבני איתן\" sizes=\"auto, (max-width: 767px) 100vw, 25vw\" decoding=\"async\" srcset=\"https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-49-768x511.jp…\">",
+            "nodeLabel": "הכפר האינדיאני — גלמפינג ברמת הגולן, אבני איתן"
+          },
+          "url": "https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-49-768x511.jpg.webp?ver=1788914592",
+          "totalBytes": 119126,
+          "wastedBytes": 74130,
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "reason": "Increasing the image compression factor could improve this image's download size.",
+                "wastedBytes": 63989
+              },
+              {
+                "reason": "This image file is larger than it needs to be (768x431) for its displayed dimensions (637x424). Use responsive images to reduce the image download size.",
+                "wastedBytes": 21910
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "page-11-IMG",
+            "path": "1,HTML,1,BODY,11,SECTION,0,DIV,1,DIV,2,ARTICLE,0,A,0,PICTURE,1,IMG",
+            "selector": "article.gn-blog__card > a.gn-blog__img > picture.gonorth-nextgen-picture > img.gn-blog__media",
+            "boundingRect": {
+              "top": 5697,
+              "bottom": 5901,
+              "left": 24,
+              "right": 388,
+              "width": 364,
+              "height": 205
+            },
+            "snippet": "<img loading=\"lazy\" width=\"768\" height=\"512\" src=\"https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-48-768x512.jp…\" class=\"gn-blog__media\" alt=\"קיאק-כנרת, דגניה א׳\" sizes=\"auto, (max-width: 767px) 100vw, 25vw\" decoding=\"async\" srcset=\"https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-48-768x512.jp…\">",
+            "nodeLabel": "קיאק-כנרת, דגניה א׳"
+          },
+          "url": "https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-48-768x512.jpg.webp?ver=1788914546",
+          "totalBytes": 105416,
+          "wastedBytes": 60333,
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "reason": "Increasing the image compression factor could improve this image's download size.",
+                "wastedBytes": 50171
+              },
+              {
+                "reason": "This image file is larger than it needs to be (768x432) for its displayed dimensions (637x425). Use responsive images to reduce the image download size.",
+                "wastedBytes": 19390
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "page-12-IMG",
+            "path": "1,HTML,1,BODY,10,SECTION,0,DIV,1,DIV,0,A,0,PICTURE,1,IMG",
+            "selector": "div.gn-regions__grid > a.gn-region__card > picture.gonorth-nextgen-picture > img.gn-region__media",
+            "boundingRect": {
+              "top": 4171,
+              "bottom": 4431,
+              "left": 24,
+              "right": 388,
+              "width": 364,
+              "height": 260
+            },
+            "snippet": "<img loading=\"lazy\" width=\"1024\" height=\"768\" src=\"https://gonorth.co.il/wp-content/uploads/2026/04/nahal_amud-768x576.jpg.we…\" class=\"gn-region__media\" alt=\"שמורת טבע נחל עמוד, כפר שמאי\" sizes=\"auto, (max-width: 768px) 100vw, 50vw\" decoding=\"async\" srcset=\"https://gonorth.co.il/wp-content/uploads/2026/04/nahal_amud-1024x768.jpg 1…\">",
+            "nodeLabel": "שמורת טבע נחל עמוד, כפר שמאי"
+          },
+          "url": "https://gonorth.co.il/wp-content/uploads/2026/04/nahal_amud-768x576.jpg.webp?ver=1788913754",
+          "totalBytes": 103346,
+          "wastedBytes": 52625,
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "reason": "Increasing the image compression factor could improve this image's download size.",
+                "wastedBytes": 33129
+              },
+              {
+                "reason": "This image file is larger than it needs to be (768x549) for its displayed dimensions (637x478). Use responsive images to reduce the image download size.",
+                "wastedBytes": 28694
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "page-13-IMG",
+            "path": "1,HTML,1,BODY,10,SECTION,0,DIV,1,DIV,1,DIV,0,A,0,PICTURE,1,IMG",
+            "selector": "div.gn-regions__col > a.gn-region__card > picture.gonorth-nextgen-picture > img.gn-region__media",
+            "boundingRect": {
+              "top": 4447,
+              "bottom": 4647,
+              "left": 24,
+              "right": 388,
+              "width": 364,
+              "height": 200
+            },
+            "snippet": "<img loading=\"lazy\" width=\"768\" height=\"512\" src=\"https://gonorth.co.il/wp-content/uploads/2026/04/yakav_odem-768x512.jpg.we…\" class=\"gn-region__media\" alt=\"יקב הר אודם, מושב אודם\" sizes=\"auto, (max-width: 768px) 100vw, 50vw\" decoding=\"async\" srcset=\"https://gonorth.co.il/wp-content/uploads/2026/04/yakav_odem-768x512.jpg 76…\">",
+            "nodeLabel": "יקב הר אודם, מושב אודם"
+          },
+          "url": "https://gonorth.co.il/wp-content/uploads/2026/04/yakav_odem-768x512.jpg.webp?ver=1788913756",
+          "totalBytes": 66784,
+          "wastedBytes": 12622,
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "reason": "Increasing the image compression factor could improve this image's download size.",
+                "wastedBytes": 12622
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "page-14-IMG",
+            "path": "1,HTML,1,BODY,9,SECTION,0,DIV,1,DIV,3,ARTICLE,0,DIV,0,PICTURE,1,IMG",
+            "selector": "article.gn-card > div.gn-card__img > picture.gonorth-nextgen-picture > img.gn-card__media",
+            "boundingRect": {
+              "top": 2792,
+              "bottom": 3020,
+              "left": 24,
+              "right": 388,
+              "width": 364,
+              "height": 228
+            },
+            "snippet": "<img loading=\"lazy\" width=\"768\" height=\"346\" src=\"https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-46-768x346.jp…\" class=\"gn-card__media\" alt=\"טריפונל באולינג, מג'דל שמס\" sizes=\"auto, (max-width: 767px) 100vw, (max-width: 991px) 50vw, 33vw\" decoding=\"async\" srcset=\"https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-46-768x346.jp…\">",
+            "nodeLabel": "טריפונל באולינג, מג'דל שמס"
+          },
+          "url": "https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-46-768x346.jpg.webp?ver=1788914474",
+          "totalBytes": 41130,
+          "wastedBytes": 9144,
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "reason": "Increasing the image compression factor could improve this image's download size.",
+                "wastedBytes": 9144
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "page-15-IMG",
+            "path": "1,HTML,1,BODY,9,SECTION,0,DIV,1,DIV,5,ARTICLE,0,DIV,0,PICTURE,1,IMG",
+            "selector": "article.gn-card > div.gn-card__img > picture.gonorth-nextgen-picture > img.gn-card__media",
+            "boundingRect": {
+              "top": 3639,
+              "bottom": 3867,
+              "left": 24,
+              "right": 388,
+              "width": 364,
+              "height": 228
+            },
+            "snippet": "<img loading=\"lazy\" width=\"768\" height=\"346\" src=\"https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-44-768x346.jp…\" class=\"gn-card__media\" alt=\"אבו קיאק, חד נס\" sizes=\"auto, (max-width: 767px) 100vw, (max-width: 991px) 50vw, 33vw\" decoding=\"async\" srcset=\"https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-44-768x346.jp…\">",
+            "nodeLabel": "אבו קיאק, חד נס"
+          },
+          "url": "https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-44-768x346.jpg.webp?ver=1788914522",
+          "totalBytes": 38258,
+          "wastedBytes": 6272,
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "reason": "Increasing the image compression factor could improve this image's download size.",
+                "wastedBytes": 6272
+              }
+            ]
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "wastedBytes": 215126
+      }
+    }
+  },
+  "cache-insight": {
+    "title": "Use efficient cache lifetimes",
+    "displayValue": "Est savings of 1,460 KiB",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "url",
+          "valueType": "url",
+          "label": "Request"
+        },
+        {
+          "key": "cacheLifetimeMs",
+          "valueType": "ms",
+          "label": "Cache TTL",
+          "displayUnit": "duration"
+        },
+        {
+          "key": "totalBytes",
+          "valueType": "bytes",
+          "label": "Transfer Size",
+          "displayUnit": "kb",
+          "granularity": 1
+        }
+      ],
+      "items": [
+        {
+          "url": "https://gonorth.co.il/wp-includes/css/dist/block-library/style-rtl.min.css?ver=7.1.2",
+          "cacheLifetimeMs": 0,
+          "totalBytes": 141137,
+          "wastedBytes": 141137
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/plugins/geodirectory/vendor/ayecode/wp-ayecode-ui/assets-v5/js/bootstrap.bundle.min.js?ver=0.2.47",
+          "cacheLifetimeMs": 0,
+          "totalBytes": 136782,
+          "wastedBytes": 136782
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-49-768x511.jpg.webp?ver=1788914592",
+          "cacheLifetimeMs": 0,
+          "totalBytes": 119379,
+          "wastedBytes": 119379
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-48-768x512.jpg.webp?ver=1788914546",
+          "cacheLifetimeMs": 0,
+          "totalBytes": 105669,
+          "wastedBytes": 105669
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/uploads/2026/04/nahal_amud-768x576.jpg.webp?ver=1788913754",
+          "cacheLifetimeMs": 0,
+          "totalBytes": 103599,
+          "wastedBytes": 103599
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/uploads/2026/04/cnaan_village-768x512.jpg.webp?ver=1788913756",
+          "cacheLifetimeMs": 0,
+          "totalBytes": 103411,
+          "wastedBytes": 103411
+        },
+        {
+          "url": "https://gonorth.co.il/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "cacheLifetimeMs": 0,
+          "totalBytes": 87817,
+          "wastedBytes": 87817
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/css/accessibility-onetap-front-end.min.css?ver=2.10.0",
+          "cacheLifetimeMs": 0,
+          "totalBytes": 85788,
+          "wastedBytes": 85788
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/uploads/2026/04/hula-768x512.jpg.webp?ver=1788913752",
+          "cacheLifetimeMs": 0,
+          "totalBytes": 73966,
+          "wastedBytes": 73966
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/uploads/2026/04/yakav_odem-768x512.jpg.webp?ver=1788913756",
+          "cacheLifetimeMs": 0,
+          "totalBytes": 67036,
+          "wastedBytes": 67036
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/plugins/geodirectory/assets/aui/js/geodirectory.min.js?ver=2.8.160",
+          "cacheLifetimeMs": 0,
+          "totalBytes": 65365,
+          "wastedBytes": 65365
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/js/script.min.js?ver=2.10.0",
+          "cacheLifetimeMs": 0,
+          "totalBytes": 63960,
+          "wastedBytes": 63960
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/uploads/2026/04/kfar_nofeish-768x366.jpg.webp?ver=1788913756",
+          "cacheLifetimeMs": 0,
+          "totalBytes": 58775,
+          "wastedBytes": 58775
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/uploads/2026/04/hachava-768x432.jpg.webp?ver=1788913756",
+          "cacheLifetimeMs": 0,
+          "totalBytes": 50713,
+          "wastedBytes": 50713
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-46-768x346.jpg.webp?ver=1788914474",
+          "cacheLifetimeMs": 0,
+          "totalBytes": 41381,
+          "wastedBytes": 41381
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-44-768x346.jpg.webp?ver=1788914522",
+          "cacheLifetimeMs": 0,
+          "totalBytes": 38509,
+          "wastedBytes": 38509
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.13.0",
+          "cacheLifetimeMs": 0,
+          "totalBytes": 25927,
+          "wastedBytes": 25927
+        },
+        {
+          "url": "https://gonorth.co.il/wp-includes/js/wp-emoji-release.min.js?ver=7.1.2",
+          "cacheLifetimeMs": 0,
+          "totalBytes": 23015,
+          "wastedBytes": 23015
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-47-768x336.jpg.webp?ver=1788914508",
+          "cacheLifetimeMs": 0,
+          "totalBytes": 20849,
+          "wastedBytes": 20849
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=10.7.0",
+          "cacheLifetimeMs": 0,
+          "totalBytes": 15578,
+          "wastedBytes": 15578
+        },
+        {
+          "url": "https://gonorth.co.il/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "cacheLifetimeMs": 0,
+          "totalBytes": 13840,
+          "wastedBytes": 13840
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-45-768x320.jpg.webp?ver=1788914541",
+          "cacheLifetimeMs": 0,
+          "totalBytes": 10393,
+          "wastedBytes": 10393
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.10.7.0",
+          "cacheLifetimeMs": 0,
+          "totalBytes": 9898,
+          "wastedBytes": 9898
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/themes/astra/style.css?ver=7.1.2",
+          "cacheLifetimeMs": 0,
+          "totalBytes": 4823,
+          "wastedBytes": 4823
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=10.7.0",
+          "cacheLifetimeMs": 0,
+          "totalBytes": 4612,
+          "wastedBytes": 4612
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=10.7.0",
+          "cacheLifetimeMs": 0,
+          "totalBytes": 4393,
+          "wastedBytes": 4393
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/images/icon-drop-down-menu.png",
+          "cacheLifetimeMs": 0,
+          "totalBytes": 4310,
+          "wastedBytes": 4310
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/images/israel.png",
+          "cacheLifetimeMs": 0,
+          "totalBytes": 4241,
+          "wastedBytes": 4241
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=10.7.0",
+          "cacheLifetimeMs": 0,
+          "totalBytes": 2700,
+          "wastedBytes": 2700
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/css/onetap-fonts-readable.min.css?ver=2.10.0",
+          "cacheLifetimeMs": 0,
+          "totalBytes": 2255,
+          "wastedBytes": 2255
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.10.7.0",
+          "cacheLifetimeMs": 0,
+          "totalBytes": 1981,
+          "wastedBytes": 1981
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/themes/gonorth-child/assets/gonorth-organic-mark.svg?v=2",
+          "cacheLifetimeMs": 0,
+          "totalBytes": 1702,
+          "wastedBytes": 1702
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/images/admin/Original_Logo_Icon.svg",
+          "cacheLifetimeMs": 0,
+          "totalBytes": 1513,
+          "wastedBytes": 1513
+        }
+      ],
+      "sortedBy": [
+        "wastedBytes"
+      ],
+      "skipSumming": [
+        "cacheLifetimeMs"
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "wastedBytes": 1495317
+      }
+    }
+  },
+  "network-requests": {
+    "title": "Network Requests",
+    "displayValue": null,
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "url",
+          "valueType": "url",
+          "label": "URL"
+        },
+        {
+          "key": "protocol",
+          "valueType": "text",
+          "label": "Protocol"
+        },
+        {
+          "key": "networkRequestTime",
+          "valueType": "ms",
+          "granularity": 1,
+          "label": "Network Request Time"
+        },
+        {
+          "key": "networkEndTime",
+          "valueType": "ms",
+          "granularity": 1,
+          "label": "Network End Time"
+        },
+        {
+          "key": "transferSize",
+          "valueType": "bytes",
+          "displayUnit": "kb",
+          "granularity": 1,
+          "label": "Transfer Size"
+        },
+        {
+          "key": "resourceSize",
+          "valueType": "bytes",
+          "displayUnit": "kb",
+          "granularity": 1,
+          "label": "Resource Size"
+        },
+        {
+          "key": "statusCode",
+          "valueType": "text",
+          "label": "Status Code"
+        },
+        {
+          "key": "mimeType",
+          "valueType": "text",
+          "label": "MIME Type"
+        },
+        {
+          "key": "resourceType",
+          "valueType": "text",
+          "label": "Resource Type"
+        }
+      ],
+      "items": [
+        {
+          "url": "https://gonorth.co.il/",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 0,
+          "networkRequestTime": 0.8019998073577881,
+          "networkEndTime": 749.5089999437332,
+          "finished": true,
+          "transferSize": 135769,
+          "resourceSize": 500834,
+          "statusCode": 200,
+          "mimeType": "text/html",
+          "resourceType": "Document",
+          "priority": "VeryHigh",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "https://fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysd0mm7UiCXB5WkK8.woff2",
+          "sessionTargetType": "page",
+          "protocol": "h3",
+          "cache": "none",
+          "rendererStartTime": 551.3450000286102,
+          "networkRequestTime": 552.1149997711182,
+          "networkEndTime": 647.0549998283386,
+          "finished": true,
+          "transferSize": 5067,
+          "resourceSize": 5040,
+          "statusCode": 200,
+          "mimeType": "font/woff2",
+          "resourceType": "Font",
+          "priority": "High",
+          "isLinkPreload": true,
+          "experimentalFromMainFrame": true,
+          "entity": "Google Fonts"
+        },
+        {
+          "url": "https://www.googletagmanager.com/gtag/js?id=G-7297D03DXJ",
+          "sessionTargetType": "page",
+          "protocol": "h2",
+          "cache": "none",
+          "rendererStartTime": 551.6229997873306,
+          "networkRequestTime": 552.8179998397827,
+          "networkEndTime": 912.3009999990463,
+          "finished": true,
+          "transferSize": 176727,
+          "resourceSize": 528117,
+          "statusCode": 200,
+          "mimeType": "application/javascript",
+          "resourceType": "Script",
+          "priority": "Low",
+          "experimentalFromMainFrame": true,
+          "entity": "Google Tag Manager"
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_0e595cf9c0607c92f351bb5d75b172ce.php?ver=4.13.0",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 551.7469998598099,
+          "networkRequestTime": 552.9609999656677,
+          "networkEndTime": 663.605999827385,
+          "finished": true,
+          "transferSize": 9046,
+          "resourceSize": 44825,
+          "statusCode": 200,
+          "mimeType": "text/css",
+          "resourceType": "Stylesheet",
+          "priority": "VeryHigh",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "https://fonts.googleapis.com/css?family=Heebo:800%2C&display=swap&ver=4.13.0",
+          "sessionTargetType": "page",
+          "protocol": "h2",
+          "cache": "none",
+          "rendererStartTime": 551.835000038147,
+          "networkRequestTime": 553.6330000162125,
+          "networkEndTime": 733.1749999523163,
+          "finished": true,
+          "transferSize": 1397,
+          "resourceSize": 4087,
+          "statusCode": 200,
+          "mimeType": "text/css",
+          "resourceType": "Stylesheet",
+          "priority": "VeryHigh",
+          "experimentalFromMainFrame": true,
+          "entity": "Google Fonts"
+        },
+        {
+          "url": "https://gonorth.co.il/wp-includes/css/dist/block-library/style-rtl.min.css?ver=7.1.2",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 551.914999961853,
+          "networkRequestTime": 553.7769999504089,
+          "networkEndTime": 1002.2350000143051,
+          "finished": true,
+          "transferSize": 141137,
+          "resourceSize": 140886,
+          "statusCode": 200,
+          "mimeType": "text/css",
+          "resourceType": "Stylesheet",
+          "priority": "VeryHigh",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/css/accessibility-onetap-front-end.min.css?ver=2.10.0",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 551.9919998645782,
+          "networkRequestTime": 553.87399995327,
+          "networkEndTime": 869.4909999370575,
+          "finished": true,
+          "transferSize": 85788,
+          "resourceSize": 85538,
+          "statusCode": 200,
+          "mimeType": "text/css",
+          "resourceType": "Stylesheet",
+          "priority": "VeryHigh",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/css/onetap-fonts-readable.min.css?ver=2.10.0",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 552.0709999799728,
+          "networkRequestTime": 554.4979997873306,
+          "networkEndTime": 871.5979999303818,
+          "finished": true,
+          "transferSize": 2255,
+          "resourceSize": 2008,
+          "statusCode": 200,
+          "mimeType": "text/css",
+          "resourceType": "Stylesheet",
+          "priority": "VeryHigh",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_1fbf35126001b27c9d77720a9e941437.php?ver=4.13.0",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 552.1529998779297,
+          "networkRequestTime": 554.6339999437332,
+          "networkEndTime": 872.634999871254,
+          "finished": true,
+          "transferSize": 2395,
+          "resourceSize": 16644,
+          "statusCode": 200,
+          "mimeType": "text/css",
+          "resourceType": "Stylesheet",
+          "priority": "VeryHigh",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_cd360d29346139a01939fcc0f29f85f8.php?ver=4.13.0",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 552.2429999113083,
+          "networkRequestTime": 554.71499979496,
+          "networkEndTime": 869.2810000181198,
+          "finished": true,
+          "transferSize": 1288,
+          "resourceSize": 6189,
+          "statusCode": 200,
+          "mimeType": "text/css",
+          "resourceType": "Stylesheet",
+          "priority": "VeryHigh",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_bee817902507e0ea9b2a85da3d85d2e3.php?ver=4.13.0",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 552.3220000267029,
+          "networkRequestTime": 554.8079998493195,
+          "networkEndTime": 982.6099997758865,
+          "finished": true,
+          "transferSize": 16525,
+          "resourceSize": 119884,
+          "statusCode": 200,
+          "mimeType": "text/css",
+          "resourceType": "Stylesheet",
+          "priority": "VeryHigh",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_732caf67dc4cce9db3ee631c1f1fba79.php?ver=1.17.3",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 552.3959999084473,
+          "networkRequestTime": 554.8979998826981,
+          "networkEndTime": 970.9319998025894,
+          "finished": true,
+          "transferSize": 3555,
+          "resourceSize": 15249,
+          "statusCode": 200,
+          "mimeType": "text/css",
+          "resourceType": "Stylesheet",
+          "priority": "VeryHigh",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/themes/astra/style.css?ver=7.1.2",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 552.4750000238419,
+          "networkRequestTime": 554.9830000400543,
+          "networkEndTime": 970.4969999790192,
+          "finished": true,
+          "transferSize": 4823,
+          "resourceSize": 4575,
+          "statusCode": 200,
+          "mimeType": "text/css",
+          "resourceType": "Stylesheet",
+          "priority": "VeryHigh",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "https://fonts.googleapis.com/css2?family=Heebo:wght@200;400;500;600;700;800;900&family=Secular+One&display=swap",
+          "sessionTargetType": "page",
+          "protocol": "h2",
+          "cache": "none",
+          "rendererStartTime": 552.5449998378754,
+          "networkRequestTime": 555.0799998044968,
+          "networkEndTime": 733.0179998874664,
+          "finished": true,
+          "transferSize": 2220,
+          "resourceSize": 29201,
+          "statusCode": 200,
+          "mimeType": "text/css",
+          "resourceType": "Stylesheet",
+          "priority": "VeryHigh",
+          "experimentalFromMainFrame": true,
+          "entity": "Google Fonts"
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_6e965c6e3bcfcbf9911dc55e7cbcf40f.php?ver=2.9.0",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 552.6179999113083,
+          "networkRequestTime": 555.173999786377,
+          "networkEndTime": 974.4279998540878,
+          "finished": true,
+          "transferSize": 12812,
+          "resourceSize": 73899,
+          "statusCode": 200,
+          "mimeType": "text/css",
+          "resourceType": "Stylesheet",
+          "priority": "VeryHigh",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_f744e4881044ddcf68ff999850aa6f7f.php?ver=0.2.47",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 552.6890000104904,
+          "networkRequestTime": 555.2509999275208,
+          "networkEndTime": 1181.1689999103546,
+          "finished": true,
+          "transferSize": 67681,
+          "resourceSize": 515736,
+          "statusCode": 200,
+          "mimeType": "text/css",
+          "resourceType": "Stylesheet",
+          "priority": "VeryHigh",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "https://use.fontawesome.com/releases/v6.7.2/css/all.css?wpfas=true",
+          "sessionTargetType": "page",
+          "protocol": "h2",
+          "cache": "none",
+          "rendererStartTime": 552.7689999341965,
+          "networkRequestTime": 555.3420000076294,
+          "networkEndTime": 895.2929998636246,
+          "finished": true,
+          "transferSize": 23069,
+          "resourceSize": 73890,
+          "statusCode": 200,
+          "mimeType": "text/css",
+          "resourceType": "Stylesheet",
+          "priority": "VeryHigh",
+          "experimentalFromMainFrame": true,
+          "entity": "FontAwesome CDN"
+        },
+        {
+          "url": "https://gonorth.co.il/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 552.8679999113083,
+          "networkRequestTime": 982.703999876976,
+          "networkEndTime": 1206.7699999809265,
+          "finished": true,
+          "transferSize": 87817,
+          "resourceSize": 87553,
+          "statusCode": 200,
+          "mimeType": "application/javascript",
+          "resourceType": "Script",
+          "priority": "Low",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "https://gonorth.co.il/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 552.9439998865128,
+          "networkRequestTime": 1002.3469998836517,
+          "networkEndTime": 1116.1339999437332,
+          "finished": true,
+          "transferSize": 13840,
+          "resourceSize": 13577,
+          "statusCode": 200,
+          "mimeType": "application/javascript",
+          "resourceType": "Script",
+          "priority": "Low",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/plugins/geodirectory/vendor/ayecode/wp-ayecode-ui/assets-v5/js/bootstrap.bundle.min.js?ver=0.2.47",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 553.0219999551773,
+          "networkRequestTime": 1073.2309999465942,
+          "networkEndTime": 2786.439999938011,
+          "finished": true,
+          "transferSize": 136782,
+          "resourceSize": 136517,
+          "statusCode": 200,
+          "mimeType": "application/javascript",
+          "resourceType": "Script",
+          "priority": "Low",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "https://www.googletagmanager.com/gtm.js?id=GTM-WM5VRDCR",
+          "sessionTargetType": "page",
+          "protocol": "h2",
+          "cache": "none",
+          "rendererStartTime": 555.1399998664856,
+          "networkRequestTime": 632.1149998903275,
+          "networkEndTime": 910.2749998569489,
+          "finished": true,
+          "transferSize": 123930,
+          "resourceSize": 353514,
+          "statusCode": 200,
+          "mimeType": "application/javascript",
+          "resourceType": "Script",
+          "priority": "Low",
+          "experimentalFromMainFrame": true,
+          "entity": "Google Tag Manager"
+        },
+        {
+          "url": "data:text/javascript;base64,CiAgICAgIHdpbmRvdy5kYXRhTGF5ZXIgPSB3aW5kb3cuZGF0YUxheWVyIHx8IFtdOwogICA…",
+          "sessionTargetType": "page",
+          "protocol": "data",
+          "cache": "memory",
+          "rendererStartTime": 555.6269997358322,
+          "networkRequestTime": 555.6269997358322,
+          "networkEndTime": 555.7150000333786,
+          "finished": true,
+          "transferSize": 0,
+          "resourceSize": 173,
+          "statusCode": 200,
+          "mimeType": "text/javascript",
+          "resourceType": "Script",
+          "priority": "Low",
+          "experimentalFromMainFrame": true
+        },
+        {
+          "url": "data:text/javascript;base64,CndpbmRvdy5nZFNldE1hcCA9IHdpbmRvdy5nZFNldE1hcCB8fCAnYXV0byc7d2luZG93Lmd…",
+          "sessionTargetType": "page",
+          "protocol": "data",
+          "cache": "memory",
+          "rendererStartTime": 560.4099998474121,
+          "networkRequestTime": 560.4099998474121,
+          "networkEndTime": 560.4799998998642,
+          "finished": true,
+          "transferSize": 0,
+          "resourceSize": 123,
+          "statusCode": 200,
+          "mimeType": "text/javascript",
+          "resourceType": "Script",
+          "priority": "Low",
+          "experimentalFromMainFrame": true
+        },
+        {
+          "url": "data:text/javascript;base64,CndpbmRvdy5nZFNldE1hcCA9IHdpbmRvdy5nZFNldE1hcCB8fCAnYXV0byc7d2luZG93Lmd…",
+          "sessionTargetType": "page",
+          "protocol": "data",
+          "cache": "memory",
+          "rendererStartTime": 560.549999833107,
+          "networkRequestTime": 560.549999833107,
+          "networkEndTime": 560.5899999141693,
+          "finished": true,
+          "transferSize": 0,
+          "resourceSize": 118,
+          "statusCode": 200,
+          "mimeType": "text/javascript",
+          "resourceType": "Script",
+          "priority": "Low",
+          "experimentalFromMainFrame": true
+        },
+        {
+          "url": "data:text/javascript;base64,CmZ1bmN0aW9uIGF1aV9pbml0X2dyZWVkeV9uYXYoKXtqUXVlcnkoJ25hdi5ncmVlZHknKS5…",
+          "sessionTargetType": "page",
+          "protocol": "data",
+          "cache": "memory",
+          "rendererStartTime": 630.7689999341965,
+          "networkRequestTime": 630.7689999341965,
+          "networkEndTime": 630.9879999160767,
+          "finished": true,
+          "transferSize": 0,
+          "resourceSize": 28559,
+          "statusCode": 200,
+          "mimeType": "text/javascript",
+          "resourceType": "Script",
+          "priority": "Low",
+          "experimentalFromMainFrame": true
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.10.7.0",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 631.0509999990463,
+          "networkRequestTime": 1086.4939999580383,
+          "networkEndTime": 1189.8769998550415,
+          "finished": true,
+          "transferSize": 9898,
+          "resourceSize": 9636,
+          "statusCode": 200,
+          "mimeType": "application/javascript",
+          "resourceType": "Script",
+          "priority": "Low",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "data:text/javascript;base64,CnZhciB3Y19hZGRfdG9fY2FydF9wYXJhbXMgPSB7ImFqYXhfdXJsIjoiL3dwLWFkbWluL2F…",
+          "sessionTargetType": "page",
+          "protocol": "data",
+          "cache": "memory",
+          "rendererStartTime": 631.1399999856949,
+          "networkRequestTime": 631.1399999856949,
+          "networkEndTime": 631.1790000200272,
+          "finished": true,
+          "transferSize": 0,
+          "resourceSize": 338,
+          "statusCode": 200,
+          "mimeType": "text/javascript",
+          "resourceType": "Script",
+          "priority": "Low",
+          "experimentalFromMainFrame": true
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=10.7.0",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 631.2120000123978,
+          "networkRequestTime": 1086.6439999341965,
+          "networkEndTime": 1193.9189999103546,
+          "finished": true,
+          "transferSize": 4612,
+          "resourceSize": 4350,
+          "statusCode": 200,
+          "mimeType": "application/javascript",
+          "resourceType": "Script",
+          "priority": "Low",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.10.7.0",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 631.2659999132156,
+          "networkRequestTime": 1116.2649998664856,
+          "networkEndTime": 1232.2739998102188,
+          "finished": true,
+          "transferSize": 1981,
+          "resourceSize": 1720,
+          "statusCode": 200,
+          "mimeType": "application/javascript",
+          "resourceType": "Script",
+          "priority": "Low",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "data:text/javascript;base64,CnZhciB3b29jb21tZXJjZV9wYXJhbXMgPSB7ImFqYXhfdXJsIjoiL3dwLWFkbWluL2FkbWl…",
+          "sessionTargetType": "page",
+          "protocol": "data",
+          "cache": "memory",
+          "rendererStartTime": 631.3409998416901,
+          "networkRequestTime": 631.3409998416901,
+          "networkEndTime": 631.3769998550415,
+          "finished": true,
+          "transferSize": 0,
+          "resourceSize": 317,
+          "statusCode": 200,
+          "mimeType": "text/javascript",
+          "resourceType": "Script",
+          "priority": "Low",
+          "experimentalFromMainFrame": true
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=10.7.0",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 631.4099998474121,
+          "networkRequestTime": 1181.7949998378754,
+          "networkEndTime": 1297.0340000391006,
+          "finished": true,
+          "transferSize": 4393,
+          "resourceSize": 4131,
+          "statusCode": 200,
+          "mimeType": "application/javascript",
+          "resourceType": "Script",
+          "priority": "Low",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/themes/gonorth-child/assets/gonorth-organic-mark.svg?v=2",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 631.9069999456406,
+          "networkRequestTime": 1190.0269998311996,
+          "networkEndTime": 1298.0159997940063,
+          "finished": true,
+          "transferSize": 1702,
+          "resourceSize": 1450,
+          "statusCode": 200,
+          "mimeType": "image/svg+xml",
+          "resourceType": "Image",
+          "priority": "High",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "data:text/javascript;base64,CmRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdnbi1oYW1idXJnZXInKS5hZGRFdmVudExpc3R…",
+          "sessionTargetType": "page",
+          "protocol": "data",
+          "cache": "memory",
+          "rendererStartTime": 632.0229998826981,
+          "networkRequestTime": 632.0229998826981,
+          "networkEndTime": 632.0640000104904,
+          "finished": true,
+          "transferSize": 0,
+          "resourceSize": 436,
+          "statusCode": 200,
+          "mimeType": "text/javascript",
+          "resourceType": "Script",
+          "priority": "Low",
+          "experimentalFromMainFrame": true
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/images/admin/Original_Logo_Icon.svg",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 642.9109998941422,
+          "networkRequestTime": 971.0509997606277,
+          "networkEndTime": 1073.094999909401,
+          "finished": true,
+          "transferSize": 1513,
+          "resourceSize": 1261,
+          "statusCode": 200,
+          "mimeType": "image/svg+xml",
+          "resourceType": "Image",
+          "priority": "Low",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/images/israel.png",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 643.0089999437332,
+          "networkRequestTime": 974.5689997673035,
+          "networkEndTime": 1086.5659999847412,
+          "finished": true,
+          "transferSize": 4241,
+          "resourceSize": 3993,
+          "statusCode": 200,
+          "mimeType": "image/png",
+          "resourceType": "Image",
+          "priority": "Low",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/images/icon-drop-down-menu.png",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 643.0609998703003,
+          "networkRequestTime": 1194.0139999389648,
+          "networkEndTime": 1313.8629999160767,
+          "finished": true,
+          "transferSize": 4310,
+          "resourceSize": 4062,
+          "statusCode": 200,
+          "mimeType": "image/png",
+          "resourceType": "Image",
+          "priority": "Low",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "data:text/javascript;base64,CgkJCXZhciBkZWZhdWx0X2xvY2F0aW9uID0gJ9em16TXldefINeZ16nXqNeQ15wnOwoJCQl…",
+          "sessionTargetType": "page",
+          "protocol": "data",
+          "cache": "memory",
+          "rendererStartTime": 644.0309997797012,
+          "networkRequestTime": 644.0309997797012,
+          "networkEndTime": 644.1219998598099,
+          "finished": true,
+          "transferSize": 0,
+          "resourceSize": 7815,
+          "statusCode": 200,
+          "mimeType": "text/javascript",
+          "resourceType": "Script",
+          "priority": "Low",
+          "experimentalFromMainFrame": true
+        },
+        {
+          "url": "data:text/javascript;base64,CihmdW5jdGlvbigpewogIHZhciBiID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2duLWN…",
+          "sessionTargetType": "page",
+          "protocol": "data",
+          "cache": "memory",
+          "rendererStartTime": 644.2029999494553,
+          "networkRequestTime": 644.2029999494553,
+          "networkEndTime": 644.2459998130798,
+          "finished": true,
+          "transferSize": 0,
+          "resourceSize": 363,
+          "statusCode": 200,
+          "mimeType": "text/javascript",
+          "resourceType": "Script",
+          "priority": "Low",
+          "experimentalFromMainFrame": true
+        },
+        {
+          "url": "data:text/javascript;base64,CgkJCQljb25zdCBsYXp5bG9hZFJ1bk9ic2VydmVyID0gKCkgPT4gewoJCQkJCWNvbnN0IGx…",
+          "sessionTargetType": "page",
+          "protocol": "data",
+          "cache": "memory",
+          "rendererStartTime": 644.3600000143051,
+          "networkRequestTime": 644.3600000143051,
+          "networkEndTime": 644.4089999198914,
+          "finished": true,
+          "transferSize": 0,
+          "resourceSize": 922,
+          "statusCode": 200,
+          "mimeType": "text/javascript",
+          "resourceType": "Script",
+          "priority": "Low",
+          "experimentalFromMainFrame": true
+        },
+        {
+          "url": "data:text/javascript;base64,CgkJKGZ1bmN0aW9uICgpIHsKCQkJdmFyIGMgPSBkb2N1bWVudC5ib2R5LmNsYXNzTmFtZTs…",
+          "sessionTargetType": "page",
+          "protocol": "data",
+          "cache": "memory",
+          "rendererStartTime": 644.4589998722076,
+          "networkRequestTime": 644.4589998722076,
+          "networkEndTime": 644.4929999113083,
+          "finished": true,
+          "transferSize": 0,
+          "resourceSize": 152,
+          "statusCode": 200,
+          "mimeType": "text/javascript",
+          "resourceType": "Script",
+          "priority": "Low",
+          "experimentalFromMainFrame": true
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_c812c49d797de159697f02bafc3d9c51.php?ver=wc-10.7.0",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 644.5349999666214,
+          "networkRequestTime": 644.7159999608994,
+          "networkEndTime": 1086.1289999485016,
+          "finished": true,
+          "transferSize": 2995,
+          "resourceSize": 14007,
+          "statusCode": 200,
+          "mimeType": "text/css",
+          "resourceType": "Stylesheet",
+          "priority": "VeryHigh",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.13.0",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 645.5609998703003,
+          "networkRequestTime": 1206.913999915123,
+          "networkEndTime": 1324.6889998912811,
+          "finished": true,
+          "transferSize": 25927,
+          "resourceSize": 25664,
+          "statusCode": 200,
+          "mimeType": "application/javascript",
+          "resourceType": "Script",
+          "priority": "Low",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_f73d7a556433289d1fb679df33c4961a.php?ver=2.10.0",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 645.617999792099,
+          "networkRequestTime": 1232.3989998102188,
+          "networkEndTime": 1342.2179999351501,
+          "finished": true,
+          "transferSize": 3613,
+          "resourceSize": 9069,
+          "statusCode": 200,
+          "mimeType": "text/javascript",
+          "resourceType": "Script",
+          "priority": "Low",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/plugins/accessibility-onetap/assets/js/script.min.js?ver=2.10.0",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 749.664999961853,
+          "networkRequestTime": 1297.2460000514984,
+          "networkEndTime": 1515.3879997730255,
+          "finished": true,
+          "transferSize": 63960,
+          "resourceSize": 63697,
+          "statusCode": 200,
+          "mimeType": "application/javascript",
+          "resourceType": "Script",
+          "priority": "Low",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/plugins/geodirectory/assets/aui/js/geodirectory.min.js?ver=2.8.160",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 749.942999958992,
+          "networkRequestTime": 1298.1789999008179,
+          "networkEndTime": 1412.3529999256134,
+          "finished": true,
+          "transferSize": 65365,
+          "resourceSize": 65102,
+          "statusCode": 200,
+          "mimeType": "application/javascript",
+          "resourceType": "Script",
+          "priority": "Low",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=10.7.0",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 750.0129998922348,
+          "networkRequestTime": 1313.9749997854233,
+          "networkEndTime": 1418.3739998340607,
+          "finished": true,
+          "transferSize": 15578,
+          "resourceSize": 15315,
+          "statusCode": 200,
+          "mimeType": "application/javascript",
+          "resourceType": "Script",
+          "priority": "Low",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=10.7.0",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 750.0899999141693,
+          "networkRequestTime": 1324.7829998731613,
+          "networkEndTime": 1430.5569999217987,
+          "finished": true,
+          "transferSize": 2700,
+          "resourceSize": 2439,
+          "statusCode": 200,
+          "mimeType": "application/javascript",
+          "resourceType": "Script",
+          "priority": "Low",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_497638acb699a69ac9a22bc7c2efb64b.php?ver=1.17.3",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 750.1409999132156,
+          "networkRequestTime": 1342.3209997415543,
+          "networkEndTime": 1449.5079998970032,
+          "finished": true,
+          "transferSize": 2552,
+          "resourceSize": 6023,
+          "statusCode": 200,
+          "mimeType": "text/javascript",
+          "resourceType": "Script",
+          "priority": "Low",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_93ba3c2c5854856a86658724a55ce6ca.php?ver=1.17.3",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 750.1929998397827,
+          "networkRequestTime": 1412.4919999837875,
+          "networkEndTime": 1516.976000070572,
+          "finished": true,
+          "transferSize": 1128,
+          "resourceSize": 1684,
+          "statusCode": 200,
+          "mimeType": "text/javascript",
+          "resourceType": "Script",
+          "priority": "Low",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "https://www.googletagmanager.com/gtag/js?id=G-HVRP7CYDLR&cx=c&gtm=4e69n1",
+          "sessionTargetType": "page",
+          "protocol": "h2",
+          "cache": "none",
+          "rendererStartTime": 938.6179999113083,
+          "networkRequestTime": 939.0239999294281,
+          "networkEndTime": 1209.4859999418259,
+          "finished": true,
+          "transferSize": 176472,
+          "resourceSize": 525992,
+          "statusCode": 200,
+          "mimeType": "application/javascript",
+          "resourceType": "Script",
+          "priority": "Low",
+          "experimentalFromMainFrame": true,
+          "entity": "Google Tag Manager"
+        },
+        {
+          "url": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1440 200'%3E%3Cpath d='M0…",
+          "sessionTargetType": "page",
+          "protocol": "data",
+          "cache": "memory",
+          "rendererStartTime": 1201.7829999923706,
+          "networkRequestTime": 1201.7829999923706,
+          "networkEndTime": 1201.8499997854233,
+          "finished": true,
+          "transferSize": 0,
+          "resourceSize": 352,
+          "statusCode": 200,
+          "mimeType": "image/svg+xml",
+          "resourceType": "Image",
+          "priority": "Low",
+          "experimentalFromMainFrame": true
+        },
+        {
+          "url": "https://fonts.gstatic.com/s/heebo/v28/NGS6v5_NC0k9P9H0TbFhsqMA6aw.woff2",
+          "sessionTargetType": "page",
+          "protocol": "h3",
+          "cache": "none",
+          "rendererStartTime": 1206.1649998426437,
+          "networkRequestTime": 1358.273999929428,
+          "networkEndTime": 1383.6609997749329,
+          "finished": true,
+          "transferSize": 12027,
+          "resourceSize": 12000,
+          "statusCode": 200,
+          "mimeType": "font/woff2",
+          "resourceType": "Font",
+          "priority": "VeryHigh",
+          "experimentalFromMainFrame": true,
+          "entity": "Google Fonts"
+        },
+        {
+          "url": "https://fonts.gstatic.com/s/secularone/v14/8QINdiTajsj_87rMuMdKyqDgOOhZL4pL06U.woff2",
+          "sessionTargetType": "page",
+          "protocol": "h3",
+          "cache": "none",
+          "rendererStartTime": 1206.2569998502731,
+          "networkRequestTime": 1358.3969999551773,
+          "networkEndTime": 1388.0129998922348,
+          "finished": true,
+          "transferSize": 4879,
+          "resourceSize": 4852,
+          "statusCode": 200,
+          "mimeType": "font/woff2",
+          "resourceType": "Font",
+          "priority": "VeryHigh",
+          "experimentalFromMainFrame": true,
+          "entity": "Google Fonts"
+        },
+        {
+          "url": "https://fonts.gstatic.com/s/heebo/v28/NGS6v5_NC0k9P9H2TbFhsqMA.woff2",
+          "sessionTargetType": "page",
+          "protocol": "h3",
+          "cache": "none",
+          "rendererStartTime": 1206.4109998941422,
+          "networkRequestTime": 1359.0049999952316,
+          "networkEndTime": 1378.636999964714,
+          "finished": true,
+          "transferSize": 30177,
+          "resourceSize": 30148,
+          "statusCode": 200,
+          "mimeType": "font/woff2",
+          "resourceType": "Font",
+          "priority": "VeryHigh",
+          "experimentalFromMainFrame": true,
+          "entity": "Google Fonts"
+        },
+        {
+          "url": "https://fonts.gstatic.com/s/heebo/v28/NGS6v5_NC0k9P9GYTbFhsqMA6aw.woff2",
+          "sessionTargetType": "page",
+          "protocol": "h3",
+          "cache": "none",
+          "rendererStartTime": 1277.4159998893738,
+          "networkRequestTime": 1359.1449998617172,
+          "networkEndTime": 1391.1239998340607,
+          "finished": true,
+          "transferSize": 14271,
+          "resourceSize": 14244,
+          "statusCode": 200,
+          "mimeType": "font/woff2",
+          "resourceType": "Font",
+          "priority": "VeryHigh",
+          "experimentalFromMainFrame": true,
+          "entity": "Google Fonts"
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/uploads/2026/04/nahal_amud-768x576.jpg.webp?ver=1788913754",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 1357.065999865532,
+          "networkRequestTime": 1418.513000011444,
+          "networkEndTime": 1535.0649999380112,
+          "finished": true,
+          "transferSize": 103599,
+          "resourceSize": 103346,
+          "statusCode": 200,
+          "mimeType": "image/webp",
+          "resourceType": "Image",
+          "priority": "Low",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/uploads/2026/04/hula-768x512.jpg.webp?ver=1788913752",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 1357.1959998607635,
+          "networkRequestTime": 1430.7709999084473,
+          "networkEndTime": 1550.3249999284744,
+          "finished": true,
+          "transferSize": 73966,
+          "resourceSize": 73714,
+          "statusCode": 200,
+          "mimeType": "image/webp",
+          "resourceType": "Image",
+          "priority": "Low",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/uploads/2026/04/cnaan_village-768x512.jpg.webp?ver=1788913756",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 1357.2449997663498,
+          "networkRequestTime": 1449.6430000066757,
+          "networkEndTime": 1572.1569999456406,
+          "finished": true,
+          "transferSize": 103411,
+          "resourceSize": 103158,
+          "statusCode": 200,
+          "mimeType": "image/webp",
+          "resourceType": "Image",
+          "priority": "Low",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/uploads/2026/04/hachava-768x432.jpg.webp?ver=1788913756",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 1357.2839999198914,
+          "networkRequestTime": 1515.5069999694824,
+          "networkEndTime": 1626.1559998989105,
+          "finished": true,
+          "transferSize": 50713,
+          "resourceSize": 50462,
+          "statusCode": 200,
+          "mimeType": "image/webp",
+          "resourceType": "Image",
+          "priority": "Low",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/uploads/2026/04/yakav_odem-768x512.jpg.webp?ver=1788913756",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 1357.3259999752045,
+          "networkRequestTime": 1517.0859999656677,
+          "networkEndTime": 1635.279000043869,
+          "finished": true,
+          "transferSize": 67036,
+          "resourceSize": 66784,
+          "statusCode": 200,
+          "mimeType": "image/webp",
+          "resourceType": "Image",
+          "priority": "Low",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/uploads/2026/04/kfar_nofeish-768x366.jpg.webp?ver=1788913756",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 1357.3759999275208,
+          "networkRequestTime": 1535.2129999399185,
+          "networkEndTime": 1656.1849999427795,
+          "finished": true,
+          "transferSize": 58775,
+          "resourceSize": 58524,
+          "statusCode": 200,
+          "mimeType": "image/webp",
+          "resourceType": "Image",
+          "priority": "Low",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-49-768x511.jpg.webp?ver=1788914592",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 1357.4259997606277,
+          "networkRequestTime": 1550.5770000219345,
+          "networkEndTime": 1776.6080000400543,
+          "finished": true,
+          "transferSize": 119379,
+          "resourceSize": 119126,
+          "statusCode": 200,
+          "mimeType": "image/webp",
+          "resourceType": "Image",
+          "priority": "Low",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-48-768x512.jpg.webp?ver=1788914546",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 1357.4769999980927,
+          "networkRequestTime": 1572.2959998846054,
+          "networkEndTime": 1700.2399998903275,
+          "finished": true,
+          "transferSize": 105669,
+          "resourceSize": 105416,
+          "statusCode": 200,
+          "mimeType": "image/webp",
+          "resourceType": "Image",
+          "priority": "Low",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-47-768x336.jpg.webp?ver=1788914508",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 1357.522999882698,
+          "networkRequestTime": 1626.2979998588562,
+          "networkEndTime": 1735.3199999332428,
+          "finished": true,
+          "transferSize": 20849,
+          "resourceSize": 20598,
+          "statusCode": 200,
+          "mimeType": "image/webp",
+          "resourceType": "Image",
+          "priority": "Low",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-46-768x346.jpg.webp?ver=1788914474",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 1357.5709999799728,
+          "networkRequestTime": 1635.3960000276566,
+          "networkEndTime": 1745.6899999380112,
+          "finished": true,
+          "transferSize": 41381,
+          "resourceSize": 41130,
+          "statusCode": 200,
+          "mimeType": "image/webp",
+          "resourceType": "Image",
+          "priority": "Low",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-45-768x320.jpg.webp?ver=1788914541",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 1357.6169998645782,
+          "networkRequestTime": 1656.3059998750687,
+          "networkEndTime": 1778.272999882698,
+          "finished": true,
+          "transferSize": 10393,
+          "resourceSize": 10142,
+          "statusCode": 200,
+          "mimeType": "image/webp",
+          "resourceType": "Image",
+          "priority": "Low",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/uploads/2026/07/place_photo-44-768x346.jpg.webp?ver=1788914522",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 1357.650999903679,
+          "networkRequestTime": 1700.3780000209808,
+          "networkEndTime": 1811.9259997606277,
+          "finished": true,
+          "transferSize": 38509,
+          "resourceSize": 38258,
+          "statusCode": 200,
+          "mimeType": "image/webp",
+          "resourceType": "Image",
+          "priority": "Low",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "data:text/javascript;base64,CnZhciBhc3RyYSA9IHsiYnJlYWtfcG9pbnQiOiI5MjEiLCJpc1J0bCI6IjEiLCJpc19zY3J…",
+          "sessionTargetType": "page",
+          "protocol": "data",
+          "cache": "memory",
+          "rendererStartTime": 1364.1859998703003,
+          "networkRequestTime": 1364.1859998703003,
+          "networkEndTime": 1364.2669999599457,
+          "finished": true,
+          "transferSize": 0,
+          "resourceSize": 223,
+          "statusCode": 200,
+          "mimeType": "text/javascript",
+          "resourceType": "Script",
+          "priority": "Low",
+          "experimentalFromMainFrame": true
+        },
+        {
+          "url": "data:text/javascript;base64,CnZhciBhY2Nlc3NpYmlsaXR5SG90a2V5cyA9IHsiaG90S2V5TWVudSI6Im0iLCJob3RLZXl…",
+          "sessionTargetType": "page",
+          "protocol": "data",
+          "cache": "memory",
+          "rendererStartTime": 1364.3889999389648,
+          "networkRequestTime": 1364.3889999389648,
+          "networkEndTime": 1364.4520000219345,
+          "finished": true,
+          "transferSize": 0,
+          "resourceSize": 174,
+          "statusCode": 200,
+          "mimeType": "text/javascript",
+          "resourceType": "Script",
+          "priority": "Low",
+          "experimentalFromMainFrame": true
+        },
+        {
+          "url": "data:text/javascript;base64,CnZhciBnZW9kaXJfcGFyYW1zID0geyJzaXRldXJsIjoiaHR0cHM6Ly9nb25vcnRoLmNvLml…",
+          "sessionTargetType": "page",
+          "protocol": "data",
+          "cache": "memory",
+          "rendererStartTime": 1371.6259999275208,
+          "networkRequestTime": 1371.6259999275208,
+          "networkEndTime": 1371.7249999046326,
+          "finished": true,
+          "transferSize": 0,
+          "resourceSize": 7978,
+          "statusCode": 200,
+          "mimeType": "text/javascript",
+          "resourceType": "Script",
+          "priority": "Low",
+          "experimentalFromMainFrame": true
+        },
+        {
+          "url": "data:text/javascript;base64,CnZhciB3Y19vcmRlcl9hdHRyaWJ1dGlvbiA9IHsicGFyYW1zIjp7ImxpZmV0aW1lIjoxLjB…",
+          "sessionTargetType": "page",
+          "protocol": "data",
+          "cache": "memory",
+          "rendererStartTime": 1371.827999830246,
+          "networkRequestTime": 1371.827999830246,
+          "networkEndTime": 1371.87399995327,
+          "finished": true,
+          "transferSize": 0,
+          "resourceSize": 732,
+          "statusCode": 200,
+          "mimeType": "text/javascript",
+          "resourceType": "Script",
+          "priority": "Low",
+          "experimentalFromMainFrame": true
+        },
+        {
+          "url": "data:text/javascript;base64,CnZhciBHb05vcnRoQW5hbHl0aWNzQ29uZmlnID0geyJjdXJyZW50UGxhY2UiOm51bGwsImR…",
+          "sessionTargetType": "page",
+          "protocol": "data",
+          "cache": "memory",
+          "rendererStartTime": 1371.9339998960495,
+          "networkRequestTime": 1371.9339998960495,
+          "networkEndTime": 1371.9729999303818,
+          "finished": true,
+          "transferSize": 0,
+          "resourceSize": 141,
+          "statusCode": 200,
+          "mimeType": "text/javascript",
+          "resourceType": "Script",
+          "priority": "Low",
+          "experimentalFromMainFrame": true
+        },
+        {
+          "url": "data:text/javascript;base64,CgkJCS8odHJpZGVudHxtc2llKS9pLnRlc3QobmF2aWdhdG9yLnVzZXJBZ2VudCkmJmRvY3V…",
+          "sessionTargetType": "page",
+          "protocol": "data",
+          "cache": "memory",
+          "rendererStartTime": 1372.0539999008179,
+          "networkRequestTime": 1372.0539999008179,
+          "networkEndTime": 1372.09199988842,
+          "finished": true,
+          "transferSize": 0,
+          "resourceSize": 333,
+          "statusCode": 200,
+          "mimeType": "text/javascript",
+          "resourceType": "Script",
+          "priority": "Low",
+          "experimentalFromMainFrame": true
+        },
+        {
+          "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-7297D03DXJ&gtm=45je69o0h2v9261109238za200zd9261109238xf1&_p=1790432969685&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=275693555.1790432971&frm=0&ngs=1&pscdl=noapi&rcb=16&sr=412x823&uaa=&uab=64&uafvl=Chromium%3B152.0.7977.84%7CNot%253FA_Brand%3B24.0.0.0%7CGoogle%2520Chrome%3B152.0.7977.84&uam=moto%20g%20power%20(2022)&uamb=1&uap=Android&uapv=11.0&uaw=0&ul=en-us&_s=1&tag_exp=115616986~115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153&sid=1790432970&sct=1&seg=0&dl=https%3A%2F%2Fgonorth.co.il%2F&dt=%D7%98%D7%99%D7%95%D7%9C%D7%99%D7%9D%20%D7%91%D7%A6%D7%A4%D7%95%D7%9F%3A%20%D7%90%D7%98%D7%A8%D7%A7%D7%A6%D7%99%D7%95%D7%AA%2C%20%D7%9C%D7%99%D7%A0%D7%94%20%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99%D7%9D%20%7C%20%D7%9B%D7%99%D7%95%D7%95%D7%9F%20%D7%A6%D7%A4%D7%95%D7%9F&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=1435",
+          "sessionTargetType": "page",
+          "protocol": "h2",
+          "cache": "none",
+          "rendererStartTime": 1435.0749999284744,
+          "networkRequestTime": 1435.663999915123,
+          "networkEndTime": 1622.941999912262,
+          "finished": true,
+          "transferSize": 547,
+          "resourceSize": 0,
+          "statusCode": 204,
+          "mimeType": "text/plain",
+          "resourceType": "Fetch",
+          "priority": "High",
+          "experimentalFromMainFrame": true,
+          "entity": "Google Analytics"
+        },
+        {
+          "url": "https://fonts.gstatic.com/s/heebo/v28/NGS6v5_NC0k9P9GKTbFhsqMA6aw.woff2",
+          "sessionTargetType": "page",
+          "protocol": "h3",
+          "cache": "none",
+          "rendererStartTime": 1449.4169999361038,
+          "networkRequestTime": 1465.62399995327,
+          "networkEndTime": 1478.8529998064041,
+          "finished": true,
+          "transferSize": 23801,
+          "resourceSize": 23772,
+          "statusCode": 200,
+          "mimeType": "font/woff2",
+          "resourceType": "Font",
+          "priority": "VeryHigh",
+          "experimentalFromMainFrame": true,
+          "entity": "Google Fonts"
+        },
+        {
+          "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-HVRP7CYDLR&gtm=45je69n1v9251744078z89251670649za20gzb9251670649zd9251670649xf1&_p=1790432969685&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=275693555.1790432971&frm=0&ngs=1&pscdl=noapi&rcb=11&sr=412x823&uaa=&uab=64&uafvl=Chromium%3B152.0.7977.84%7CNot%253FA_Brand%3B24.0.0.0%7CGoogle%2520Chrome%3B152.0.7977.84&uam=moto%20g%20power%20(2022)&uamb=1&uap=Android&uapv=11.0&uaw=0&ul=en-us&_s=1&tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153&sid=1790432970&sct=1&seg=0&dl=https%3A%2F%2Fgonorth.co.il%2F&dt=%D7%98%D7%99%D7%95%D7%9C%D7%99%D7%9D%20%D7%91%D7%A6%D7%A4%D7%95%D7%9F%3A%20%D7%90%D7%98%D7%A8%D7%A7%D7%A6%D7%99%D7%95%D7%AA%2C%20%D7%9C%D7%99%D7%A0%D7%94%20%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99%D7%9D%20%7C%20%D7%9B%D7%99%D7%95%D7%95%D7%9F%20%D7%A6%D7%A4%D7%95%D7%9F&en=page_view&_fv=1&_ss=1&tfd=1511",
+          "sessionTargetType": "page",
+          "protocol": "h2",
+          "cache": "none",
+          "rendererStartTime": 1511.2890000343323,
+          "networkRequestTime": 1512.0449999570847,
+          "networkEndTime": 1627.3659998178482,
+          "finished": true,
+          "transferSize": 48,
+          "resourceSize": 0,
+          "statusCode": 204,
+          "mimeType": "text/plain",
+          "resourceType": "Fetch",
+          "priority": "High",
+          "experimentalFromMainFrame": true,
+          "entity": "Google Analytics"
+        },
+        {
+          "url": "blob:https://gonorth.co.il/bf7ce830-ea79-483c-8c91-d24eee974fe8",
+          "sessionTargetType": "worker",
+          "protocol": "blob",
+          "cache": "none",
+          "rendererStartTime": 2836.0729999542236,
+          "networkRequestTime": 2836.0729999542236,
+          "networkEndTime": 2943.428999900818,
+          "finished": true,
+          "transferSize": -1,
+          "resourceSize": 1327,
+          "statusCode": 200,
+          "mimeType": "text/javascript",
+          "resourceType": "Script",
+          "priority": "VeryLow"
+        },
+        {
+          "url": "https://gonorth.co.il/wp-content/themes/gonorth-child/assets/gonorth-icon.svg",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 2882.6309999227524,
+          "networkRequestTime": 2883.021999835968,
+          "networkEndTime": 2990.8669998645782,
+          "finished": true,
+          "transferSize": 2146,
+          "resourceSize": 1894,
+          "statusCode": 200,
+          "mimeType": "image/svg+xml",
+          "resourceType": "Other",
+          "priority": "High",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        },
+        {
+          "url": "https://gonorth.co.il/wp-includes/js/wp-emoji-release.min.js?ver=7.1.2",
+          "sessionTargetType": "page",
+          "protocol": "http/1.1",
+          "cache": "none",
+          "rendererStartTime": 2943.8059997558594,
+          "networkRequestTime": 2944.2529999017715,
+          "networkEndTime": 3057.2259998321533,
+          "finished": true,
+          "transferSize": 23015,
+          "resourceSize": 22752,
+          "statusCode": 200,
+          "mimeType": "application/javascript",
+          "resourceType": "Script",
+          "priority": "Low",
+          "experimentalFromMainFrame": true,
+          "entity": "gonorth.co.il"
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "networkStartTimeTs": 1058399153201.0001,
+        "initiators": [
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 4,
+            "columnNumber": 519
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 4,
+            "columnNumber": 598
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 5,
+            "columnNumber": 252
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 40,
+            "columnNumber": 210
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 51,
+            "columnNumber": 210
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 54,
+            "columnNumber": 246
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 207,
+            "columnNumber": 259
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 207,
+            "columnNumber": 453
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 207,
+            "columnNumber": 683
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 207,
+            "columnNumber": 878
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 394,
+            "columnNumber": 244
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 394,
+            "columnNumber": 376
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 394,
+            "columnNumber": 565
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 394,
+            "columnNumber": 748
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 394,
+            "columnNumber": 930
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 395,
+            "columnNumber": 179
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 396,
+            "columnNumber": 157
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 396,
+            "columnNumber": 535
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 396,
+            "columnNumber": 964
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 4,
+            "columnNumber": 898
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 396,
+            "columnNumber": 415
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 396,
+            "columnNumber": 784
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 396,
+            "columnNumber": 39146
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 396,
+            "columnNumber": 39347
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 396,
+            "columnNumber": 39887
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 396,
+            "columnNumber": 40067
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 396,
+            "columnNumber": 40253
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 396,
+            "columnNumber": 40762
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 396,
+            "columnNumber": 40939
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 430,
+            "columnNumber": 3602
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 430,
+            "columnNumber": 3602
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 434,
+            "columnNumber": 34765
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 434,
+            "columnNumber": 34765
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 434,
+            "columnNumber": 34765
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 434,
+            "columnNumber": 59691
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 434,
+            "columnNumber": 60604
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 434,
+            "columnNumber": 62497
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 434,
+            "columnNumber": 62760
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 434,
+            "columnNumber": 62955
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 434,
+            "columnNumber": 63479
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 434,
+            "columnNumber": 63986
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 435,
+            "columnNumber": 224
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 435,
+            "columnNumber": 11089
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 435,
+            "columnNumber": 11250
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 435,
+            "columnNumber": 12487
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 435,
+            "columnNumber": 12952
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 435,
+            "columnNumber": 13133
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/wp-content/cache/autoptimize/autoptimize_single_6e965c6e3bcfcbf9911dc55e7cbcf40f.php?ver=2.9.0"
+          },
+          {
+            "type": "parser",
+            "url": "https://fonts.googleapis.com/css2?family=Heebo:wght@200;400;500;600;700;800;900&family=Secular+One&display=swap"
+          },
+          {
+            "type": "parser",
+            "url": "https://fonts.googleapis.com/css2?family=Heebo:wght@200;400;500;600;700;800;900&family=Secular+One&display=swap"
+          },
+          {
+            "type": "parser",
+            "url": "https://fonts.googleapis.com/css2?family=Heebo:wght@200;400;500;600;700;800;900&family=Secular+One&display=swap"
+          },
+          {
+            "type": "parser",
+            "url": "https://fonts.googleapis.com/css2?family=Heebo:wght@200;400;500;600;700;800;900&family=Secular+One&display=swap"
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 434,
+            "columnNumber": 62955
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 434,
+            "columnNumber": 62955
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 434,
+            "columnNumber": 62955
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 434,
+            "columnNumber": 62955
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 434,
+            "columnNumber": 62955
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 434,
+            "columnNumber": 62955
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 434,
+            "columnNumber": 62955
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 434,
+            "columnNumber": 62955
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 434,
+            "columnNumber": 62955
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 434,
+            "columnNumber": 62955
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 434,
+            "columnNumber": 62955
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 434,
+            "columnNumber": 62955
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 434,
+            "columnNumber": 63343
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 434,
+            "columnNumber": 63816
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 435,
+            "columnNumber": 10953
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 435,
+            "columnNumber": 12329
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 435,
+            "columnNumber": 12781
+          },
+          {
+            "type": "parser",
+            "url": "https://gonorth.co.il/",
+            "lineNumber": 435,
+            "columnNumber": 13645
+          },
+          {
+            "type": "parser",
+            "url": "https://fonts.googleapis.com/css2?family=Heebo:wght@200;400;500;600;700;800;900&family=Secular+One&display=swap"
+          },
+          {
+            "type": "other",
+            "url": "https://gonorth.co.il/"
+          }
+        ]
+      }
+    }
+  },
+  "resource-summary": {
+    "title": "Resources Summary",
+    "displayValue": null,
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "label",
+          "valueType": "text",
+          "label": "Resource Type"
+        },
+        {
+          "key": "requestCount",
+          "valueType": "numeric",
+          "label": "Requests"
+        },
+        {
+          "key": "transferSize",
+          "valueType": "bytes",
+          "label": "Transfer Size"
+        }
+      ],
+      "items": [
+        {
+          "resourceType": "total",
+          "label": "Total",
+          "requestCount": 60,
+          "transferSize": 2351454
+        },
+        {
+          "resourceType": "script",
+          "label": "Script",
+          "requestCount": 19,
+          "transferSize": 940290
+        },
+        {
+          "resourceType": "image",
+          "label": "Image",
+          "requestCount": 16,
+          "transferSize": 805446
+        },
+        {
+          "resourceType": "stylesheet",
+          "label": "Stylesheet",
+          "requestCount": 15,
+          "transferSize": 376986
+        },
+        {
+          "resourceType": "document",
+          "label": "Document",
+          "requestCount": 1,
+          "transferSize": 135769
+        },
+        {
+          "resourceType": "font",
+          "label": "Font",
+          "requestCount": 6,
+          "transferSize": 90222
+        },
+        {
+          "resourceType": "other",
+          "label": "Other",
+          "requestCount": 3,
+          "transferSize": 2741
+        },
+        {
+          "resourceType": "media",
+          "label": "Media",
+          "requestCount": 0,
+          "transferSize": 0
+        },
+        {
+          "resourceType": "third-party",
+          "label": "Third-party",
+          "requestCount": 14,
+          "transferSize": 594632
+        }
+      ]
+    }
+  }
+}

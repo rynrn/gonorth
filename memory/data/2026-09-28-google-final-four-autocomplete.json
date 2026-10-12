@@ -1,0 +1,246 @@
+[
+    {
+        "post_id": 202,
+        "queries": [
+            {
+                "query": "חלהוולאוו",
+                "http_status": 200,
+                "predictions": []
+            },
+            {
+                "query": "חלהוולאוו אודם",
+                "http_status": 200,
+                "predictions": []
+            },
+            {
+                "query": "0584345278",
+                "http_status": 200,
+                "predictions": []
+            }
+        ]
+    },
+    {
+        "post_id": 228,
+        "queries": [
+            {
+                "query": "קופיש",
+                "http_status": 200,
+                "predictions": []
+            },
+            {
+                "query": "Coffish",
+                "http_status": 200,
+                "predictions": []
+            },
+            {
+                "query": "קופיש עין גב",
+                "http_status": 200,
+                "predictions": []
+            },
+            {
+                "query": "0544939011",
+                "http_status": 200,
+                "predictions": []
+            }
+        ]
+    },
+    {
+        "post_id": 357,
+        "queries": [
+            {
+                "query": "F Ranch",
+                "http_status": 200,
+                "predictions": []
+            },
+            {
+                "query": "F Ranch נטור",
+                "http_status": 200,
+                "predictions": []
+            },
+            {
+                "query": "0584559312",
+                "http_status": 200,
+                "predictions": []
+            }
+        ]
+    },
+    {
+        "post_id": 409,
+        "queries": [
+            {
+                "query": "מורשת גוש קטיף בגולן",
+                "http_status": 200,
+                "predictions": []
+            },
+            {
+                "query": "גוש קטיף בגולן",
+                "http_status": 200,
+                "predictions": []
+            },
+            {
+                "query": "מרכז מורשת אבני איתן",
+                "http_status": 200,
+                "predictions": [
+                    {
+                        "place_id": "ChIJY8P06GEFHBURXFt--FTpM9U",
+                        "text": "אבני איתן",
+                        "main_text": "אבני איתן",
+                        "secondary_text": null,
+                        "details": {
+                            "http_status": 200,
+                            "place": {
+                                "id": "ChIJY8P06GEFHBURXFt--FTpM9U",
+                                "types": [
+                                    "locality",
+                                    "political"
+                                ],
+                                "formattedAddress": "אבני איתן",
+                                "location": {
+                                    "latitude": 32.824808,
+                                    "longitude": 35.765777
+                                },
+                                "displayName": {
+                                    "text": "אבני איתן",
+                                    "languageCode": "iw"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "place_id": "ChIJ0diiwdpLHBURQKf3KXkO-So",
+                        "text": "איתן עומר, מורה דרך בגליל, השילוח, מורשת",
+                        "main_text": "איתן עומר, מורה דרך בגליל",
+                        "secondary_text": "השילוח, מורשת",
+                        "details": {
+                            "http_status": 200,
+                            "place": {
+                                "id": "ChIJ0diiwdpLHBURQKf3KXkO-So",
+                                "types": [
+                                    "tour_agency",
+                                    "travel_agency",
+                                    "point_of_interest",
+                                    "service",
+                                    "establishment"
+                                ],
+                                "nationalPhoneNumber": "054-675-5674",
+                                "formattedAddress": "השילוח 38, מורשת, 20186",
+                                "location": {
+                                    "latitude": 32.827593,
+                                    "longitude": 35.231771
+                                },
+                                "rating": 5,
+                                "websiteUri": "https://go.galil.gov.il/html5/arclookup.taf?&_id=18811&did=2026&g=9511&sm=10015&title=%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%20%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD",
+                                "businessStatus": "OPERATIONAL",
+                                "userRatingCount": 18,
+                                "displayName": {
+                                    "text": "איתן עומר, מורה דרך בגליל",
+                                    "languageCode": "iw"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "place_id": "ChIJ5yCtVGAFHBURJ5bMoU62cbc",
+                        "text": "נח בגולן - צימרים באבני איתן, מושב אבני אית\"ן, Avnei Eitan Street, אבני איתן",
+                        "main_text": "נח בגולן - צימרים באבני איתן",
+                        "secondary_text": "מושב אבני אית\"ן, Avnei Eitan Street, אבני איתן",
+                        "details": {
+                            "http_status": 200,
+                            "place": {
+                                "id": "ChIJ5yCtVGAFHBURJ5bMoU62cbc",
+                                "types": [
+                                    "lodging",
+                                    "point_of_interest",
+                                    "establishment"
+                                ],
+                                "nationalPhoneNumber": "072-393-1939",
+                                "formattedAddress": "מושב אבני אית\"ן, Avnei Eitan Street, אבני איתן",
+                                "location": {
+                                    "latitude": 32.8292739,
+                                    "longitude": 35.7671589
+                                },
+                                "rating": 4.8,
+                                "businessStatus": "OPERATIONAL",
+                                "userRatingCount": 60,
+                                "displayName": {
+                                    "text": "נח בגולן - צימרים באבני איתן",
+                                    "languageCode": "iw"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "place_id": "ChIJpaxVeooPHBURNHxA-CS3VBs",
+                        "text": "הרפת הרובוטית באבני איתן, משק, אבני איתן",
+                        "main_text": "הרפת הרובוטית באבני איתן",
+                        "secondary_text": "משק, אבני איתן",
+                        "details": {
+                            "http_status": 200,
+                            "place": {
+                                "id": "ChIJpaxVeooPHBURNHxA-CS3VBs",
+                                "types": [
+                                    "farm",
+                                    "visitor_center",
+                                    "tourist_information_center",
+                                    "tour_agency",
+                                    "travel_agency",
+                                    "point_of_interest",
+                                    "service",
+                                    "establishment"
+                                ],
+                                "nationalPhoneNumber": "050-406-0311",
+                                "formattedAddress": "37 משק, אבני איתן 12925",
+                                "location": {
+                                    "latitude": 32.823149,
+                                    "longitude": 35.764072999999996
+                                },
+                                "rating": 4.8,
+                                "websiteUri": "https://moo-asis.info/",
+                                "businessStatus": "OPERATIONAL",
+                                "userRatingCount": 509,
+                                "displayName": {
+                                    "text": "הרפת הרובוטית באבני איתן",
+                                    "languageCode": "iw"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "place_id": "ChIJ6z3Pk60PHBURWL1tQUXXbOc",
+                        "text": "משק רם - אבני איתן, אבני איתן",
+                        "main_text": "משק רם - אבני איתן",
+                        "secondary_text": "אבני איתן",
+                        "details": {
+                            "http_status": 200,
+                            "place": {
+                                "id": "ChIJ6z3Pk60PHBURWL1tQUXXbOc",
+                                "types": [
+                                    "convenience_store",
+                                    "food_store",
+                                    "store",
+                                    "point_of_interest",
+                                    "food",
+                                    "establishment"
+                                ],
+                                "nationalPhoneNumber": "058-646-4201",
+                                "formattedAddress": "אבני איתן 1292500",
+                                "location": {
+                                    "latitude": 32.8215074,
+                                    "longitude": 35.7661855
+                                },
+                                "rating": 4.8,
+                                "websiteUri": "https://www.facebook.com/meshekram",
+                                "businessStatus": "OPERATIONAL",
+                                "userRatingCount": 136,
+                                "displayName": {
+                                    "text": "משק רם - אבני איתן",
+                                    "languageCode": "iw"
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]

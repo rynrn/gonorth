@@ -64,7 +64,7 @@ metadata:
 
 **חשוב:** הפעל את כל הקריאות **מהשרת** בלבד — המפתח מוגבל ל-IP של השרת.
 
-**API Key:** `AIzaSyArHd6QyrA753zJcbNjQbKWGPPHUeFdhSM`
+**API Key:** `${GOOGLE_PLACES_API_KEY}`
 
 ### 2א — חיפוש לפי אזור וסוג מקום
 
@@ -75,7 +75,7 @@ location=LAT,LNG\
 &radius=RADIUS\
 &type=TYPE\
 &language=iw\
-&key=AIzaSyArHd6QyrA753zJcbNjQbKWGPPHUeFdhSM' | python3 -c \"
+&key=${GOOGLE_PLACES_API_KEY}' | python3 -c \"
 import sys, json
 data = json.load(sys.stdin)
 for p in data.get('results', []):
@@ -91,7 +91,7 @@ ssh gonorth "curl -s 'https://maps.googleapis.com/maps/api/place/details/json?\
 place_id=PLACE_ID\
 &fields=name,business_status,permanently_closed,formatted_address,formatted_phone_number,website,opening_hours,rating,user_ratings_total,types\
 &language=iw\
-&key=AIzaSyArHd6QyrA753zJcbNjQbKWGPPHUeFdhSM' | python3 -c \"
+&key=${GOOGLE_PLACES_API_KEY}' | python3 -c \"
 import sys, json
 d = json.load(sys.stdin).get('result', {})
 print('שם:', d.get('name'))
@@ -320,3 +320,7 @@ ssh gonorth "curl -s -o /dev/null -w '%{http_code}' --max-time 10 'WEBSITE_URL'"
 8. הצגת דוח → המשתמש מאשר 8 מהם
 9. הוספת 8 שורות ל-places-to-add.md עם סטטוס "ממתין"
 ```
+
+## Shared change contract
+
+Follow docs/agent-change-contract.md for every change. Classify risk and canonical writer first; record sources and dates; create a snapshot and rollback for live changes; run tools/validate-place-records.py for place data; verify the canonical record and public output; then write the dated report and issue evidence. Official non-Google sources are valid when documented. Existing dynamic business facts must use the place-facts review and sync workflow.

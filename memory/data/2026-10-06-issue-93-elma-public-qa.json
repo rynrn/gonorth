@@ -1,0 +1,20 @@
+{
+  "checked_at": "2026-10-06T08:42:59.1791359+03:00",
+  "checks": {
+    "api": {
+      "url": "https://gonorth.co.il/wp-json/geodir/v2/places/548",
+      "http_status": 401,
+      "content_type": "application/json; charset=UTF-8"
+    },
+    "image": {
+      "url": "https://gonorth.co.il/wp-content/uploads/issue93-licensed/elma-elgaard-2016-scaled.jpg",
+      "http_status": 200,
+      "content_type": "image/jpeg"
+    },
+    "page": {
+      "url": "https://gonorth.co.il/?post_type=gd_place&p=548",
+      "http_status": 404,
+      "content_type": "text/html; charset=UTF-8"
+    }
+  }
+}

@@ -1,0 +1,3 @@
+<?php
+if(!defined('ABSPATH')){exit;}$id=54;$p=get_post($id);$t=get_post_thumbnail_id($id);echo wp_json_encode(['ID'=>$id,'title'=>$p->post_title,'status'=>$p->post_status,'content'=>$p->post_content,'excerpt'=>$p->post_excerpt,'permalink'=>get_permalink($id),'thumbnail_id'=>$t,'thumbnail_url'=>wp_get_attachment_url($t),'alt'=>get_post_meta($t,'_wp_attachment_image_alt',true),'categories'=>wp_get_post_terms($id,'gd_placecategory',['fields'=>'slugs']),'regions'=>wp_get_post_terms($id,'gn_region',['fields'=>'slugs']),'data'=>GoNorth_Place_Data::get($id)],JSON_UNESCAPED_UNICODE|JSON_UNESCAPED_SLASHES|JSON_PRETTY_PRINT).PHP_EOL;
+

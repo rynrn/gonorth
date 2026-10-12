@@ -1,0 +1,2496 @@
+[
+    {
+        "id": 48,
+        "title": "יקב הר אודם",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%99%d7%a7%d7%91-%d7%94%d7%a8-%d7%90%d7%95%d7%93%d7%9d\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 36,
+                "slug": "yakavim",
+                "name": "יקבים"
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "title": "כפר נופש &#8211; יער אודם",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%9b%d7%a4%d7%a8-%d7%a0%d7%95%d7%a4%d7%a9-%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 18,
+                "slug": "accommodation",
+                "name": "לינה"
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "title": "החווה ביער אודם",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%94%d7%97%d7%95%d7%95%d7%94-%d7%91%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 17,
+                "slug": "atraktziot-main",
+                "name": "אטרקציות"
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "title": "שמורת טבע החולה",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%97%d7%95%d7%9c%d7%94\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 35,
+                "slug": "teva",
+                "name": "טבע ומסלולים"
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "title": "נחל השופט",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a0%d7%97%d7%9c-%d7%94%d7%a9%d7%95%d7%a4%d7%98\/",
+        "regions": [
+            {
+                "id": 30,
+                "slug": "carmel",
+                "name": "כרמל ועמק יזרעאל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 35,
+                "slug": "teva",
+                "name": "טבע ומסלולים"
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "title": "שמורת טבע נחל עמוד",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%a2%d7%9e%d7%95%d7%93\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 35,
+                "slug": "teva",
+                "name": "טבע ומסלולים"
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "title": "מלון פרא — Pereh Hotel",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%9e%d7%9c%d7%95%d7%9f-%d7%a4%d7%a8%d7%90-pereh-hotel\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 18,
+                "slug": "accommodation",
+                "name": "לינה"
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "title": "כנען וילאג׳ &#8211; מלון בוטיק וספא בצפון",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%9b%d7%a0%d7%a2%d7%9f-%d7%95%d7%99%d7%9c%d7%90%d7%92%d7%b3-%d7%9e%d7%9c%d7%95%d7%9f-%d7%91%d7%95%d7%98%d7%99%d7%a7-%d7%95%d7%a1%d7%a4%d7%90-%d7%91%d7%a6%d7%a4%d7%95%d7%9f\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 18,
+                "slug": "accommodation",
+                "name": "לינה"
+            }
+        ]
+    },
+    {
+        "id": 86,
+        "title": "פארק המעיינות",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a4%d7%90%d7%a8%d7%a7-%d7%94%d7%9e%d7%a2%d7%99%d7%99%d7%a0%d7%95%d7%aa\/",
+        "regions": [],
+        "categories": [
+            {
+                "id": 17,
+                "slug": "atraktziot-main",
+                "name": "אטרקציות"
+            }
+        ]
+    },
+    {
+        "id": 87,
+        "title": "גן גורו — הפארק האוסטרלי",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%92%d7%9f-%d7%92%d7%95%d7%a8%d7%95-%d7%94%d7%a4%d7%90%d7%a8%d7%a7-%d7%94%d7%90%d7%95%d7%a1%d7%98%d7%a8%d7%9c%d7%99\/",
+        "regions": [],
+        "categories": [
+            {
+                "id": 17,
+                "slug": "atraktziot-main",
+                "name": "אטרקציות"
+            }
+        ]
+    },
+    {
+        "id": 88,
+        "title": "שמורת נחל הקיבוצים",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%a0%d7%97%d7%9c-%d7%94%d7%a7%d7%99%d7%91%d7%95%d7%a6%d7%99%d7%9d\/",
+        "regions": [],
+        "categories": [
+            {
+                "id": 35,
+                "slug": "teva",
+                "name": "טבע ומסלולים"
+            }
+        ]
+    },
+    {
+        "id": 89,
+        "title": "שמורת טבע נחל שניר (חצבאני)",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%a9%d7%a0%d7%99%d7%a8-%d7%97%d7%a6%d7%91%d7%90%d7%a0%d7%99\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 35,
+                "slug": "teva",
+                "name": "טבע ומסלולים"
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "title": "דג על הדן",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%93%d7%92-%d7%a2%d7%9c-%d7%94%d7%93%d7%9f\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 33,
+                "slug": "restaurants-sub",
+                "name": "מסעדות"
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "title": "כפר החיות בכפר גלעדי",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%9b%d7%a4%d7%a8-%d7%94%d7%97%d7%99%d7%95%d7%aa-%d7%91%d7%9b%d7%a4%d7%a8-%d7%92%d7%9c%d7%a2%d7%93%d7%99\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 17,
+                "slug": "atraktziot-main",
+                "name": "אטרקציות"
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "title": "לול ארט",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%9c%d7%95%d7%9c-%d7%90%d7%a8%d7%98\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 17,
+                "slug": "atraktziot-main",
+                "name": "אטרקציות"
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "title": "עזיזו — לבנדר מהגולן",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a2%d7%96%d7%99%d7%96%d7%95-%d7%9c%d7%91%d7%a0%d7%93%d7%a8-%d7%9e%d7%94%d7%92%d7%95%d7%9c%d7%9f\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 17,
+                "slug": "atraktziot-main",
+                "name": "אטרקציות"
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "title": "פיינטבול הגושרים",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a4%d7%99%d7%99%d7%a0%d7%98%d7%91%d7%95%d7%9c-%d7%94%d7%92%d7%95%d7%a9%d7%a8%d7%99%d7%9d\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 20,
+                "slug": "tours",
+                "name": "סיורים ופעילויות"
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "title": "קידס לנד — אתגר הנינג'ה לילדים",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a7%d7%99%d7%93%d7%a1-%d7%9c%d7%a0%d7%93-%d7%90%d7%aa%d7%92%d7%a8-%d7%94%d7%a0%d7%99%d7%a0%d7%92%d7%94-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 20,
+                "slug": "tours",
+                "name": "סיורים ופעילויות"
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "title": "שמורת טבע הר מירון",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%a8-%d7%9e%d7%99%d7%a8%d7%95%d7%9f\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 35,
+                "slug": "teva",
+                "name": "טבע ומסלולים"
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "title": "שמורת טבע נחל כזיב",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%9b%d7%96%d7%99%d7%91\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 35,
+                "slug": "teva",
+                "name": "טבע ומסלולים"
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "title": "אגמון החולה",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%90%d7%92%d7%9e%d7%95%d7%9f-%d7%94%d7%97%d7%95%d7%9c%d7%94\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 35,
+                "slug": "teva",
+                "name": "טבע ומסלולים"
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "title": "גן לאומי תל חצור",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%92%d7%9f-%d7%9c%d7%90%d7%95%d7%9e%d7%99-%d7%aa%d7%9c-%d7%97%d7%a6%d7%95%d7%a8\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 17,
+                "slug": "atraktziot-main",
+                "name": "אטרקציות"
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "title": "עין תינה",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a2%d7%99%d7%9f-%d7%aa%d7%99%d7%a0%d7%94\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 35,
+                "slug": "teva",
+                "name": "טבע ומסלולים"
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "title": "עין דיבשה",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a2%d7%99%d7%9f-%d7%93%d7%99%d7%91%d7%a9%d7%94\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 35,
+                "slug": "teva",
+                "name": "טבע ומסלולים"
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "title": "חוות בת יער",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%97%d7%95%d7%95%d7%aa-%d7%91%d7%aa-%d7%99%d7%a2%d7%a8\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 17,
+                "slug": "atraktziot-main",
+                "name": "אטרקציות"
+            },
+            {
+                "id": 33,
+                "slug": "restaurants-sub",
+                "name": "מסעדות"
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "title": "רוג'ום — קיר טיפוס בקריית שמונה",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a8%d7%95%d7%92%d7%95%d7%9d-%d7%a7%d7%99%d7%a8-%d7%98%d7%99%d7%a4%d7%95%d7%a1-%d7%91%d7%a7%d7%a8%d7%99%d7%99%d7%aa-%d7%a9%d7%9e%d7%95%d7%a0%d7%94\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 20,
+                "slug": "tours",
+                "name": "סיורים ופעילויות"
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "title": "גן מורד הירדן",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%92%d7%9f-%d7%9e%d7%95%d7%a8%d7%93-%d7%94%d7%99%d7%a8%d7%93%d7%9f\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 35,
+                "slug": "teva",
+                "name": "טבע ומסלולים"
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "title": "שמורת טבע נחל המשושים",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%94%d7%9e%d7%a9%d7%95%d7%a9%d7%99%d7%9d\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 35,
+                "slug": "teva",
+                "name": "טבע ומסלולים"
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "title": "שמורת טבע יהודיה",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%99%d7%94%d7%95%d7%93%d7%99%d7%94\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 35,
+                "slug": "teva",
+                "name": "טבע ומסלולים"
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "title": "שמורת טבע הבניאס",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%91%d7%a0%d7%99%d7%90%d7%a1\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 35,
+                "slug": "teva",
+                "name": "טבע ומסלולים"
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "title": "יקב רמת הגולן",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%99%d7%a7%d7%91-%d7%a8%d7%9e%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 36,
+                "slug": "yakavim",
+                "name": "יקבים"
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "title": "מפגש היקב — עמיעד",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%9e%d7%a4%d7%92%d7%a9-%d7%94%d7%99%d7%a7%d7%91-%d7%a2%d7%9e%d7%99%d7%a2%d7%93\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 36,
+                "slug": "yakavim",
+                "name": "יקבים"
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "title": "יקב רמות נפתלי",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%99%d7%a7%d7%91-%d7%a8%d7%9e%d7%95%d7%aa-%d7%a0%d7%a4%d7%aa%d7%9c%d7%99\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 36,
+                "slug": "yakavim",
+                "name": "יקבים"
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "title": "יקב דלתון",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%99%d7%a7%d7%91-%d7%93%d7%9c%d7%aa%d7%95%d7%9f\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 36,
+                "slug": "yakavim",
+                "name": "יקבים"
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "title": "חלהוולאוו",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%97%d7%9c%d7%94%d7%95%d7%95%d7%9c%d7%90%d7%95%d7%95\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 38,
+                "slug": "agalot-kafe",
+                "name": "עגלות קפה"
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "title": "קפה מוייז",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a7%d7%a4%d7%94-%d7%9e%d7%95%d7%99%d7%99%d7%96\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 38,
+                "slug": "agalot-kafe",
+                "name": "עגלות קפה"
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "title": "נינו עגלת קפה",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a0%d7%99%d7%a0%d7%95-%d7%a2%d7%92%d7%9c%d7%aa-%d7%a7%d7%a4%d7%94\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 38,
+                "slug": "agalot-kafe",
+                "name": "עגלות קפה"
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "title": "דה פייפ קפה",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%93%d7%94-%d7%a4%d7%99%d7%99%d7%a4-%d7%a7%d7%a4%d7%94\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 38,
+                "slug": "agalot-kafe",
+                "name": "עגלות קפה"
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "title": "קפה חמה",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a7%d7%a4%d7%94-%d7%97%d7%9e%d7%94\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 38,
+                "slug": "agalot-kafe",
+                "name": "עגלות קפה"
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "title": "דורא עגלת קפה",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%93%d7%95%d7%a8%d7%90-%d7%a2%d7%92%d7%9c%d7%aa-%d7%a7%d7%a4%d7%94\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 38,
+                "slug": "agalot-kafe",
+                "name": "עגלות קפה"
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "title": "קפה קירשנר",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a7%d7%a4%d7%94-%d7%a7%d7%99%d7%a8%d7%a9%d7%a0%d7%a8\/",
+        "regions": [
+            {
+                "id": 30,
+                "slug": "carmel",
+                "name": "כרמל ועמק יזרעאל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 38,
+                "slug": "agalot-kafe",
+                "name": "עגלות קפה"
+            }
+        ]
+    },
+    {
+        "id": 217,
+        "title": "קפה התן",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a7%d7%a4%d7%94-%d7%94%d7%aa%d7%9f\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 38,
+                "slug": "agalot-kafe",
+                "name": "עגלות קפה"
+            }
+        ]
+    },
+    {
+        "id": 219,
+        "title": "עגלת קפה מיכאל",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a2%d7%92%d7%9c%d7%aa-%d7%a7%d7%a4%d7%94-%d7%9e%d7%99%d7%9b%d7%90%d7%9c\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 38,
+                "slug": "agalot-kafe",
+                "name": "עגלות קפה"
+            }
+        ]
+    },
+    {
+        "id": 221,
+        "title": "אסתר — קפה ובישולים לדרך",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%90%d7%a1%d7%aa%d7%a8-%d7%a7%d7%a4%d7%94-%d7%95%d7%91%d7%99%d7%a9%d7%95%d7%9c%d7%99%d7%9d-%d7%9c%d7%93%d7%a8%d7%9a\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 38,
+                "slug": "agalot-kafe",
+                "name": "עגלות קפה"
+            }
+        ]
+    },
+    {
+        "id": 223,
+        "title": "מיקה",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%9e%d7%99%d7%a7%d7%94\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 38,
+                "slug": "agalot-kafe",
+                "name": "עגלות קפה"
+            }
+        ]
+    },
+    {
+        "id": 225,
+        "title": "עגלת קפה החלוצים",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a2%d7%92%d7%9c%d7%aa-%d7%a7%d7%a4%d7%94-%d7%94%d7%97%d7%9c%d7%95%d7%a6%d7%99%d7%9d\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 38,
+                "slug": "agalot-kafe",
+                "name": "עגלות קפה"
+            }
+        ]
+    },
+    {
+        "id": 228,
+        "title": "קופיש Coffish",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a7%d7%95%d7%a4%d7%99%d7%a9-coffish\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 38,
+                "slug": "agalot-kafe",
+                "name": "עגלות קפה"
+            }
+        ]
+    },
+    {
+        "id": 229,
+        "title": "שישו קפה",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a9%d7%99%d7%a9%d7%95-%d7%a7%d7%a4%d7%94\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 38,
+                "slug": "agalot-kafe",
+                "name": "עגלות קפה"
+            }
+        ]
+    },
+    {
+        "id": 231,
+        "title": "עספורה",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a2%d7%a1%d7%a4%d7%95%d7%a8%d7%94\/",
+        "regions": [
+            {
+                "id": 30,
+                "slug": "carmel",
+                "name": "כרמל ועמק יזרעאל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 38,
+                "slug": "agalot-kafe",
+                "name": "עגלות קפה"
+            }
+        ]
+    },
+    {
+        "id": 233,
+        "title": "הקרון בכפר יהושוע",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%94%d7%a7%d7%a8%d7%95%d7%9f-%d7%91%d7%9b%d7%a4%d7%a8-%d7%99%d7%94%d7%95%d7%a9%d7%95%d7%a2\/",
+        "regions": [
+            {
+                "id": 30,
+                "slug": "carmel",
+                "name": "כרמל ועמק יזרעאל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 38,
+                "slug": "agalot-kafe",
+                "name": "עגלות קפה"
+            }
+        ]
+    },
+    {
+        "id": 235,
+        "title": "יקב תל שיפון",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%99%d7%a7%d7%91-%d7%aa%d7%9c-%d7%a9%d7%99%d7%a4%d7%95%d7%9f\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 36,
+                "slug": "yakavim",
+                "name": "יקבים"
+            },
+            {
+                "id": 33,
+                "slug": "restaurants-sub",
+                "name": "מסעדות"
+            }
+        ]
+    },
+    {
+        "id": 237,
+        "title": "יקב שאטו גולן",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%99%d7%a7%d7%91-%d7%a9%d7%90%d7%98%d7%95-%d7%92%d7%95%d7%9c%d7%9f\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 36,
+                "slug": "yakavim",
+                "name": "יקבים"
+            }
+        ]
+    },
+    {
+        "id": 240,
+        "title": "יקב הרי גליל",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%99%d7%a7%d7%91-%d7%94%d7%a8%d7%99-%d7%92%d7%9c%d7%99%d7%9c\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 36,
+                "slug": "yakavim",
+                "name": "יקבים"
+            }
+        ]
+    },
+    {
+        "id": 242,
+        "title": "יקב אדיר",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%99%d7%a7%d7%91-%d7%90%d7%93%d7%99%d7%a8\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 36,
+                "slug": "yakavim",
+                "name": "יקבים"
+            }
+        ]
+    },
+    {
+        "id": 244,
+        "title": "יקב בן זמרה",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%99%d7%a7%d7%91-%d7%91%d7%9f-%d7%96%d7%9e%d7%a8%d7%94\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 36,
+                "slug": "yakavim",
+                "name": "יקבים"
+            }
+        ]
+    },
+    {
+        "id": 246,
+        "title": "אינדי פארק",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%90%d7%99%d7%a0%d7%93%d7%99-%d7%a4%d7%90%d7%a8%d7%a7\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 17,
+                "slug": "atraktziot-main",
+                "name": "אטרקציות"
+            }
+        ]
+    },
+    {
+        "id": 248,
+        "title": "מטאור — תצפיות כוכבים",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%9e%d7%98%d7%90%d7%95%d7%a8-%d7%aa%d7%a6%d7%a4%d7%99%d7%95%d7%aa-%d7%9b%d7%95%d7%9b%d7%91%d7%99%d7%9d\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 17,
+                "slug": "atraktziot-main",
+                "name": "אטרקציות"
+            }
+        ]
+    },
+    {
+        "id": 323,
+        "title": "קייקי כפר בלום",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a7%d7%99%d7%99%d7%a7%d7%99-%d7%9b%d7%a4%d7%a8-%d7%91%d7%9c%d7%95%d7%9d\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 20,
+                "slug": "tours",
+                "name": "סיורים ופעילויות"
+            }
+        ]
+    },
+    {
+        "id": 325,
+        "title": "רפטינג נהר הירדן",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a8%d7%a4%d7%98%d7%99%d7%a0%d7%92-%d7%a0%d7%94%d7%a8-%d7%94%d7%99%d7%a8%d7%93%d7%9f\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 20,
+                "slug": "tours",
+                "name": "סיורים ופעילויות"
+            }
+        ]
+    },
+    {
+        "id": 327,
+        "title": "חמי טבריה",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%97%d7%9e%d7%99-%d7%98%d7%91%d7%a8%d7%99%d7%94\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 17,
+                "slug": "atraktziot-main",
+                "name": "אטרקציות"
+            }
+        ]
+    },
+    {
+        "id": 329,
+        "title": "חוות האושר — רכיבה על סוסים",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%97%d7%95%d7%95%d7%aa-%d7%94%d7%90%d7%95%d7%a9%d7%a8-%d7%a8%d7%9b%d7%99%d7%91%d7%94-%d7%a2%d7%9c-%d7%a1%d7%95%d7%a1%d7%99%d7%9d\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 20,
+                "slug": "tours",
+                "name": "סיורים ופעילויות"
+            }
+        ]
+    },
+    {
+        "id": 331,
+        "title": "ורד הגליל",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%95%d7%a8%d7%93-%d7%94%d7%92%d7%9c%d7%99%d7%9c\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 18,
+                "slug": "accommodation",
+                "name": "לינה"
+            },
+            {
+                "id": 20,
+                "slug": "tours",
+                "name": "סיורים ופעילויות"
+            }
+        ]
+    },
+    {
+        "id": 333,
+        "title": "חוות הבוקרים — מרום גולן",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%97%d7%95%d7%95%d7%aa-%d7%94%d7%91%d7%95%d7%a7%d7%a8%d7%99%d7%9d-%d7%9e%d7%a8%d7%95%d7%9d-%d7%92%d7%95%d7%9c%d7%9f\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 20,
+                "slug": "tours",
+                "name": "סיורים ופעילויות"
+            }
+        ]
+    },
+    {
+        "id": 335,
+        "title": "גיל גולן — מרכז רכיבה",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%92%d7%99%d7%9c-%d7%92%d7%95%d7%9c%d7%9f-%d7%9e%d7%a8%d7%9b%d7%96-%d7%a8%d7%9b%d7%99%d7%91%d7%94\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 20,
+                "slug": "tours",
+                "name": "סיורים ופעילויות"
+            }
+        ]
+    },
+    {
+        "id": 337,
+        "title": "חוות סוסים — קיבוץ אורטל",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%97%d7%95%d7%95%d7%aa-%d7%a1%d7%95%d7%a1%d7%99%d7%9d-%d7%a7%d7%99%d7%91%d7%95%d7%a5-%d7%90%d7%95%d7%a8%d7%98%d7%9c\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 20,
+                "slug": "tours",
+                "name": "סיורים ופעילויות"
+            }
+        ]
+    },
+    {
+        "id": 339,
+        "title": "גלמפינג קיבוץ אורטל",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%92%d7%9c%d7%9e%d7%a4%d7%99%d7%a0%d7%92-%d7%a7%d7%99%d7%91%d7%95%d7%a5-%d7%90%d7%95%d7%a8%d7%98%d7%9c\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 18,
+                "slug": "accommodation",
+                "name": "לינה"
+            }
+        ]
+    },
+    {
+        "id": 341,
+        "title": "גלמפינג על הצוק — עין קיניא",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%92%d7%9c%d7%9e%d7%a4%d7%99%d7%a0%d7%92-%d7%a2%d7%9c-%d7%94%d7%a6%d7%95%d7%a7-%d7%a2%d7%99%d7%9f-%d7%a7%d7%99%d7%a0%d7%99%d7%90\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 18,
+                "slug": "accommodation",
+                "name": "לינה"
+            }
+        ]
+    },
+    {
+        "id": 343,
+        "title": "גלמפינג עין תאנה",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%92%d7%9c%d7%9e%d7%a4%d7%99%d7%a0%d7%92-%d7%a2%d7%99%d7%9f-%d7%aa%d7%90%d7%a0%d7%94\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 18,
+                "slug": "accommodation",
+                "name": "לינה"
+            }
+        ]
+    },
+    {
+        "id": 345,
+        "title": "בלום וילג׳ — כפר בלום",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%91%d7%9c%d7%95%d7%9d-%d7%95%d7%99%d7%9c%d7%92%d7%b3-%d7%9b%d7%a4%d7%a8-%d7%91%d7%9c%d7%95%d7%9d\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 18,
+                "slug": "accommodation",
+                "name": "לינה"
+            }
+        ]
+    },
+    {
+        "id": 347,
+        "title": "קטיף עצמי אל-רום",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a7%d7%98%d7%99%d7%a3-%d7%a2%d7%a6%d7%9e%d7%99-%d7%90%d7%9c-%d7%a8%d7%95%d7%9d\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 17,
+                "slug": "atraktziot-main",
+                "name": "אטרקציות"
+            }
+        ]
+    },
+    {
+        "id": 349,
+        "title": "מרכז מורשת שמן הזית — משק טוייסטר",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%9e%d7%a8%d7%9b%d7%96-%d7%9e%d7%95%d7%a8%d7%a9%d7%aa-%d7%a9%d7%9e%d7%9f-%d7%94%d7%96%d7%99%d7%aa-%d7%9e%d7%a9%d7%a7-%d7%98%d7%95%d7%99%d7%99%d7%a1%d7%98%d7%a8\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 17,
+                "slug": "atraktziot-main",
+                "name": "אטרקציות"
+            }
+        ]
+    },
+    {
+        "id": 351,
+        "title": "ג׳ימי ג׳יפ — טיולי ג׳יפים",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%92%d7%b3%d7%99%d7%9e%d7%99-%d7%92%d7%b3%d7%99%d7%a4-%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%92%d7%b3%d7%99%d7%a4%d7%99%d7%9d\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 20,
+                "slug": "tours",
+                "name": "סיורים ופעילויות"
+            }
+        ]
+    },
+    {
+        "id": 353,
+        "title": "סאונדטראק — טיולי אוזניות בטבע",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a1%d7%90%d7%95%d7%a0%d7%93%d7%98%d7%a8%d7%90%d7%a7-%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%90%d7%95%d7%96%d7%a0%d7%99%d7%95%d7%aa-%d7%91%d7%98%d7%91%d7%a2\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 20,
+                "slug": "tours",
+                "name": "סיורים ופעילויות"
+            }
+        ]
+    },
+    {
+        "id": 355,
+        "title": "קול שופר — מרכז מבקרים",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a7%d7%95%d7%9c-%d7%a9%d7%95%d7%a4%d7%a8-%d7%9e%d7%a8%d7%9b%d7%96-%d7%9e%d7%91%d7%a7%d7%a8%d7%99%d7%9d\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 17,
+                "slug": "atraktziot-main",
+                "name": "אטרקציות"
+            }
+        ]
+    },
+    {
+        "id": 357,
+        "title": "F Ranch",
+        "url": "https:\/\/gonorth.co.il\/places\/f-ranch\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 20,
+                "slug": "tours",
+                "name": "סיורים ופעילויות"
+            }
+        ]
+    },
+    {
+        "id": 359,
+        "title": "מחלבת נטור — אוכל גבינות וחוויה כפרית בגולן",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%9e%d7%97%d7%9c%d7%91%d7%aa-%d7%a0%d7%98%d7%95%d7%a8-%d7%90%d7%95%d7%9b%d7%9c-%d7%92%d7%91%d7%99%d7%a0%d7%95%d7%aa-%d7%95%d7%97%d7%95%d7%95%d7%99%d7%94-%d7%9b%d7%a4%d7%a8%d7%99%d7%aa\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 17,
+                "slug": "atraktziot-main",
+                "name": "אטרקציות"
+            },
+            {
+                "id": 33,
+                "slug": "restaurants-sub",
+                "name": "מסעדות"
+            }
+        ]
+    },
+    {
+        "id": 361,
+        "title": "העדי שבמטבח — סדנאות שוקולד",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%94%d7%a2%d7%93%d7%99-%d7%a9%d7%91%d7%9e%d7%98%d7%91%d7%97-%d7%a1%d7%93%d7%a0%d7%90%d7%95%d7%aa-%d7%a9%d7%95%d7%a7%d7%95%d7%9c%d7%93\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 33,
+                "slug": "restaurants-sub",
+                "name": "מסעדות"
+            },
+            {
+                "id": 20,
+                "slug": "tours",
+                "name": "סיורים ופעילויות"
+            }
+        ]
+    },
+    {
+        "id": 363,
+        "title": "יקב פלטר",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%99%d7%a7%d7%91-%d7%a4%d7%9c%d7%98%d7%a8\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 36,
+                "slug": "yakavim",
+                "name": "יקבים"
+            }
+        ]
+    },
+    {
+        "id": 365,
+        "title": "ג׳י.פי.אס טיולי ג׳יפים",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%92%d7%b3%d7%99-%d7%a4%d7%99-%d7%90%d7%a1-%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%92%d7%b3%d7%99%d7%a4%d7%99%d7%9d\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 20,
+                "slug": "tours",
+                "name": "סיורים ופעילויות"
+            }
+        ]
+    },
+    {
+        "id": 367,
+        "title": "מזקקת גולני",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%9e%d7%96%d7%a7%d7%a7%d7%aa-%d7%92%d7%95%d7%9c%d7%a0%d7%99\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 17,
+                "slug": "atraktziot-main",
+                "name": "אטרקציות"
+            },
+            {
+                "id": 33,
+                "slug": "restaurants-sub",
+                "name": "מסעדות"
+            }
+        ]
+    },
+    {
+        "id": 369,
+        "title": "רייזר סטאר חד-נס",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a8%d7%99%d7%99%d7%96%d7%a8-%d7%a1%d7%98%d7%90%d7%a8-%d7%97%d7%93-%d7%a0%d7%a1\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 20,
+                "slug": "tours",
+                "name": "סיורים ופעילויות"
+            }
+        ]
+    },
+    {
+        "id": 371,
+        "title": "החווה התיירותית — בל עפרי",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%94%d7%97%d7%95%d7%95%d7%94-%d7%94%d7%aa%d7%99%d7%99%d7%a8%d7%95%d7%aa%d7%99%d7%aa-%d7%91%d7%9c-%d7%a2%d7%a4%d7%a8%d7%99\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 17,
+                "slug": "atraktziot-main",
+                "name": "אטרקציות"
+            },
+            {
+                "id": 33,
+                "slug": "restaurants-sub",
+                "name": "מסעדות"
+            }
+        ]
+    },
+    {
+        "id": 373,
+        "title": "טיולי עששיות בפארק הירדן",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%a2%d7%a9%d7%a9%d7%99%d7%95%d7%aa-%d7%91%d7%a4%d7%90%d7%a8%d7%a7-%d7%94%d7%99%d7%a8%d7%93%d7%9f\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 20,
+                "slug": "tours",
+                "name": "סיורים ופעילויות"
+            }
+        ]
+    },
+    {
+        "id": 375,
+        "title": "הרפת הרובוטית",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%94%d7%a8%d7%a4%d7%aa-%d7%94%d7%a8%d7%95%d7%91%d7%95%d7%98%d7%99%d7%aa\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 17,
+                "slug": "atraktziot-main",
+                "name": "אטרקציות"
+            }
+        ]
+    },
+    {
+        "id": 377,
+        "title": "בירה בזלת — מבשלת הגולן",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%91%d7%99%d7%a8%d7%94-%d7%91%d7%96%d7%9c%d7%aa-%d7%9e%d7%91%d7%a9%d7%9c%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 17,
+                "slug": "atraktziot-main",
+                "name": "אטרקציות"
+            },
+            {
+                "id": 33,
+                "slug": "restaurants-sub",
+                "name": "מסעדות"
+            }
+        ]
+    },
+    {
+        "id": 379,
+        "title": "לימונטו — מרכז מבקרים",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%9c%d7%99%d7%9e%d7%95%d7%a0%d7%98%d7%95-%d7%9e%d7%a8%d7%9b%d7%96-%d7%9e%d7%91%d7%a7%d7%a8%d7%99%d7%9d\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 17,
+                "slug": "atraktziot-main",
+                "name": "אטרקציות"
+            },
+            {
+                "id": 33,
+                "slug": "restaurants-sub",
+                "name": "מסעדות"
+            }
+        ]
+    },
+    {
+        "id": 381,
+        "title": "חוויית ג׳יפים ורייזרים בגולן",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%97%d7%95%d7%95%d7%99%d7%99%d7%aa-%d7%92%d7%b3%d7%99%d7%a4%d7%99%d7%9d-%d7%95%d7%a8%d7%99%d7%99%d7%96%d7%a8%d7%99%d7%9d-%d7%91%d7%92%d7%95%d7%9c%d7%9f\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 20,
+                "slug": "tours",
+                "name": "סיורים ופעילויות"
+            }
+        ]
+    },
+    {
+        "id": 383,
+        "title": "סנאבל — המרכז התיירותי הדרוזי",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a1%d7%a0%d7%90%d7%91%d7%9c-%d7%94%d7%9e%d7%a8%d7%9b%d7%96-%d7%94%d7%aa%d7%99%d7%99%d7%a8%d7%95%d7%aa%d7%99-%d7%94%d7%93%d7%a8%d7%95%d7%96%d7%99\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 33,
+                "slug": "restaurants-sub",
+                "name": "מסעדות"
+            },
+            {
+                "id": 20,
+                "slug": "tours",
+                "name": "סיורים ופעילויות"
+            }
+        ]
+    },
+    {
+        "id": 385,
+        "title": "טיולי אתגר — Wild Adventures",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%90%d7%aa%d7%92%d7%a8-wild-adventures\/",
+        "regions": [
+            {
+                "id": 30,
+                "slug": "carmel",
+                "name": "כרמל ועמק יזרעאל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 20,
+                "slug": "tours",
+                "name": "סיורים ופעילויות"
+            }
+        ]
+    },
+    {
+        "id": 387,
+        "title": "קטיף עצמי רוני",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a7%d7%98%d7%99%d7%a3-%d7%a2%d7%a6%d7%9e%d7%99-%d7%a8%d7%95%d7%a0%d7%99\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 17,
+                "slug": "atraktziot-main",
+                "name": "אטרקציות"
+            }
+        ]
+    },
+    {
+        "id": 389,
+        "title": "חוות שביט — כנף",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%97%d7%95%d7%95%d7%aa-%d7%a9%d7%91%d7%99%d7%98-%d7%9b%d7%a0%d7%a3\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 20,
+                "slug": "tours",
+                "name": "סיורים ופעילויות"
+            }
+        ]
+    },
+    {
+        "id": 391,
+        "title": "War Zone Paintball",
+        "url": "https:\/\/gonorth.co.il\/places\/war-zone-paintball\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 20,
+                "slug": "tours",
+                "name": "סיורים ופעילויות"
+            }
+        ]
+    },
+    {
+        "id": 393,
+        "title": "קטיף עצמי נווה אטיב",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a7%d7%98%d7%99%d7%a3-%d7%a2%d7%a6%d7%9e%d7%99-%d7%a0%d7%95%d7%95%d7%94-%d7%90%d7%98%d7%99%d7%91\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 17,
+                "slug": "atraktziot-main",
+                "name": "אטרקציות"
+            }
+        ]
+    },
+    {
+        "id": 395,
+        "title": "דיר עזיז — טבע עיזים גבינות",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%93%d7%99%d7%a8-%d7%a2%d7%96%d7%99%d7%96-%d7%98%d7%91%d7%a2-%d7%a2%d7%99%d7%96%d7%99%d7%9d-%d7%92%d7%91%d7%99%d7%a0%d7%95%d7%aa\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 17,
+                "slug": "atraktziot-main",
+                "name": "אטרקציות"
+            },
+            {
+                "id": 33,
+                "slug": "restaurants-sub",
+                "name": "מסעדות"
+            }
+        ]
+    },
+    {
+        "id": 397,
+        "title": "אתגר הבונקר",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%90%d7%aa%d7%92%d7%a8-%d7%94%d7%91%d7%95%d7%a0%d7%a7%d7%a8\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 20,
+                "slug": "tours",
+                "name": "סיורים ופעילויות"
+            }
+        ]
+    },
+    {
+        "id": 399,
+        "title": "דה קרינה — שוקולד בוטיק",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%93%d7%94-%d7%a7%d7%a8%d7%99%d7%a0%d7%94-%d7%a9%d7%95%d7%a7%d7%95%d7%9c%d7%93-%d7%91%d7%95%d7%98%d7%99%d7%a7\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 17,
+                "slug": "atraktziot-main",
+                "name": "אטרקציות"
+            },
+            {
+                "id": 33,
+                "slug": "restaurants-sub",
+                "name": "מסעדות"
+            }
+        ]
+    },
+    {
+        "id": 401,
+        "title": "Go Golan — טיולי ריינג׳רים",
+        "url": "https:\/\/gonorth.co.il\/places\/go-golan-%d7%98%d7%99%d7%95%d7%9c%d7%99-%d7%a8%d7%99%d7%99%d7%a0%d7%92%d7%b3%d7%a8%d7%99%d7%9d\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 20,
+                "slug": "tours",
+                "name": "סיורים ופעילויות"
+            }
+        ]
+    },
+    {
+        "id": 403,
+        "title": "קטיף עצמי הדובדבן שבגולן",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a7%d7%98%d7%99%d7%a3-%d7%a2%d7%a6%d7%9e%d7%99-%d7%94%d7%93%d7%95%d7%91%d7%93%d7%91%d7%9f-%d7%a9%d7%91%d7%92%d7%95%d7%9c%d7%9f\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 17,
+                "slug": "atraktziot-main",
+                "name": "אטרקציות"
+            }
+        ]
+    },
+    {
+        "id": 405,
+        "title": "חמת גדר",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%97%d7%9e%d7%aa-%d7%92%d7%93%d7%a8\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 17,
+                "slug": "atraktziot-main",
+                "name": "אטרקציות"
+            }
+        ]
+    },
+    {
+        "id": 407,
+        "title": "אתר החרמון",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%90%d7%aa%d7%a8-%d7%94%d7%97%d7%a8%d7%9e%d7%95%d7%9f\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 17,
+                "slug": "atraktziot-main",
+                "name": "אטרקציות"
+            }
+        ]
+    },
+    {
+        "id": 409,
+        "title": "מורשת גוש קטיף בגולן",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%9e%d7%95%d7%a8%d7%a9%d7%aa-%d7%92%d7%95%d7%a9-%d7%a7%d7%98%d7%99%d7%a3-%d7%91%d7%92%d7%95%d7%9c%d7%9f\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 17,
+                "slug": "atraktziot-main",
+                "name": "אטרקציות"
+            }
+        ]
+    },
+    {
+        "id": 411,
+        "title": "מרכבות הבשן",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%9e%d7%a8%d7%9b%d7%91%d7%95%d7%aa-%d7%94%d7%91%d7%a9%d7%9f\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 17,
+                "slug": "atraktziot-main",
+                "name": "אטרקציות"
+            },
+            {
+                "id": 20,
+                "slug": "tours",
+                "name": "סיורים ופעילויות"
+            }
+        ]
+    },
+    {
+        "id": 413,
+        "title": "בית הבד של הגולן — Olea Essence",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%91%d7%99%d7%aa-%d7%94%d7%91%d7%93-%d7%a9%d7%9c-%d7%94%d7%92%d7%95%d7%9c%d7%9f-olea-essence\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 17,
+                "slug": "atraktziot-main",
+                "name": "אטרקציות"
+            },
+            {
+                "id": 33,
+                "slug": "restaurants-sub",
+                "name": "מסעדות"
+            }
+        ]
+    },
+    {
+        "id": 415,
+        "title": "אבו קיאק",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%90%d7%91%d7%95-%d7%a7%d7%99%d7%90%d7%a7\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 20,
+                "slug": "tours",
+                "name": "סיורים ופעילויות"
+            }
+        ]
+    },
+    {
+        "id": 417,
+        "title": "יקב בזלת הגולן",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%99%d7%a7%d7%91-%d7%91%d7%96%d7%9c%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 36,
+                "slug": "yakavim",
+                "name": "יקבים"
+            }
+        ]
+    },
+    {
+        "id": 419,
+        "title": "טריפונל באולינג",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%98%d7%a8%d7%99%d7%a4%d7%95%d7%a0%d7%9c-%d7%91%d7%90%d7%95%d7%9c%d7%99%d7%a0%d7%92\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 17,
+                "slug": "atraktziot-main",
+                "name": "אטרקציות"
+            }
+        ]
+    },
+    {
+        "id": 421,
+        "title": "הבוסתן של מוטי",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%94%d7%91%d7%95%d7%a1%d7%aa%d7%9f-%d7%a9%d7%9c-%d7%9e%d7%95%d7%98%d7%99\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 17,
+                "slug": "atraktziot-main",
+                "name": "אטרקציות"
+            }
+        ]
+    },
+    {
+        "id": 423,
+        "title": "קיאק-כנרת",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a7%d7%99%d7%90%d7%a7-%d7%9b%d7%a0%d7%a8%d7%aa\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 20,
+                "slug": "tours",
+                "name": "סיורים ופעילויות"
+            }
+        ]
+    },
+    {
+        "id": 425,
+        "title": "הכפר האינדיאני — גלמפינג ברמת הגולן",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%94%d7%9b%d7%a4%d7%a8-%d7%94%d7%90%d7%99%d7%a0%d7%93%d7%99%d7%90%d7%a0%d7%99-%d7%92%d7%9c%d7%9e%d7%a4%d7%99%d7%a0%d7%92-%d7%91%d7%a8%d7%9e%d7%aa-%d7%94%d7%92%d7%95%d7%9c%d7%9f\/",
+        "regions": [
+            {
+                "id": 29,
+                "slug": "golan",
+                "name": "גולן"
+            }
+        ],
+        "categories": [
+            {
+                "id": 18,
+                "slug": "accommodation",
+                "name": "לינה"
+            }
+        ]
+    },
+    {
+        "id": 470,
+        "title": "המקום של ארנון",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%94%d7%9e%d7%a7%d7%95%d7%9d-%d7%a9%d7%9c-%d7%90%d7%a8%d7%a0%d7%95%d7%9f\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 37,
+                "slug": "batei-kafe",
+                "name": "בתי קפה"
+            }
+        ]
+    },
+    {
+        "id": 471,
+        "title": "רנטו בר יין ומעדנייה",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a8%d7%a0%d7%98%d7%95-%d7%91%d7%a8-%d7%99%d7%99%d7%9f-%d7%95%d7%9e%d7%a2%d7%93%d7%a0%d7%99%d7%99%d7%94\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 33,
+                "slug": "restaurants-sub",
+                "name": "מסעדות"
+            }
+        ]
+    },
+    {
+        "id": 476,
+        "title": "פאן ריידר בצפון",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a4%d7%90%d7%9f-%d7%a8%d7%99%d7%99%d7%93%d7%a8-%d7%91%d7%a6%d7%a4%d7%95%d7%9f\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 20,
+                "slug": "tours",
+                "name": "סיורים ופעילויות"
+            }
+        ]
+    },
+    {
+        "id": 477,
+        "title": "Nice to Meat",
+        "url": "https:\/\/gonorth.co.il\/places\/nice-to-meat\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 33,
+                "slug": "restaurants-sub",
+                "name": "מסעדות"
+            }
+        ]
+    },
+    {
+        "id": 480,
+        "title": "שוורצע (משק שוורץ)",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a9%d7%95%d7%95%d7%a8%d7%a6%d7%a2-%d7%9e%d7%a9%d7%a7-%d7%a9%d7%95%d7%95%d7%a8%d7%a5\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 32,
+                "slug": "ochel",
+                "name": "ochel"
+            }
+        ]
+    },
+    {
+        "id": 481,
+        "title": "Peti Peti — פטי פטי",
+        "url": "https:\/\/gonorth.co.il\/places\/peti-peti-%d7%a4%d7%98%d7%99-%d7%a4%d7%98%d7%99\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 33,
+                "slug": "restaurants-sub",
+                "name": "מסעדות"
+            }
+        ]
+    },
+    {
+        "id": 484,
+        "title": "מלון אחוזת הירדן — לשעבר סביוני הגליל",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%9e%d7%9c%d7%95%d7%9f-%d7%90%d7%97%d7%95%d7%96%d7%aa-%d7%94%d7%99%d7%a8%d7%93%d7%9f-%d7%9c%d7%a9%d7%a2%d7%91%d7%a8-%d7%a1%d7%91%d7%99%d7%95%d7%a0%d7%99-%d7%94%d7%92%d7%9c%d7%99%d7%9c\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 18,
+                "slug": "accommodation",
+                "name": "לינה"
+            }
+        ]
+    },
+    {
+        "id": 485,
+        "title": "Norah Café — קפה נורה",
+        "url": "https:\/\/gonorth.co.il\/places\/norah-cafe-%d7%a7%d7%a4%d7%94-%d7%a0%d7%95%d7%a8%d7%94\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 37,
+                "slug": "batei-kafe",
+                "name": "בתי קפה"
+            }
+        ]
+    },
+    {
+        "id": 488,
+        "title": "עין עלומים — עין הדייג",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a2%d7%99%d7%9f-%d7%a2%d7%9c%d7%95%d7%9e%d7%99%d7%9d-%d7%a2%d7%99%d7%9f-%d7%94%d7%93%d7%99%d7%99%d7%92\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 35,
+                "slug": "teva",
+                "name": "טבע ומסלולים"
+            }
+        ]
+    },
+    {
+        "id": 490,
+        "title": "מלון גליליון",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%9e%d7%9c%d7%95%d7%9f-%d7%92%d7%9c%d7%99%d7%9c%d7%99%d7%95%d7%9f\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 18,
+                "slug": "accommodation",
+                "name": "לינה"
+            }
+        ]
+    },
+    {
+        "id": 491,
+        "title": "שמורת עין תאו",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%a2%d7%99%d7%9f-%d7%aa%d7%90%d7%95\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 35,
+                "slug": "teva",
+                "name": "טבע ומסלולים"
+            }
+        ]
+    },
+    {
+        "id": 494,
+        "title": "מוזיאון האדם הקדמון",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%9e%d7%95%d7%96%d7%99%d7%90%d7%95%d7%9f-%d7%94%d7%90%d7%93%d7%9d-%d7%94%d7%a7%d7%93%d7%9e%d7%95%d7%9f\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 17,
+                "slug": "atraktziot-main",
+                "name": "אטרקציות"
+            }
+        ]
+    },
+    {
+        "id": 495,
+        "title": "פארק דפנה",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a4%d7%90%d7%a8%d7%a7-%d7%93%d7%a4%d7%a0%d7%94\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 17,
+                "slug": "atraktziot-main",
+                "name": "אטרקציות"
+            },
+            {
+                "id": 35,
+                "slug": "teva",
+                "name": "טבע ומסלולים"
+            }
+        ]
+    },
+    {
+        "id": 498,
+        "title": "TRIO — טריו קפה",
+        "url": "https:\/\/gonorth.co.il\/places\/trio-%d7%98%d7%a8%d7%99%d7%95-%d7%a7%d7%a4%d7%94\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 37,
+                "slug": "batei-kafe",
+                "name": "בתי קפה"
+            }
+        ]
+    },
+    {
+        "id": 499,
+        "title": "שירי פסטה",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a9%d7%99%d7%a8%d7%99-%d7%a4%d7%a1%d7%98%d7%94\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 33,
+                "slug": "restaurants-sub",
+                "name": "מסעדות"
+            }
+        ]
+    },
+    {
+        "id": 500,
+        "title": "קמפינג מטיילים דפנה",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a7%d7%9e%d7%a4%d7%99%d7%a0%d7%92-%d7%9e%d7%98%d7%99%d7%99%d7%9c%d7%99%d7%9d-%d7%93%d7%a4%d7%a0%d7%94\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 18,
+                "slug": "accommodation",
+                "name": "לינה"
+            }
+        ]
+    },
+    {
+        "id": 501,
+        "title": "מלון מטיילים ארץ דפנה",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%9e%d7%9c%d7%95%d7%9f-%d7%9e%d7%98%d7%99%d7%99%d7%9c%d7%99%d7%9d-%d7%90%d7%a8%d7%a5-%d7%93%d7%a4%d7%a0%d7%94\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 18,
+                "slug": "accommodation",
+                "name": "לינה"
+            }
+        ]
+    },
+    {
+        "id": 502,
+        "title": "קלומפוס",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%a7%d7%9c%d7%95%d7%9e%d7%a4%d7%95%d7%a1\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 33,
+                "slug": "restaurants-sub",
+                "name": "מסעדות"
+            }
+        ]
+    },
+    {
+        "id": 503,
+        "title": "הטנק הסורי ההפוך",
+        "url": "https:\/\/gonorth.co.il\/places\/%d7%94%d7%98%d7%a0%d7%a7-%d7%94%d7%a1%d7%95%d7%a8%d7%99-%d7%94%d7%94%d7%a4%d7%95%d7%9a\/",
+        "regions": [
+            {
+                "id": 28,
+                "slug": "galil",
+                "name": "גליל"
+            }
+        ],
+        "categories": [
+            {
+                "id": 17,
+                "slug": "atraktziot-main",
+                "name": "אטרקציות"
+            },
+            {
+                "id": 35,
+                "slug": "teva",
+                "name": "טבע ומסלולים"
+            }
+        ]
+    }
+]

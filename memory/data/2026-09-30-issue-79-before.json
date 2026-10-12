@@ -1,0 +1,4066 @@
+[
+  {
+    "id": "48",
+    "title": {
+      "raw": "יקב הר אודם",
+      "rendered": "יקב הר אודם"
+    },
+    "slug": "%d7%99%d7%a7%d7%91-%d7%94%d7%a8-%d7%90%d7%95%d7%93%d7%9d",
+    "link": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%94%d7%a8-%d7%90%d7%95%d7%93%d7%9d/",
+    "status": "publish",
+    "type": "gd_place",
+    "author": 1,
+    "date": "2026-04-09T07:55:46",
+    "date_gmt": "2026-04-09T07:55:46",
+    "modified": "2026-09-26T06:47:49",
+    "modified_gmt": "2026-09-26T06:47:49",
+    "content": {
+      "raw": "<p>יקב הר אודם שוכן במושב אודם שבצפון רמת הגולן, בגובה 1,060 מטר מעל פני הים — אחד היקבים הגבוהים בישראל. אוויר ההרים הנקי, הקרקע הבזלתית העשירה והטמפרטורות הקיצוניות של האזור יוצרים ביחד תנאים מושלמים לגידול ענבים איכותיים.</p><p>היקב מתמחה ביינות אדומים, לבנים ורוזה מזנים מובחרים כמו קברנה סוביניון, מרלו ושרדונה. ביקור במרכז המבקרים מאפשר להכיר את תהליך ייצור היין, לטייל בין הכרמים ולקיים טעימה מודרכת עם הסברים על כל בקבוק.</p><p>הכניסה אינה מצריכה הזמנה מראש — ניתן להגיע ספונטנית בשעות הפתיחה. מתאים לזוגות, משפחות וקבוצות המחפשים חוויה ייחודית בצפון הגולן.</p>\n<p>לתכנון עצירות יין נוספות באזור, עיינו ב<a href=\"https://gonorth.co.il/yekavim-batzafon/\">מדריך היקבים בצפון</a> ובדקו מראש תיאום ושעות פעילות.</p>",
+      "rendered": "<p>יקב הר אודם שוכן במושב אודם שבצפון רמת הגולן, בגובה 1,060 מטר מעל פני הים — אחד היקבים הגבוהים בישראל. אוויר ההרים הנקי, הקרקע הבזלתית העשירה והטמפרטורות הקיצוניות של האזור יוצרים ביחד תנאים מושלמים לגידול ענבים איכותיים.</p>\n<p>היקב מתמחה ביינות אדומים, לבנים ורוזה מזנים מובחרים כמו קברנה סוביניון, מרלו ושרדונה. ביקור במרכז המבקרים מאפשר להכיר את תהליך ייצור היין, לטייל בין הכרמים ולקיים טעימה מודרכת עם הסברים על כל בקבוק.</p>\n<p>הכניסה אינה מצריכה הזמנה מראש — ניתן להגיע ספונטנית בשעות הפתיחה. מתאים לזוגות, משפחות וקבוצות המחפשים חוויה ייחודית בצפון הגולן.</p>\n<p>לתכנון עצירות יין נוספות באזור, עיינו ב<a href=\"https://gonorth.co.il/yekavim-batzafon/\">מדריך היקבים בצפון</a> ובדקו מראש תיאום ושעות פעילות.</p>\n",
+      "protected": false
+    },
+    "default_category": "19",
+    "post_category": [
+      {
+        "id": 36,
+        "name": "יקבים",
+        "slug": "yakavim"
+      }
+    ],
+    "post_tags": [],
+    "street": "מושב אודם, צפון רמת הגולן",
+    "country": "United States",
+    "region": "Pennsylvania",
+    "city": "מושב אודם",
+    "zip": null,
+    "latitude": "33.191991",
+    "longitude": "35.751795",
+    "mapview": null,
+    "mapzoom": null,
+    "phone": "052-6881110",
+    "website": "https://harodem.co.il/",
+    "business_hours": {
+      "raw": "[\"We 10:00-17:00\",\"Th 10:00-17:00\",\"Fr 10:00-16:00\",\"Su 10:00-17:00\",\"Mo 10:00-17:00\",\"Tu 10:00-17:00\"],[\"UTC\":\"+0\",\"Timezone\":\"UTC\"]",
+      "rendered": {
+        "days": {
+          "Mo": {
+            "today": 0,
+            "closed": 0,
+            "open": 0,
+            "day": "Monday",
+            "day_short": "ב",
+            "day_no": 1,
+            "slots": [
+              {
+                "slot": "10:00-17:00",
+                "range": "10:00 - 17:00",
+                "open": 0,
+                "time": [
+                  "1000",
+                  "1700"
+                ],
+                "minutes": [
+                  600,
+                  1020
+                ]
+              }
+            ]
+          },
+          "Tu": {
+            "today": 0,
+            "closed": 0,
+            "open": 0,
+            "day": "Tuesday",
+            "day_short": "ג",
+            "day_no": 2,
+            "slots": [
+              {
+                "slot": "10:00-17:00",
+                "range": "10:00 - 17:00",
+                "open": 0,
+                "time": [
+                  "1000",
+                  "1700"
+                ],
+                "minutes": [
+                  2040,
+                  2460
+                ]
+              }
+            ]
+          },
+          "We": {
+            "today": 1,
+            "closed": 0,
+            "open": 0,
+            "day": "Wednesday",
+            "day_short": "ד",
+            "day_no": 3,
+            "slots": [
+              {
+                "slot": "10:00-17:00",
+                "range": "10:00 - 17:00",
+                "open": 0,
+                "time": [
+                  "1000",
+                  "1700"
+                ],
+                "minutes": [
+                  3480,
+                  3900
+                ]
+              }
+            ]
+          },
+          "Th": {
+            "today": 0,
+            "closed": 0,
+            "open": 0,
+            "day": "Thursday",
+            "day_short": "ה",
+            "day_no": 4,
+            "slots": [
+              {
+                "slot": "10:00-17:00",
+                "range": "10:00 - 17:00",
+                "open": 0,
+                "time": [
+                  "1000",
+                  "1700"
+                ],
+                "minutes": [
+                  4920,
+                  5340
+                ]
+              }
+            ]
+          },
+          "Fr": {
+            "today": 0,
+            "closed": 0,
+            "open": 0,
+            "day": "Friday",
+            "day_short": "ו",
+            "day_no": 5,
+            "slots": [
+              {
+                "slot": "10:00-16:00",
+                "range": "10:00 - 16:00",
+                "open": 0,
+                "time": [
+                  "1000",
+                  "1600"
+                ],
+                "minutes": [
+                  6360,
+                  6720
+                ]
+              }
+            ]
+          },
+          "Sa": {
+            "today": 0,
+            "closed": 1,
+            "open": 0,
+            "day": "Saturday",
+            "day_short": "ש",
+            "day_no": 6,
+            "slots": [
+              {
+                "slot": null,
+                "range": "Closed",
+                "open": 0,
+                "time": [],
+                "minutes": []
+              }
+            ]
+          },
+          "Su": {
+            "today": 0,
+            "closed": 0,
+            "open": 0,
+            "day": "Sunday",
+            "day_short": "א",
+            "day_no": 7,
+            "slots": [
+              {
+                "slot": "10:00-17:00",
+                "range": "10:00 - 17:00",
+                "open": 0,
+                "time": [
+                  "1000",
+                  "1700"
+                ],
+                "minutes": [
+                  9240,
+                  9660
+                ]
+              }
+            ]
+          }
+        },
+        "extra": {
+          "has_open": 0,
+          "has_closed": 0,
+          "today_range": "10:00 - 17:00",
+          "current_label": "Closed now",
+          "open_now_label": "Open now",
+          "closed_now_label": "Closed now",
+          "date": "2026-09-30",
+          "time": "09:26:10",
+          "full_date": "2026-09-30 09:26:10",
+          "date_format": "30 בספטמבר 2026",
+          "time_format": "09:26",
+          "full_date_format": "30 בספטמבר 2026 09:26",
+          "timezone_string": "UTC",
+          "offset": 0,
+          "utc_offset": "+0",
+          "offset_dst": 0,
+          "utc_offset_dst": "+0",
+          "has_dst": 0,
+          "is_dst": 0
+        }
+      }
+    },
+    "price_type": {
+      "raw": null,
+      "rendered": "בחר"
+    },
+    "open_saturday": {
+      "raw": "no",
+      "rendered": "לא"
+    },
+    "featured": true,
+    "rating": "0",
+    "rating_count": 0,
+    "featured_media": 49,
+    "featured_image": {
+      "id": 0,
+      "title": "website screenshot",
+      "src": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fharodem.co.il%2F?w=825&h=430",
+      "thumbnail": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fharodem.co.il%2F?w=825&h=430",
+      "width": "",
+      "height": ""
+    },
+    "images": [
+      {
+        "id": 0,
+        "title": "website screenshot",
+        "src": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fharodem.co.il%2F?w=825&h=430",
+        "thumbnail": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fharodem.co.il%2F?w=825&h=430",
+        "featured": false,
+        "position": 0
+      }
+    ],
+    "comment_status": "open",
+    "ping_status": "closed",
+    "meta": {
+      "site-sidebar-layout": "default",
+      "site-content-layout": "",
+      "ast-site-content-layout": "default",
+      "site-content-style": "default",
+      "site-sidebar-style": "default",
+      "ast-global-header-display": "",
+      "ast-banner-title-visibility": "",
+      "ast-main-header-display": "",
+      "ast-hfb-above-header-display": "",
+      "ast-hfb-below-header-display": "",
+      "ast-hfb-mobile-header-display": "",
+      "site-post-title": "",
+      "ast-breadcrumbs-content": "",
+      "ast-featured-img": "",
+      "footer-sml-layout": "",
+      "ast-disable-related-posts": "",
+      "theme-transparent-header-meta": "",
+      "adv-header-id-meta": "",
+      "stick-header-meta": "",
+      "header-above-stick-meta": "",
+      "header-main-stick-meta": "",
+      "header-below-stick-meta": "",
+      "astra-migrate-meta-layouts": "default",
+      "ast-page-background-enabled": "default",
+      "ast-page-background-meta": {
+        "desktop": {
+          "background-color": "var(--ast-global-color-5)",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        },
+        "tablet": {
+          "background-color": "",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        },
+        "mobile": {
+          "background-color": "",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        }
+      },
+      "ast-content-background-meta": {
+        "desktop": {
+          "background-color": "var(--ast-global-color-4)",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        },
+        "tablet": {
+          "background-color": "var(--ast-global-color-4)",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        },
+        "mobile": {
+          "background-color": "var(--ast-global-color-4)",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        }
+      },
+      "footnotes": ""
+    },
+    "guid": {
+      "rendered": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%94%d7%a8-%d7%90%d7%95%d7%93%d7%9d/",
+      "raw": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%94%d7%a8-%d7%90%d7%95%d7%93%d7%9d/"
+    },
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v27.5 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>יקב הר אודם - כיוון צפון</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://gonorth.co.il/places/יקב-הר-אודם/\" />\n<meta property=\"og:locale\" content=\"he_IL\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"יקב הר אודם - כיוון צפון\" />\n<meta property=\"og:description\" content=\"יקב בוטיק באוויר הצח של צפון הגולן, בגובה 1,060 מ׳. ביקורים מודרכים, טעימות יין ונוף כרמים מרהיב.\" />\n<meta property=\"og:url\" content=\"https://gonorth.co.il/places/יקב-הר-אודם/\" />\n<meta property=\"og:site_name\" content=\"כיוון צפון\" />\n<meta property=\"article:modified_time\" content=\"2026-09-26T06:47:49+00:00\" />\n<meta property=\"og:image\" content=\"https://gonorth.co.il/wp-content/uploads/2026/04/yakav_odem.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1200\" />\n\t<meta property=\"og:image:height\" content=\"800\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%99%d7%a7%d7%91-%d7%94%d7%a8-%d7%90%d7%95%d7%93%d7%9d\\/\",\"url\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%99%d7%a7%d7%91-%d7%94%d7%a8-%d7%90%d7%95%d7%93%d7%9d\\/\",\"name\":\"יקב הר אודם - כיוון צפון\",\"isPartOf\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%99%d7%a7%d7%91-%d7%94%d7%a8-%d7%90%d7%95%d7%93%d7%9d\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%99%d7%a7%d7%91-%d7%94%d7%a8-%d7%90%d7%95%d7%93%d7%9d\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/uploads\\/2026\\/04\\/yakav_odem.jpg\",\"datePublished\":\"2026-04-09T07:55:46+00:00\",\"dateModified\":\"2026-09-26T06:47:49+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%99%d7%a7%d7%91-%d7%94%d7%a8-%d7%90%d7%95%d7%93%d7%9d\\/#breadcrumb\"},\"inLanguage\":\"he-IL\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/gonorth.co.il\\/places\\/%d7%99%d7%a7%d7%91-%d7%94%d7%a8-%d7%90%d7%95%d7%93%d7%9d\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"he-IL\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%99%d7%a7%d7%91-%d7%94%d7%a8-%d7%90%d7%95%d7%93%d7%9d\\/#primaryimage\",\"url\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/uploads\\/2026\\/04\\/yakav_odem.jpg\",\"contentUrl\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/uploads\\/2026\\/04\\/yakav_odem.jpg\",\"width\":1200,\"height\":800,\"caption\":\"יקב הר אודם, מושב אודם\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%99%d7%a7%d7%91-%d7%94%d7%a8-%d7%90%d7%95%d7%93%d7%9d\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/gonorth.co.il\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Places\",\"item\":\"https:\\/\\/gonorth.co.il\\/places\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"יקב הר אודם\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"name\":\"כיוון צפון\",\"description\":\"גלה את הצפון כמו מקומי\",\"alternateName\":\"GoNorth\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/gonorth.co.il\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"he-IL\",\"publisher\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\",\"name\":\"כיוון צפון\",\"alternateName\":\"GoNorth\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization-logo\",\"url\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/themes\\/gonorth-child\\/assets\\/gonorth-organic-mark.svg\",\"width\":300,\"height\":130},\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"שירות לקוחות\",\"url\":\"https:\\/\\/gonorth.co.il\\/contact\\/\",\"availableLanguage\":[\"עברית\"]},\"sameAs\":[\"https:\\/\\/gonorth.co.il\\/about\\/\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "יקב הר אודם - כיוון צפון",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://gonorth.co.il/places/יקב-הר-אודם/",
+      "og_locale": "he_IL",
+      "og_type": "article",
+      "og_title": "יקב הר אודם - כיוון צפון",
+      "og_description": "יקב בוטיק באוויר הצח של צפון הגולן, בגובה 1,060 מ׳. ביקורים מודרכים, טעימות יין ונוף כרמים מרהיב.",
+      "og_url": "https://gonorth.co.il/places/יקב-הר-אודם/",
+      "og_site_name": "כיוון צפון",
+      "article_modified_time": "2026-09-26T09:47:49+03:00",
+      "og_image": [
+        {
+          "width": 1200,
+          "height": 800,
+          "url": "https://gonorth.co.il/wp-content/uploads/2026/04/yakav_odem.jpg",
+          "type": "image/jpeg"
+        }
+      ],
+      "twitter_card": "summary_large_image",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%94%d7%a8-%d7%90%d7%95%d7%93%d7%9d/",
+            "url": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%94%d7%a8-%d7%90%d7%95%d7%93%d7%9d/",
+            "name": "יקב הר אודם - כיוון צפון",
+            "isPartOf": {
+              "@id": "https://gonorth.co.il/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%94%d7%a8-%d7%90%d7%95%d7%93%d7%9d/#primaryimage"
+            },
+            "image": {
+              "@id": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%94%d7%a8-%d7%90%d7%95%d7%93%d7%9d/#primaryimage"
+            },
+            "thumbnailUrl": "https://gonorth.co.il/wp-content/uploads/2026/04/yakav_odem.jpg",
+            "datePublished": "2026-04-09T10:55:46+03:00",
+            "dateModified": "2026-09-26T09:47:49+03:00",
+            "breadcrumb": {
+              "@id": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%94%d7%a8-%d7%90%d7%95%d7%93%d7%9d/#breadcrumb"
+            },
+            "inLanguage": "he-IL",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%94%d7%a8-%d7%90%d7%95%d7%93%d7%9d/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "he-IL",
+            "@id": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%94%d7%a8-%d7%90%d7%95%d7%93%d7%9d/#primaryimage",
+            "url": "https://gonorth.co.il/wp-content/uploads/2026/04/yakav_odem.jpg",
+            "contentUrl": "https://gonorth.co.il/wp-content/uploads/2026/04/yakav_odem.jpg",
+            "width": 1200,
+            "height": 800,
+            "caption": "יקב הר אודם, מושב אודם"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://gonorth.co.il/places/%d7%99%d7%a7%d7%91-%d7%94%d7%a8-%d7%90%d7%95%d7%93%d7%9d/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://gonorth.co.il/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Places",
+                "item": "https://gonorth.co.il/places/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "יקב הר אודם"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://gonorth.co.il/#website",
+            "url": "https://gonorth.co.il/",
+            "name": "כיוון צפון",
+            "description": "גלה את הצפון כמו מקומי",
+            "alternateName": "GoNorth",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://gonorth.co.il/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://gonorth.co.il/#organization"
+            }
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://gonorth.co.il/#organization",
+            "name": "כיוון צפון",
+            "alternateName": "GoNorth",
+            "url": "https://gonorth.co.il/",
+            "logo": {
+              "@type": "ImageObject",
+              "@id": "https://gonorth.co.il/#organization-logo",
+              "url": "https://gonorth.co.il/wp-content/themes/gonorth-child/assets/gonorth-organic-mark.svg",
+              "width": 300,
+              "height": 130
+            },
+            "contactPoint": {
+              "@type": "ContactPoint",
+              "contactType": "שירות לקוחות",
+              "url": "https://gonorth.co.il/contact/",
+              "availableLanguage": [
+                "עברית"
+              ]
+            },
+            "sameAs": [
+              "https://gonorth.co.il/about/"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/48",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/types/gd_place"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://gonorth.co.il/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/reviews?post=48"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/48/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gonorth.co.il/wp-json/wp/v2/media/49"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gonorth.co.il/wp-json/wp/v2/media?parent=48"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "gd_place_tags",
+          "embeddable": true,
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/tags?post=48"
+        },
+        {
+          "taxonomy": "gd_placecategory",
+          "embeddable": true,
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/categories?post=48"
+        },
+        {
+          "taxonomy": "gn_region",
+          "embeddable": true,
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/?post=48"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "50",
+    "title": {
+      "raw": "כפר נופש - יער אודם",
+      "rendered": "כפר נופש &#8211; יער אודם"
+    },
+    "slug": "%d7%9b%d7%a4%d7%a8-%d7%a0%d7%95%d7%a4%d7%a9-%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d",
+    "link": "https://gonorth.co.il/places/%d7%9b%d7%a4%d7%a8-%d7%a0%d7%95%d7%a4%d7%a9-%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d/",
+    "status": "publish",
+    "type": "gd_place",
+    "author": 1,
+    "date": "2026-04-09T14:27:20",
+    "date_gmt": "2026-04-09T14:27:20",
+    "modified": "2026-04-11T05:30:24",
+    "modified_gmt": "2026-04-11T05:30:24",
+    "content": {
+      "raw": "<p>כפר נופש יער אודם שוכן בלב יערות הצנובר של מושב אודם, בגובה כ-1,090 מטר מעל פני הים ברמת הגולן הצפונית. המתחם מציע שהייה ייחודית בטבע הצפוני — אוהלים ממוזגים ובקתות עץ מאובזרות, כולל ארוחת בוקר עשירה ומבחר פעילויות לילדים ולמבוגרים.</p><p>האווירה כאן שקטה ומרעננת: יער צפוף, אוויר צח, ושקט שנדיר בחיי היום-יום. ילדים עד גיל 12 נהנים מכניסה חינם למושכי הנופש של המתחם, ובסביבה הקרובה ניתן לבקר ביקב הר אודם, להסתובב ביער ולגלות את עושר הטבע של הגולן.</p><p>מתאים במיוחד לסופי שבוע משפחתיים ולזוגות המחפשים בריחה קצרה לטבע. ההזמנות נפתחו לשנת 2026 — מומלץ להזמין מראש.</p>",
+      "rendered": "<p>כפר נופש יער אודם שוכן בלב יערות הצנובר של מושב אודם, בגובה כ-1,090 מטר מעל פני הים ברמת הגולן הצפונית. המתחם מציע שהייה ייחודית בטבע הצפוני — אוהלים ממוזגים ובקתות עץ מאובזרות, כולל ארוחת בוקר עשירה ומבחר פעילויות לילדים ולמבוגרים.</p>\n<p>האווירה כאן שקטה ומרעננת: יער צפוף, אוויר צח, ושקט שנדיר בחיי היום-יום. ילדים עד גיל 12 נהנים מכניסה חינם למושכי הנופש של המתחם, ובסביבה הקרובה ניתן לבקר ביקב הר אודם, להסתובב ביער ולגלות את עושר הטבע של הגולן.</p>\n<p>מתאים במיוחד לסופי שבוע משפחתיים ולזוגות המחפשים בריחה קצרה לטבע. ההזמנות נפתחו לשנת 2026 — מומלץ להזמין מראש.</p>\n",
+      "protected": false
+    },
+    "default_category": "17",
+    "post_category": [
+      {
+        "id": 18,
+        "name": "לינה",
+        "slug": "accommodation"
+      }
+    ],
+    "post_tags": [],
+    "street": "אודם, רמת הגולן 12473",
+    "country": "United States",
+    "region": "Pennsylvania",
+    "city": "אודם",
+    "zip": null,
+    "latitude": "33.1919804",
+    "longitude": "35.7509705",
+    "mapview": null,
+    "mapzoom": null,
+    "phone": "050-522-9450",
+    "website": "https://www.yayalim.co.il",
+    "business_hours": null,
+    "price_type": {
+      "raw": "paid",
+      "rendered": "בתשלום"
+    },
+    "open_saturday": {
+      "raw": null,
+      "rendered": "בחר"
+    },
+    "featured": true,
+    "rating": "0",
+    "rating_count": 0,
+    "featured_media": 51,
+    "featured_image": {
+      "id": 0,
+      "title": "website screenshot",
+      "src": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.yayalim.co.il?w=825&h=430",
+      "thumbnail": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.yayalim.co.il?w=825&h=430",
+      "width": "",
+      "height": ""
+    },
+    "images": [
+      {
+        "id": 0,
+        "title": "website screenshot",
+        "src": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.yayalim.co.il?w=825&h=430",
+        "thumbnail": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.yayalim.co.il?w=825&h=430",
+        "featured": false,
+        "position": 0
+      }
+    ],
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "meta": {
+      "site-sidebar-layout": "default",
+      "site-content-layout": "",
+      "ast-site-content-layout": "default",
+      "site-content-style": "default",
+      "site-sidebar-style": "default",
+      "ast-global-header-display": "",
+      "ast-banner-title-visibility": "",
+      "ast-main-header-display": "",
+      "ast-hfb-above-header-display": "",
+      "ast-hfb-below-header-display": "",
+      "ast-hfb-mobile-header-display": "",
+      "site-post-title": "",
+      "ast-breadcrumbs-content": "",
+      "ast-featured-img": "",
+      "footer-sml-layout": "",
+      "ast-disable-related-posts": "",
+      "theme-transparent-header-meta": "",
+      "adv-header-id-meta": "",
+      "stick-header-meta": "",
+      "header-above-stick-meta": "",
+      "header-main-stick-meta": "",
+      "header-below-stick-meta": "",
+      "astra-migrate-meta-layouts": "default",
+      "ast-page-background-enabled": "default",
+      "ast-page-background-meta": {
+        "desktop": {
+          "background-color": "var(--ast-global-color-5)",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        },
+        "tablet": {
+          "background-color": "",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        },
+        "mobile": {
+          "background-color": "",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        }
+      },
+      "ast-content-background-meta": {
+        "desktop": {
+          "background-color": "var(--ast-global-color-4)",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        },
+        "tablet": {
+          "background-color": "var(--ast-global-color-4)",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        },
+        "mobile": {
+          "background-color": "var(--ast-global-color-4)",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        }
+      },
+      "footnotes": ""
+    },
+    "guid": {
+      "rendered": "https://gonorth.co.il/places/%d7%9b%d7%a4%d7%a8-%d7%a0%d7%95%d7%a4%d7%a9-%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d/",
+      "raw": "https://gonorth.co.il/places/%d7%9b%d7%a4%d7%a8-%d7%a0%d7%95%d7%a4%d7%a9-%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d/"
+    },
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v27.5 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>כפר נופש - יער אודם - כיוון צפון</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://gonorth.co.il/places/כפר-נופש-יער-אודם/\" />\n<meta property=\"og:locale\" content=\"he_IL\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"כפר נופש - יער אודם - כיוון צפון\" />\n<meta property=\"og:description\" content=\"כפר נופש בלב יער אודם ברמת הגולן — אוהלים ובקתות עץ ממוזגים, ארוחת בוקר, ופעילויות לכל המשפחה.\" />\n<meta property=\"og:url\" content=\"https://gonorth.co.il/places/כפר-נופש-יער-אודם/\" />\n<meta property=\"og:site_name\" content=\"כיוון צפון\" />\n<meta property=\"article:modified_time\" content=\"2026-04-11T05:30:24+00:00\" />\n<meta property=\"og:image\" content=\"https://gonorth.co.il/wp-content/uploads/2026/04/kfar_nofeish.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1200\" />\n\t<meta property=\"og:image:height\" content=\"572\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%9b%d7%a4%d7%a8-%d7%a0%d7%95%d7%a4%d7%a9-%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d\\/\",\"url\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%9b%d7%a4%d7%a8-%d7%a0%d7%95%d7%a4%d7%a9-%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d\\/\",\"name\":\"כפר נופש - יער אודם - כיוון צפון\",\"isPartOf\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%9b%d7%a4%d7%a8-%d7%a0%d7%95%d7%a4%d7%a9-%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%9b%d7%a4%d7%a8-%d7%a0%d7%95%d7%a4%d7%a9-%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/uploads\\/2026\\/04\\/kfar_nofeish.jpg\",\"datePublished\":\"2026-04-09T14:27:20+00:00\",\"dateModified\":\"2026-04-11T05:30:24+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%9b%d7%a4%d7%a8-%d7%a0%d7%95%d7%a4%d7%a9-%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d\\/#breadcrumb\"},\"inLanguage\":\"he-IL\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/gonorth.co.il\\/places\\/%d7%9b%d7%a4%d7%a8-%d7%a0%d7%95%d7%a4%d7%a9-%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"he-IL\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%9b%d7%a4%d7%a8-%d7%a0%d7%95%d7%a4%d7%a9-%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d\\/#primaryimage\",\"url\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/uploads\\/2026\\/04\\/kfar_nofeish.jpg\",\"contentUrl\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/uploads\\/2026\\/04\\/kfar_nofeish.jpg\",\"width\":1200,\"height\":572,\"caption\":\"כפר נופש – יער אודם\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%9b%d7%a4%d7%a8-%d7%a0%d7%95%d7%a4%d7%a9-%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/gonorth.co.il\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Places\",\"item\":\"https:\\/\\/gonorth.co.il\\/places\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"כפר נופש &#8211; יער אודם\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"name\":\"כיוון צפון\",\"description\":\"גלה את הצפון כמו מקומי\",\"alternateName\":\"GoNorth\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/gonorth.co.il\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"he-IL\",\"publisher\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\",\"name\":\"כיוון צפון\",\"alternateName\":\"GoNorth\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization-logo\",\"url\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/themes\\/gonorth-child\\/assets\\/gonorth-organic-mark.svg\",\"width\":300,\"height\":130},\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"שירות לקוחות\",\"url\":\"https:\\/\\/gonorth.co.il\\/contact\\/\",\"availableLanguage\":[\"עברית\"]},\"sameAs\":[\"https:\\/\\/gonorth.co.il\\/about\\/\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "כפר נופש - יער אודם - כיוון צפון",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://gonorth.co.il/places/כפר-נופש-יער-אודם/",
+      "og_locale": "he_IL",
+      "og_type": "article",
+      "og_title": "כפר נופש - יער אודם - כיוון צפון",
+      "og_description": "כפר נופש בלב יער אודם ברמת הגולן — אוהלים ובקתות עץ ממוזגים, ארוחת בוקר, ופעילויות לכל המשפחה.",
+      "og_url": "https://gonorth.co.il/places/כפר-נופש-יער-אודם/",
+      "og_site_name": "כיוון צפון",
+      "article_modified_time": "2026-04-11T08:30:24+03:00",
+      "og_image": [
+        {
+          "width": 1200,
+          "height": 572,
+          "url": "https://gonorth.co.il/wp-content/uploads/2026/04/kfar_nofeish.jpg",
+          "type": "image/jpeg"
+        }
+      ],
+      "twitter_card": "summary_large_image",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://gonorth.co.il/places/%d7%9b%d7%a4%d7%a8-%d7%a0%d7%95%d7%a4%d7%a9-%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d/",
+            "url": "https://gonorth.co.il/places/%d7%9b%d7%a4%d7%a8-%d7%a0%d7%95%d7%a4%d7%a9-%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d/",
+            "name": "כפר נופש - יער אודם - כיוון צפון",
+            "isPartOf": {
+              "@id": "https://gonorth.co.il/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://gonorth.co.il/places/%d7%9b%d7%a4%d7%a8-%d7%a0%d7%95%d7%a4%d7%a9-%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d/#primaryimage"
+            },
+            "image": {
+              "@id": "https://gonorth.co.il/places/%d7%9b%d7%a4%d7%a8-%d7%a0%d7%95%d7%a4%d7%a9-%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d/#primaryimage"
+            },
+            "thumbnailUrl": "https://gonorth.co.il/wp-content/uploads/2026/04/kfar_nofeish.jpg",
+            "datePublished": "2026-04-09T17:27:20+03:00",
+            "dateModified": "2026-04-11T08:30:24+03:00",
+            "breadcrumb": {
+              "@id": "https://gonorth.co.il/places/%d7%9b%d7%a4%d7%a8-%d7%a0%d7%95%d7%a4%d7%a9-%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d/#breadcrumb"
+            },
+            "inLanguage": "he-IL",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://gonorth.co.il/places/%d7%9b%d7%a4%d7%a8-%d7%a0%d7%95%d7%a4%d7%a9-%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "he-IL",
+            "@id": "https://gonorth.co.il/places/%d7%9b%d7%a4%d7%a8-%d7%a0%d7%95%d7%a4%d7%a9-%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d/#primaryimage",
+            "url": "https://gonorth.co.il/wp-content/uploads/2026/04/kfar_nofeish.jpg",
+            "contentUrl": "https://gonorth.co.il/wp-content/uploads/2026/04/kfar_nofeish.jpg",
+            "width": 1200,
+            "height": 572,
+            "caption": "כפר נופש – יער אודם"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://gonorth.co.il/places/%d7%9b%d7%a4%d7%a8-%d7%a0%d7%95%d7%a4%d7%a9-%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://gonorth.co.il/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Places",
+                "item": "https://gonorth.co.il/places/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "כפר נופש &#8211; יער אודם"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://gonorth.co.il/#website",
+            "url": "https://gonorth.co.il/",
+            "name": "כיוון צפון",
+            "description": "גלה את הצפון כמו מקומי",
+            "alternateName": "GoNorth",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://gonorth.co.il/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://gonorth.co.il/#organization"
+            }
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://gonorth.co.il/#organization",
+            "name": "כיוון צפון",
+            "alternateName": "GoNorth",
+            "url": "https://gonorth.co.il/",
+            "logo": {
+              "@type": "ImageObject",
+              "@id": "https://gonorth.co.il/#organization-logo",
+              "url": "https://gonorth.co.il/wp-content/themes/gonorth-child/assets/gonorth-organic-mark.svg",
+              "width": 300,
+              "height": 130
+            },
+            "contactPoint": {
+              "@type": "ContactPoint",
+              "contactType": "שירות לקוחות",
+              "url": "https://gonorth.co.il/contact/",
+              "availableLanguage": [
+                "עברית"
+              ]
+            },
+            "sameAs": [
+              "https://gonorth.co.il/about/"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/50",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/types/gd_place"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://gonorth.co.il/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/reviews?post=50"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/50/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gonorth.co.il/wp-json/wp/v2/media/51"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gonorth.co.il/wp-json/wp/v2/media?parent=50"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "gd_place_tags",
+          "embeddable": true,
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/tags?post=50"
+        },
+        {
+          "taxonomy": "gd_placecategory",
+          "embeddable": true,
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/categories?post=50"
+        },
+        {
+          "taxonomy": "gn_region",
+          "embeddable": true,
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/?post=50"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "52",
+    "title": {
+      "raw": "החווה ביער אודם",
+      "rendered": "החווה ביער אודם"
+    },
+    "slug": "%d7%94%d7%97%d7%95%d7%95%d7%94-%d7%91%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d",
+    "link": "https://gonorth.co.il/places/%d7%94%d7%97%d7%95%d7%95%d7%94-%d7%91%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d/",
+    "status": "publish",
+    "type": "gd_place",
+    "author": 1,
+    "date": "2026-04-09T14:49:34",
+    "date_gmt": "2026-04-09T14:49:34",
+    "modified": "2026-04-11T05:30:22",
+    "modified_gmt": "2026-04-11T05:30:22",
+    "content": {
+      "raw": "<p>החווה ביער אודם היא מקום ייחודי מסוגו בישראל — חוות חופש חינוכית הממוקמת בלב יערות הצנובר של מושב אודם ברמת הגולן. בחווה חיים בעלי חיים שניצלו מתנאי מחיה קשים: כבשים, עיזים, חמורים, אווזים ועוד, כולם מסתובבים בחופשיות בין העצים.</p><p>הביקור בחווה הוא חוויה רגשית ומעשירה. סיורים מודרכים יוצאים בכל יום בשעה 11:00 ומספרים את סיפורם של החיות תוך אפשרות מפגש ישיר עם בעלי החיים בסביבתם הטבעית. הפעילות מתאימה לילדים, מבוגרים וכל מי שמחפש חיבור אחר לטבע ולבעלי חיים.</p><p>החווה פועלת כעמותה ומתקיימת מתרומות ומכניסת מבקרים. ביקור כאן הוא גם תמיכה ישירה בחיות המאכלסות את המקום ובמשימה לשמור עליהן.</p>",
+      "rendered": "<p>החווה ביער אודם היא מקום ייחודי מסוגו בישראל — חוות חופש חינוכית הממוקמת בלב יערות הצנובר של מושב אודם ברמת הגולן. בחווה חיים בעלי חיים שניצלו מתנאי מחיה קשים: כבשים, עיזים, חמורים, אווזים ועוד, כולם מסתובבים בחופשיות בין העצים.</p>\n<p>הביקור בחווה הוא חוויה רגשית ומעשירה. סיורים מודרכים יוצאים בכל יום בשעה 11:00 ומספרים את סיפורם של החיות תוך אפשרות מפגש ישיר עם בעלי החיים בסביבתם הטבעית. הפעילות מתאימה לילדים, מבוגרים וכל מי שמחפש חיבור אחר לטבע ולבעלי חיים.</p>\n<p>החווה פועלת כעמותה ומתקיימת מתרומות ומכניסת מבקרים. ביקור כאן הוא גם תמיכה ישירה בחיות המאכלסות את המקום ובמשימה לשמור עליהן.</p>\n",
+      "protected": false
+    },
+    "default_category": "17",
+    "post_category": [
+      {
+        "id": 17,
+        "name": "אטרקציות",
+        "slug": "atraktziot-main"
+      }
+    ],
+    "post_tags": [],
+    "street": "אודם, רמת הגולן 12473",
+    "country": "United States",
+    "region": "Pennsylvania",
+    "city": "אודם",
+    "zip": null,
+    "latitude": "33.1904869",
+    "longitude": "35.7497005",
+    "mapview": null,
+    "mapzoom": null,
+    "phone": "054-765-3123",
+    "website": "https://www.odemfarm.com",
+    "business_hours": {
+      "raw": "[\"We 09:00-14:30\",\"Th 09:00-14:30\",\"Fr 09:00-13:00\",\"Sa 09:00-15:00\",\"Su 09:00-14:30\",\"Mo 09:00-14:30\",\"Tu 09:00-14:30\"],[\"UTC\":\"+0\",\"Timezone\":\"UTC\"]",
+      "rendered": {
+        "days": {
+          "Mo": {
+            "today": 0,
+            "closed": 0,
+            "open": 0,
+            "day": "Monday",
+            "day_short": "ב",
+            "day_no": 1,
+            "slots": [
+              {
+                "slot": "09:00-14:30",
+                "range": "09:00 - 14:30",
+                "open": 0,
+                "time": [
+                  "0900",
+                  "1430"
+                ],
+                "minutes": [
+                  540,
+                  870
+                ]
+              }
+            ]
+          },
+          "Tu": {
+            "today": 0,
+            "closed": 0,
+            "open": 0,
+            "day": "Tuesday",
+            "day_short": "ג",
+            "day_no": 2,
+            "slots": [
+              {
+                "slot": "09:00-14:30",
+                "range": "09:00 - 14:30",
+                "open": 0,
+                "time": [
+                  "0900",
+                  "1430"
+                ],
+                "minutes": [
+                  1980,
+                  2310
+                ]
+              }
+            ]
+          },
+          "We": {
+            "today": 1,
+            "closed": 0,
+            "open": 1,
+            "day": "Wednesday",
+            "day_short": "ד",
+            "day_no": 3,
+            "slots": [
+              {
+                "slot": "09:00-14:30",
+                "range": "09:00 - 14:30",
+                "open": 1,
+                "time": [
+                  "0900",
+                  "1430"
+                ],
+                "minutes": [
+                  3420,
+                  3750
+                ]
+              }
+            ]
+          },
+          "Th": {
+            "today": 0,
+            "closed": 0,
+            "open": 0,
+            "day": "Thursday",
+            "day_short": "ה",
+            "day_no": 4,
+            "slots": [
+              {
+                "slot": "09:00-14:30",
+                "range": "09:00 - 14:30",
+                "open": 0,
+                "time": [
+                  "0900",
+                  "1430"
+                ],
+                "minutes": [
+                  4860,
+                  5190
+                ]
+              }
+            ]
+          },
+          "Fr": {
+            "today": 0,
+            "closed": 0,
+            "open": 0,
+            "day": "Friday",
+            "day_short": "ו",
+            "day_no": 5,
+            "slots": [
+              {
+                "slot": "09:00-13:00",
+                "range": "09:00 - 13:00",
+                "open": 0,
+                "time": [
+                  "0900",
+                  "1300"
+                ],
+                "minutes": [
+                  6300,
+                  6540
+                ]
+              }
+            ]
+          },
+          "Sa": {
+            "today": 0,
+            "closed": 0,
+            "open": 0,
+            "day": "Saturday",
+            "day_short": "ש",
+            "day_no": 6,
+            "slots": [
+              {
+                "slot": "09:00-15:00",
+                "range": "09:00 - 15:00",
+                "open": 0,
+                "time": [
+                  "0900",
+                  "1500"
+                ],
+                "minutes": [
+                  7740,
+                  8100
+                ]
+              }
+            ]
+          },
+          "Su": {
+            "today": 0,
+            "closed": 0,
+            "open": 0,
+            "day": "Sunday",
+            "day_short": "א",
+            "day_no": 7,
+            "slots": [
+              {
+                "slot": "09:00-14:30",
+                "range": "09:00 - 14:30",
+                "open": 0,
+                "time": [
+                  "0900",
+                  "1430"
+                ],
+                "minutes": [
+                  9180,
+                  9510
+                ]
+              }
+            ]
+          }
+        },
+        "extra": {
+          "has_open": 1,
+          "has_closed": 0,
+          "today_range": "09:00 - 14:30",
+          "current_label": "Open now",
+          "open_now_label": "Open now",
+          "closed_now_label": "Closed now",
+          "date": "2026-09-30",
+          "time": "09:26:11",
+          "full_date": "2026-09-30 09:26:11",
+          "date_format": "30 בספטמבר 2026",
+          "time_format": "09:26",
+          "full_date_format": "30 בספטמבר 2026 09:26",
+          "timezone_string": "UTC",
+          "offset": 0,
+          "utc_offset": "+0",
+          "offset_dst": 0,
+          "utc_offset_dst": "+0",
+          "has_dst": 0,
+          "is_dst": 0
+        }
+      }
+    },
+    "price_type": {
+      "raw": null,
+      "rendered": "בחר"
+    },
+    "open_saturday": {
+      "raw": "yes",
+      "rendered": "כן"
+    },
+    "featured": true,
+    "rating": "0",
+    "rating_count": 0,
+    "featured_media": 53,
+    "featured_image": {
+      "id": 0,
+      "title": "website screenshot",
+      "src": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odemfarm.com?w=825&h=430",
+      "thumbnail": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odemfarm.com?w=825&h=430",
+      "width": "",
+      "height": ""
+    },
+    "images": [
+      {
+        "id": 0,
+        "title": "website screenshot",
+        "src": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odemfarm.com?w=825&h=430",
+        "thumbnail": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odemfarm.com?w=825&h=430",
+        "featured": false,
+        "position": 0
+      }
+    ],
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "meta": {
+      "site-sidebar-layout": "default",
+      "site-content-layout": "",
+      "ast-site-content-layout": "default",
+      "site-content-style": "default",
+      "site-sidebar-style": "default",
+      "ast-global-header-display": "",
+      "ast-banner-title-visibility": "",
+      "ast-main-header-display": "",
+      "ast-hfb-above-header-display": "",
+      "ast-hfb-below-header-display": "",
+      "ast-hfb-mobile-header-display": "",
+      "site-post-title": "",
+      "ast-breadcrumbs-content": "",
+      "ast-featured-img": "",
+      "footer-sml-layout": "",
+      "ast-disable-related-posts": "",
+      "theme-transparent-header-meta": "",
+      "adv-header-id-meta": "",
+      "stick-header-meta": "",
+      "header-above-stick-meta": "",
+      "header-main-stick-meta": "",
+      "header-below-stick-meta": "",
+      "astra-migrate-meta-layouts": "default",
+      "ast-page-background-enabled": "default",
+      "ast-page-background-meta": {
+        "desktop": {
+          "background-color": "var(--ast-global-color-5)",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        },
+        "tablet": {
+          "background-color": "",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        },
+        "mobile": {
+          "background-color": "",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        }
+      },
+      "ast-content-background-meta": {
+        "desktop": {
+          "background-color": "var(--ast-global-color-4)",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        },
+        "tablet": {
+          "background-color": "var(--ast-global-color-4)",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        },
+        "mobile": {
+          "background-color": "var(--ast-global-color-4)",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        }
+      },
+      "footnotes": ""
+    },
+    "guid": {
+      "rendered": "https://gonorth.co.il/places/%d7%94%d7%97%d7%95%d7%95%d7%94-%d7%91%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d/",
+      "raw": "https://gonorth.co.il/places/%d7%94%d7%97%d7%95%d7%95%d7%94-%d7%91%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d/"
+    },
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v27.5 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>החווה ביער אודם - כיוון צפון</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://gonorth.co.il/places/החווה-ביער-אודם/\" />\n<meta property=\"og:locale\" content=\"he_IL\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"החווה ביער אודם - כיוון צפון\" />\n<meta property=\"og:description\" content=\"חוות חופש לבעלי חיים בלב יער אודם — חוויה ריגשית של מפגש עם בעלי חיים שניצלו, מתאימה לכל המשפחה.\" />\n<meta property=\"og:url\" content=\"https://gonorth.co.il/places/החווה-ביער-אודם/\" />\n<meta property=\"og:site_name\" content=\"כיוון צפון\" />\n<meta property=\"article:modified_time\" content=\"2026-04-11T05:30:22+00:00\" />\n<meta property=\"og:image\" content=\"https://gonorth.co.il/wp-content/uploads/2026/04/hachava.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1200\" />\n\t<meta property=\"og:image:height\" content=\"675\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%94%d7%97%d7%95%d7%95%d7%94-%d7%91%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d\\/\",\"url\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%94%d7%97%d7%95%d7%95%d7%94-%d7%91%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d\\/\",\"name\":\"החווה ביער אודם - כיוון צפון\",\"isPartOf\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%94%d7%97%d7%95%d7%95%d7%94-%d7%91%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%94%d7%97%d7%95%d7%95%d7%94-%d7%91%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/uploads\\/2026\\/04\\/hachava.jpg\",\"datePublished\":\"2026-04-09T14:49:34+00:00\",\"dateModified\":\"2026-04-11T05:30:22+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%94%d7%97%d7%95%d7%95%d7%94-%d7%91%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d\\/#breadcrumb\"},\"inLanguage\":\"he-IL\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/gonorth.co.il\\/places\\/%d7%94%d7%97%d7%95%d7%95%d7%94-%d7%91%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"he-IL\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%94%d7%97%d7%95%d7%95%d7%94-%d7%91%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d\\/#primaryimage\",\"url\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/uploads\\/2026\\/04\\/hachava.jpg\",\"contentUrl\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/uploads\\/2026\\/04\\/hachava.jpg\",\"width\":1200,\"height\":675,\"caption\":\"החווה ביער אודם\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%94%d7%97%d7%95%d7%95%d7%94-%d7%91%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/gonorth.co.il\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Places\",\"item\":\"https:\\/\\/gonorth.co.il\\/places\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"החווה ביער אודם\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"name\":\"כיוון צפון\",\"description\":\"גלה את הצפון כמו מקומי\",\"alternateName\":\"GoNorth\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/gonorth.co.il\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"he-IL\",\"publisher\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\",\"name\":\"כיוון צפון\",\"alternateName\":\"GoNorth\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization-logo\",\"url\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/themes\\/gonorth-child\\/assets\\/gonorth-organic-mark.svg\",\"width\":300,\"height\":130},\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"שירות לקוחות\",\"url\":\"https:\\/\\/gonorth.co.il\\/contact\\/\",\"availableLanguage\":[\"עברית\"]},\"sameAs\":[\"https:\\/\\/gonorth.co.il\\/about\\/\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "החווה ביער אודם - כיוון צפון",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://gonorth.co.il/places/החווה-ביער-אודם/",
+      "og_locale": "he_IL",
+      "og_type": "article",
+      "og_title": "החווה ביער אודם - כיוון צפון",
+      "og_description": "חוות חופש לבעלי חיים בלב יער אודם — חוויה ריגשית של מפגש עם בעלי חיים שניצלו, מתאימה לכל המשפחה.",
+      "og_url": "https://gonorth.co.il/places/החווה-ביער-אודם/",
+      "og_site_name": "כיוון צפון",
+      "article_modified_time": "2026-04-11T08:30:22+03:00",
+      "og_image": [
+        {
+          "width": 1200,
+          "height": 675,
+          "url": "https://gonorth.co.il/wp-content/uploads/2026/04/hachava.jpg",
+          "type": "image/jpeg"
+        }
+      ],
+      "twitter_card": "summary_large_image",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://gonorth.co.il/places/%d7%94%d7%97%d7%95%d7%95%d7%94-%d7%91%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d/",
+            "url": "https://gonorth.co.il/places/%d7%94%d7%97%d7%95%d7%95%d7%94-%d7%91%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d/",
+            "name": "החווה ביער אודם - כיוון צפון",
+            "isPartOf": {
+              "@id": "https://gonorth.co.il/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://gonorth.co.il/places/%d7%94%d7%97%d7%95%d7%95%d7%94-%d7%91%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d/#primaryimage"
+            },
+            "image": {
+              "@id": "https://gonorth.co.il/places/%d7%94%d7%97%d7%95%d7%95%d7%94-%d7%91%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d/#primaryimage"
+            },
+            "thumbnailUrl": "https://gonorth.co.il/wp-content/uploads/2026/04/hachava.jpg",
+            "datePublished": "2026-04-09T17:49:34+03:00",
+            "dateModified": "2026-04-11T08:30:22+03:00",
+            "breadcrumb": {
+              "@id": "https://gonorth.co.il/places/%d7%94%d7%97%d7%95%d7%95%d7%94-%d7%91%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d/#breadcrumb"
+            },
+            "inLanguage": "he-IL",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://gonorth.co.il/places/%d7%94%d7%97%d7%95%d7%95%d7%94-%d7%91%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "he-IL",
+            "@id": "https://gonorth.co.il/places/%d7%94%d7%97%d7%95%d7%95%d7%94-%d7%91%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d/#primaryimage",
+            "url": "https://gonorth.co.il/wp-content/uploads/2026/04/hachava.jpg",
+            "contentUrl": "https://gonorth.co.il/wp-content/uploads/2026/04/hachava.jpg",
+            "width": 1200,
+            "height": 675,
+            "caption": "החווה ביער אודם"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://gonorth.co.il/places/%d7%94%d7%97%d7%95%d7%95%d7%94-%d7%91%d7%99%d7%a2%d7%a8-%d7%90%d7%95%d7%93%d7%9d/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://gonorth.co.il/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Places",
+                "item": "https://gonorth.co.il/places/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "החווה ביער אודם"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://gonorth.co.il/#website",
+            "url": "https://gonorth.co.il/",
+            "name": "כיוון צפון",
+            "description": "גלה את הצפון כמו מקומי",
+            "alternateName": "GoNorth",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://gonorth.co.il/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://gonorth.co.il/#organization"
+            }
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://gonorth.co.il/#organization",
+            "name": "כיוון צפון",
+            "alternateName": "GoNorth",
+            "url": "https://gonorth.co.il/",
+            "logo": {
+              "@type": "ImageObject",
+              "@id": "https://gonorth.co.il/#organization-logo",
+              "url": "https://gonorth.co.il/wp-content/themes/gonorth-child/assets/gonorth-organic-mark.svg",
+              "width": 300,
+              "height": 130
+            },
+            "contactPoint": {
+              "@type": "ContactPoint",
+              "contactType": "שירות לקוחות",
+              "url": "https://gonorth.co.il/contact/",
+              "availableLanguage": [
+                "עברית"
+              ]
+            },
+            "sameAs": [
+              "https://gonorth.co.il/about/"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/52",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/types/gd_place"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://gonorth.co.il/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/reviews?post=52"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/52/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gonorth.co.il/wp-json/wp/v2/media/53"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gonorth.co.il/wp-json/wp/v2/media?parent=52"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "gd_place_tags",
+          "embeddable": true,
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/tags?post=52"
+        },
+        {
+          "taxonomy": "gd_placecategory",
+          "embeddable": true,
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/categories?post=52"
+        },
+        {
+          "taxonomy": "gn_region",
+          "embeddable": true,
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/?post=52"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "54",
+    "title": {
+      "raw": "שמורת טבע החולה",
+      "rendered": "שמורת טבע החולה"
+    },
+    "slug": "%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%97%d7%95%d7%9c%d7%94",
+    "link": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%97%d7%95%d7%9c%d7%94/",
+    "status": "publish",
+    "type": "gd_place",
+    "author": 0,
+    "date": "2026-04-09T15:23:11",
+    "date_gmt": "2026-04-09T15:23:11",
+    "modified": "2026-05-07T06:48:17",
+    "modified_gmt": "2026-05-07T06:48:17",
+    "content": {
+      "raw": "<p>שמורת טבע החולה שוכנת בעמק החולה שבגליל העליון, וידועה כאחת מנקודות הצפרות המובילות בעולם. מדי שנה, בעיקר בחודשי ספטמבר עד נובמבר ובפברואר עד מרץ, עוברות דרכה מאות אלפי ציפורי מעבר — עגורים, נשרים, חסידות ועוד — במסעות הנדידה בין אפריקה לאירופה. הנוף, הצלילים והכמויות הופכים את הביקור לחוויה בלתי נשכחת.</p><p>בשמורה ניתן לטייל ברגל בשבילים המסומנים, לרכב על אופניים שניתן לשכור במקום, ולצפות בבעלי החיים ממצפורי תצפית ייעודיים הפזורים לאורך המסלול. בנוסף לציפורים, ניתן לפגוש בשמורה נוטריות, שועלים, צבים ועוד בעלי חיים המאכלסים את הביצה.</p><p>הביקור מתאים לכל אחד — משפחות עם ילדים, חובבי טבע וצפרים מנוסים. מומלץ להגיע עם משקפת ולבוש נוח לשעות הבוקר המוקדמות, שבהן הפעילות בשיאה.</p>",
+      "rendered": "<p>שמורת טבע החולה שוכנת בעמק החולה שבגליל העליון, וידועה כאחת מנקודות הצפרות המובילות בעולם. מדי שנה, בעיקר בחודשי ספטמבר עד נובמבר ובפברואר עד מרץ, עוברות דרכה מאות אלפי ציפורי מעבר — עגורים, נשרים, חסידות ועוד — במסעות הנדידה בין אפריקה לאירופה. הנוף, הצלילים והכמויות הופכים את הביקור לחוויה בלתי נשכחת.</p>\n<p>בשמורה ניתן לטייל ברגל בשבילים המסומנים, לרכב על אופניים שניתן לשכור במקום, ולצפות בבעלי החיים ממצפורי תצפית ייעודיים הפזורים לאורך המסלול. בנוסף לציפורים, ניתן לפגוש בשמורה נוטריות, שועלים, צבים ועוד בעלי חיים המאכלסים את הביצה.</p>\n<p>הביקור מתאים לכל אחד — משפחות עם ילדים, חובבי טבע וצפרים מנוסים. מומלץ להגיע עם משקפת ולבוש נוח לשעות הבוקר המוקדמות, שבהן הפעילות בשיאה.</p>\n",
+      "protected": false
+    },
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 35,
+        "name": "טבע ומסלולים",
+        "slug": "teva"
+      }
+    ],
+    "post_tags": [],
+    "street": "שמורת טבע החולה, יסוד המעלה",
+    "country": "United States",
+    "region": "Pennsylvania",
+    "city": "יסוד המעלה",
+    "zip": null,
+    "latitude": "33.0674266",
+    "longitude": "35.6033203",
+    "mapview": null,
+    "mapzoom": null,
+    "phone": "04-693-7069",
+    "website": "https://www.parks.org.il/reserve-park/%D7%A9%D7%9E%D7%95%D7%A8%D7%AA-%D7%98%D7%91%D7%A2-%D7%94%D7%97%D7%95%D7%9C%D7%94",
+    "business_hours": {
+      "raw": "[\"Su 08:00-17:00\",\"Mo 08:00-17:00\",\"Tu 08:00-17:00\",\"We 08:00-17:00\",\"Th 08:00-17:00\",\"Fr 08:00-16:00\",\"Sa 08:00-17:00\"],[\"UTC\":\"+0\",\"Timezone\":\"UTC\"]",
+      "rendered": {
+        "days": {
+          "Mo": {
+            "today": 0,
+            "closed": 0,
+            "open": 0,
+            "day": "Monday",
+            "day_short": "ב",
+            "day_no": 1,
+            "slots": [
+              {
+                "slot": "08:00-17:00",
+                "range": "08:00 - 17:00",
+                "open": 0,
+                "time": [
+                  "0800",
+                  "1700"
+                ],
+                "minutes": [
+                  480,
+                  1020
+                ]
+              }
+            ]
+          },
+          "Tu": {
+            "today": 0,
+            "closed": 0,
+            "open": 0,
+            "day": "Tuesday",
+            "day_short": "ג",
+            "day_no": 2,
+            "slots": [
+              {
+                "slot": "08:00-17:00",
+                "range": "08:00 - 17:00",
+                "open": 0,
+                "time": [
+                  "0800",
+                  "1700"
+                ],
+                "minutes": [
+                  1920,
+                  2460
+                ]
+              }
+            ]
+          },
+          "We": {
+            "today": 1,
+            "closed": 0,
+            "open": 1,
+            "day": "Wednesday",
+            "day_short": "ד",
+            "day_no": 3,
+            "slots": [
+              {
+                "slot": "08:00-17:00",
+                "range": "08:00 - 17:00",
+                "open": 1,
+                "time": [
+                  "0800",
+                  "1700"
+                ],
+                "minutes": [
+                  3360,
+                  3900
+                ]
+              }
+            ]
+          },
+          "Th": {
+            "today": 0,
+            "closed": 0,
+            "open": 0,
+            "day": "Thursday",
+            "day_short": "ה",
+            "day_no": 4,
+            "slots": [
+              {
+                "slot": "08:00-17:00",
+                "range": "08:00 - 17:00",
+                "open": 0,
+                "time": [
+                  "0800",
+                  "1700"
+                ],
+                "minutes": [
+                  4800,
+                  5340
+                ]
+              }
+            ]
+          },
+          "Fr": {
+            "today": 0,
+            "closed": 0,
+            "open": 0,
+            "day": "Friday",
+            "day_short": "ו",
+            "day_no": 5,
+            "slots": [
+              {
+                "slot": "08:00-16:00",
+                "range": "08:00 - 16:00",
+                "open": 0,
+                "time": [
+                  "0800",
+                  "1600"
+                ],
+                "minutes": [
+                  6240,
+                  6720
+                ]
+              }
+            ]
+          },
+          "Sa": {
+            "today": 0,
+            "closed": 0,
+            "open": 0,
+            "day": "Saturday",
+            "day_short": "ש",
+            "day_no": 6,
+            "slots": [
+              {
+                "slot": "08:00-17:00",
+                "range": "08:00 - 17:00",
+                "open": 0,
+                "time": [
+                  "0800",
+                  "1700"
+                ],
+                "minutes": [
+                  7680,
+                  8220
+                ]
+              }
+            ]
+          },
+          "Su": {
+            "today": 0,
+            "closed": 0,
+            "open": 0,
+            "day": "Sunday",
+            "day_short": "א",
+            "day_no": 7,
+            "slots": [
+              {
+                "slot": "08:00-17:00",
+                "range": "08:00 - 17:00",
+                "open": 0,
+                "time": [
+                  "0800",
+                  "1700"
+                ],
+                "minutes": [
+                  9120,
+                  9660
+                ]
+              }
+            ]
+          }
+        },
+        "extra": {
+          "has_open": 1,
+          "has_closed": 0,
+          "today_range": "08:00 - 17:00",
+          "current_label": "Open now",
+          "open_now_label": "Open now",
+          "closed_now_label": "Closed now",
+          "date": "2026-09-30",
+          "time": "09:26:12",
+          "full_date": "2026-09-30 09:26:12",
+          "date_format": "30 בספטמבר 2026",
+          "time_format": "09:26",
+          "full_date_format": "30 בספטמבר 2026 09:26",
+          "timezone_string": "UTC",
+          "offset": 0,
+          "utc_offset": "+0",
+          "offset_dst": 0,
+          "utc_offset_dst": "+0",
+          "has_dst": 0,
+          "is_dst": 0
+        }
+      }
+    },
+    "price_type": {
+      "raw": null,
+      "rendered": "בחר"
+    },
+    "open_saturday": {
+      "raw": "yes",
+      "rendered": "כן"
+    },
+    "featured": true,
+    "rating": "0",
+    "rating_count": 0,
+    "featured_media": 55,
+    "featured_image": {
+      "id": 0,
+      "title": "website screenshot",
+      "src": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.parks.org.il%2Freserve-park%2F%25D7%25A9%25D7%259E%25D7%2595%25D7%25A8%25D7%25AA-%25D7%2598%25D7%2591%25D7%25A2-%25D7%2594%25D7%2597%25D7%2595%25D7%259C%25D7%2594?w=825&h=430",
+      "thumbnail": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.parks.org.il%2Freserve-park%2F%25D7%25A9%25D7%259E%25D7%2595%25D7%25A8%25D7%25AA-%25D7%2598%25D7%2591%25D7%25A2-%25D7%2594%25D7%2597%25D7%2595%25D7%259C%25D7%2594?w=825&h=430",
+      "width": "",
+      "height": ""
+    },
+    "images": [
+      {
+        "id": 0,
+        "title": "website screenshot",
+        "src": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.parks.org.il%2Freserve-park%2F%25D7%25A9%25D7%259E%25D7%2595%25D7%25A8%25D7%25AA-%25D7%2598%25D7%2591%25D7%25A2-%25D7%2594%25D7%2597%25D7%2595%25D7%259C%25D7%2594?w=825&h=430",
+        "thumbnail": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.parks.org.il%2Freserve-park%2F%25D7%25A9%25D7%259E%25D7%2595%25D7%25A8%25D7%25AA-%25D7%2598%25D7%2591%25D7%25A2-%25D7%2594%25D7%2597%25D7%2595%25D7%259C%25D7%2594?w=825&h=430",
+        "featured": false,
+        "position": 0
+      }
+    ],
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "meta": {
+      "site-sidebar-layout": "default",
+      "site-content-layout": "",
+      "ast-site-content-layout": "default",
+      "site-content-style": "default",
+      "site-sidebar-style": "default",
+      "ast-global-header-display": "",
+      "ast-banner-title-visibility": "",
+      "ast-main-header-display": "",
+      "ast-hfb-above-header-display": "",
+      "ast-hfb-below-header-display": "",
+      "ast-hfb-mobile-header-display": "",
+      "site-post-title": "",
+      "ast-breadcrumbs-content": "",
+      "ast-featured-img": "",
+      "footer-sml-layout": "",
+      "ast-disable-related-posts": "",
+      "theme-transparent-header-meta": "",
+      "adv-header-id-meta": "",
+      "stick-header-meta": "",
+      "header-above-stick-meta": "",
+      "header-main-stick-meta": "",
+      "header-below-stick-meta": "",
+      "astra-migrate-meta-layouts": "default",
+      "ast-page-background-enabled": "default",
+      "ast-page-background-meta": {
+        "desktop": {
+          "background-color": "var(--ast-global-color-5)",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        },
+        "tablet": {
+          "background-color": "",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        },
+        "mobile": {
+          "background-color": "",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        }
+      },
+      "ast-content-background-meta": {
+        "desktop": {
+          "background-color": "var(--ast-global-color-4)",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        },
+        "tablet": {
+          "background-color": "var(--ast-global-color-4)",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        },
+        "mobile": {
+          "background-color": "var(--ast-global-color-4)",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        }
+      },
+      "footnotes": ""
+    },
+    "guid": {
+      "rendered": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%97%d7%95%d7%9c%d7%94/",
+      "raw": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%97%d7%95%d7%9c%d7%94/"
+    },
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v27.5 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>שמורת טבע החולה - כיוון צפון</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://gonorth.co.il/places/שמורת-טבע-החולה/\" />\n<meta property=\"og:locale\" content=\"he_IL\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"שמורת טבע החולה - כיוון צפון\" />\n<meta property=\"og:description\" content=\"שמורת טבע החולה — אחת מנקודות הצפרות הטובות בעולם. בית גידול לעשרות אלפי עגורים וציפורי מעבר בכל עונת הנדידה.\" />\n<meta property=\"og:url\" content=\"https://gonorth.co.il/places/שמורת-טבע-החולה/\" />\n<meta property=\"og:site_name\" content=\"כיוון צפון\" />\n<meta property=\"article:modified_time\" content=\"2026-05-07T06:48:17+00:00\" />\n<meta property=\"og:image\" content=\"https://gonorth.co.il/wp-content/uploads/2026/04/hula.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1152\" />\n\t<meta property=\"og:image:height\" content=\"768\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%97%d7%95%d7%9c%d7%94\\/\",\"url\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%97%d7%95%d7%9c%d7%94\\/\",\"name\":\"שמורת טבע החולה - כיוון צפון\",\"isPartOf\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%97%d7%95%d7%9c%d7%94\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%97%d7%95%d7%9c%d7%94\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/uploads\\/2026\\/04\\/hula.jpg\",\"datePublished\":\"2026-04-09T15:23:11+00:00\",\"dateModified\":\"2026-05-07T06:48:17+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%97%d7%95%d7%9c%d7%94\\/#breadcrumb\"},\"inLanguage\":\"he-IL\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/gonorth.co.il\\/places\\/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%97%d7%95%d7%9c%d7%94\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"he-IL\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%97%d7%95%d7%9c%d7%94\\/#primaryimage\",\"url\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/uploads\\/2026\\/04\\/hula.jpg\",\"contentUrl\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/uploads\\/2026\\/04\\/hula.jpg\",\"width\":1152,\"height\":768,\"caption\":\"שמורת טבע החולה, יסוד המעלה\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%97%d7%95%d7%9c%d7%94\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/gonorth.co.il\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Places\",\"item\":\"https:\\/\\/gonorth.co.il\\/places\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"שמורת טבע החולה\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"name\":\"כיוון צפון\",\"description\":\"גלה את הצפון כמו מקומי\",\"alternateName\":\"GoNorth\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/gonorth.co.il\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"he-IL\",\"publisher\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\",\"name\":\"כיוון צפון\",\"alternateName\":\"GoNorth\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization-logo\",\"url\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/themes\\/gonorth-child\\/assets\\/gonorth-organic-mark.svg\",\"width\":300,\"height\":130},\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"שירות לקוחות\",\"url\":\"https:\\/\\/gonorth.co.il\\/contact\\/\",\"availableLanguage\":[\"עברית\"]},\"sameAs\":[\"https:\\/\\/gonorth.co.il\\/about\\/\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "שמורת טבע החולה - כיוון צפון",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://gonorth.co.il/places/שמורת-טבע-החולה/",
+      "og_locale": "he_IL",
+      "og_type": "article",
+      "og_title": "שמורת טבע החולה - כיוון צפון",
+      "og_description": "שמורת טבע החולה — אחת מנקודות הצפרות הטובות בעולם. בית גידול לעשרות אלפי עגורים וציפורי מעבר בכל עונת הנדידה.",
+      "og_url": "https://gonorth.co.il/places/שמורת-טבע-החולה/",
+      "og_site_name": "כיוון צפון",
+      "article_modified_time": "2026-05-07T09:48:17+03:00",
+      "og_image": [
+        {
+          "width": 1152,
+          "height": 768,
+          "url": "https://gonorth.co.il/wp-content/uploads/2026/04/hula.jpg",
+          "type": "image/jpeg"
+        }
+      ],
+      "twitter_card": "summary_large_image",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%97%d7%95%d7%9c%d7%94/",
+            "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%97%d7%95%d7%9c%d7%94/",
+            "name": "שמורת טבע החולה - כיוון צפון",
+            "isPartOf": {
+              "@id": "https://gonorth.co.il/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%97%d7%95%d7%9c%d7%94/#primaryimage"
+            },
+            "image": {
+              "@id": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%97%d7%95%d7%9c%d7%94/#primaryimage"
+            },
+            "thumbnailUrl": "https://gonorth.co.il/wp-content/uploads/2026/04/hula.jpg",
+            "datePublished": "2026-04-09T18:23:11+03:00",
+            "dateModified": "2026-05-07T09:48:17+03:00",
+            "breadcrumb": {
+              "@id": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%97%d7%95%d7%9c%d7%94/#breadcrumb"
+            },
+            "inLanguage": "he-IL",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%97%d7%95%d7%9c%d7%94/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "he-IL",
+            "@id": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%97%d7%95%d7%9c%d7%94/#primaryimage",
+            "url": "https://gonorth.co.il/wp-content/uploads/2026/04/hula.jpg",
+            "contentUrl": "https://gonorth.co.il/wp-content/uploads/2026/04/hula.jpg",
+            "width": 1152,
+            "height": 768,
+            "caption": "שמורת טבע החולה, יסוד המעלה"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%94%d7%97%d7%95%d7%9c%d7%94/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://gonorth.co.il/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Places",
+                "item": "https://gonorth.co.il/places/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "שמורת טבע החולה"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://gonorth.co.il/#website",
+            "url": "https://gonorth.co.il/",
+            "name": "כיוון צפון",
+            "description": "גלה את הצפון כמו מקומי",
+            "alternateName": "GoNorth",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://gonorth.co.il/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://gonorth.co.il/#organization"
+            }
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://gonorth.co.il/#organization",
+            "name": "כיוון צפון",
+            "alternateName": "GoNorth",
+            "url": "https://gonorth.co.il/",
+            "logo": {
+              "@type": "ImageObject",
+              "@id": "https://gonorth.co.il/#organization-logo",
+              "url": "https://gonorth.co.il/wp-content/themes/gonorth-child/assets/gonorth-organic-mark.svg",
+              "width": 300,
+              "height": 130
+            },
+            "contactPoint": {
+              "@type": "ContactPoint",
+              "contactType": "שירות לקוחות",
+              "url": "https://gonorth.co.il/contact/",
+              "availableLanguage": [
+                "עברית"
+              ]
+            },
+            "sameAs": [
+              "https://gonorth.co.il/about/"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/54",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/types/gd_place"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/reviews?post=54"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/54/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gonorth.co.il/wp-json/wp/v2/media/55"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gonorth.co.il/wp-json/wp/v2/media?parent=54"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "gd_place_tags",
+          "embeddable": true,
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/tags?post=54"
+        },
+        {
+          "taxonomy": "gd_placecategory",
+          "embeddable": true,
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/categories?post=54"
+        },
+        {
+          "taxonomy": "gn_region",
+          "embeddable": true,
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/?post=54"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "56",
+    "title": {
+      "raw": "נחל השופט",
+      "rendered": "נחל השופט"
+    },
+    "slug": "%d7%a0%d7%97%d7%9c-%d7%94%d7%a9%d7%95%d7%a4%d7%98",
+    "link": "https://gonorth.co.il/places/%d7%a0%d7%97%d7%9c-%d7%94%d7%a9%d7%95%d7%a4%d7%98/",
+    "status": "publish",
+    "type": "gd_place",
+    "author": 0,
+    "date": "2026-04-09T15:25:27",
+    "date_gmt": "2026-04-09T15:25:27",
+    "modified": "2026-09-26T09:26:17",
+    "modified_gmt": "2026-09-26T09:26:17",
+    "content": {
+      "raw": "נחל השופט נמצא באזור רמות מנשה בדרום הגליל ומהווה אחד ממסלולי הטיול הפופולריים והנגישים ביותר בצפון הארץ. הנחל זורם בין חורבות כפרים, שדמות עתיקות ויערות ירוקים, ויוצר סביבה ירוקה ומרעננת בכל עונות השנה. לאחר שיפוץ מקיף שהסתיים באפריל 2024, נפתח המסלול המעגלי באורך 1.6 קמ כשהוא סלול ומונגש במלואו — מתאים לעגלות תינוקות, כיסאות גלגלים ומטיילים בכל הגילאים. לאורך המסלול ניתן להתרשם ממפלים קטנים, בריכות טבעיות וצמחייה ים-תיכונית עשירה. הגישה לשביל הנגיש היא ממבואת פארק רמת מנשה בכביש 66, ומשם לפי השילוט לנחל השופט. לפני היציאה מומלץ לבדוק באתר קק״ל דיווחים עדכניים הנוגעים למסלול.",
+      "rendered": "<p>נחל השופט נמצא באזור רמות מנשה בדרום הגליל ומהווה אחד ממסלולי הטיול הפופולריים והנגישים ביותר בצפון הארץ. הנחל זורם בין חורבות כפרים, שדמות עתיקות ויערות ירוקים, ויוצר סביבה ירוקה ומרעננת בכל עונות השנה. לאחר שיפוץ מקיף שהסתיים באפריל 2024, נפתח המסלול המעגלי באורך 1.6 קמ כשהוא סלול ומונגש במלואו — מתאים לעגלות תינוקות, כיסאות גלגלים ומטיילים בכל הגילאים. לאורך המסלול ניתן להתרשם ממפלים קטנים, בריכות טבעיות וצמחייה ים-תיכונית עשירה. הגישה לשביל הנגיש היא ממבואת פארק רמת מנשה בכביש 66, ומשם לפי השילוט לנחל השופט. לפני היציאה מומלץ לבדוק באתר קק״ל דיווחים עדכניים הנוגעים למסלול.</p>\n",
+      "protected": false
+    },
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 35,
+        "name": "טבע ומסלולים",
+        "slug": "teva"
+      }
+    ],
+    "post_tags": [],
+    "street": "חניון חרובים, נחל השופט",
+    "country": "United States",
+    "region": "Pennsylvania",
+    "city": "עין השופט",
+    "zip": null,
+    "latitude": "32.628333",
+    "longitude": "35.105822",
+    "mapview": null,
+    "mapzoom": null,
+    "phone": "1-800-350-550",
+    "website": "https://www.kkl.org.il/travel/trips/290971/",
+    "business_hours": null,
+    "price_type": {
+      "raw": null,
+      "rendered": "בחר"
+    },
+    "open_saturday": {
+      "raw": null,
+      "rendered": "בחר"
+    },
+    "featured": true,
+    "rating": "0",
+    "rating_count": 0,
+    "featured_media": 57,
+    "featured_image": {
+      "id": 0,
+      "title": "website screenshot",
+      "src": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.kkl.org.il%2Ftravel%2Ftrips%2F290971%2F?w=825&h=430",
+      "thumbnail": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.kkl.org.il%2Ftravel%2Ftrips%2F290971%2F?w=825&h=430",
+      "width": "",
+      "height": ""
+    },
+    "images": [
+      {
+        "id": 0,
+        "title": "website screenshot",
+        "src": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.kkl.org.il%2Ftravel%2Ftrips%2F290971%2F?w=825&h=430",
+        "thumbnail": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.kkl.org.il%2Ftravel%2Ftrips%2F290971%2F?w=825&h=430",
+        "featured": false,
+        "position": 0
+      }
+    ],
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "meta": {
+      "site-sidebar-layout": "default",
+      "site-content-layout": "",
+      "ast-site-content-layout": "default",
+      "site-content-style": "default",
+      "site-sidebar-style": "default",
+      "ast-global-header-display": "",
+      "ast-banner-title-visibility": "",
+      "ast-main-header-display": "",
+      "ast-hfb-above-header-display": "",
+      "ast-hfb-below-header-display": "",
+      "ast-hfb-mobile-header-display": "",
+      "site-post-title": "",
+      "ast-breadcrumbs-content": "",
+      "ast-featured-img": "",
+      "footer-sml-layout": "",
+      "ast-disable-related-posts": "",
+      "theme-transparent-header-meta": "",
+      "adv-header-id-meta": "",
+      "stick-header-meta": "",
+      "header-above-stick-meta": "",
+      "header-main-stick-meta": "",
+      "header-below-stick-meta": "",
+      "astra-migrate-meta-layouts": "default",
+      "ast-page-background-enabled": "default",
+      "ast-page-background-meta": {
+        "desktop": {
+          "background-color": "var(--ast-global-color-5)",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        },
+        "tablet": {
+          "background-color": "",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        },
+        "mobile": {
+          "background-color": "",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        }
+      },
+      "ast-content-background-meta": {
+        "desktop": {
+          "background-color": "var(--ast-global-color-4)",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        },
+        "tablet": {
+          "background-color": "var(--ast-global-color-4)",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        },
+        "mobile": {
+          "background-color": "var(--ast-global-color-4)",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        }
+      },
+      "footnotes": ""
+    },
+    "guid": {
+      "rendered": "https://gonorth.co.il/places/%d7%a0%d7%97%d7%9c-%d7%94%d7%a9%d7%95%d7%a4%d7%98/",
+      "raw": "https://gonorth.co.il/places/%d7%a0%d7%97%d7%9c-%d7%94%d7%a9%d7%95%d7%a4%d7%98/"
+    },
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v27.5 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>נחל השופט - כיוון צפון</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://gonorth.co.il/places/נחל-השופט/\" />\n<meta property=\"og:locale\" content=\"he_IL\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"נחל השופט - כיוון צפון\" />\n<meta property=\"og:description\" content=\"מסלול טיול מרהיב לאורך נחל השופט בכרמל — שביל מונגש לעגלות ונכים, מפלים, צמחייה עשירה ונוף ירוק לאורך כל השנה.\" />\n<meta property=\"og:url\" content=\"https://gonorth.co.il/places/נחל-השופט/\" />\n<meta property=\"og:site_name\" content=\"כיוון צפון\" />\n<meta property=\"article:modified_time\" content=\"2026-09-26T09:26:17+00:00\" />\n<meta property=\"og:image\" content=\"https://gonorth.co.il/wp-content/uploads/2026/04/nahal_hashofet.jpg\" />\n\t<meta property=\"og:image:width\" content=\"900\" />\n\t<meta property=\"og:image:height\" content=\"1600\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%a0%d7%97%d7%9c-%d7%94%d7%a9%d7%95%d7%a4%d7%98\\/\",\"url\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%a0%d7%97%d7%9c-%d7%94%d7%a9%d7%95%d7%a4%d7%98\\/\",\"name\":\"נחל השופט - כיוון צפון\",\"isPartOf\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%a0%d7%97%d7%9c-%d7%94%d7%a9%d7%95%d7%a4%d7%98\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%a0%d7%97%d7%9c-%d7%94%d7%a9%d7%95%d7%a4%d7%98\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/uploads\\/2026\\/04\\/nahal_hashofet.jpg\",\"datePublished\":\"2026-04-09T15:25:27+00:00\",\"dateModified\":\"2026-09-26T09:26:17+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%a0%d7%97%d7%9c-%d7%94%d7%a9%d7%95%d7%a4%d7%98\\/#breadcrumb\"},\"inLanguage\":\"he-IL\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/gonorth.co.il\\/places\\/%d7%a0%d7%97%d7%9c-%d7%94%d7%a9%d7%95%d7%a4%d7%98\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"he-IL\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%a0%d7%97%d7%9c-%d7%94%d7%a9%d7%95%d7%a4%d7%98\\/#primaryimage\",\"url\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/uploads\\/2026\\/04\\/nahal_hashofet.jpg\",\"contentUrl\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/uploads\\/2026\\/04\\/nahal_hashofet.jpg\",\"width\":900,\"height\":1600,\"caption\":\"נחל השופט, עין השופט\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%a0%d7%97%d7%9c-%d7%94%d7%a9%d7%95%d7%a4%d7%98\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/gonorth.co.il\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Places\",\"item\":\"https:\\/\\/gonorth.co.il\\/places\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"נחל השופט\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"name\":\"כיוון צפון\",\"description\":\"גלה את הצפון כמו מקומי\",\"alternateName\":\"GoNorth\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/gonorth.co.il\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"he-IL\",\"publisher\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\",\"name\":\"כיוון צפון\",\"alternateName\":\"GoNorth\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization-logo\",\"url\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/themes\\/gonorth-child\\/assets\\/gonorth-organic-mark.svg\",\"width\":300,\"height\":130},\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"שירות לקוחות\",\"url\":\"https:\\/\\/gonorth.co.il\\/contact\\/\",\"availableLanguage\":[\"עברית\"]},\"sameAs\":[\"https:\\/\\/gonorth.co.il\\/about\\/\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "נחל השופט - כיוון צפון",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://gonorth.co.il/places/נחל-השופט/",
+      "og_locale": "he_IL",
+      "og_type": "article",
+      "og_title": "נחל השופט - כיוון צפון",
+      "og_description": "מסלול טיול מרהיב לאורך נחל השופט בכרמל — שביל מונגש לעגלות ונכים, מפלים, צמחייה עשירה ונוף ירוק לאורך כל השנה.",
+      "og_url": "https://gonorth.co.il/places/נחל-השופט/",
+      "og_site_name": "כיוון צפון",
+      "article_modified_time": "2026-09-26T12:26:17+03:00",
+      "og_image": [
+        {
+          "width": 900,
+          "height": 1600,
+          "url": "https://gonorth.co.il/wp-content/uploads/2026/04/nahal_hashofet.jpg",
+          "type": "image/jpeg"
+        }
+      ],
+      "twitter_card": "summary_large_image",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://gonorth.co.il/places/%d7%a0%d7%97%d7%9c-%d7%94%d7%a9%d7%95%d7%a4%d7%98/",
+            "url": "https://gonorth.co.il/places/%d7%a0%d7%97%d7%9c-%d7%94%d7%a9%d7%95%d7%a4%d7%98/",
+            "name": "נחל השופט - כיוון צפון",
+            "isPartOf": {
+              "@id": "https://gonorth.co.il/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://gonorth.co.il/places/%d7%a0%d7%97%d7%9c-%d7%94%d7%a9%d7%95%d7%a4%d7%98/#primaryimage"
+            },
+            "image": {
+              "@id": "https://gonorth.co.il/places/%d7%a0%d7%97%d7%9c-%d7%94%d7%a9%d7%95%d7%a4%d7%98/#primaryimage"
+            },
+            "thumbnailUrl": "https://gonorth.co.il/wp-content/uploads/2026/04/nahal_hashofet.jpg",
+            "datePublished": "2026-04-09T18:25:27+03:00",
+            "dateModified": "2026-09-26T12:26:17+03:00",
+            "breadcrumb": {
+              "@id": "https://gonorth.co.il/places/%d7%a0%d7%97%d7%9c-%d7%94%d7%a9%d7%95%d7%a4%d7%98/#breadcrumb"
+            },
+            "inLanguage": "he-IL",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://gonorth.co.il/places/%d7%a0%d7%97%d7%9c-%d7%94%d7%a9%d7%95%d7%a4%d7%98/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "he-IL",
+            "@id": "https://gonorth.co.il/places/%d7%a0%d7%97%d7%9c-%d7%94%d7%a9%d7%95%d7%a4%d7%98/#primaryimage",
+            "url": "https://gonorth.co.il/wp-content/uploads/2026/04/nahal_hashofet.jpg",
+            "contentUrl": "https://gonorth.co.il/wp-content/uploads/2026/04/nahal_hashofet.jpg",
+            "width": 900,
+            "height": 1600,
+            "caption": "נחל השופט, עין השופט"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://gonorth.co.il/places/%d7%a0%d7%97%d7%9c-%d7%94%d7%a9%d7%95%d7%a4%d7%98/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://gonorth.co.il/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Places",
+                "item": "https://gonorth.co.il/places/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "נחל השופט"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://gonorth.co.il/#website",
+            "url": "https://gonorth.co.il/",
+            "name": "כיוון צפון",
+            "description": "גלה את הצפון כמו מקומי",
+            "alternateName": "GoNorth",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://gonorth.co.il/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://gonorth.co.il/#organization"
+            }
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://gonorth.co.il/#organization",
+            "name": "כיוון צפון",
+            "alternateName": "GoNorth",
+            "url": "https://gonorth.co.il/",
+            "logo": {
+              "@type": "ImageObject",
+              "@id": "https://gonorth.co.il/#organization-logo",
+              "url": "https://gonorth.co.il/wp-content/themes/gonorth-child/assets/gonorth-organic-mark.svg",
+              "width": 300,
+              "height": 130
+            },
+            "contactPoint": {
+              "@type": "ContactPoint",
+              "contactType": "שירות לקוחות",
+              "url": "https://gonorth.co.il/contact/",
+              "availableLanguage": [
+                "עברית"
+              ]
+            },
+            "sameAs": [
+              "https://gonorth.co.il/about/"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/56",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/types/gd_place"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/reviews?post=56"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/56/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gonorth.co.il/wp-json/wp/v2/media/57"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gonorth.co.il/wp-json/wp/v2/media?parent=56"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "gd_place_tags",
+          "embeddable": true,
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/tags?post=56"
+        },
+        {
+          "taxonomy": "gd_placecategory",
+          "embeddable": true,
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/categories?post=56"
+        },
+        {
+          "taxonomy": "gn_region",
+          "embeddable": true,
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/?post=56"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "58",
+    "title": {
+      "raw": "שמורת טבע נחל עמוד",
+      "rendered": "שמורת טבע נחל עמוד"
+    },
+    "slug": "%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%a2%d7%9e%d7%95%d7%93",
+    "link": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%a2%d7%9e%d7%95%d7%93/",
+    "status": "publish",
+    "type": "gd_place",
+    "author": 0,
+    "date": "2026-04-09T15:28:52",
+    "date_gmt": "2026-04-09T15:28:52",
+    "modified": "2026-04-11T05:30:18",
+    "modified_gmt": "2026-04-11T05:30:18",
+    "content": {
+      "raw": "נחל עמוד משתרעת לאורך אחד הנחלים הציוריים ביותר בגליל, מרמות הגליל העליון סמוך לצפת ועד לחוף הכינרת. הנחל חוצה נוף גיאולוגי מרשים — קניונים בזלתיים, מפלים, בריכות טבעיות ומערות, לצד צמחייה ים-תיכונית ומדיטרנית עשירה. המסלולים בשמורה מתאימים לרמות קושי שונות: מהליכה קלה לאורך ערוץ הנחל ועד טיפוס מאתגר יותר לאורך המדרונות. בחורף ובאביב הנחל גדוש מים ומציע תצוגת טבע מרהיבה, ובקיץ הצל הסבוך ומאגרי המים הופכים אותו לאחת מנקודות הקירור המועדפות בגליל. ניתן לשלב את הביקור בשמורה עם טיול בצפת הסמוכה, יקבי הגליל או נקודות תצפית לכינרת. מומלץ להגיע בשעות הבוקר ולצאת עם נעלי הליכה, מים וכובע.",
+      "rendered": "<p>נחל עמוד משתרעת לאורך אחד הנחלים הציוריים ביותר בגליל, מרמות הגליל העליון סמוך לצפת ועד לחוף הכינרת. הנחל חוצה נוף גיאולוגי מרשים — קניונים בזלתיים, מפלים, בריכות טבעיות ומערות, לצד צמחייה ים-תיכונית ומדיטרנית עשירה. המסלולים בשמורה מתאימים לרמות קושי שונות: מהליכה קלה לאורך ערוץ הנחל ועד טיפוס מאתגר יותר לאורך המדרונות. בחורף ובאביב הנחל גדוש מים ומציע תצוגת טבע מרהיבה, ובקיץ הצל הסבוך ומאגרי המים הופכים אותו לאחת מנקודות הקירור המועדפות בגליל. ניתן לשלב את הביקור בשמורה עם טיול בצפת הסמוכה, יקבי הגליל או נקודות תצפית לכינרת. מומלץ להגיע בשעות הבוקר ולצאת עם נעלי הליכה, מים וכובע.</p>\n",
+      "protected": false
+    },
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 35,
+        "name": "טבע ומסלולים",
+        "slug": "teva"
+      }
+    ],
+    "post_tags": [],
+    "street": "שמורת טבע נחל עמוד, חניה ומרכז מידע",
+    "country": "United States",
+    "region": "Pennsylvania",
+    "city": "כפר שמאי",
+    "zip": null,
+    "latitude": "32.8866575",
+    "longitude": "35.5005401",
+    "mapview": null,
+    "mapzoom": null,
+    "phone": "04-699-9984",
+    "website": "https://www.parks.org.il/reserve-park/%D7%A9%D7%9E%D7%95%D7%A8%D7%AA-%D7%98%D7%91%D7%A2-%D7%A0%D7%97%D7%9C-%D7%A2%D7%9E%D7%95%D7%93/",
+    "business_hours": {
+      "raw": "[\"We 08:00-17:00\",\"Th 08:00-17:00\",\"Fr 08:00-16:00\",\"Sa 08:00-17:00\",\"Su 08:00-17:00\",\"Mo 08:00-17:00\",\"Tu 08:00-17:00\"],[\"UTC\":\"+0\",\"Timezone\":\"UTC\"]",
+      "rendered": {
+        "days": {
+          "Mo": {
+            "today": 0,
+            "closed": 0,
+            "open": 0,
+            "day": "Monday",
+            "day_short": "ב",
+            "day_no": 1,
+            "slots": [
+              {
+                "slot": "08:00-17:00",
+                "range": "08:00 - 17:00",
+                "open": 0,
+                "time": [
+                  "0800",
+                  "1700"
+                ],
+                "minutes": [
+                  480,
+                  1020
+                ]
+              }
+            ]
+          },
+          "Tu": {
+            "today": 0,
+            "closed": 0,
+            "open": 0,
+            "day": "Tuesday",
+            "day_short": "ג",
+            "day_no": 2,
+            "slots": [
+              {
+                "slot": "08:00-17:00",
+                "range": "08:00 - 17:00",
+                "open": 0,
+                "time": [
+                  "0800",
+                  "1700"
+                ],
+                "minutes": [
+                  1920,
+                  2460
+                ]
+              }
+            ]
+          },
+          "We": {
+            "today": 1,
+            "closed": 0,
+            "open": 1,
+            "day": "Wednesday",
+            "day_short": "ד",
+            "day_no": 3,
+            "slots": [
+              {
+                "slot": "08:00-17:00",
+                "range": "08:00 - 17:00",
+                "open": 1,
+                "time": [
+                  "0800",
+                  "1700"
+                ],
+                "minutes": [
+                  3360,
+                  3900
+                ]
+              }
+            ]
+          },
+          "Th": {
+            "today": 0,
+            "closed": 0,
+            "open": 0,
+            "day": "Thursday",
+            "day_short": "ה",
+            "day_no": 4,
+            "slots": [
+              {
+                "slot": "08:00-17:00",
+                "range": "08:00 - 17:00",
+                "open": 0,
+                "time": [
+                  "0800",
+                  "1700"
+                ],
+                "minutes": [
+                  4800,
+                  5340
+                ]
+              }
+            ]
+          },
+          "Fr": {
+            "today": 0,
+            "closed": 0,
+            "open": 0,
+            "day": "Friday",
+            "day_short": "ו",
+            "day_no": 5,
+            "slots": [
+              {
+                "slot": "08:00-16:00",
+                "range": "08:00 - 16:00",
+                "open": 0,
+                "time": [
+                  "0800",
+                  "1600"
+                ],
+                "minutes": [
+                  6240,
+                  6720
+                ]
+              }
+            ]
+          },
+          "Sa": {
+            "today": 0,
+            "closed": 0,
+            "open": 0,
+            "day": "Saturday",
+            "day_short": "ש",
+            "day_no": 6,
+            "slots": [
+              {
+                "slot": "08:00-17:00",
+                "range": "08:00 - 17:00",
+                "open": 0,
+                "time": [
+                  "0800",
+                  "1700"
+                ],
+                "minutes": [
+                  7680,
+                  8220
+                ]
+              }
+            ]
+          },
+          "Su": {
+            "today": 0,
+            "closed": 0,
+            "open": 0,
+            "day": "Sunday",
+            "day_short": "א",
+            "day_no": 7,
+            "slots": [
+              {
+                "slot": "08:00-17:00",
+                "range": "08:00 - 17:00",
+                "open": 0,
+                "time": [
+                  "0800",
+                  "1700"
+                ],
+                "minutes": [
+                  9120,
+                  9660
+                ]
+              }
+            ]
+          }
+        },
+        "extra": {
+          "has_open": 1,
+          "has_closed": 0,
+          "today_range": "08:00 - 17:00",
+          "current_label": "Open now",
+          "open_now_label": "Open now",
+          "closed_now_label": "Closed now",
+          "date": "2026-09-30",
+          "time": "09:26:13",
+          "full_date": "2026-09-30 09:26:13",
+          "date_format": "30 בספטמבר 2026",
+          "time_format": "09:26",
+          "full_date_format": "30 בספטמבר 2026 09:26",
+          "timezone_string": "UTC",
+          "offset": 0,
+          "utc_offset": "+0",
+          "offset_dst": 0,
+          "utc_offset_dst": "+0",
+          "has_dst": 0,
+          "is_dst": 0
+        }
+      }
+    },
+    "price_type": {
+      "raw": null,
+      "rendered": "בחר"
+    },
+    "open_saturday": {
+      "raw": "yes",
+      "rendered": "כן"
+    },
+    "featured": true,
+    "rating": "0",
+    "rating_count": 0,
+    "featured_media": 59,
+    "featured_image": {
+      "id": 0,
+      "title": "website screenshot",
+      "src": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.parks.org.il%2Freserve-park%2F%25D7%25A9%25D7%259E%25D7%2595%25D7%25A8%25D7%25AA-%25D7%2598%25D7%2591%25D7%25A2-%25D7%25A0%25D7%2597%25D7%259C-%25D7%25A2%25D7%259E%25D7%2595%25D7%2593%2F?w=825&h=430",
+      "thumbnail": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.parks.org.il%2Freserve-park%2F%25D7%25A9%25D7%259E%25D7%2595%25D7%25A8%25D7%25AA-%25D7%2598%25D7%2591%25D7%25A2-%25D7%25A0%25D7%2597%25D7%259C-%25D7%25A2%25D7%259E%25D7%2595%25D7%2593%2F?w=825&h=430",
+      "width": "",
+      "height": ""
+    },
+    "images": [
+      {
+        "id": 0,
+        "title": "website screenshot",
+        "src": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.parks.org.il%2Freserve-park%2F%25D7%25A9%25D7%259E%25D7%2595%25D7%25A8%25D7%25AA-%25D7%2598%25D7%2591%25D7%25A2-%25D7%25A0%25D7%2597%25D7%259C-%25D7%25A2%25D7%259E%25D7%2595%25D7%2593%2F?w=825&h=430",
+        "thumbnail": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.parks.org.il%2Freserve-park%2F%25D7%25A9%25D7%259E%25D7%2595%25D7%25A8%25D7%25AA-%25D7%2598%25D7%2591%25D7%25A2-%25D7%25A0%25D7%2597%25D7%259C-%25D7%25A2%25D7%259E%25D7%2595%25D7%2593%2F?w=825&h=430",
+        "featured": false,
+        "position": 0
+      }
+    ],
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "meta": {
+      "site-sidebar-layout": "default",
+      "site-content-layout": "",
+      "ast-site-content-layout": "default",
+      "site-content-style": "default",
+      "site-sidebar-style": "default",
+      "ast-global-header-display": "",
+      "ast-banner-title-visibility": "",
+      "ast-main-header-display": "",
+      "ast-hfb-above-header-display": "",
+      "ast-hfb-below-header-display": "",
+      "ast-hfb-mobile-header-display": "",
+      "site-post-title": "",
+      "ast-breadcrumbs-content": "",
+      "ast-featured-img": "",
+      "footer-sml-layout": "",
+      "ast-disable-related-posts": "",
+      "theme-transparent-header-meta": "",
+      "adv-header-id-meta": "",
+      "stick-header-meta": "",
+      "header-above-stick-meta": "",
+      "header-main-stick-meta": "",
+      "header-below-stick-meta": "",
+      "astra-migrate-meta-layouts": "default",
+      "ast-page-background-enabled": "default",
+      "ast-page-background-meta": {
+        "desktop": {
+          "background-color": "var(--ast-global-color-5)",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        },
+        "tablet": {
+          "background-color": "",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        },
+        "mobile": {
+          "background-color": "",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        }
+      },
+      "ast-content-background-meta": {
+        "desktop": {
+          "background-color": "var(--ast-global-color-4)",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        },
+        "tablet": {
+          "background-color": "var(--ast-global-color-4)",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        },
+        "mobile": {
+          "background-color": "var(--ast-global-color-4)",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        }
+      },
+      "footnotes": ""
+    },
+    "guid": {
+      "rendered": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%a2%d7%9e%d7%95%d7%93/",
+      "raw": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%a2%d7%9e%d7%95%d7%93/"
+    },
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v27.5 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>שמורת טבע נחל עמוד - כיוון צפון</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://gonorth.co.il/places/שמורת-טבע-נחל-עמוד/\" />\n<meta property=\"og:locale\" content=\"he_IL\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"שמורת טבע נחל עמוד - כיוון צפון\" />\n<meta property=\"og:description\" content=\"נחל עמוד — אחד היפים בגליל. מים זורמים, מפלים, מערות ושבילים מסומנים בין צפת לכינרת לאורך כל השנה.\" />\n<meta property=\"og:url\" content=\"https://gonorth.co.il/places/שמורת-טבע-נחל-עמוד/\" />\n<meta property=\"og:site_name\" content=\"כיוון צפון\" />\n<meta property=\"article:modified_time\" content=\"2026-04-11T05:30:18+00:00\" />\n<meta property=\"og:image\" content=\"https://gonorth.co.il/wp-content/uploads/2026/04/nahal_amud.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1200\" />\n\t<meta property=\"og:image:height\" content=\"900\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%a2%d7%9e%d7%95%d7%93\\/\",\"url\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%a2%d7%9e%d7%95%d7%93\\/\",\"name\":\"שמורת טבע נחל עמוד - כיוון צפון\",\"isPartOf\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%a2%d7%9e%d7%95%d7%93\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%a2%d7%9e%d7%95%d7%93\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/uploads\\/2026\\/04\\/nahal_amud.jpg\",\"datePublished\":\"2026-04-09T15:28:52+00:00\",\"dateModified\":\"2026-04-11T05:30:18+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%a2%d7%9e%d7%95%d7%93\\/#breadcrumb\"},\"inLanguage\":\"he-IL\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/gonorth.co.il\\/places\\/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%a2%d7%9e%d7%95%d7%93\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"he-IL\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%a2%d7%9e%d7%95%d7%93\\/#primaryimage\",\"url\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/uploads\\/2026\\/04\\/nahal_amud.jpg\",\"contentUrl\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/uploads\\/2026\\/04\\/nahal_amud.jpg\",\"width\":1200,\"height\":900,\"caption\":\"שמורת טבע נחל עמוד, כפר שמאי\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%a2%d7%9e%d7%95%d7%93\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/gonorth.co.il\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Places\",\"item\":\"https:\\/\\/gonorth.co.il\\/places\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"שמורת טבע נחל עמוד\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"name\":\"כיוון צפון\",\"description\":\"גלה את הצפון כמו מקומי\",\"alternateName\":\"GoNorth\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/gonorth.co.il\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"he-IL\",\"publisher\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\",\"name\":\"כיוון צפון\",\"alternateName\":\"GoNorth\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization-logo\",\"url\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/themes\\/gonorth-child\\/assets\\/gonorth-organic-mark.svg\",\"width\":300,\"height\":130},\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"שירות לקוחות\",\"url\":\"https:\\/\\/gonorth.co.il\\/contact\\/\",\"availableLanguage\":[\"עברית\"]},\"sameAs\":[\"https:\\/\\/gonorth.co.il\\/about\\/\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "שמורת טבע נחל עמוד - כיוון צפון",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://gonorth.co.il/places/שמורת-טבע-נחל-עמוד/",
+      "og_locale": "he_IL",
+      "og_type": "article",
+      "og_title": "שמורת טבע נחל עמוד - כיוון צפון",
+      "og_description": "נחל עמוד — אחד היפים בגליל. מים זורמים, מפלים, מערות ושבילים מסומנים בין צפת לכינרת לאורך כל השנה.",
+      "og_url": "https://gonorth.co.il/places/שמורת-טבע-נחל-עמוד/",
+      "og_site_name": "כיוון צפון",
+      "article_modified_time": "2026-04-11T08:30:18+03:00",
+      "og_image": [
+        {
+          "width": 1200,
+          "height": 900,
+          "url": "https://gonorth.co.il/wp-content/uploads/2026/04/nahal_amud.jpg",
+          "type": "image/jpeg"
+        }
+      ],
+      "twitter_card": "summary_large_image",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%a2%d7%9e%d7%95%d7%93/",
+            "url": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%a2%d7%9e%d7%95%d7%93/",
+            "name": "שמורת טבע נחל עמוד - כיוון צפון",
+            "isPartOf": {
+              "@id": "https://gonorth.co.il/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%a2%d7%9e%d7%95%d7%93/#primaryimage"
+            },
+            "image": {
+              "@id": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%a2%d7%9e%d7%95%d7%93/#primaryimage"
+            },
+            "thumbnailUrl": "https://gonorth.co.il/wp-content/uploads/2026/04/nahal_amud.jpg",
+            "datePublished": "2026-04-09T18:28:52+03:00",
+            "dateModified": "2026-04-11T08:30:18+03:00",
+            "breadcrumb": {
+              "@id": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%a2%d7%9e%d7%95%d7%93/#breadcrumb"
+            },
+            "inLanguage": "he-IL",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%a2%d7%9e%d7%95%d7%93/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "he-IL",
+            "@id": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%a2%d7%9e%d7%95%d7%93/#primaryimage",
+            "url": "https://gonorth.co.il/wp-content/uploads/2026/04/nahal_amud.jpg",
+            "contentUrl": "https://gonorth.co.il/wp-content/uploads/2026/04/nahal_amud.jpg",
+            "width": 1200,
+            "height": 900,
+            "caption": "שמורת טבע נחל עמוד, כפר שמאי"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://gonorth.co.il/places/%d7%a9%d7%9e%d7%95%d7%a8%d7%aa-%d7%98%d7%91%d7%a2-%d7%a0%d7%97%d7%9c-%d7%a2%d7%9e%d7%95%d7%93/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://gonorth.co.il/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Places",
+                "item": "https://gonorth.co.il/places/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "שמורת טבע נחל עמוד"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://gonorth.co.il/#website",
+            "url": "https://gonorth.co.il/",
+            "name": "כיוון צפון",
+            "description": "גלה את הצפון כמו מקומי",
+            "alternateName": "GoNorth",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://gonorth.co.il/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://gonorth.co.il/#organization"
+            }
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://gonorth.co.il/#organization",
+            "name": "כיוון צפון",
+            "alternateName": "GoNorth",
+            "url": "https://gonorth.co.il/",
+            "logo": {
+              "@type": "ImageObject",
+              "@id": "https://gonorth.co.il/#organization-logo",
+              "url": "https://gonorth.co.il/wp-content/themes/gonorth-child/assets/gonorth-organic-mark.svg",
+              "width": 300,
+              "height": 130
+            },
+            "contactPoint": {
+              "@type": "ContactPoint",
+              "contactType": "שירות לקוחות",
+              "url": "https://gonorth.co.il/contact/",
+              "availableLanguage": [
+                "עברית"
+              ]
+            },
+            "sameAs": [
+              "https://gonorth.co.il/about/"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/58",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/types/gd_place"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/reviews?post=58"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/58/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gonorth.co.il/wp-json/wp/v2/media/59"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gonorth.co.il/wp-json/wp/v2/media?parent=58"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "gd_place_tags",
+          "embeddable": true,
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/tags?post=58"
+        },
+        {
+          "taxonomy": "gd_placecategory",
+          "embeddable": true,
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/categories?post=58"
+        },
+        {
+          "taxonomy": "gn_region",
+          "embeddable": true,
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/?post=58"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "61",
+    "title": {
+      "raw": "מלון פרא — Pereh Hotel",
+      "rendered": "מלון פרא — Pereh Hotel"
+    },
+    "slug": "%d7%9e%d7%9c%d7%95%d7%9f-%d7%a4%d7%a8%d7%90-pereh-hotel",
+    "link": "https://gonorth.co.il/places/%d7%9e%d7%9c%d7%95%d7%9f-%d7%a4%d7%a8%d7%90-pereh-hotel/",
+    "status": "publish",
+    "type": "gd_place",
+    "author": 0,
+    "date": "2026-04-09T21:14:49",
+    "date_gmt": "2026-04-09T21:14:49",
+    "modified": "2026-05-07T06:48:11",
+    "modified_gmt": "2026-05-07T06:48:11",
+    "content": {
+      "raw": "מלון פרא שוכן בצומת בית המכס, על גבול הגליל העליון והגולן, על שטח של 8 דונם הפרוש בין שדמות ירוקות ונוף פנורמי. המלון מונה 27 חדרים וסוויטות המחולקים לארבעה בניינים, כל אחד בעיצוב חומרים טבעיים המשתלב בנוף הסביבה — אבן, עץ ואור טבעי. המתחם כולל מסעדת שף המגישה מטבח עכשווי המבוסס על תוצרת מקומית, ספא מלא עם טיפולים, בריכה, בר לאונג׳ ומרתף יין. לצד החדרים ניתן לשכור אולמות לאירועים פרטיים ולחגוג בסביבה הררית שקטה ובלתי שגרתית. מלון פרא מתאים לזוגות המחפשים נסיגה רומנטית, לחופשת ספא ולאירועים מיוחדים. מיקומו הנוח בגולן מאפשר יציאה לאטרקציות הסמוכות — יקבים, שמורות טבע ומצפורי תצפית לכינרת ולחרמון.",
+      "rendered": "<p>מלון פרא שוכן בצומת בית המכס, על גבול הגליל העליון והגולן, על שטח של 8 דונם הפרוש בין שדמות ירוקות ונוף פנורמי. המלון מונה 27 חדרים וסוויטות המחולקים לארבעה בניינים, כל אחד בעיצוב חומרים טבעיים המשתלב בנוף הסביבה — אבן, עץ ואור טבעי. המתחם כולל מסעדת שף המגישה מטבח עכשווי המבוסס על תוצרת מקומית, ספא מלא עם טיפולים, בריכה, בר לאונג׳ ומרתף יין. לצד החדרים ניתן לשכור אולמות לאירועים פרטיים ולחגוג בסביבה הררית שקטה ובלתי שגרתית. מלון פרא מתאים לזוגות המחפשים נסיגה רומנטית, לחופשת ספא ולאירועים מיוחדים. מיקומו הנוח בגולן מאפשר יציאה לאטרקציות הסמוכות — יקבים, שמורות טבע ומצפורי תצפית לכינרת ולחרמון.</p>\n",
+      "protected": false
+    },
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 18,
+        "name": "לינה",
+        "slug": "accommodation"
+      }
+    ],
+    "post_tags": [],
+    "street": "צומת בית המכס, גדות 12000",
+    "country": "United States",
+    "region": "Pennsylvania",
+    "city": "גדות",
+    "zip": null,
+    "latitude": "33.0120264",
+    "longitude": "35.6511751",
+    "mapview": null,
+    "mapzoom": null,
+    "phone": "077-331-1222",
+    "website": "https://pereh.co.il",
+    "business_hours": null,
+    "price_type": {
+      "raw": null,
+      "rendered": "בחר"
+    },
+    "open_saturday": {
+      "raw": null,
+      "rendered": "בחר"
+    },
+    "featured": true,
+    "rating": "0",
+    "rating_count": 0,
+    "featured_media": 62,
+    "featured_image": {
+      "id": 0,
+      "title": "website screenshot",
+      "src": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fpereh.co.il?w=825&h=430",
+      "thumbnail": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fpereh.co.il?w=825&h=430",
+      "width": "",
+      "height": ""
+    },
+    "images": [
+      {
+        "id": 0,
+        "title": "website screenshot",
+        "src": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fpereh.co.il?w=825&h=430",
+        "thumbnail": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fpereh.co.il?w=825&h=430",
+        "featured": false,
+        "position": 0
+      }
+    ],
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "meta": {
+      "site-sidebar-layout": "default",
+      "site-content-layout": "",
+      "ast-site-content-layout": "default",
+      "site-content-style": "default",
+      "site-sidebar-style": "default",
+      "ast-global-header-display": "",
+      "ast-banner-title-visibility": "",
+      "ast-main-header-display": "",
+      "ast-hfb-above-header-display": "",
+      "ast-hfb-below-header-display": "",
+      "ast-hfb-mobile-header-display": "",
+      "site-post-title": "",
+      "ast-breadcrumbs-content": "",
+      "ast-featured-img": "",
+      "footer-sml-layout": "",
+      "ast-disable-related-posts": "",
+      "theme-transparent-header-meta": "",
+      "adv-header-id-meta": "",
+      "stick-header-meta": "",
+      "header-above-stick-meta": "",
+      "header-main-stick-meta": "",
+      "header-below-stick-meta": "",
+      "astra-migrate-meta-layouts": "default",
+      "ast-page-background-enabled": "default",
+      "ast-page-background-meta": {
+        "desktop": {
+          "background-color": "var(--ast-global-color-5)",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        },
+        "tablet": {
+          "background-color": "",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        },
+        "mobile": {
+          "background-color": "",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        }
+      },
+      "ast-content-background-meta": {
+        "desktop": {
+          "background-color": "var(--ast-global-color-4)",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        },
+        "tablet": {
+          "background-color": "var(--ast-global-color-4)",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        },
+        "mobile": {
+          "background-color": "var(--ast-global-color-4)",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        }
+      },
+      "footnotes": ""
+    },
+    "guid": {
+      "rendered": "https://gonorth.co.il/places/%d7%9e%d7%9c%d7%95%d7%9f-%d7%a4%d7%a8%d7%90-pereh-hotel/",
+      "raw": "https://gonorth.co.il/places/%d7%9e%d7%9c%d7%95%d7%9f-%d7%a4%d7%a8%d7%90-pereh-hotel/"
+    },
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v27.5 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>מלון פרא — Pereh Hotel - כיוון צפון</title>\n<meta name=\"description\" content=\"מלון פרא ברמת הגולן - 27 חדרים וסוויטות, מסעדת שף, ספא ובריכה. אידיאלי לזוגות, חופשת ספא ואירועים מיוחדים בנוף הררי.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://gonorth.co.il/places/מלון-פרא-pereh-hotel/\" />\n<meta property=\"og:locale\" content=\"he_IL\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"מלון פרא — Pereh Hotel - כיוון צפון\" />\n<meta property=\"og:description\" content=\"מלון פרא ברמת הגולן - 27 חדרים וסוויטות, מסעדת שף, ספא ובריכה. אידיאלי לזוגות, חופשת ספא ואירועים מיוחדים בנוף הררי.\" />\n<meta property=\"og:url\" content=\"https://gonorth.co.il/places/מלון-פרא-pereh-hotel/\" />\n<meta property=\"og:site_name\" content=\"כיוון צפון\" />\n<meta property=\"article:modified_time\" content=\"2026-05-07T06:48:11+00:00\" />\n<meta property=\"og:image\" content=\"https://gonorth.co.il/wp-content/uploads/2026/04/pereh_hotel.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1200\" />\n\t<meta property=\"og:image:height\" content=\"797\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%9e%d7%9c%d7%95%d7%9f-%d7%a4%d7%a8%d7%90-pereh-hotel\\/\",\"url\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%9e%d7%9c%d7%95%d7%9f-%d7%a4%d7%a8%d7%90-pereh-hotel\\/\",\"name\":\"מלון פרא — Pereh Hotel - כיוון צפון\",\"isPartOf\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%9e%d7%9c%d7%95%d7%9f-%d7%a4%d7%a8%d7%90-pereh-hotel\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%9e%d7%9c%d7%95%d7%9f-%d7%a4%d7%a8%d7%90-pereh-hotel\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/uploads\\/2026\\/04\\/pereh_hotel.jpg\",\"datePublished\":\"2026-04-09T21:14:49+00:00\",\"dateModified\":\"2026-05-07T06:48:11+00:00\",\"description\":\"מלון פרא ברמת הגולן - 27 חדרים וסוויטות, מסעדת שף, ספא ובריכה. אידיאלי לזוגות, חופשת ספא ואירועים מיוחדים בנוף הררי.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%9e%d7%9c%d7%95%d7%9f-%d7%a4%d7%a8%d7%90-pereh-hotel\\/#breadcrumb\"},\"inLanguage\":\"he-IL\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/gonorth.co.il\\/places\\/%d7%9e%d7%9c%d7%95%d7%9f-%d7%a4%d7%a8%d7%90-pereh-hotel\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"he-IL\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%9e%d7%9c%d7%95%d7%9f-%d7%a4%d7%a8%d7%90-pereh-hotel\\/#primaryimage\",\"url\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/uploads\\/2026\\/04\\/pereh_hotel.jpg\",\"contentUrl\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/uploads\\/2026\\/04\\/pereh_hotel.jpg\",\"width\":1200,\"height\":797,\"caption\":\"מלון פרא — Pereh Hotel, גדות\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%9e%d7%9c%d7%95%d7%9f-%d7%a4%d7%a8%d7%90-pereh-hotel\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/gonorth.co.il\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Places\",\"item\":\"https:\\/\\/gonorth.co.il\\/places\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"מלון פרא — Pereh Hotel\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"name\":\"כיוון צפון\",\"description\":\"גלה את הצפון כמו מקומי\",\"alternateName\":\"GoNorth\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/gonorth.co.il\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"he-IL\",\"publisher\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\",\"name\":\"כיוון צפון\",\"alternateName\":\"GoNorth\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization-logo\",\"url\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/themes\\/gonorth-child\\/assets\\/gonorth-organic-mark.svg\",\"width\":300,\"height\":130},\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"שירות לקוחות\",\"url\":\"https:\\/\\/gonorth.co.il\\/contact\\/\",\"availableLanguage\":[\"עברית\"]},\"sameAs\":[\"https:\\/\\/gonorth.co.il\\/about\\/\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "מלון פרא — Pereh Hotel - כיוון צפון",
+      "description": "מלון פרא ברמת הגולן - 27 חדרים וסוויטות, מסעדת שף, ספא ובריכה. אידיאלי לזוגות, חופשת ספא ואירועים מיוחדים בנוף הררי.",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://gonorth.co.il/places/מלון-פרא-pereh-hotel/",
+      "og_locale": "he_IL",
+      "og_type": "article",
+      "og_title": "מלון פרא — Pereh Hotel - כיוון צפון",
+      "og_description": "מלון פרא ברמת הגולן - 27 חדרים וסוויטות, מסעדת שף, ספא ובריכה. אידיאלי לזוגות, חופשת ספא ואירועים מיוחדים בנוף הררי.",
+      "og_url": "https://gonorth.co.il/places/מלון-פרא-pereh-hotel/",
+      "og_site_name": "כיוון צפון",
+      "article_modified_time": "2026-05-07T09:48:11+03:00",
+      "og_image": [
+        {
+          "width": 1200,
+          "height": 797,
+          "url": "https://gonorth.co.il/wp-content/uploads/2026/04/pereh_hotel.jpg",
+          "type": "image/jpeg"
+        }
+      ],
+      "twitter_card": "summary_large_image",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://gonorth.co.il/places/%d7%9e%d7%9c%d7%95%d7%9f-%d7%a4%d7%a8%d7%90-pereh-hotel/",
+            "url": "https://gonorth.co.il/places/%d7%9e%d7%9c%d7%95%d7%9f-%d7%a4%d7%a8%d7%90-pereh-hotel/",
+            "name": "מלון פרא — Pereh Hotel - כיוון צפון",
+            "isPartOf": {
+              "@id": "https://gonorth.co.il/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://gonorth.co.il/places/%d7%9e%d7%9c%d7%95%d7%9f-%d7%a4%d7%a8%d7%90-pereh-hotel/#primaryimage"
+            },
+            "image": {
+              "@id": "https://gonorth.co.il/places/%d7%9e%d7%9c%d7%95%d7%9f-%d7%a4%d7%a8%d7%90-pereh-hotel/#primaryimage"
+            },
+            "thumbnailUrl": "https://gonorth.co.il/wp-content/uploads/2026/04/pereh_hotel.jpg",
+            "datePublished": "2026-04-10T00:14:49+03:00",
+            "dateModified": "2026-05-07T09:48:11+03:00",
+            "description": "מלון פרא ברמת הגולן - 27 חדרים וסוויטות, מסעדת שף, ספא ובריכה. אידיאלי לזוגות, חופשת ספא ואירועים מיוחדים בנוף הררי.",
+            "breadcrumb": {
+              "@id": "https://gonorth.co.il/places/%d7%9e%d7%9c%d7%95%d7%9f-%d7%a4%d7%a8%d7%90-pereh-hotel/#breadcrumb"
+            },
+            "inLanguage": "he-IL",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://gonorth.co.il/places/%d7%9e%d7%9c%d7%95%d7%9f-%d7%a4%d7%a8%d7%90-pereh-hotel/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "he-IL",
+            "@id": "https://gonorth.co.il/places/%d7%9e%d7%9c%d7%95%d7%9f-%d7%a4%d7%a8%d7%90-pereh-hotel/#primaryimage",
+            "url": "https://gonorth.co.il/wp-content/uploads/2026/04/pereh_hotel.jpg",
+            "contentUrl": "https://gonorth.co.il/wp-content/uploads/2026/04/pereh_hotel.jpg",
+            "width": 1200,
+            "height": 797,
+            "caption": "מלון פרא — Pereh Hotel, גדות"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://gonorth.co.il/places/%d7%9e%d7%9c%d7%95%d7%9f-%d7%a4%d7%a8%d7%90-pereh-hotel/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://gonorth.co.il/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Places",
+                "item": "https://gonorth.co.il/places/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "מלון פרא — Pereh Hotel"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://gonorth.co.il/#website",
+            "url": "https://gonorth.co.il/",
+            "name": "כיוון צפון",
+            "description": "גלה את הצפון כמו מקומי",
+            "alternateName": "GoNorth",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://gonorth.co.il/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://gonorth.co.il/#organization"
+            }
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://gonorth.co.il/#organization",
+            "name": "כיוון צפון",
+            "alternateName": "GoNorth",
+            "url": "https://gonorth.co.il/",
+            "logo": {
+              "@type": "ImageObject",
+              "@id": "https://gonorth.co.il/#organization-logo",
+              "url": "https://gonorth.co.il/wp-content/themes/gonorth-child/assets/gonorth-organic-mark.svg",
+              "width": 300,
+              "height": 130
+            },
+            "contactPoint": {
+              "@type": "ContactPoint",
+              "contactType": "שירות לקוחות",
+              "url": "https://gonorth.co.il/contact/",
+              "availableLanguage": [
+                "עברית"
+              ]
+            },
+            "sameAs": [
+              "https://gonorth.co.il/about/"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/61",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/types/gd_place"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/reviews?post=61"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/61/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gonorth.co.il/wp-json/wp/v2/media/62"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gonorth.co.il/wp-json/wp/v2/media?parent=61"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "gd_place_tags",
+          "embeddable": true,
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/tags?post=61"
+        },
+        {
+          "taxonomy": "gd_placecategory",
+          "embeddable": true,
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/categories?post=61"
+        },
+        {
+          "taxonomy": "gn_region",
+          "embeddable": true,
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/?post=61"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "63",
+    "title": {
+      "raw": "כנען וילאג׳ - מלון בוטיק וספא בצפון",
+      "rendered": "כנען וילאג׳ &#8211; מלון בוטיק וספא בצפון"
+    },
+    "slug": "%d7%9b%d7%a0%d7%a2%d7%9f-%d7%95%d7%99%d7%9c%d7%90%d7%92%d7%b3-%d7%9e%d7%9c%d7%95%d7%9f-%d7%91%d7%95%d7%98%d7%99%d7%a7-%d7%95%d7%a1%d7%a4%d7%90-%d7%91%d7%a6%d7%a4%d7%95%d7%9f",
+    "link": "https://gonorth.co.il/places/%d7%9b%d7%a0%d7%a2%d7%9f-%d7%95%d7%99%d7%9c%d7%90%d7%92%d7%b3-%d7%9e%d7%9c%d7%95%d7%9f-%d7%91%d7%95%d7%98%d7%99%d7%a7-%d7%95%d7%a1%d7%a4%d7%90-%d7%91%d7%a6%d7%a4%d7%95%d7%9f/",
+    "status": "publish",
+    "type": "gd_place",
+    "author": 0,
+    "date": "2026-04-09T21:18:28",
+    "date_gmt": "2026-04-09T21:18:28",
+    "modified": "2026-04-11T05:30:16",
+    "modified_gmt": "2026-04-11T05:30:16",
+    "content": {
+      "raw": "כנען וילאג׳ הוא אחד ממלוני הבוטיק המדורגים ביותר בצפון הארץ, השוכן בחד נס על גדת הכינרת. המתחם כולל 5 סוויטות יוקרתיות בלבד, כל אחת מעוצבת בקפידה עם ג׳קוזי פרטי, נוף פתוח ואווירה אינטימית המיועדת לזוגות. מתקני הספא של המלון כוללים בריכה מחוממת עם מוזיקה מתחת למים, סאונה, ג׳קוזי ספא ומגוון טיפולים מפנקים. חדר הטיפולים מציע עיסויים, טיפולי פנים ופינוקים נוספים לפי הזמנה מראש. הסביבה הירוקה והשקטה של חד נס, בשילוב הנוף הפנורמי לכינרת, הופכים את השהייה כאן לחוויה שקשה לשכוח. מתאים במיוחד לחופשה רומנטית, לחגוג יום נישואין או כל אירוע מיוחד אחר.",
+      "rendered": "<p>כנען וילאג׳ הוא אחד ממלוני הבוטיק המדורגים ביותר בצפון הארץ, השוכן בחד נס על גדת הכינרת. המתחם כולל 5 סוויטות יוקרתיות בלבד, כל אחת מעוצבת בקפידה עם ג׳קוזי פרטי, נוף פתוח ואווירה אינטימית המיועדת לזוגות. מתקני הספא של המלון כוללים בריכה מחוממת עם מוזיקה מתחת למים, סאונה, ג׳קוזי ספא ומגוון טיפולים מפנקים. חדר הטיפולים מציע עיסויים, טיפולי פנים ופינוקים נוספים לפי הזמנה מראש. הסביבה הירוקה והשקטה של חד נס, בשילוב הנוף הפנורמי לכינרת, הופכים את השהייה כאן לחוויה שקשה לשכוח. מתאים במיוחד לחופשה רומנטית, לחגוג יום נישואין או כל אירוע מיוחד אחר.</p>\n",
+      "protected": false
+    },
+    "default_category": null,
+    "post_category": [
+      {
+        "id": 18,
+        "name": "לינה",
+        "slug": "accommodation"
+      }
+    ],
+    "post_tags": [],
+    "street": "חד נס 13",
+    "country": "United States",
+    "region": "Pennsylvania",
+    "city": "חד נס",
+    "zip": null,
+    "latitude": "32.9253878",
+    "longitude": "35.6424809",
+    "mapview": null,
+    "mapzoom": null,
+    "phone": "04-682-2128",
+    "website": "https://www.cnaan-village.co.il",
+    "business_hours": null,
+    "price_type": {
+      "raw": null,
+      "rendered": "בחר"
+    },
+    "open_saturday": {
+      "raw": null,
+      "rendered": "בחר"
+    },
+    "featured": true,
+    "rating": "0",
+    "rating_count": 0,
+    "featured_media": 64,
+    "featured_image": {
+      "id": 0,
+      "title": "website screenshot",
+      "src": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.cnaan-village.co.il?w=825&h=430",
+      "thumbnail": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.cnaan-village.co.il?w=825&h=430",
+      "width": "",
+      "height": ""
+    },
+    "images": [
+      {
+        "id": 0,
+        "title": "website screenshot",
+        "src": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.cnaan-village.co.il?w=825&h=430",
+        "thumbnail": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.cnaan-village.co.il?w=825&h=430",
+        "featured": false,
+        "position": 0
+      }
+    ],
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "meta": {
+      "site-sidebar-layout": "default",
+      "site-content-layout": "",
+      "ast-site-content-layout": "default",
+      "site-content-style": "default",
+      "site-sidebar-style": "default",
+      "ast-global-header-display": "",
+      "ast-banner-title-visibility": "",
+      "ast-main-header-display": "",
+      "ast-hfb-above-header-display": "",
+      "ast-hfb-below-header-display": "",
+      "ast-hfb-mobile-header-display": "",
+      "site-post-title": "",
+      "ast-breadcrumbs-content": "",
+      "ast-featured-img": "",
+      "footer-sml-layout": "",
+      "ast-disable-related-posts": "",
+      "theme-transparent-header-meta": "",
+      "adv-header-id-meta": "",
+      "stick-header-meta": "",
+      "header-above-stick-meta": "",
+      "header-main-stick-meta": "",
+      "header-below-stick-meta": "",
+      "astra-migrate-meta-layouts": "default",
+      "ast-page-background-enabled": "default",
+      "ast-page-background-meta": {
+        "desktop": {
+          "background-color": "var(--ast-global-color-5)",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        },
+        "tablet": {
+          "background-color": "",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        },
+        "mobile": {
+          "background-color": "",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        }
+      },
+      "ast-content-background-meta": {
+        "desktop": {
+          "background-color": "var(--ast-global-color-4)",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        },
+        "tablet": {
+          "background-color": "var(--ast-global-color-4)",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        },
+        "mobile": {
+          "background-color": "var(--ast-global-color-4)",
+          "background-image": "",
+          "background-repeat": "repeat",
+          "background-position": "center center",
+          "background-size": "auto",
+          "background-attachment": "scroll",
+          "background-type": "",
+          "background-media": "",
+          "overlay-type": "",
+          "overlay-color": "",
+          "overlay-opacity": "",
+          "overlay-gradient": ""
+        }
+      },
+      "footnotes": ""
+    },
+    "guid": {
+      "rendered": "https://gonorth.co.il/places/%d7%9b%d7%a0%d7%a2%d7%9f-%d7%95%d7%99%d7%9c%d7%90%d7%92%d7%b3-%d7%9e%d7%9c%d7%95%d7%9f-%d7%91%d7%95%d7%98%d7%99%d7%a7-%d7%95%d7%a1%d7%a4%d7%90-%d7%91%d7%a6%d7%a4%d7%95%d7%9f/",
+      "raw": "https://gonorth.co.il/places/%d7%9b%d7%a0%d7%a2%d7%9f-%d7%95%d7%99%d7%9c%d7%90%d7%92%d7%b3-%d7%9e%d7%9c%d7%95%d7%9f-%d7%91%d7%95%d7%98%d7%99%d7%a7-%d7%95%d7%a1%d7%a4%d7%90-%d7%91%d7%a6%d7%a4%d7%95%d7%9f/"
+    },
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v27.5 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>כנען וילאג׳ - מלון בוטיק וספא בצפון - כיוון צפון</title>\n<meta name=\"description\" content=\"מלון בוטיק וספא בחד נס על גדת הכינרת. 5 סוויטות עם ג׳קוזי פרטי, בריכה מחוממת, סאונה וטיפולי ספא - מושלם לחופשה רומנטית בצפון.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://gonorth.co.il/places/כנען-וילאג׳-מלון-בוטיק-וספא-בצפון/\" />\n<meta property=\"og:locale\" content=\"he_IL\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"כנען וילאג׳ - מלון בוטיק וספא בצפון - כיוון צפון\" />\n<meta property=\"og:description\" content=\"מלון בוטיק וספא בחד נס על גדת הכינרת. 5 סוויטות עם ג׳קוזי פרטי, בריכה מחוממת, סאונה וטיפולי ספא - מושלם לחופשה רומנטית בצפון.\" />\n<meta property=\"og:url\" content=\"https://gonorth.co.il/places/כנען-וילאג׳-מלון-בוטיק-וספא-בצפון/\" />\n<meta property=\"og:site_name\" content=\"כיוון צפון\" />\n<meta property=\"article:modified_time\" content=\"2026-04-11T05:30:16+00:00\" />\n<meta property=\"og:image\" content=\"https://gonorth.co.il/wp-content/uploads/2026/04/cnaan_village.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1200\" />\n\t<meta property=\"og:image:height\" content=\"800\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%9b%d7%a0%d7%a2%d7%9f-%d7%95%d7%99%d7%9c%d7%90%d7%92%d7%b3-%d7%9e%d7%9c%d7%95%d7%9f-%d7%91%d7%95%d7%98%d7%99%d7%a7-%d7%95%d7%a1%d7%a4%d7%90-%d7%91%d7%a6%d7%a4%d7%95%d7%9f\\/\",\"url\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%9b%d7%a0%d7%a2%d7%9f-%d7%95%d7%99%d7%9c%d7%90%d7%92%d7%b3-%d7%9e%d7%9c%d7%95%d7%9f-%d7%91%d7%95%d7%98%d7%99%d7%a7-%d7%95%d7%a1%d7%a4%d7%90-%d7%91%d7%a6%d7%a4%d7%95%d7%9f\\/\",\"name\":\"כנען וילאג׳ - מלון בוטיק וספא בצפון - כיוון צפון\",\"isPartOf\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%9b%d7%a0%d7%a2%d7%9f-%d7%95%d7%99%d7%9c%d7%90%d7%92%d7%b3-%d7%9e%d7%9c%d7%95%d7%9f-%d7%91%d7%95%d7%98%d7%99%d7%a7-%d7%95%d7%a1%d7%a4%d7%90-%d7%91%d7%a6%d7%a4%d7%95%d7%9f\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%9b%d7%a0%d7%a2%d7%9f-%d7%95%d7%99%d7%9c%d7%90%d7%92%d7%b3-%d7%9e%d7%9c%d7%95%d7%9f-%d7%91%d7%95%d7%98%d7%99%d7%a7-%d7%95%d7%a1%d7%a4%d7%90-%d7%91%d7%a6%d7%a4%d7%95%d7%9f\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/uploads\\/2026\\/04\\/cnaan_village.jpg\",\"datePublished\":\"2026-04-09T21:18:28+00:00\",\"dateModified\":\"2026-04-11T05:30:16+00:00\",\"description\":\"מלון בוטיק וספא בחד נס על גדת הכינרת. 5 סוויטות עם ג׳קוזי פרטי, בריכה מחוממת, סאונה וטיפולי ספא - מושלם לחופשה רומנטית בצפון.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%9b%d7%a0%d7%a2%d7%9f-%d7%95%d7%99%d7%9c%d7%90%d7%92%d7%b3-%d7%9e%d7%9c%d7%95%d7%9f-%d7%91%d7%95%d7%98%d7%99%d7%a7-%d7%95%d7%a1%d7%a4%d7%90-%d7%91%d7%a6%d7%a4%d7%95%d7%9f\\/#breadcrumb\"},\"inLanguage\":\"he-IL\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/gonorth.co.il\\/places\\/%d7%9b%d7%a0%d7%a2%d7%9f-%d7%95%d7%99%d7%9c%d7%90%d7%92%d7%b3-%d7%9e%d7%9c%d7%95%d7%9f-%d7%91%d7%95%d7%98%d7%99%d7%a7-%d7%95%d7%a1%d7%a4%d7%90-%d7%91%d7%a6%d7%a4%d7%95%d7%9f\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"he-IL\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%9b%d7%a0%d7%a2%d7%9f-%d7%95%d7%99%d7%9c%d7%90%d7%92%d7%b3-%d7%9e%d7%9c%d7%95%d7%9f-%d7%91%d7%95%d7%98%d7%99%d7%a7-%d7%95%d7%a1%d7%a4%d7%90-%d7%91%d7%a6%d7%a4%d7%95%d7%9f\\/#primaryimage\",\"url\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/uploads\\/2026\\/04\\/cnaan_village.jpg\",\"contentUrl\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/uploads\\/2026\\/04\\/cnaan_village.jpg\",\"width\":1200,\"height\":800,\"caption\":\"כנען וילאג׳ – מלון בוטיק וספא בצפון, חד נס\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/gonorth.co.il\\/places\\/%d7%9b%d7%a0%d7%a2%d7%9f-%d7%95%d7%99%d7%9c%d7%90%d7%92%d7%b3-%d7%9e%d7%9c%d7%95%d7%9f-%d7%91%d7%95%d7%98%d7%99%d7%a7-%d7%95%d7%a1%d7%a4%d7%90-%d7%91%d7%a6%d7%a4%d7%95%d7%9f\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/gonorth.co.il\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Places\",\"item\":\"https:\\/\\/gonorth.co.il\\/places\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"כנען וילאג׳ &#8211; מלון בוטיק וספא בצפון\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#website\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"name\":\"כיוון צפון\",\"description\":\"גלה את הצפון כמו מקומי\",\"alternateName\":\"GoNorth\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/gonorth.co.il\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"he-IL\",\"publisher\":{\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\"}},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization\",\"name\":\"כיוון צפון\",\"alternateName\":\"GoNorth\",\"url\":\"https:\\/\\/gonorth.co.il\\/\",\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https:\\/\\/gonorth.co.il\\/#organization-logo\",\"url\":\"https:\\/\\/gonorth.co.il\\/wp-content\\/themes\\/gonorth-child\\/assets\\/gonorth-organic-mark.svg\",\"width\":300,\"height\":130},\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"שירות לקוחות\",\"url\":\"https:\\/\\/gonorth.co.il\\/contact\\/\",\"availableLanguage\":[\"עברית\"]},\"sameAs\":[\"https:\\/\\/gonorth.co.il\\/about\\/\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "כנען וילאג׳ - מלון בוטיק וספא בצפון - כיוון צפון",
+      "description": "מלון בוטיק וספא בחד נס על גדת הכינרת. 5 סוויטות עם ג׳קוזי פרטי, בריכה מחוממת, סאונה וטיפולי ספא - מושלם לחופשה רומנטית בצפון.",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://gonorth.co.il/places/כנען-וילאג׳-מלון-בוטיק-וספא-בצפון/",
+      "og_locale": "he_IL",
+      "og_type": "article",
+      "og_title": "כנען וילאג׳ - מלון בוטיק וספא בצפון - כיוון צפון",
+      "og_description": "מלון בוטיק וספא בחד נס על גדת הכינרת. 5 סוויטות עם ג׳קוזי פרטי, בריכה מחוממת, סאונה וטיפולי ספא - מושלם לחופשה רומנטית בצפון.",
+      "og_url": "https://gonorth.co.il/places/כנען-וילאג׳-מלון-בוטיק-וספא-בצפון/",
+      "og_site_name": "כיוון צפון",
+      "article_modified_time": "2026-04-11T08:30:16+03:00",
+      "og_image": [
+        {
+          "width": 1200,
+          "height": 800,
+          "url": "https://gonorth.co.il/wp-content/uploads/2026/04/cnaan_village.jpg",
+          "type": "image/jpeg"
+        }
+      ],
+      "twitter_card": "summary_large_image",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://gonorth.co.il/places/%d7%9b%d7%a0%d7%a2%d7%9f-%d7%95%d7%99%d7%9c%d7%90%d7%92%d7%b3-%d7%9e%d7%9c%d7%95%d7%9f-%d7%91%d7%95%d7%98%d7%99%d7%a7-%d7%95%d7%a1%d7%a4%d7%90-%d7%91%d7%a6%d7%a4%d7%95%d7%9f/",
+            "url": "https://gonorth.co.il/places/%d7%9b%d7%a0%d7%a2%d7%9f-%d7%95%d7%99%d7%9c%d7%90%d7%92%d7%b3-%d7%9e%d7%9c%d7%95%d7%9f-%d7%91%d7%95%d7%98%d7%99%d7%a7-%d7%95%d7%a1%d7%a4%d7%90-%d7%91%d7%a6%d7%a4%d7%95%d7%9f/",
+            "name": "כנען וילאג׳ - מלון בוטיק וספא בצפון - כיוון צפון",
+            "isPartOf": {
+              "@id": "https://gonorth.co.il/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://gonorth.co.il/places/%d7%9b%d7%a0%d7%a2%d7%9f-%d7%95%d7%99%d7%9c%d7%90%d7%92%d7%b3-%d7%9e%d7%9c%d7%95%d7%9f-%d7%91%d7%95%d7%98%d7%99%d7%a7-%d7%95%d7%a1%d7%a4%d7%90-%d7%91%d7%a6%d7%a4%d7%95%d7%9f/#primaryimage"
+            },
+            "image": {
+              "@id": "https://gonorth.co.il/places/%d7%9b%d7%a0%d7%a2%d7%9f-%d7%95%d7%99%d7%9c%d7%90%d7%92%d7%b3-%d7%9e%d7%9c%d7%95%d7%9f-%d7%91%d7%95%d7%98%d7%99%d7%a7-%d7%95%d7%a1%d7%a4%d7%90-%d7%91%d7%a6%d7%a4%d7%95%d7%9f/#primaryimage"
+            },
+            "thumbnailUrl": "https://gonorth.co.il/wp-content/uploads/2026/04/cnaan_village.jpg",
+            "datePublished": "2026-04-10T00:18:28+03:00",
+            "dateModified": "2026-04-11T08:30:16+03:00",
+            "description": "מלון בוטיק וספא בחד נס על גדת הכינרת. 5 סוויטות עם ג׳קוזי פרטי, בריכה מחוממת, סאונה וטיפולי ספא - מושלם לחופשה רומנטית בצפון.",
+            "breadcrumb": {
+              "@id": "https://gonorth.co.il/places/%d7%9b%d7%a0%d7%a2%d7%9f-%d7%95%d7%99%d7%9c%d7%90%d7%92%d7%b3-%d7%9e%d7%9c%d7%95%d7%9f-%d7%91%d7%95%d7%98%d7%99%d7%a7-%d7%95%d7%a1%d7%a4%d7%90-%d7%91%d7%a6%d7%a4%d7%95%d7%9f/#breadcrumb"
+            },
+            "inLanguage": "he-IL",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://gonorth.co.il/places/%d7%9b%d7%a0%d7%a2%d7%9f-%d7%95%d7%99%d7%9c%d7%90%d7%92%d7%b3-%d7%9e%d7%9c%d7%95%d7%9f-%d7%91%d7%95%d7%98%d7%99%d7%a7-%d7%95%d7%a1%d7%a4%d7%90-%d7%91%d7%a6%d7%a4%d7%95%d7%9f/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "he-IL",
+            "@id": "https://gonorth.co.il/places/%d7%9b%d7%a0%d7%a2%d7%9f-%d7%95%d7%99%d7%9c%d7%90%d7%92%d7%b3-%d7%9e%d7%9c%d7%95%d7%9f-%d7%91%d7%95%d7%98%d7%99%d7%a7-%d7%95%d7%a1%d7%a4%d7%90-%d7%91%d7%a6%d7%a4%d7%95%d7%9f/#primaryimage",
+            "url": "https://gonorth.co.il/wp-content/uploads/2026/04/cnaan_village.jpg",
+            "contentUrl": "https://gonorth.co.il/wp-content/uploads/2026/04/cnaan_village.jpg",
+            "width": 1200,
+            "height": 800,
+            "caption": "כנען וילאג׳ – מלון בוטיק וספא בצפון, חד נס"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://gonorth.co.il/places/%d7%9b%d7%a0%d7%a2%d7%9f-%d7%95%d7%99%d7%9c%d7%90%d7%92%d7%b3-%d7%9e%d7%9c%d7%95%d7%9f-%d7%91%d7%95%d7%98%d7%99%d7%a7-%d7%95%d7%a1%d7%a4%d7%90-%d7%91%d7%a6%d7%a4%d7%95%d7%9f/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://gonorth.co.il/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Places",
+                "item": "https://gonorth.co.il/places/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "כנען וילאג׳ &#8211; מלון בוטיק וספא בצפון"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://gonorth.co.il/#website",
+            "url": "https://gonorth.co.il/",
+            "name": "כיוון צפון",
+            "description": "גלה את הצפון כמו מקומי",
+            "alternateName": "GoNorth",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://gonorth.co.il/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://gonorth.co.il/#organization"
+            }
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://gonorth.co.il/#organization",
+            "name": "כיוון צפון",
+            "alternateName": "GoNorth",
+            "url": "https://gonorth.co.il/",
+            "logo": {
+              "@type": "ImageObject",
+              "@id": "https://gonorth.co.il/#organization-logo",
+              "url": "https://gonorth.co.il/wp-content/themes/gonorth-child/assets/gonorth-organic-mark.svg",
+              "width": 300,
+              "height": 130
+            },
+            "contactPoint": {
+              "@type": "ContactPoint",
+              "contactType": "שירות לקוחות",
+              "url": "https://gonorth.co.il/contact/",
+              "availableLanguage": [
+                "עברית"
+              ]
+            },
+            "sameAs": [
+              "https://gonorth.co.il/about/"
+            ]
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/63",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/types/gd_place"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/reviews?post=63"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/63/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gonorth.co.il/wp-json/wp/v2/media/64"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gonorth.co.il/wp-json/wp/v2/media?parent=63"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "gd_place_tags",
+          "embeddable": true,
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/tags?post=63"
+        },
+        {
+          "taxonomy": "gd_placecategory",
+          "embeddable": true,
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/places/categories?post=63"
+        },
+        {
+          "taxonomy": "gn_region",
+          "embeddable": true,
+          "href": "https://gonorth.co.il/wp-json/geodir/v2/?post=63"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

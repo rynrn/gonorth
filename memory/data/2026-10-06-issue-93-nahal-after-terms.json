@@ -1,0 +1,26 @@
+{
+  "id": "554",
+  "status": "pending",
+  "title": "שמורת טבע נחל המערות",
+  "city": "",
+  "latitude": "32.6712039",
+  "longitude": "34.9652355",
+  "country": "ישראל",
+  "region": "צפון",
+  "categoryTerms": [
+    "atraktziot-main",
+    "teva"
+  ],
+  "regionTerms": [
+    "carmel"
+  ],
+  "flag": "1",
+  "thumbnail": "555",
+  "mediaId": "555",
+  "mediaParent": 554,
+  "mediaFile": "issue93-licensed/nahal-mearot-visitor-center-avi1111-2016-scaled.jpg",
+  "mediaHash": "E4C5A2B026C76C8AFCA3E12CF66CBFD732A2EC1E9620C74CD9D14AD18C816D94",
+  "mediaAlt": "מבנה מרכז המבקרים בשמורת נחל המערות, צילום משנת 2016",
+  "contentHasOfficial": true,
+  "contentHasWazeLink": false
+}

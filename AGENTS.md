@@ -48,7 +48,7 @@ Agents:     read .Codex/agents/{agent-name}.md for autonomous agent definitions
 ssh gonorth
 
 # Full command (if alias not configured):
-ssh -i ~/.ssh/gonorth_rsa -o StrictHostKeyChecking=no Codex@204.168.145.116
+ssh -i ~/.ssh/gonorth_ed25519 -o StrictHostKeyChecking=no claude@204.168.145.116
 
 # Always use the alias — it uses key auth, no password.
 ```
@@ -57,8 +57,8 @@ ssh -i ~/.ssh/gonorth_rsa -o StrictHostKeyChecking=no Codex@204.168.145.116
 ```
 Host gonorth
   HostName 204.168.145.116
-  User Codex
-  IdentityFile ~/.ssh/gonorth_rsa
+  User claude
+  IdentityFile ~/.ssh/gonorth_ed25519
   StrictHostKeyChecking no
 ```
 
@@ -101,7 +101,7 @@ For WordPress-specific operations, an MCP server is configured:
 ```
 Endpoint: https://gonorth.co.il/wp-json/mcp/mcp-adapter-default-server
 Username: rynrn
-Password: fALc 6wqz QTvw xVKA D4ng 3mGU
+Password: (stored in local untracked config)
 Config:   .Codex/.mcp.json
 ```
 
@@ -188,11 +188,11 @@ Default map center: lat=32.9, lng=35.5, zoom=9 (northern Israel)
 | Plugin | Purpose |
 |---|---|
 | GeoDirectory | Directory listings + maps |
-| Elementor (v4.0.1) | Page builder (some pages) |
+| Elementor (v4.0.7, verified 2026-10-06) | Page builder (some pages) |
 | Yoast SEO | SEO meta + sitemap |
 | WooCommerce | E-commerce / booking support |
 | Amelia | Tour booking system |
-| Wordfence | Security + firewall |
+| Wordfence (inactive, verified 2026-10-06) | Security plugin; do not assume the firewall is active |
 | UpdraftPlus | Backups |
 | WP Super Cache | Page caching |
 | Autoptimize | CSS/JS minification |
@@ -438,9 +438,16 @@ These rules must never be broken. Any AI agent working on this project must foll
 | 8 | **Never expose server password in tool output** | Use SSH key auth only (`gonorth` alias) |
 | 9 | **Never disable `FS_METHOD=direct`** in wp-config.php | WooCommerce will crash with FTP error |
 | 10 | **Always PHP lint before deploying** | `php -l /path/to/file.php` |
+| 11 | **Never remove a listing only because a business closed** | Keep the URL live with a verified closure notice and alternatives; removal requires an SEO review and explicit user instruction |
+| 12 | **Do not write dynamic place facts with arbitrary SQL** | Use the `place-facts` CLI, review changes, then sync approved values through the canonical WordPress interface |
 
 ---
 
+### Dynamic place facts
+
+`place-facts/` is the verification ledger for business status, hours, phone, website and address. Agents consume its JSON/Markdown exports and submit structured results through `place-facts/scripts/place-facts.py`; they do not write SQLite directly. GeoDirectory is the live-site projection and receives only reviewed values. Closure findings keep the existing URL live.
+
+---
 ## 9. SEO KEYWORD STRATEGY
 
 ### Keyword Research File
@@ -492,7 +499,7 @@ All SEO keyword research is maintained in **`SEO-KEYWORDS.md`** (repo root).
 | OS | Ubuntu (Linux) |
 | Web server | Nginx / Apache |
 | PHP version | 8.3 |
-| WordPress | 6.9.4 |
+| WordPress | 7.1.2 (verified 2026-10-06) |
 | WordPress language | he_IL (Hebrew) |
 | DB user | in wp-config.php |
 
@@ -533,3 +540,19 @@ Password: (in server.config.json or MCP config)
 ---
 
 *Last updated: 2026-04-06 | GoNorth project*
+
+## זיכרון עבודה מתמשך — נוסף 17.09.2026
+
+לפני סבב SEO או תוכן חדש, קראו `memory/README.md` ו־`memory/current-status.md` ואת הדוח האחרון ב־`memory/reports/`. דוחות מתוארכים אינם נדרסים; בסיום סבב מעדכנים מצב וקישורי Issues. משימות חג מ־2027 מחייבות פתיחה או קישור למשימת השנה הבאה לפני סגירה, לפי `memory/README.md`. תכנון שנתי מתבצע בנובמבר–דצמבר.
+
+
+
+---
+
+## 11. SHARED CHANGE CONTRACT
+
+All agents follow docs/agent-change-contract.md. Place changes must pass tools/validate-place-records.py before write, live work needs a pre-change snapshot and rollback path, and completion requires canonical plus public verification and dated evidence.
+
+## גיבוי חודשי — החלטת משתמש 02.10.2026
+
+ליצירה, החלפה או בדיקה של גיבוי חודשי קראו תחילה .agents/skills/gn-monthly-backup/SKILL.md ואת docs/monthly-backup.md. היעד: C:/dev/gonorth/backups/monthly/current/. הזיכרון: memory/backup-status.json. נשמר עותק מקומי אחד; אוטומציית snapshot-gonorth בודקת פעם בחודש ושואלת האם לחדש. כל חידוש דורש אישור חדש; הישן נמחק רק לאחר אימות החדש. הגיבוי הראשון נוצר ואומת ב-02.10.2026. אין חידוש אוטומטי ב-cron ואין שינויי root.

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 231,
+    "url": "https://gonorth.co.il/places/%d7%a2%d7%a1%d7%a4%d7%95%d7%a8%d7%94/",
+    "http": 200,
+    "before": 474,
+    "after": 992,
+    "exact": true,
+    "guide": true
+  },
+  {
+    "id": 357,
+    "url": "https://gonorth.co.il/places/f-ranch/",
+    "http": 200,
+    "before": 480,
+    "after": 978,
+    "exact": true,
+    "guide": true
+  }
+]

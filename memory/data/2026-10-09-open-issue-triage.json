@@ -1,0 +1,353 @@
+{
+  "audited_on": "2026-10-09",
+  "timezone": "Asia/Jerusalem",
+  "repository": "rynrn/gonorth",
+  "total": 34,
+  "issues": [
+    {
+      "number": 99,
+      "title": "[Google][P1] להוסיף 4 ישויות חסרות ולהשלים כיסוי 109/109",
+      "url": "https://github.com/rynrn/gonorth/issues/99",
+      "status": "ממתין לגורם חיצוני",
+      "next_review_on": "2026-11-09",
+      "waiting_for_user": null,
+      "reason": "ארבע ישויות Google מדויקות טרם זמינות; אימות בעלות שמור לבעלי העסקים",
+      "deferred_root": false
+    },
+    {
+      "number": 98,
+      "title": "[מוצר][P3] ניסוי אחד להשוואת מקומות או שמירה מקומית",
+      "url": "https://github.com/rynrn/gonorth/issues/98",
+      "status": "מתוזמן להמשך",
+      "next_review_on": "2026-11-26",
+      "waiting_for_user": null,
+      "reason": null,
+      "deferred_root": false
+    },
+    {
+      "number": 97,
+      "title": "[סושיאל][P2] פיילוט הפצה אורגנית לשבועיים עם מדידה ותוכן מורשה",
+      "url": "https://github.com/rynrn/gonorth/issues/97",
+      "status": "ממתין לבעל האתר",
+      "next_review_on": null,
+      "waiting_for_user": "יש לספק הרשאה מתאימה לחשבונות ההפצה החברתית; תמונות ייבחרו רק עם זכות שימוש מתועדת",
+      "reason": null,
+      "deferred_root": false,
+      "last_user_request_on": "2026-10-09"
+    },
+    {
+      "number": 96,
+      "title": "[כספים][P2] בסיס עלויות ושערי החלטה למסחור",
+      "url": "https://github.com/rynrn/gonorth/issues/96",
+      "status": "ממתין לבעל האתר",
+      "next_review_on": null,
+      "waiting_for_user": "יש לספק חשבוניות/עלויות ספקים ושעות עבודה בפועל לצורך בסיס עלויות",
+      "reason": null,
+      "deferred_root": false,
+      "last_user_request_on": "2026-10-09"
+    },
+    {
+      "number": 93,
+      "title": "[מקומות][P2] אצוות מחקר והוספה ל־12 מועמדים באזורים חסרים",
+      "url": "https://github.com/rynrn/gonorth/issues/93",
+      "status": "ממתין לגורם חיצוני",
+      "next_review_on": "2026-10-25",
+      "waiting_for_user": null,
+      "reason": "קק״ל עדיין מודיעה על סגירת פארק אדמית; נדרשים אישור פתיחה ונקודת הגעה בטוחה",
+      "deferred_root": false
+    },
+    {
+      "number": 91,
+      "title": "[מדיה][P2] ביקורת זכויות ותמונות שימושיות בעשרה מקומות",
+      "url": "https://github.com/rynrn/gonorth/issues/91",
+      "status": "בתהליך",
+      "next_review_on": null,
+      "waiting_for_user": null,
+      "reason": null,
+      "deferred_root": false
+    },
+    {
+      "number": 88,
+      "title": "[עיצוב][P2] שיפור היררכיית דפי מקום ותבנית כתבה",
+      "url": "https://github.com/rynrn/gonorth/issues/88",
+      "status": "בתהליך",
+      "next_review_on": null,
+      "waiting_for_user": null,
+      "reason": null,
+      "deferred_root": false
+    },
+    {
+      "number": 86,
+      "title": "[ביצועים][P1] הפחתת נכסים ודחיסה ומטמון בתבניות הפנים",
+      "url": "https://github.com/rynrn/gonorth/issues/86",
+      "status": "בתהליך",
+      "next_review_on": null,
+      "waiting_for_user": null,
+      "reason": "עבודת Nginx/ROOT נדחתה לבקשת בעל האתר; מדידה ועבודת מעבדה עדיין אפשריות",
+      "deferred_root": true
+    },
+    {
+      "number": 84,
+      "title": "[מדידה][P1] אימות GA4 והרחבת מדידת חיפוש והמרות שימושיות",
+      "url": "https://github.com/rynrn/gonorth/issues/84",
+      "status": "ממתין לבעל האתר",
+      "next_review_on": null,
+      "waiting_for_user": "יש לספק הרשאת קריאה לנכס GA4 כדי לאמת קליטת אירועים",
+      "reason": null,
+      "deferred_root": false,
+      "last_user_request_on": "2026-10-09"
+    },
+    {
+      "number": 78,
+      "title": "[אבטחה][P1] אימות הגנות שרת, כותרות אבטחה ושחזור מגיבוי",
+      "url": "https://github.com/rynrn/gonorth/issues/78",
+      "status": "בתהליך",
+      "next_review_on": null,
+      "waiting_for_user": null,
+      "reason": null,
+      "deferred_root": false
+    },
+    {
+      "number": 77,
+      "title": "[תוספים][P1] מלאי גרסאות ובדיקת עדכוני GeoDirectory ותלויות",
+      "url": "https://github.com/rynrn/gonorth/issues/77",
+      "status": "בתהליך",
+      "next_review_on": null,
+      "waiting_for_user": null,
+      "reason": null,
+      "deferred_root": false
+    },
+    {
+      "number": 75,
+      "title": "[אבטחה][P0] הסדרת ניהול אישורים והרשאות לאוטומציה",
+      "url": "https://github.com/rynrn/gonorth/issues/75",
+      "status": "בתהליך",
+      "next_review_on": null,
+      "waiting_for_user": "בהמשך יידרש בעל החשבונות לביצוע החלפת/ביטול אישורים ואימות דו־שלבי לפי רשימת פעולות קונקרטית",
+      "reason": null,
+      "deferred_root": false
+    },
+    {
+      "number": 74,
+      "title": "[תוכנית עבודה] יישום ביקורת 12 הסוכנים — ספטמבר 2026",
+      "url": "https://github.com/rynrn/gonorth/issues/74",
+      "status": "מעקב משימת אב",
+      "next_review_on": null,
+      "waiting_for_user": null,
+      "reason": null,
+      "deferred_root": false
+    },
+    {
+      "number": 69,
+      "title": "[חגים][2027] מועדי תרבות ומועדים קטנים — סקירת כיסוי",
+      "url": "https://github.com/rynrn/gonorth/issues/69",
+      "status": "מתוזמן להמשך",
+      "next_review_on": "2026-11-01",
+      "waiting_for_user": null,
+      "reason": null,
+      "deferred_root": false
+    },
+    {
+      "number": 68,
+      "title": "[חגים][2027] צומות וימי זיכרון — בדיקת תוכן ומידע",
+      "url": "https://github.com/rynrn/gonorth/issues/68",
+      "status": "מתוזמן להמשך",
+      "next_review_on": "2026-11-01",
+      "waiting_for_user": null,
+      "reason": null,
+      "deferred_root": false
+    },
+    {
+      "number": 67,
+      "title": "[חגים][2027] חנוכה וחג הבנות",
+      "url": "https://github.com/rynrn/gonorth/issues/67",
+      "status": "מתוזמן להמשך",
+      "next_review_on": "2026-11-01",
+      "waiting_for_user": null,
+      "reason": null,
+      "deferred_root": false
+    },
+    {
+      "number": 66,
+      "title": "[חגים][2027] סיגד",
+      "url": "https://github.com/rynrn/gonorth/issues/66",
+      "status": "מתוזמן להמשך",
+      "next_review_on": "2026-11-01",
+      "waiting_for_user": null,
+      "reason": null,
+      "deferred_root": false
+    },
+    {
+      "number": 65,
+      "title": "[חגים][2027] סוכות, הושענא רבה ושמחת תורה",
+      "url": "https://github.com/rynrn/gonorth/issues/65",
+      "status": "מתוזמן להמשך",
+      "next_review_on": "2026-11-01",
+      "waiting_for_user": null,
+      "reason": null,
+      "deferred_root": false
+    },
+    {
+      "number": 64,
+      "title": "[חגים][2027] יום כיפור",
+      "url": "https://github.com/rynrn/gonorth/issues/64",
+      "status": "מתוזמן להמשך",
+      "next_review_on": "2026-11-01",
+      "waiting_for_user": null,
+      "reason": null,
+      "deferred_root": false
+    },
+    {
+      "number": 63,
+      "title": "[חגים][2027] ראש השנה וסליחות",
+      "url": "https://github.com/rynrn/gonorth/issues/63",
+      "status": "מתוזמן להמשך",
+      "next_review_on": "2026-11-01",
+      "waiting_for_user": null,
+      "reason": null,
+      "deferred_root": false
+    },
+    {
+      "number": 62,
+      "title": "[חגים][2027] ט״ו באב",
+      "url": "https://github.com/rynrn/gonorth/issues/62",
+      "status": "מתוזמן להמשך",
+      "next_review_on": "2026-11-01",
+      "waiting_for_user": null,
+      "reason": null,
+      "deferred_root": false
+    },
+    {
+      "number": 61,
+      "title": "[חגים][2027] שבועות בצפון",
+      "url": "https://github.com/rynrn/gonorth/issues/61",
+      "status": "מתוזמן להמשך",
+      "next_review_on": "2026-11-01",
+      "waiting_for_user": null,
+      "reason": null,
+      "deferred_root": false
+    },
+    {
+      "number": 60,
+      "title": "[חגים][2027] יום ירושלים",
+      "url": "https://github.com/rynrn/gonorth/issues/60",
+      "status": "מתוזמן להמשך",
+      "next_review_on": "2026-11-01",
+      "waiting_for_user": null,
+      "reason": null,
+      "deferred_root": false
+    },
+    {
+      "number": 59,
+      "title": "[חגים][2027] פסח שני ול״ג בעומר",
+      "url": "https://github.com/rynrn/gonorth/issues/59",
+      "status": "מתוזמן להמשך",
+      "next_review_on": "2026-11-01",
+      "waiting_for_user": null,
+      "reason": null,
+      "deferred_root": false
+    },
+    {
+      "number": 58,
+      "title": "[חגים][2027] יום העצמאות",
+      "url": "https://github.com/rynrn/gonorth/issues/58",
+      "status": "מתוזמן להמשך",
+      "next_review_on": "2026-11-01",
+      "waiting_for_user": null,
+      "reason": null,
+      "deferred_root": false
+    },
+    {
+      "number": 57,
+      "title": "[חגים][2027] פסח, חול המועד ושביעי של פסח",
+      "url": "https://github.com/rynrn/gonorth/issues/57",
+      "status": "מתוזמן להמשך",
+      "next_review_on": "2026-11-01",
+      "waiting_for_user": null,
+      "reason": null,
+      "deferred_root": false
+    },
+    {
+      "number": 56,
+      "title": "[חגים][2027] פורים קטן, פורים ושושן פורים",
+      "url": "https://github.com/rynrn/gonorth/issues/56",
+      "status": "מתוזמן להמשך",
+      "next_review_on": "2026-11-01",
+      "waiting_for_user": null,
+      "reason": null,
+      "deferred_root": false
+    },
+    {
+      "number": 55,
+      "title": "[חגים][2027] ט״ו בשבט",
+      "url": "https://github.com/rynrn/gonorth/issues/55",
+      "status": "מתוזמן להמשך",
+      "next_review_on": "2026-11-01",
+      "waiting_for_user": null,
+      "reason": null,
+      "deferred_root": false
+    },
+    {
+      "number": 54,
+      "title": "[חגים][2026] חנוכה בצפון",
+      "url": "https://github.com/rynrn/gonorth/issues/54",
+      "status": "מתוזמן להמשך",
+      "next_review_on": "2026-11-29",
+      "waiting_for_user": null,
+      "reason": null,
+      "deferred_root": false
+    },
+    {
+      "number": 51,
+      "title": "[חגים][2026] יום כיפור ועשרה בטבת — מידע מעשי מכבד",
+      "url": "https://github.com/rynrn/gonorth/issues/51",
+      "status": "מתוזמן להמשך",
+      "next_review_on": "2026-11-01",
+      "waiting_for_user": null,
+      "reason": null,
+      "deferred_root": false
+    },
+    {
+      "number": 50,
+      "title": "[חגים][2027] תוכנית שנתית — לקחת לתכנון בנובמבר–דצמבר 2026",
+      "url": "https://github.com/rynrn/gonorth/issues/50",
+      "status": "מתוזמן להמשך",
+      "next_review_on": "2026-11-01",
+      "waiting_for_user": null,
+      "reason": null,
+      "deferred_root": false
+    },
+    {
+      "number": 49,
+      "title": "[חגים][2026] ביצוע תוכנית יתרת השנה — מספטמבר עד דצמבר",
+      "url": "https://github.com/rynrn/gonorth/issues/49",
+      "status": "מעקב משימת אב",
+      "next_review_on": null,
+      "waiting_for_user": null,
+      "reason": null,
+      "deferred_root": false
+    },
+    {
+      "number": 48,
+      "title": "[תוכן SEO] תוכנית חגי ישראל מתמשכת — יתרת 2026, שנת 2027 והלאה",
+      "url": "https://github.com/rynrn/gonorth/issues/48",
+      "status": "מעקב משימת אב",
+      "next_review_on": null,
+      "waiting_for_user": null,
+      "reason": null,
+      "deferred_root": false
+    },
+    {
+      "number": 46,
+      "title": "[מדידה][P1] בניית דוח Search Console לתעדוף SEO ו-Image Search",
+      "url": "https://github.com/rynrn/gonorth/issues/46",
+      "status": "ממתין לבעל האתר",
+      "next_review_on": null,
+      "waiting_for_user": "יש לספק גישה לנכס Search Console של gonorth.co.il או יצוא נתוני 28 ימים מלאים",
+      "reason": null,
+      "deferred_root": false,
+      "last_user_request_on": "2026-10-09"
+    }
+  ],
+  "last_checked_on": "2026-10-12"
+}

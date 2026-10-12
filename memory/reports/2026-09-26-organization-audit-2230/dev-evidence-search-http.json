@@ -1,0 +1,32 @@
+[
+  {
+    "url": "https://gonorth.co.il/places/?s=%D7%99%D7%A7%D7%91",
+    "status": 200,
+    "title": "מקומות בצפון ישראל — אטרקציות, לינה ואוכל | כיוון צפון",
+    "h1": "כל המקומות בצפון",
+    "canonical": "",
+    "selectedOptions": null,
+    "emptyMessage": false,
+    "cards": 0
+  },
+  {
+    "url": "https://gonorth.co.il/places/?category=accommodation&s=",
+    "status": 200,
+    "title": "מקומות בצפון ישראל — אטרקציות, לינה ואוכל | כיוון צפון",
+    "h1": "כל המקומות בצפון",
+    "canonical": "",
+    "selectedOptions": null,
+    "emptyMessage": false,
+    "cards": 0
+  },
+  {
+    "url": "https://gonorth.co.il/places/category/accommodation/",
+    "status": 200,
+    "title": "צימרים ולינה בצפון ישראל | כיוון צפון",
+    "h1": "לינה וצימרים בצפון",
+    "canonical": "https://gonorth.co.il/places/category/accommodation/",
+    "selectedOptions": "<option value=\"accommodation\" selected>לינה",
+    "emptyMessage": false,
+    "cards": 0
+  }
+]

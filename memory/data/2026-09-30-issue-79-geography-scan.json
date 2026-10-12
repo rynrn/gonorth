@@ -1,0 +1,13 @@
+{
+  "checked_at": "2026-09-30T09:36:48.388010+00:00",
+  "total": 109,
+  "bad_country_or_region": [],
+  "bad_coordinate_bounds": [
+    "223",
+    "221",
+    "219",
+    "217"
+  ],
+  "html_us_markers": [],
+  "http_failures": []
+}
