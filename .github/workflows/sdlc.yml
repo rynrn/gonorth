@@ -1,0 +1,29 @@
+name: SDLC verification
+
+on:
+  pull_request:
+    paths:
+      - '.claude/skills/sdlc/**'
+      - '.agents/skills/sdlc/**'
+      - '.github/workflows/sdlc.yml'
+  push:
+    branches: [main]
+    paths:
+      - '.claude/skills/sdlc/**'
+      - '.agents/skills/sdlc/**'
+      - '.github/workflows/sdlc.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  sdlc-verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm --prefix .claude/skills/sdlc run verify
+      - run: bash .claude/skills/sdlc/hooks/test-guard.sh

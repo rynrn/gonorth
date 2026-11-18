@@ -1,0 +1,5 @@
+{
+  "name": "sdlc",
+  "version": "1.0.0",
+  "description": "Issue to ready PR with deterministic gates, independent reviews, test-first implementation and branch protection."
+}
