@@ -653,3 +653,7 @@ Final acceptance review passed: risk-level minimums and a transferable handoff s
 ## SDLC — 18.11.2026
 
 נוספו סקיל SDLC לפרויקט ופלאגין עם בדיקות, runner, תרשים ומיזוג אוטומטי לאחר CI באישור המשתמש. [דוח](reports/2026-11-18-sdlc-skill.md).
+
+## SDLC Windows — 18.11.2026
+
+Added project configuration and repaired CRLF role validation. Regression reproduced before repair and passes afterward; package suite now has 95 passing tests. Real runner/model bridge exercised; final local validation receipt retained under Git common-dir. No live-site change or remote merge. [Readiness report](reports/2026-11-18-sdlc-windows-readiness.md).

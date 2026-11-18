@@ -23,7 +23,7 @@ for (const file of files) {
   }
 }
 for (const name of ['checker', 'investigator', 'planner', 'plan-review', 'devils-advocate', 'implementer', 'code-reviewer', 'security-reviewer', 'spec-reviewer']) {
-  const text = fs.readFileSync(path.join(root, 'agents', name + '.md'), 'utf8');
+  const text = fs.readFileSync(path.join(root, 'agents', name + '.md'), 'utf8').replaceAll('\r\n', '\n');
   if (!text.includes(`name: ${name}\n`) || !/^model: (opus|sonnet|haiku)$/m.test(text)) throw Error(`Invalid role ${name}`);
   if (['planner', 'plan-review', 'devils-advocate'].includes(name) && !text.includes('tools: Read, Grep, Glob\n')) throw Error(`Unrestricted role ${name}`);
 }
