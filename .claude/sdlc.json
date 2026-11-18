@@ -1,0 +1,30 @@
+{
+  "test": "python -c \"import subprocess,sys; subprocess.run([sys.executable,'-m','unittest','discover','-s','tools/tests','-v'],check=True); subprocess.run([sys.executable,'-m','unittest','discover','-s','place-facts/tests','-v'],check=True)\"",
+  "verify": "python -c \"import subprocess,sys; subprocess.run([sys.executable,'-m','unittest','discover','-s','tools/tests','-v'],check=True); subprocess.run([sys.executable,'-m','unittest','discover','-s','place-facts/tests','-v'],check=True); subprocess.run([sys.executable,'tools/scan-secrets.py'],check=True); import shutil; subprocess.run([shutil.which('npm') or 'npm','--prefix','.claude/skills/sdlc','run','verify'],check=True)\"",
+  "autoMerge": true,
+  "autoMergeChecks": [
+    "tracked-secret-patterns"
+  ],
+  "securityRules": [
+    "Follow AGENTS.md and docs/agent-change-contract.md; preserve unrelated local work.",
+    "Never expose credentials or commit local secrets, database dumps, or private journals.",
+    "Use reviewed place-facts CLI submissions for dynamic facts and authenticated GeoDirectory REST for geography; no direct database writes.",
+    "New listings remain pending until administrator approval; closed-business URLs remain live unless explicitly authorized after SEO review.",
+    "Live changes require a pre-change snapshot, executable rollback, canonical and public verification, and dated evidence.",
+    "Never modify WordPress core or the Astra parent theme; preserve FS_METHOD=direct; lint PHP before deployment and bump the CSS version after stylesheet changes.",
+    "Do not perform production ROOT changes or refresh the monthly backup without explicit scoped authorization.",
+    "Before merging require every applicable CI check, including sdlc-verify when its workflow path filters match; never bypass branch protection."
+  ],
+  "sensitivePaths": [
+    "^place-facts/",
+    "^wordpress/plugins/",
+    "^tools/validate-place-records\\.py$",
+    "^tools/scan-secrets\\.py$",
+    "^\\.claude/sdlc\\.json$",
+    "^\\.(agents|claude)/skills/",
+    "^\\.(codex|Codex)/agents/",
+    "^(AGENTS|CLAUDE)\\.md$",
+    "^docs/agent-change-contract\\.md$",
+    "(^|/)(server\\.config\\.json|wp-config\\.php|\\.mcp\\.json)$"
+  ]
+}
