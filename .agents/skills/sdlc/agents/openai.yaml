@@ -1,0 +1,4 @@
+interface:
+  display_name: "SDLC"
+  short_description: "Take issues to ready PRs with independent gates"
+  default_prompt: "Use $sdlc to take this issue through the SDLC gates to a ready PR."
